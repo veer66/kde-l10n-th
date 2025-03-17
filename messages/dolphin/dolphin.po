@@ -18,7 +18,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-03-09 09:43+0100\n"
+"POT-Creation-Date: 2025-03-17 09:30+0100\n"
 "PO-Revision-Date: 2025-03-17 01:01+0700\n"
 "Last-Translator: อติรุจ วัฒนะมงคล <atirut.wattanamongkol@gmail.com>\n"
 "Language-Team: Thai <kde-i18n-doc@kde.org>\n"
@@ -3264,21 +3264,21 @@ msgid "Date display format"
 msgstr ""
 
 #. +> trunk6 stable6
-#: panels/information/informationpanel.cpp:153
+#: panels/information/informationpanel.cpp:156
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Preview"
 msgstr "แสดงตัวอย่าง"
 
 #. +> trunk6 stable6
-#: panels/information/informationpanel.cpp:158
+#: panels/information/informationpanel.cpp:161
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Auto-Play media files"
 msgstr ""
 
 #. +> trunk6 stable6
-#: panels/information/informationpanel.cpp:163
+#: panels/information/informationpanel.cpp:166
 #, fuzzy, kde-format
 #| msgctxt "@action:inmenu Tools"
 #| msgid "Show Filter Bar"
@@ -3287,7 +3287,7 @@ msgid "Show item on hover"
 msgstr "แสดงแถบตัวกรอง"
 
 #. +> trunk6 stable6
-#: panels/information/informationpanel.cpp:168
+#: panels/information/informationpanel.cpp:171
 #, fuzzy, kde-format
 #| msgctxt "@action:inmenu"
 #| msgid "Configure..."
@@ -3296,7 +3296,7 @@ msgid "Configure…"
 msgstr "ปรับแต่ง..."
 
 #. +> trunk6 stable6
-#: panels/information/informationpanel.cpp:174
+#: panels/information/informationpanel.cpp:177
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Condensed Date"

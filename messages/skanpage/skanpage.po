@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: skanpage\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-03-16 09:49+0100\n"
+"POT-Creation-Date: 2025-03-17 09:31+0100\n"
 "PO-Revision-Date: 2025-03-17 14:55+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -31,7 +31,14 @@ msgstr ""
 msgid "New document"
 msgstr ""
 
-#. +> trunk6 stable6
+#. +> trunk6
+#: DocumentModel.cpp:80
+#, kde-format
+msgctxt "for file names, indicates a range: from file0000.png to file0014.png"
+msgid "%1‥%2"
+msgstr ""
+
+#. +> stable6
 #: DocumentModel.cpp:80
 #, kde-format
 msgctxt "for file names, indicates a range: from file0000.png to file0014.png"
@@ -112,7 +119,14 @@ msgstr ""
 msgid "Failed to save image."
 msgstr ""
 
-#. +> trunk6 stable6
+#. +> trunk6
+#: FormatModel.cpp:51
+#, kde-format
+msgctxt "format filter for a file dialog, all formats supported by the application will be displayed"
+msgid "All supported files"
+msgstr ""
+
+#. +> stable6
 #: FormatModel.cpp:51
 #, kde-format
 msgctxt "format filter for a file dialog, all formats supported by the application will be displayed"
@@ -143,8 +157,14 @@ msgstr ""
 msgid "Multi-page scanning application by KDE."
 msgstr ""
 
-#. +> trunk6 stable6
+#. +> trunk6
 #: main.cpp:69
+#, kde-format
+msgid "© 2015–2022 Kåre Särs, Alexander Stippich"
+msgstr ""
+
+#. +> stable6
+#: main.cpp:67
 #, kde-format
 msgid "© 2015-2022 Kåre Särs, Alexander Stippich"
 msgstr ""
@@ -221,32 +241,63 @@ msgctxt "@info"
 msgid "Searching for available devices"
 msgstr ""
 
-#. +> trunk6 stable6
+#. +> trunk6
 #: qml/DocumentList.qml:74
+#, kde-format
+msgid "Select Previous Page"
+msgstr ""
+
+#. +> stable6
+#: qml/DocumentList.qml:73
 #, kde-format
 msgid "Select previous page"
 msgstr ""
 
-#. +> trunk6 stable6
+#. +> trunk6
 #: qml/DocumentList.qml:80
+#, kde-format
+msgid "Select Next Page"
+msgstr ""
+
+#. +> stable6
+#: qml/DocumentList.qml:79
 #, kde-format
 msgid "Select next page"
 msgstr ""
 
-#. +> trunk6 stable6
+#. +> trunk6
 #: qml/DocumentList.qml:86
+#, kde-format
+msgid "Move Selected Page Up"
+msgstr ""
+
+#. +> stable6
+#: qml/DocumentList.qml:85
 #, kde-format
 msgid "Move selected page up"
 msgstr ""
 
-#. +> trunk6 stable6
+#. +> trunk6
 #: qml/DocumentList.qml:95
+#, kde-format
+msgid "Move Selected Page Down"
+msgstr ""
+
+#. +> stable6
+#: qml/DocumentList.qml:94
 #, kde-format
 msgid "Move selected page down"
 msgstr ""
 
-#. +> trunk6 stable6
+#. +> trunk6
 #: qml/DocumentList.qml:206
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Processing page…"
+msgstr ""
+
+#. +> stable6
+#: qml/DocumentList.qml:205
 #, kde-kuit-format
 msgctxt "@info"
 msgid "Processing page..."

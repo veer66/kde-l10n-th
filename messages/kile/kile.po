@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kile\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-03-16 09:47+0100\n"
+"POT-Creation-Date: 2025-03-17 09:30+0100\n"
 "PO-Revision-Date: 2025-03-17 14:54+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -12689,7 +12689,7 @@ msgstr ""
 #. i18n: ectx: property (format), widget (QProgressBar, m_progress)
 #. +> trunk6
 #: widgets/configcheckerwidget.ui:45
-#, no-c-format, kde-format
+#, kde-format, no-c-format
 msgid "%p%"
 msgstr ""
 
@@ -13507,7 +13507,7 @@ msgstr ""
 #. i18n: ectx: property (toolTip), widget (QLabel, m_lbOptions)
 #. +> trunk6
 #: widgets/processtoolconfigwidget.ui:80
-#, no-c-format, kde-format
+#, kde-format, no-c-format
 msgid ""
 "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
@@ -14277,43 +14277,43 @@ msgid ""
 msgstr ""
 
 #. +> trunk6
-#: widgets/toolconfigwidget.cpp:350
+#: widgets/toolconfigwidget.cpp:351
 #, kde-format
 msgid "Choose a configuration for the tool %1"
 msgstr ""
 
 #. +> trunk6
-#: widgets/toolconfigwidget.cpp:420
+#: widgets/toolconfigwidget.cpp:421
 #, kde-format
 msgid "New Configuration"
 msgstr ""
 
 #. +> trunk6
-#: widgets/toolconfigwidget.cpp:420
+#: widgets/toolconfigwidget.cpp:421
 #, kde-format
 msgid "Enter new configuration name:"
 msgstr ""
 
 #. +> trunk6
-#: widgets/toolconfigwidget.cpp:447
+#: widgets/toolconfigwidget.cpp:448
 #, kde-format
 msgid "Are you sure you want to remove the tool %1?"
 msgstr ""
 
 #. +> trunk6
-#: widgets/toolconfigwidget.cpp:477
+#: widgets/toolconfigwidget.cpp:478
 #, kde-format
 msgid "Are you sure that you want to remove this configuration?"
 msgstr ""
 
 #. +> trunk6
-#: widgets/toolconfigwidget.cpp:491
+#: widgets/toolconfigwidget.cpp:492
 #, kde-format
 msgid "You need at least one configuration for each tool."
 msgstr ""
 
 #. +> trunk6
-#: widgets/toolconfigwidget.cpp:491
+#: widgets/toolconfigwidget.cpp:492
 #, kde-format
 msgid "Cannot Remove Configuration"
 msgstr ""

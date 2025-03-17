@@ -1,12 +1,12 @@
 # translation of desktop_kdebase.po to Thai
 #
+# SPDX-FileCopyrightText: 2025 Atirut Wattanamongkol <atirut.wattanamongkol@gmailcom>
 # Thanomsub Noppaburana <donga_n@yahoo.com>, 2003, 2005.
 # Narachai Sakorn <narachai@opentle.org>, 2005.
 # Sahachart Anukulkitch <drrider@gmail.com>, 2005, 2006, 2007, 2008.
 # Thanomsub Noppaburana <donga.nb@gmail.com>, 2008, 2010.
 # Narachai Sakorn <narachai@gmail.com>, 2008.
 # Phuwanat Sakornsakolpat <narachai@gmail.com>, 2010.
-# SPDX-FileCopyrightText: 2025 Atirut Wattanamongkol <atirut.wattanamongkol@gmailcom>
 msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
@@ -246,8 +246,8 @@ msgstr "โปรแกรมจำลองเทอร์มินัล"
 
 #. +> trunk6 stable6
 #: desktop/konsolepart.desktop:108 desktop/org.kde.konsole.desktop:241
-#, fuzzy
 #: desktop/terminalemulator.desktop:99
+#, fuzzy
 #| msgctxt "Name"
 #| msgid "Command Line"
 msgctxt "Comment"
@@ -274,12 +274,8 @@ msgstr "เรียกใช้ข้างใน Konsole"
 #. +> trunk6 stable6
 #: desktop/org.kde.konsole.desktop:13
 msgctxt "Keywords"
-msgid ""
-"terminal;console;script;run;execute;command;command-line;commandline;cli;bash;"
-"sh;shell;zsh;cmd;command prompt"
-msgstr ""
-"เทอร์มินัล;คอนโซล;สคริป;เรียกใช้;คำสั่่ง;บรรทัดคำสั่ง;cli;bash;sh;เชลล์;zsh;cm"
-"d;พร้อมท์คำสั่ง"
+msgid "terminal;console;script;run;execute;command;command-line;commandline;cli;bash;sh;shell;zsh;cmd;command prompt"
+msgstr "เทอร์มินัล;คอนโซล;สคริป;เรียกใช้;คำสั่่ง;บรรทัดคำสั่ง;cli;bash;sh;เชลล์;zsh;cmd;พร้อมท์คำสั่ง"
 
 #. +> trunk6 stable6
 #: desktop/org.kde.konsole.desktop:57
