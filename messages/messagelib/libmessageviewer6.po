@@ -1,0 +1,3160 @@
+# translation of kmail.po to Thai
+# Copyright (C) 2003, 2005, 2006, 2008 Free Software Foundation, Inc.
+# Thanomsub Noppaburana <donga_n@yahoo.com>, 2003, 2005.
+# ถนอมทรัพย์ นพบูรณ์ <donga_n@yahoo.com>, 2005.
+# Sahachart Anukulkitch <drrider@gmail.com>, 2006.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008, 2010.
+# SPDX-FileCopyrightText: 2025 Pongsakorn S. <kde@xerusion.me>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kmail\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-02-11 10:24+0100\n"
+"PO-Revision-Date: 2025-03-03 20:07+0700\n"
+"Last-Translator: Pongsakorn S. <kde@xerusion.me>\n"
+"Language-Team: Thai\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimcheckfulljob.cpp:118
+#, kde-format
+msgid "Stored DKIM key is different from the current one. Do you want to store this one too?"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimcheckfulljob.cpp:119
+#, kde-format
+msgctxt "@title:window"
+msgid "Key Changed"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimcheckfulljob.cpp:120
+#, fuzzy, kde-format
+#| msgid "stored: "
+msgctxt "@action:button"
+msgid "Store"
+msgstr "ที่เก็บไว้: "
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerkeymodel.cpp:81
+#, kde-format
+msgid "DKIM Key"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerkeymodel.cpp:83
+#, fuzzy, kde-format
+#| msgid "Select Folder"
+msgid "Selector"
+msgstr "เลือกโฟลเดอร์"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerkeymodel.cpp:85
+#: dkim-verify/dkimmanageruleswidget.cpp:73
+#, kde-format
+msgid "SDID"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerkeymodel.cpp:87
+#, fuzzy, kde-format
+#| msgid "Insert Command..."
+msgid "Inserted"
+msgstr "แทรกคำสั่ง..."
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerkeymodel.cpp:89
+#, fuzzy, kde-format
+#| msgid "Last Search"
+msgid "Last Used"
+msgstr "ค้นหาล่าสุด"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerkeytreeview.cpp:71
+#, fuzzy, kde-format
+#| msgid "&Copy To"
+msgid "Copy Key"
+msgstr "ทำสำเนาไปยัง"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerkeytreeview.cpp:78
+#, fuzzy, kde-format
+#| msgid "Remove"
+msgid "Remove Key"
+msgid_plural "Remove Keys"
+msgstr[0] "ลบ"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerkeytreeview.cpp:83
+#, kde-format
+msgid "Do you want to delete this key?"
+msgid_plural "Do you want to delete these keys?"
+msgstr[0] ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerkeytreeview.cpp:84
+#, fuzzy, kde-format
+#| msgctxt "@info:tooltip"
+#| msgid "Delete"
+msgid "Delete Key"
+msgid_plural "Delete Keys"
+msgstr[0] "ลบ"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerkeytreeview.cpp:94
+#: dkim-verify/dkimmanageruleswidget.cpp:223
+#, fuzzy, kde-format
+#| msgid "Delete"
+msgid "Delete All"
+msgstr "ลบ"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerkeytreeview.cpp:96
+#, fuzzy, kde-format
+#| msgid "Are you sure you want to expire all old messages?"
+msgid "Do you want to delete all keys?"
+msgstr "คุณแน่ใจหรือไม่ ที่จะให้จดหมายเก่าทั้งหมด หมดอายุ ?"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerkeytreeview.cpp:97
+#, fuzzy, kde-format
+#| msgctxt "@info:tooltip"
+#| msgid "Delete"
+msgctxt "@title:window"
+msgid "Delete Keys"
+msgstr "ลบ"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerkeywidget.cpp:33
+#, fuzzy, kde-format
+#| msgid "Search"
+msgctxt "@info:placeholder"
+msgid "Search..."
+msgstr "ค้นหา"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerulescombobox.cpp:20
+#, fuzzy, kde-format
+#| msgid "Message will be signed"
+msgid "Must be signed"
+msgstr "จดหมายจะถูกเซ็นกำกับ"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerulescombobox.cpp:21
+#, fuzzy, kde-format
+#| msgid "Message will be signed"
+msgid "Can be signed"
+msgstr "จดหมายจะถูกเซ็นกำกับ"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerulescombobox.cpp:22
+#, fuzzy, kde-format
+#| msgid "Message will not be signed"
+msgid "Ignore if not signed"
+msgstr "จดหมายจะไม่ถูกเซ็นกำกับ"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerulesdialog.cpp:29
+#, fuzzy, kde-format
+#| msgid "Export..."
+msgctxt "@action:button"
+msgid "Export..."
+msgstr "หมดอายุ..."
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerulesdialog.cpp:31
+#, fuzzy, kde-format
+#| msgid "Configure Account"
+msgctxt "@title:window"
+msgid "Configure Rule"
+msgstr "ปรับแต่งบัญชีผู้ใช้"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerulesdialog.cpp:42
+#, fuzzy, kde-format
+#| msgid "Add G&roup..."
+msgctxt "@action:button"
+msgid "Add Rule..."
+msgstr "เพิ่มกลุ่ม..."
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerulesdialog.cpp:47
+#, fuzzy, kde-format
+#| msgid "Import..."
+msgctxt "@action:button"
+msgid "Import..."
+msgstr "นำเข้า..."
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerulesdialog.cpp:79
+#, fuzzy, kde-format
+#| msgid "No signature found"
+msgid "No rules found"
+msgstr "ไม่พบลายเซ็น"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerulesdialog.cpp:79
+#: dkim-verify/dkimmanagerulesdialog.cpp:82
+#, fuzzy, kde-format
+#| msgid "Export Filters"
+msgctxt "@title:window"
+msgid "Export Rules"
+msgstr "ส่งออกการกรอง"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerulesdialog.cpp:90
+#: dkim-verify/dkimmanagerulesdialog.cpp:93
+#, fuzzy, kde-format
+#| msgid "Import Filters"
+msgctxt "@title:window"
+msgid "Import Rules"
+msgstr "นำเข้าการกรอง"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerulesdialog.cpp:93
+#, fuzzy, kde-format
+#| msgid "No signature found"
+msgid "No rules imported."
+msgstr "ไม่พบลายเซ็น"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanageruleswidget.cpp:73
+#: remote-content/remotecontentconfigurewidget.cpp:52
+#, kde-format
+msgid "Domain"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanageruleswidget.cpp:73
+#, kde-format
+msgid "Active"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanageruleswidget.cpp:73
+#, kde-format
+msgid "List-ID"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanageruleswidget.cpp:73
+#, fuzzy, kde-format
+#| msgid "&From"
+msgid "From"
+msgstr "จาก"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanageruleswidget.cpp:73
+#, fuzzy, kde-format
+#| msgid "Folder List"
+msgid "Rule type"
+msgstr "รายการโฟลเดอร์"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanageruleswidget.cpp:73
+#, kde-format
+msgid "Priority"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanageruleswidget.cpp:196
+#: remote-content/remotecontentconfigurewidget.cpp:80
+#, kde-format
+msgid "Add..."
+msgstr "เพิ่ม..."
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanageruleswidget.cpp:201
+#: remote-content/remotecontentconfigurewidget.cpp:83
+#, kde-format
+msgid "Modify..."
+msgstr "แก้ไข..."
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanageruleswidget.cpp:205
+#, fuzzy, kde-format
+#| msgid "Filter Rules"
+msgid "Duplicate Rule"
+msgstr "กฎการกรอง"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanageruleswidget.cpp:209
+#: remote-content/remotecontentconfigurewidget.cpp:87
+#, fuzzy, kde-format
+#| msgid "Remove"
+msgid "Remove Rule"
+msgstr "ลบ"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanageruleswidget.cpp:211
+#, fuzzy, kde-format
+#| msgid "Are you sure you want to expire all old messages?"
+msgid "Do you want to delete this rule?"
+msgstr "คุณแน่ใจหรือไม่ ที่จะให้จดหมายเก่าทั้งหมด หมดอายุ ?"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanageruleswidget.cpp:212
+#: remote-content/remotecontentconfigurewidget.cpp:90
+#, fuzzy, kde-format
+#| msgid "Filter Rules"
+msgctxt "@title:window"
+msgid "Delete Rule"
+msgstr "กฎการกรอง"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanageruleswidget.cpp:225
+#, fuzzy, kde-format
+#| msgid "Are you sure you want to expire all old messages?"
+msgid "Do you want to delete all the rules?"
+msgstr "คุณแน่ใจหรือไม่ ที่จะให้จดหมายเก่าทั้งหมด หมดอายุ ?"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanageruleswidget.cpp:226
+#, fuzzy, kde-format
+#| msgid "Filter Rules"
+msgctxt "@title:window"
+msgid "Delete Rules"
+msgstr "กฎการกรอง"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimruledialog.cpp:26
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Rule"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimruledialog.cpp:73
+#, fuzzy, kde-format
+#| msgid "Modify Account"
+msgctxt "@title:window"
+msgid "Modify Rule"
+msgstr "แก้ไขบัญชีผู้ใช้"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimrulewidget.cpp:18
+#, fuzzy, kde-format
+#| msgid "Enable"
+msgctxt "@option:check"
+msgid "Enabled"
+msgstr "เปิดใช้"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimrulewidget.cpp:36
+#, fuzzy, kde-format
+#| msgid "Defaul&t domain:"
+msgid "Domain:"
+msgstr "โดเมนปริยาย:"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimrulewidget.cpp:41 header/grantleeheaderformatter.cpp:182
+#, kde-format
+msgid "List-Id:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimrulewidget.cpp:45 header/grantleeheaderformatter.cpp:271
+#, fuzzy, kde-format
+#| msgid "From: "
+msgid "From:"
+msgstr "จาก: "
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimrulewidget.cpp:46
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Use '*' to specify all emails from domain"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimrulewidget.cpp:51
+#, kde-format
+msgid "SDID:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimrulewidget.cpp:54
+#, kde-format
+msgid "Rule:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimrulewidget.cpp:60
+#, kde-format
+msgid "Priority:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimviewermenu.cpp:14
+#, kde-format
+msgid "DKIM"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimviewermenu.cpp:36
+#, fuzzy, kde-format
+#| msgid "Keep Signature"
+msgid "Recheck DKIM Signature"
+msgstr "คงลายเซ็นไว้"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimviewermenu.cpp:39
+#, kde-format
+msgid "Update DKIM key"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimviewermenu.cpp:43
+#, kde-format
+msgid "Rules..."
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:94
+#, fuzzy, kde-format
+#| msgctxt "Message->"
+#| msgid "Unknown"
+msgid "Unknown"
+msgstr "ไม่ทราบ"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:100
+#, fuzzy, kde-format
+#| msgid "Message was signed by %1."
+msgid "DKIM: valid (signed by %1)"
+msgstr "จดหมายถูกเซ็นกำกับโดย %1"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:107
+#, kde-format
+msgid "DKIM: invalid"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:110
+#, fuzzy, kde-format
+#| msgid "Send Unsigned?"
+msgid "DKIM: Not signed"
+msgstr "ส่งโดยไม่ต้องเซ็นหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:115
+#, kde-format
+msgid "DKIM: Should Be Signed by %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:131
+#, kde-format
+msgid "Body Hash was corrupted."
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:134
+#, kde-format
+msgid "The domain doesn't exist."
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:137
+#, kde-format
+msgid "Missing header From."
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:140
+#, fuzzy, kde-format
+#| msgid "Good signature."
+msgid "Missing signature."
+msgstr "ลายเซ็นใช้ได้"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:143
+#, fuzzy, kde-format
+#| msgid "Invalid signature."
+msgid "Invalid query method."
+msgstr "ลายเซ็นใช้ไม่ได้"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:146
+#, kde-format
+msgid "Invalid header canonicalization."
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:149
+#, kde-format
+msgid "Invalid body canonicalization."
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:152
+#, kde-format
+msgid "Unknown Body Hash Algorithm."
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:155
+#, fuzzy, kde-format
+#| msgid "Signature is valid."
+msgid "Signature algorithm is invalid."
+msgstr "ลายเซ็นใช้ได้"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:158
+#, fuzzy, kde-format
+#| msgid "One key has been revoked."
+msgid "The public key was revoked."
+msgstr "มีกุญแจบางตัวถูกยกเลิก"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:161
+#, fuzzy, kde-format
+#| msgid "Signature is valid."
+msgid "Signature is too large."
+msgstr "ลายเซ็นใช้ได้"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:164
+#, fuzzy, kde-format
+#| msgid "This charset is not supported."
+msgid "Hash Algorithm is unsupported."
+msgstr "ไม่รองรับชุดรหัสอักขระนี้"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:167
+#, kde-format
+msgid "Public key is too small."
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:170
+#, fuzzy, kde-format
+#| msgid "No public key to verify the signature"
+msgid "Impossible to verify signature."
+msgstr "ไม่มีกุญแจสาธารณะสำหรับตรวจสอบลายเซ็น"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:173
+#, kde-format
+msgid "AUID must be in the same domain as SDID (s-flag set in key record)."
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:176
+#, kde-format
+msgid "The signing domain is only testing DKIM."
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:179
+#, fuzzy, kde-format
+#| msgid "No public key to verify the signature"
+msgid "Impossible to download key."
+msgstr "ไม่มีกุญแจสาธารณะสำหรับตรวจสอบลายเซ็น"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:182 dkim-verify/dkimwidgetinfo.cpp:206
+#, fuzzy, kde-format
+#| msgid "This charset is not supported."
+msgid "Hash Algorithm unsafe (sha1)"
+msgstr "ไม่รองรับชุดรหัสอักขระนี้"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:185
+#, kde-format
+msgid "AUID is not in a subdomain of SDID"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:188
+#, kde-format
+msgid "Problem during converting public key"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:197
+#, fuzzy, kde-format
+#| msgid "The signature has expired."
+msgid "Signature expired"
+msgstr "ลายเซ็นหมดอายุ"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:200
+#, kde-format
+msgid "Signature created in the future"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:203
+#, fuzzy, kde-format
+#| msgid "Signature is valid."
+msgid "Signature too small"
+msgstr "ลายเซ็นใช้ได้"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:209
+#, fuzzy, kde-format
+#| msgid "Signature is valid."
+msgid "Public Key too small"
+msgstr "ลายเซ็นใช้ได้"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:231 dkim-verify/dkimwidgetinfo.cpp:278
+#, kde-format
+msgctxt "method name: info about it from parsing"
+msgid "%1: %2"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:255
+#, fuzzy, kde-format
+#| msgctxt "Permissions"
+#| msgid "None"
+msgid "%1: None"
+msgstr "ไม่มี"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:270
+#, fuzzy, kde-format
+#| msgid "Message was signed by %1."
+msgid "%1: Valid (Signed by %2)"
+msgstr "จดหมายถูกเซ็นกำกับโดย %1"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:291
+#, kde-format
+msgid "%1: Valid"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:305
+#, fuzzy, kde-format
+#| msgid "Do &Not Sign"
+msgid "Not Signed"
+msgstr "ไม่ต้องเซ็น"
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:203
+#, fuzzy, kde-format
+#| msgid "S&ubject:"
+msgid "Subject:"
+msgstr "เรื่อง:"
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:223
+#, fuzzy, kde-format
+#| msgid "Date: "
+msgid "Date:"
+msgstr "วันที่: "
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:239
+#, fuzzy, kde-format
+#| msgid "Message Id"
+msgid "Message-Id:"
+msgstr "หมายเลขจดหมาย"
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:263
+#, fuzzy, kde-format
+#| msgid "To: "
+msgid "To:"
+msgstr "ถึง: "
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:265
+#, fuzzy, kde-format
+#| msgid "&Reply To"
+msgid "Reply To:"
+msgstr "ตอบกลับไปยัง"
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:267
+#, fuzzy, kde-format
+#| msgid "CC: "
+msgid "CC:"
+msgstr "สำเนาถึง: "
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:269
+#, fuzzy, kde-format
+#| msgid "BCC: "
+msgid "BCC:"
+msgstr "ซ่อนสำเนาถึง: "
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:273
+#, fuzzy, kde-format
+#| msgid "Sender"
+msgid "Sender:"
+msgstr "ผู้ส่ง"
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:275
+#, fuzzy, kde-format
+#| msgid "(resent from %1)"
+msgid "resent from:"
+msgstr "(ถูกส่งใหม่จาก %1)"
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:277
+#, fuzzy, kde-format
+#| msgid "(resent from %1)"
+msgid "resent to:"
+msgstr "(ถูกส่งใหม่จาก %1)"
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:358
+#, fuzzy, kde-format
+#| msgid "The signature file is not valid"
+msgid "Grantlee theme \"%1\" is not valid."
+msgstr "แฟ้มลายเซ็นใช้งานไม่ได้"
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:448 header/headerstyle_util.cpp:80
+#: header/headerstyle_util.cpp:85 header/headerstyle_util.cpp:96
+#, kde-format
+msgid "No Subject"
+msgstr "ไม่มีชื่อเรื่อง"
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:453
+#, kde-format
+msgid "Spam Status:"
+msgstr "สถานะสแปม: "
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:465
+#, fuzzy, kde-format
+#| msgid "Printing Output"
+msgid "Printing mode"
+msgstr "ส่งออกการพิมพ์"
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:507
+#, fuzzy, kde-format
+#| msgid "[vCard]"
+msgid "[vcard]"
+msgstr "[vCard]"
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:514
+#, kde-format
+msgid "Attachments:"
+msgstr "สิ่งที่แนบมาด้วย:"
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:540
+#, fuzzy, kde-format
+#| msgid "S&ecurity"
+msgid "Security:"
+msgstr "ความปลอดภัย"
+
+#. +> trunk6 stable6
+#: header/headerstyle_util.cpp:55
+#, fuzzy, kde-format
+#| msgctxt "Message->"
+#| msgid "Unknown"
+msgctxt "Unknown date"
+msgid "Unknown"
+msgstr "ไม่ทราบ"
+
+#. +> trunk6 stable6
+#: header/headerstyle_util.cpp:145
+#, kde-format
+msgid ""
+"%1% probability of being spam with confidence %3%.\n"
+"\n"
+"Full report:\n"
+"Probability=%2\n"
+"Confidence=%4"
+msgstr ""
+
+#. +> trunk6 stable6
+#: header/headerstyle_util.cpp:154
+#, kde-format
+msgid ""
+"%1% probability of being spam.\n"
+"\n"
+"Full report:\n"
+"Probability=%2"
+msgstr ""
+
+#. +> trunk6 stable6
+#: header/headerstyle_util.cpp:163
+#, kde-format
+msgid "No Spam agent"
+msgstr ""
+
+#. +> trunk6 stable6
+#: header/headerstyle_util.cpp:166
+#, kde-format
+msgid "Spam filter score not a number"
+msgstr ""
+
+#. +> trunk6 stable6
+#: header/headerstyle_util.cpp:169
+#, kde-format
+msgid "Threshold not a valid number"
+msgstr ""
+
+#. +> trunk6 stable6
+#: header/headerstyle_util.cpp:172
+#, kde-format
+msgid "Spam filter score could not be extracted from header"
+msgstr ""
+
+#. +> trunk6 stable6
+#: header/headerstyle_util.cpp:175
+#, kde-format
+msgid "Threshold could not be extracted from header"
+msgstr ""
+
+#. +> trunk6 stable6
+#: header/headerstyle_util.cpp:178
+#, fuzzy, kde-format
+#| msgid "Error while uploading message"
+msgid "Error evaluating spam score"
+msgstr "เกิดข้อผิดพลาดขึ้น ระหว่างอัพโหลดจดหมาย"
+
+#. +> trunk6 stable6
+#: header/headerstyle_util.cpp:183
+#, kde-format
+msgid ""
+"%1.\n"
+"\n"
+"Full report:\n"
+"%2"
+msgstr ""
+
+#. +> trunk6 stable6
+#: header/headerstylemenumanager.cpp:105
+#, kde-format
+msgctxt "View->"
+msgid "&Headers"
+msgstr "ส่วนหัว"
+
+#. +> trunk6 stable6
+#: header/headerstylemenumanager.cpp:109
+#, kde-format
+msgid "Choose display style of message headers"
+msgstr "เลือกรูปแบบการแสดงหัวจดหมาย"
+
+#. +> trunk6 stable6
+#: header/plainheaderstyle.cpp:103
+#, kde-format
+msgid "Date: "
+msgstr "วันที่: "
+
+#. +> trunk6 stable6
+#: header/plainheaderstyle.cpp:107
+#, kde-format
+msgid "From: "
+msgstr "จาก: "
+
+#. +> trunk6 stable6
+#: header/plainheaderstyle.cpp:109
+#, kde-format
+msgid "[vCard]"
+msgstr "[vCard]"
+
+#. +> trunk6 stable6
+#: header/plainheaderstyle.cpp:121
+#, kde-format
+msgctxt "To-field of the mailheader."
+msgid "To: "
+msgstr "ถึง: "
+
+#. +> trunk6 stable6
+#: header/plainheaderstyle.cpp:128
+#, kde-format
+msgid "CC: "
+msgstr "สำเนาถึง: "
+
+#. +> trunk6 stable6
+#: header/plainheaderstyle.cpp:135
+#, kde-format
+msgid "BCC: "
+msgstr "ซ่อนสำเนาถึง: "
+
+#. +> trunk6 stable6
+#: header/plainheaderstyle.cpp:140
+#, kde-format
+msgid "Reply to: "
+msgstr "ตอบกลับไปยัง: "
+
+#. +> trunk6 stable6
+#: mdn/mdnwarningwidget.cpp:14
+#, fuzzy, kde-format
+#| msgid "Ignore"
+msgctxt "@action"
+msgid "Ignore"
+msgstr "ไม่สนใจ"
+
+#. +> trunk6 stable6
+#: mdn/mdnwarningwidget.cpp:15
+#, fuzzy, kde-format
+#| msgid "Send"
+msgctxt "@action"
+msgid "Send"
+msgstr "ส่ง"
+
+#. +> trunk6 stable6
+#: mdn/mdnwarningwidget.cpp:16
+#, fuzzy, kde-format
+#| msgid "Send Now"
+msgctxt "@action"
+msgid "Send Deny"
+msgstr "ส่งทันที"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/defaultrenderer.cpp:69
+#, kde-format
+msgid "Error: Signature not verified"
+msgstr "ผิดพลาด: ไม่สามารถตรวจสอบลายเซ็นได้"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/defaultrenderer.cpp:73
+#, kde-format
+msgid "Good signature"
+msgstr "ลายเซ็นใช้ได้"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/defaultrenderer.cpp:77
+#, fuzzy, kde-format
+#| msgid "Good signature"
+msgid "Bad signature"
+msgstr "ลายเซ็นใช้ได้"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/defaultrenderer.cpp:81
+#, kde-format
+msgid "No public key to verify the signature"
+msgstr "ไม่มีกุญแจสาธารณะสำหรับตรวจสอบลายเซ็น"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/defaultrenderer.cpp:85
+#, kde-format
+msgid "No signature found"
+msgstr "ไม่พบลายเซ็น"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/defaultrenderer.cpp:89
+#, kde-format
+msgid "Error verifying the signature"
+msgstr "เกิดข้อผิดพลาดระหว่างตรวจลายเซ็น"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/defaultrenderer.cpp:93
+#, kde-format
+msgid "Different results for signatures"
+msgstr "ได้ผลลัพธ์ที่แตกต่างกันสำหรับลายเซ็น"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/defaultrenderer.cpp:113
+#, kde-format
+msgid "No status information available."
+msgstr "ไม่มีข้อมูลสถานะ"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/defaultrenderer.cpp:120
+#: messagepartthemes/default/defaultrenderer.cpp:205
+#, kde-format
+msgid "Good signature."
+msgstr "ลายเซ็นใช้ได้"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/defaultrenderer.cpp:141
+#, kde-format
+msgid "One key has expired."
+msgstr "มีกุญแจหมดอายุหนึ่งตัว"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/defaultrenderer.cpp:145
+#, kde-format
+msgid "The signature has expired."
+msgstr "ลายเซ็นหมดอายุ"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/defaultrenderer.cpp:150
+#, kde-format
+msgid "Unable to verify: key missing."
+msgstr "ไม่สามารถตรวจสอบได้: ไม่พบกุญแจ"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/defaultrenderer.cpp:157
+#, kde-format
+msgid "CRL not available."
+msgstr "ไม่มี CRL"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/defaultrenderer.cpp:161
+#, kde-format
+msgid "Available CRL is too old."
+msgstr "CRL ที่มีอยู่เก่าเกินไป"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/defaultrenderer.cpp:165
+#, kde-format
+msgid "A policy was not met."
+msgstr ""
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/defaultrenderer.cpp:169
+#, kde-format
+msgid "A system error occurred."
+msgstr "เกิดข้อผิดพลาดของระบบ"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/defaultrenderer.cpp:180
+#, kde-format
+msgid "One key has been revoked."
+msgstr "มีกุญแจบางตัวถูกยกเลิก"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/defaultrenderer.cpp:207
+#, fuzzy, kde-format
+#| msgid "Good signature."
+msgid "Bad signature."
+msgstr "ลายเซ็นใช้ได้"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/certmessagepart.html:2
+#, fuzzy
+#| msgid "1 new certificate was imported."
+#| msgid_plural "%1 new certificates were imported."
+msgid "Sorry, certificate could not be imported."
+msgstr "นำเข้าใบรับรองแล้ว %1 ฉบับ"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/certmessagepart.html:4
+#, kde-format
+msgid "Reason: %1"
+msgstr "เหตุผล: %1"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/certmessagepart.html:7
+msgid "Sorry, no certificates were found in this message."
+msgstr "ขออภัย ไม่พบใบรับรองที่ใช้ในจดหมายนี้"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/certmessagepart.html:9
+msgid "Certificate import status:"
+msgstr "สถานะการนำเข้าใบรับรอง:"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/certmessagepart.html:13
+#, kde-format
+msgid "1 new certificate was imported."
+msgid_plural "%1 new certificates were imported."
+msgstr[0] "นำเข้าใบรับรองแล้ว %1 ฉบับ"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/certmessagepart.html:16
+#, kde-format
+msgid "1 certificate was unchanged."
+msgid_plural "%1 certificates were unchanged."
+msgstr[0] "ใบรับรอง %1 ฉบับ ไม่ถูกเปลี่ยนแปลง"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/certmessagepart.html:19
+#, kde-format
+msgid "1 new secret key was imported."
+msgid_plural "%1 new secret keys were imported."
+msgstr[0] "นำเข้ากุญแจลับแล้ว %1 อัน"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/certmessagepart.html:22
+#, kde-format
+msgid "1 secret key was unchanged."
+msgid_plural "%1 secret keys were unchanged."
+msgstr[0] "กุญแจลับ %1 อัน ไม่ถูกเปลี่ยนแปลง"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/certmessagepart.html:28
+msgid "Sorry, no details on certificate import available."
+msgstr "ขออภัย ไม่พบรายละเอียดในการนำเข้าใบรับรอง"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/certmessagepart.html:30
+msgid "Certificate import details:"
+msgstr "รายละเอียดในการนำเข้าใบรับรอง:"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/certmessagepart.html:34
+#, kde-format
+msgctxt "Certificate import failed."
+msgid "Failed: %1 (%2)"
+msgstr "ล้มเหลว: %1 (%2)"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encapsulatedrfc822messagepart.html:5
+#: messagepartthemes/default/templates/encapsulatedrfc822messagepart.html:7
+msgid "Encapsulated message"
+msgstr "เนื้อหาจดหมายที่มีการปกปิด"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encapsulatedrfc822messagepart.html:19
+msgid "End of encapsulated message"
+msgstr "จบจดหมายที่ถูกเข้ารหัสไว้"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encryptedmessagepart.html:3
+msgid "This message is encrypted."
+msgstr "จดหมายนี้ มีการเข้ารหัสไว้"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encryptedmessagepart.html:7
+msgid "Decrypt Message"
+msgstr "ถอดรหัสจดหมาย"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encryptedmessagepart.html:14
+#, fuzzy
+#| msgid "Please wait while the message is transferred"
+#| msgid_plural "Please wait while the %1 messages are transferred"
+msgid "Please wait while the message is being decrypted..."
+msgstr "โปรดรอขณะที่กำลังส่งถ่ายจดหมาย %1 ฉบับ"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encryptedmessagepart.html:18
+#, fuzzy
+#| msgid "This message is encrypted."
+msgid "The message is encrypted for the following keys:"
+msgstr "จดหมายนี้ มีการเข้ารหัสไว้"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encryptedmessagepart.html:20
+msgid "Hide Details"
+msgstr "ซ่อนรายละเอียด"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encryptedmessagepart.html:27
+#: messagepartthemes/default/templates/encryptedmessagepart.html:69
+#, fuzzy
+#| msgctxt "name used for a virgin filter"
+#| msgid "unknown"
+msgid "unknown key"
+msgstr "ไม่ทราบ"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encryptedmessagepart.html:32
+#, fuzzy, kde-format
+#| msgid " Column: %1 "
+msgctxt "Compliance: status/type of compliance"
+msgid "Compliance: %1"
+msgstr " คอลัมน์: %1 "
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encryptedmessagepart.html:38
+#, fuzzy, kde-format
+#| msgid "Encrypted message"
+msgctxt "Encrypted message (status/type of compliance)"
+msgid "Encrypted message (%1)"
+msgstr "จดหมายถูกเข้ารหัสไว้"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encryptedmessagepart.html:40
+msgid "Encrypted message"
+msgstr "จดหมายถูกเข้ารหัสไว้"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encryptedmessagepart.html:43
+msgid "Show Details"
+msgstr "แสดงรายละเอียด"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encryptedmessagepart.html:48
+msgid "Encrypted message (decryption not possible)"
+msgstr "จดหมายถูกเข้ารหัสไว้ (ไม่สามารถถอดรหัสได้)"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encryptedmessagepart.html:51
+#, fuzzy
+#| msgid "Reason: %1"
+msgid "Reason: "
+msgstr "เหตุผล: %1"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encryptedmessagepart.html:63
+msgid "No secret key found to decrypt the message. The message is encrypted for the following keys:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encryptedmessagepart.html:74
+msgid "Could not decrypt the data."
+msgstr "ไม่สามารถถอดรหัสข้อมูลได้"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encryptedmessagepart.html:81
+msgid "End of encrypted message"
+msgstr "จบจดหมายที่ถูกเข้ารหัสไว้"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/htmlmessagepart.html:6
+#, fuzzy
+msgid "<b>Note:</b> This is an HTML message. For security reasons, only the raw HTML code is shown. If you trust the sender of this message then you can activate formatted HTML display for this message <a href='kmail:showHTML'>by clicking here</a>."
+msgstr "<b>คำแนะนำ:</b> นี่เป็นจดหมายแบบ HTML โดยเพื่อความปลอดภัย จะแสดงเฉพาะส่วนที่เป็น HTML แท้ ๆ เท่านั้น หากคุณมั่นใจว่าเป็นจดหมายที่ส่งมาจากคนที่คุณเชื่อถือได้ คุณสามารถให้แสดงผล HTML อย่างเต็มรูปแบบได้ โดยการ <a href=\"kmail:showHTML\">คลิ้กที่นี่</a>."
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/htmlmessagepart.html:12
+#, fuzzy
+msgid "<b>Note:</b> This HTML message may contain external references to images etc. For security/privacy reasons external references are not loaded. If you trust the sender of this message then you can load the external references for this message <a href='kmail:loadExternal'>by clicking here</a>."
+msgstr "<b>คำแนะนำ:</b> นี่เป็นจดหมายแบบ HTML โดยเพื่อความปลอดภัย จะแสดงเฉพาะส่วนที่เป็น HTML แท้ ๆ เท่านั้น หากคุณมั่นใจว่าเป็นจดหมายที่ส่งมาจากคนที่คุณเชื่อถือได้ คุณสามารถให้แสดงผล HTML อย่างเต็มรูปแบบได้ โดยการ <a href=\"kmail:showHTML\">คลิ้กที่นี่</a>."
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/signedmessagepart.html:5
+#, fuzzy
+#| msgid "Please wait while the message is transferred"
+#| msgid_plural "Please wait while the %1 messages are transferred"
+msgid "Please wait while the signature is being verified..."
+msgstr "โปรดรอขณะที่กำลังส่งถ่ายจดหมาย %1 ฉบับ"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/signedmessagepart.html:17
+msgid "End of signed message"
+msgstr "จบจดหมายที่มีลายเซ็น"
+
+#. +> trunk6 stable6
+#: remote-content/remotecontentconfiguredialog.cpp:27
+#, fuzzy, kde-format
+#| msgid "Template content"
+msgctxt "@title:window"
+msgid "Configure Remote Content"
+msgstr "เนื้อหาต้นแบบ"
+
+#. +> trunk6 stable6
+#: remote-content/remotecontentconfigurewidget.cpp:52
+#, kde-format
+msgid "Status"
+msgstr "สถานะ"
+
+#. +> trunk6 stable6
+#: remote-content/remotecontentconfigurewidget.cpp:89
+#, fuzzy, kde-format
+#| msgid "Are you sure you want to expire all old messages?"
+msgid "Do you want to delete this rule '%1'?"
+msgstr "คุณแน่ใจหรือไม่ ที่จะให้จดหมายเก่าทั้งหมด หมดอายุ ?"
+
+#. +> trunk6 stable6
+#: remote-content/remotecontentconfigurewidget.cpp:107
+#, fuzzy, kde-format
+#| msgid "Template content"
+msgctxt "@title:window"
+msgid "Edit Remote Content"
+msgstr "เนื้อหาต้นแบบ"
+
+#. +> trunk6 stable6
+#: remote-content/remotecontentconfigurewidget.cpp:123
+#, fuzzy, kde-format
+#| msgid "Template content"
+msgctxt "@title:window"
+msgid "Add Remote Content"
+msgstr "เนื้อหาต้นแบบ"
+
+#. +> trunk6 stable6
+#: remote-content/remotecontentconfigurewidget.cpp:132
+#, kde-format
+msgid "An entry already defines this url. Please modify it."
+msgstr ""
+
+#. +> trunk6 stable6
+#: remote-content/remotecontentconfigurewidget.cpp:132
+#, fuzzy, kde-format
+#| msgid "Add new tag"
+msgctxt "@title:window"
+msgid "Add new Url"
+msgstr "เพิ่มป้ายใหม่"
+
+#. +> trunk6 stable6
+#: remote-content/remotecontentmenu.cpp:17
+#, fuzzy, kde-format
+#| msgid "Configure KMail..."
+msgid "Configure"
+msgstr "ปรับแต่ง จัดการจดหมาย K..."
+
+#. +> trunk6 stable6
+#: remote-content/remotecontentmenu.cpp:19
+#, fuzzy, kde-format
+#| msgid "Template content"
+msgid "Remote Content"
+msgstr "เนื้อหาต้นแบบ"
+
+#. +> trunk6 stable6
+#: remote-content/remotecontentmenu.cpp:50
+#, kde-format
+msgid "Authorize %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: remote-content/remotecontentmenu.cpp:58
+#, kde-format
+msgid "Authorize all Urls"
+msgstr ""
+
+#. +> trunk6 stable6
+#: remote-content/remotecontentstatustypecombobox.cpp:12
+#, kde-format
+msgid "Authorized"
+msgstr ""
+
+#. +> trunk6 stable6
+#: remote-content/remotecontentstatustypecombobox.cpp:13
+#, kde-format
+msgid "Blocked"
+msgstr ""
+
+#. +> trunk6 stable6
+#: remote-content/remotecontentwidget.cpp:28
+#, fuzzy, kde-format
+#| msgid "Defaul&t domain:"
+msgctxt "@label:textbox"
+msgid "Domain:"
+msgstr "โดเมนปริยาย:"
+
+#. +> trunk6 stable6
+#: scamdetection/scamdetectiondetailsdialog.cpp:40
+#, fuzzy, kde-format
+#| msgid "[Details]"
+msgctxt "@title:window"
+msgid "Details"
+msgstr "[รายละเอียด]"
+
+#. +> trunk6 stable6
+#: scamdetection/scamdetectionwarningwidget.cpp:34
+#, kde-format
+msgid "This message may be a scam. <a href=\"scamdetails\">(Details...)</a>"
+msgstr ""
+
+#. +> trunk6 stable6
+#: scamdetection/scamdetectionwarningwidget.cpp:39
+#, fuzzy, kde-format
+#| msgid "Move to Trash"
+msgctxt "@action"
+msgid "Move to Trash"
+msgstr "ทิ้งลงถังขยะ"
+
+#. +> trunk6 stable6
+#: scamdetection/scamdetectionwarningwidget.cpp:44
+#, kde-format
+msgctxt "@action"
+msgid "I confirm it's not a scam"
+msgstr ""
+
+#. +> trunk6 stable6
+#: scamdetection/scamdetectionwarningwidget.cpp:48
+#, kde-format
+msgctxt "@action"
+msgid "Add email to whitelist"
+msgstr ""
+
+#. +> trunk6 stable6
+#: scamdetection/scamdetectionwarningwidget.cpp:52
+#, fuzzy, kde-format
+#| msgctxt "@action:button"
+#| msgid "Delete all messages"
+msgctxt "@action"
+msgid "Disable scam detection for all messages"
+msgstr "ลบจดหมายทั้งหมด"
+
+#. +> trunk6 stable6
+#: scamdetection/scamdetectionwebengine.cpp:115
+#: scamdetection/scamdetectionwebengine.cpp:214
+#, kde-format
+msgid "This email contains a link which reads as '%1' in the text, but actually points to '%2'. This is often the case in scam emails to mislead the recipient"
+msgstr ""
+
+#. +> trunk6 stable6
+#: scamdetection/scamdetectionwebengine.cpp:128
+#, kde-format
+msgid "This email contains a link which points to a numerical IP address (%1) instead of a typical textual website address. This is often the case in scam emails."
+msgstr ""
+
+#. +> trunk6 stable6
+#: scamdetection/scamdetectionwebengine.cpp:135
+#, kde-format
+msgid "This email contains a link which points to a hexadecimal IP address (%1) instead of a typical textual website address. This is often the case in scam emails."
+msgstr ""
+
+#. +> trunk6 stable6
+#: scamdetection/scamdetectionwebengine.cpp:141
+#, kde-format
+msgid "This email contains a link (%1) which has a redirection"
+msgstr ""
+
+#. +> trunk6 stable6
+#: scamdetection/scamdetectionwebengine.cpp:148
+#, kde-format
+msgid "This email contains a link (%1) which contains multiple http://. This is often the case in scam emails."
+msgstr ""
+
+#. +> trunk6 stable6
+#: scamdetection/scamdetectionwebengine.cpp:159
+#, kde-format
+msgid "This email contains a shorturl (%1). It can redirect to another server."
+msgstr ""
+
+#. +> trunk6 stable6
+#: scamdetection/scamdetectionwebengine.cpp:233
+#, kde-format
+msgid "Message contains form element. This is often the case in scam emails."
+msgstr ""
+
+#. +> trunk6 stable6
+#: scamdetection/scamdetectionwebengine.cpp:237
+#, fuzzy, kde-format
+#| msgid "[Details]"
+msgid "Details:"
+msgstr "[รายละเอียด]"
+
+#. +> trunk6 stable6
+#: scamdetection/scamexpandurljob.cpp:47
+#, kde-format
+msgid "No network connection detected, we cannot expand url."
+msgstr ""
+
+#. +> trunk6 stable6
+#: scamdetection/scamexpandurljob.cpp:77 scamdetection/scamexpandurljob.cpp:83
+#, kde-format
+msgid "Impossible to expand '%1'."
+msgstr ""
+
+#. +> trunk6 stable6
+#: scamdetection/scamexpandurljob.cpp:81
+#, kde-format
+msgid "Short url '%1' redirects to '%2'."
+msgstr ""
+
+#. i18n: ectx: label, entry (PrintSelectedText), group (Print)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:11
+#, kde-format
+msgid "Only print selected text in viewer"
+msgstr ""
+
+#. i18n: ectx: label, entry (RespectExpandCollapseSettings), group (Print)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:15
+#, fuzzy, kde-format
+#| msgid "Show &expand/collapse quote marks"
+msgid "Respect expand/collapse quote mark which is defined in settings during printing."
+msgstr "แสดงเครื่องหมายยุ&บส่วนที่อ้างถึง"
+
+#. i18n: ectx: label, entry (PrintBackgroundColorImages), group (Print)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:19
+#, kde-format
+msgid "Specifies whether the background color and images are also drawn when the page is printed."
+msgstr ""
+
+#. i18n: ectx: label, entry (AlwaysShowEncryptionSignatureDetails), group (Print)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:23
+#, fuzzy, kde-format
+#| msgid "Show signature details."
+msgid "Always show encryption/signature details when we print message"
+msgstr "แสดงรายละเอียดของลายเซ็น"
+
+#. i18n: ectx: label, entry (MinimumFontSize), group (Fonts)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:34
+#, kde-format
+msgid "When we render html do not use font size inferior to minimum size."
+msgstr ""
+
+#. i18n: ectx: label, entry (BodyFont), group (Fonts)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:38
+#, kde-format
+msgid "Specifies the font to use for the message body"
+msgstr ""
+
+#. i18n: ectx: label, entry (PrintFont), group (Fonts)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:42
+#, kde-format
+msgid "Specifies the font to use for printing"
+msgstr ""
+
+#. i18n: ectx: label, entry (CheckPhishingUrl), group (Security)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:49
+#, kde-format
+msgid "Check if url can be a phishing"
+msgstr ""
+
+#. i18n: ectx: label, entry (CloseAfterReplyOrForward), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:55
+#, kde-format
+msgid "Close message window after replying or forwarding"
+msgstr ""
+
+#. i18n: ectx: label, entry (ShowExpandQuotesMark), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:72
+#, kde-format
+msgid "Show expand/collapse quote marks"
+msgstr "แสดงเครื่องหมายขยาย/ยุบส่วนที่อ้างถึง"
+
+#. i18n: ectx: whatsthis, entry (ShowExpandQuotesMark), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:73
+#, fuzzy, kde-format
+#| msgid "Enable this option to show different levels of quoted text. Disable to hide the levels of quoted text."
+msgid "Enable this option to show different levels of quoted text. Disable to hide the levels of quoted text."
+msgstr "เปิดใช้ตัวเลือกนี้เพื่อให้แสดงส่วนที่อ้างถึงด้วยตัวอักษรขนาดเล็กลง ปิดการใช้เพื่อซ่อนระดับของข้อความที่อ้างถึง"
+
+#. i18n: ectx: label, entry (CollapseQuoteLevelSpin), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:76
+#, kde-format
+msgid "Automatic collapse level:"
+msgstr "ระดับการยุบอัตโนมัติ:"
+
+#. i18n: ectx: label, entry (ShrinkQuotes), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:83
+#, kde-format
+msgid "Reduce font size for quoted text"
+msgstr "ลดขนาดอักษรสำหรับส่วนข้อความที่อ้างถึง"
+
+#. i18n: ectx: whatsthis, entry (ShrinkQuotes), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:84
+#, fuzzy, kde-format
+#| msgid "Enable this option to show quoted text with a smaller font."
+msgid "Enable this option to show quoted text with a smaller font."
+msgstr "เปิดใช้ตัวเลือกนี้เพื่อให้แสดงส่วนที่อ้างถึงด้วยตัวอักษรขนาดเล็กลง"
+
+#. i18n: ectx: label, entry (AlwaysDecrypt), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:88
+#, fuzzy, kde-format
+#| msgid "Always decrypt messages when viewing or ask before decrypting"
+msgid "Always decrypt messages when viewing or ask before decrypting"
+msgstr "ทำการถอดรหัสจดหมายเสมอเมื่อมีการเรียกดู หรือให้ถามก่อนทำการถอดรหัส"
+
+#. i18n: ectx: label, entry (MimeTreeMode2), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:91
+#, kde-format
+msgid "Message Structure Viewer"
+msgstr "ตัวแสดงโครงสร้างจดหมาย"
+
+#. i18n: ectx: label, entry (MimeTreeMode2), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:94
+#, kde-format
+msgid "Show never"
+msgstr "ไม่ต้องแสดงเลย"
+
+#. i18n: ectx: label, entry (MimeTreeMode2), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:97
+#, kde-format
+msgid "Show always"
+msgstr "แสดงเสมอ"
+
+#. i18n: ectx: label, entry (headerPluginStyleName), group (Reader)
+#. i18n: ectx: label, entry (headerStyle), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:109 settings/messageviewer.kcfg.in:115
+#, kde-format
+msgid "What style of headers should be displayed"
+msgstr ""
+
+#. i18n: ectx: label, entry (headerSetDisplayed), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:119
+#, kde-format
+msgid "How much of headers should be displayed"
+msgstr ""
+
+#. i18n: ectx: label, entry (htmlMail), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:123
+#, kde-format
+msgid "Prefer HTML to plain text"
+msgstr "แสดง HTML เป็นข้อความธรรมดา"
+
+#. i18n: ectx: label, entry (htmlLoadExternal), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:127
+#, kde-format
+msgid "Allow messages to load external references from the Internet"
+msgstr "อนุญาตให้จดหมายโหลดส่วนที่อ้างถึงภายนอกจากอินเทอร์เน็ตได้"
+
+#. i18n: ectx: label, entry (attachmentStrategy), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:131
+#, fuzzy, kde-format
+#| msgid "Show attachment icon"
+msgid "How attachments are shown"
+msgstr "แสดงไอคอนว่ามีสิ่งที่แนบมาด้วย"
+
+#. i18n: ectx: label, entry (RecycleQuoteColors), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:135
+#, kde-format
+msgid "Specifies whether to reuse the quote color, beyond the 3rd level"
+msgstr ""
+
+#. i18n: ectx: label, entry (AccessKeyEnabled), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:139
+#, kde-format
+msgid "Activate Access Key"
+msgstr ""
+
+#. i18n: ectx: label, entry (ScamDetectionEnabled), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:143
+#, kde-format
+msgid "KMail can analyze messages for suspected email scams by looking for common techniques used to deceive you"
+msgstr ""
+
+#. i18n: ectx: label, entry (ScamDetectionWhiteList), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:147
+#, kde-format
+msgid "List of emails in scam white list"
+msgstr ""
+
+#. i18n: ectx: label, entry (MailTrackingUrlEnabled), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:151
+#, kde-format
+msgid "Scan emails for tracking URLs"
+msgstr ""
+
+#. i18n: ectx: label, entry (notSendWhenEncrypted), group (MDN)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:157
+#, fuzzy, kde-format
+#| msgid "Do not send vacation replies to spam messages"
+msgid "Do not send MDNs in response to encrypted messages"
+msgstr "อย่าตอบกลับการแจ้งว่าพักร้อนไปยังจดหมายสแปม"
+
+#. i18n: ectx: label, entry (LegacyMangleFromToHeaders), group (Invitations)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:179
+#, fuzzy, kde-format
+#| msgid "Mangle From:/To: headers in replies to invitations"
+msgid "Mangle From:/To: headers in replies to replies"
+msgstr "ลดส่วนหัว จาก:/ถึง: ในการตอบกลับเพื่อเชื้อเชิญ"
+
+#. i18n: ectx: whatsthis, entry (LegacyMangleFromToHeaders), group (Invitations)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:180
+#, kde-format
+msgid "Microsoft Outlook has a number of shortcomings in its implementation of the iCalendar standard; this option works around one of them. If you have problems with Outlook users not being able to get your replies, try setting this option."
+msgstr ""
+
+#. i18n: ectx: label, entry (LegacyBodyInvites), group (Invitations)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:185
+#, fuzzy, kde-format
+#| msgid "Send invitations in the mail body"
+msgid "Send groupware invitations in the mail body"
+msgstr "ส่งการเชื้อเชิญไว้ในตัวเนื้อความจดหมาย"
+
+#. i18n: ectx: whatsthis, entry (LegacyBodyInvites), group (Invitations)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:186
+#, kde-format
+msgid "Microsoft Outlook has a number of shortcomings in its implementation of the iCalendar standard; this option works around one of them. If you have problems with Outlook users not being able to get your invitations, try setting this option."
+msgstr ""
+
+#. i18n: ectx: label, entry (ExchangeCompatibleInvitations), group (Invitations)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:191
+#, fuzzy, kde-format
+msgid "Exchange-compatible invitation naming"
+msgstr "เข้ารหัสโดยใช้ OpenPGP โดยอัตโนมัติ"
+
+#. i18n: ectx: whatsthis, entry (ExchangeCompatibleInvitations), group (Invitations)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:192
+#, kde-format
+msgid "Microsoft Outlook, when used in combination with a Microsoft Exchange server, has a problem understanding standards-compliant groupware email. Turn this option on to send groupware invitations in a way that Microsoft Exchange understands."
+msgstr ""
+
+#. i18n: ectx: label, entry (AutomaticSending), group (Invitations)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:197
+#, kde-format
+msgid "Automatic invitation sending"
+msgstr "ทำการส่งการเชื้อเชิญอัตโนมัติ"
+
+#. i18n: ectx: whatsthis, entry (AutomaticSending), group (Invitations)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:198
+#, kde-format
+msgid "When this is checked, you will not see the mail composer window. Instead, all invitation mails are sent automatically. If you want to see the mail before sending it, you can uncheck this option. However, be aware that the text in the composer window is in iCalendar syntax, and you should not try modifying it by hand."
+msgstr ""
+
+#. i18n: ectx: label, entry (DeleteInvitationEmailsAfterSendingReply), group (Invitations)
+#. i18n: ectx: property (text), widget (QCheckBox, mDeleteInvitations)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:203 ui/invitationsettings.ui:74
+#, kde-format
+msgid "Delete invitation emails after the reply to them has been sent"
+msgstr ""
+
+#. i18n: ectx: whatsthis, entry (DeleteInvitationEmailsAfterSendingReply), group (Invitations)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:204
+#, kde-format
+msgid "When this is checked, received invitation emails that have been replied to will be moved to the Trash folder, once the reply has been successfully sent."
+msgstr ""
+
+#. i18n: ectx: label, entry (UseFixedFont), group (Composer)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:228 viewer/viewer_p.cpp:1559
+#, kde-format
+msgid "Use Fi&xed Font"
+msgstr "ใช้ตัวอักษรความกว้างคงที่"
+
+#. i18n: ectx: whatsthis, entry (LastSelectedFolder), group (Todo)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:235
+#, kde-format
+msgid "The most recent selected folder used for Todo."
+msgstr ""
+
+#. i18n: ectx: whatsthis, entry (LastEventSelectedFolder), group (Event)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:241
+#, kde-format
+msgid "The most recent selected folder used for Event."
+msgstr ""
+
+#. i18n: ectx: whatsthis, entry (LastNoteSelectedFolder), group (Note)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg.in:247
+#, kde-format
+msgid "The most recent selected folder used for Notes."
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#. +> trunk6 stable6
+#: ui/invitationsettings.ui:17
+#, kde-format
+msgid "Groupware Compatibility && Legacy Options"
+msgstr "ความเข้ากันได้ของกรุ๊ปแวร์ และ ตัวเลือกอื่น ๆ"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, mLegacyMangleFromTo)
+#. +> trunk6 stable6
+#: ui/invitationsettings.ui:23
+#, fuzzy, kde-format
+#| msgid "Turn this option on to make Outlook(tm) understand attachment names containing non-English characters"
+msgid "Turn this option on in order to make Outlook(tm) understand your answers to invitation replies"
+msgstr "เปิดใช้งานตัวเลือกนี้เพื่อให้โปรแกรม Outlook สามารถเข้าใจถึงชื่อสิ่งที่แนบมาด้วยที่ไม่ใช่ภาษาอังกฤษ"
+
+#. i18n: ectx: property (text), widget (QCheckBox, mLegacyMangleFromTo)
+#. +> trunk6 stable6
+#: ui/invitationsettings.ui:26
+#, fuzzy, kde-format
+#| msgid "Mangle From:/To: headers in replies to invitations"
+msgid "&Mangle From:/To: headers in replies to invitations"
+msgstr "ลดส่วนหัว จาก:/ถึง: ในการตอบกลับเพื่อเชื้อเชิญ"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, mLegacyBodyInvites)
+#. +> trunk6 stable6
+#: ui/invitationsettings.ui:33
+#, fuzzy, kde-format
+#| msgid "Turn this option on to make Outlook(tm) understand attachment names containing non-English characters"
+msgid "Turn this option on in order to make Outlook(tm) understand your answers to invitations"
+msgstr "เปิดใช้งานตัวเลือกนี้เพื่อให้โปรแกรม Outlook สามารถเข้าใจถึงชื่อสิ่งที่แนบมาด้วยที่ไม่ใช่ภาษาอังกฤษ"
+
+#. i18n: ectx: property (text), widget (QCheckBox, mLegacyBodyInvites)
+#. +> trunk6 stable6
+#: ui/invitationsettings.ui:36
+#, fuzzy, kde-format
+#| msgid "Send invitations in the mail body"
+msgid "Send &invitations in the mail body"
+msgstr "ส่งการเชื้อเชิญไว้ในตัวเนื้อความจดหมาย"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, mExchangeCompatibleInvitations)
+#. +> trunk6 stable6
+#: ui/invitationsettings.ui:45
+#, kde-format
+msgid ""
+"Microsoft Outlook, when used in combination with a Microsoft Exchange server,\n"
+"has a problem understanding standards-compliant groupware email.\n"
+"Turn this option on to send groupware invitations in a way that Microsoft Exchange understands."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, mExchangeCompatibleInvitations)
+#. +> trunk6 stable6
+#: ui/invitationsettings.ui:48
+#, fuzzy, kde-format
+#| msgid "Exchange compatible invitation naming"
+msgid "Exchange-compatible invitation &naming"
+msgstr "การตั้งชื่อการเชื้อเชิญที่เข้ากันได้กับ Exchange"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, mAutomaticSending)
+#. +> trunk6 stable6
+#: ui/invitationsettings.ui:55
+#, kde-format
+msgid "When this is on, the user will not see the mail composer window. Invitation mails are sent automatically."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, mAutomaticSending)
+#. +> trunk6 stable6
+#: ui/invitationsettings.ui:58
+#, fuzzy, kde-format
+#| msgid "Automatic invitation sending"
+msgid "&Automatic invitation sending"
+msgstr "ทำการส่งการเชื้อเชิญอัตโนมัติ"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#. +> trunk6 stable6
+#: ui/invitationsettings.ui:68
+#, kde-format
+msgid "Options"
+msgstr "ตัวเลือกต่าง ๆ"
+
+#. i18n: ectx: property (text), widget (QCheckBox, mPrintEmptySelectedText)
+#. +> trunk6 stable6
+#: ui/printingsettings.ui:17
+#, kde-format
+msgid "Print only selected text"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, respectExpandCollapseSettings)
+#. +> trunk6 stable6
+#: ui/printingsettings.ui:24
+#, fuzzy, kde-format
+#| msgid "Show &expand/collapse quote marks"
+msgid "Respect &expand/collapse quote marks settings"
+msgstr "แสดงเครื่องหมายยุ&บส่วนที่อ้างถึง"
+
+#. i18n: ectx: property (text), widget (QCheckBox, printBackgroundColorAndImages)
+#. +> trunk6 stable6
+#: ui/printingsettings.ui:31
+#, fuzzy, kde-format
+#| msgid "Alternative Background Color"
+msgid "Print background color and images"
+msgstr "สีพื้นหลังอื่น ๆ"
+
+#. i18n: ectx: property (text), widget (QCheckBox, alwaysShowEncryptionSignatureDetail)
+#. +> trunk6 stable6
+#: ui/printingsettings.ui:38
+#, fuzzy, kde-format
+#| msgid "Show signature details."
+msgid "Always show encryption/signature details"
+msgstr "แสดงรายละเอียดของลายเซ็น"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, Settings)
+#. +> trunk6 stable6
+#: ui/settings.ui:19
+#, kde-format
+msgid "Viewer settings"
+msgstr "ตั้งค่าตัวแสดงจดมหาย"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. +> trunk6 stable6
+#: ui/settings.ui:47
+#, fuzzy, kde-format
+#| msgid "&Override character encoding:"
+msgid "O&verride character encoding:"
+msgstr "การเข้ารหัสภาษาที่บังคับให้ใช้:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_AccessKeyEnabled)
+#. +> trunk6 stable6
+#: ui/settings.ui:79
+#, kde-format
+msgid "Enable access key"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_ShrinkQuotes)
+#. +> trunk6 stable6
+#: ui/settings.ui:86
+#, kde-format
+msgid "Reduce font size for &quoted text"
+msgstr "ลดขนาดอักษรสำหรับส่วนข้อความที่อ้า&งถึง"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_ShowExpandQuotesMark)
+#. +> trunk6 stable6
+#: ui/settings.ui:93
+#, kde-format
+msgid "Show &expand/collapse quote marks"
+msgstr "แสดงเครื่องหมายยุ&บส่วนที่อ้างถึง"
+
+#. i18n: ectx: property (text), widget (QLabel, collapseQuoteLevelLabel)
+#. +> trunk6 stable6
+#: ui/settings.ui:121
+#, fuzzy, kde-format
+#| msgid "Automatic collapse level:"
+msgid "Automatic collapse &level:"
+msgstr "ระดับการยุบอัตโนมัติ:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#. +> trunk6 stable6
+#: ui/settings.ui:190
+#, kde-format
+msgid "&Minimum font size:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:123
+#, kde-format
+msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgstr "มีแฟ้มชื่อ \"%1\" นี้อยู่แล้ว คุณต้องการเขียนทับมันหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:126
+#, fuzzy, kde-format
+#| msgid "Overwrite File?"
+msgctxt "@title:window"
+msgid "Overwrite File?"
+msgstr "เขียนทับแฟ้มหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:159
+#, kde-format
+msgid "Save Attachments To"
+msgstr "บันทึกสิ่งที่แนบมาด้วยเป็น"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:176
+#, kde-format
+msgctxt "filename for an unnamed attachment"
+msgid "attachment.1"
+msgstr "สิ่งที่แนบมาด้วย.1"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:182
+#, fuzzy, kde-format
+#| msgid "Save Attachment"
+msgctxt "@title:window"
+msgid "Save Attachment"
+msgstr "บันทึกสิ่งที่แนบมาด้วย"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:206
+#, kde-format
+msgctxt "filename for the %1-th unnamed attachment"
+msgid "attachment.%1"
+msgstr "สิ่งที่แนบมาด้วย.%1"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:304
+#, kde-format
+msgid "The part %1 of the message is encrypted. Do you want to keep the encryption when saving?"
+msgstr "ส่วน %1 ของข้อความถูกเข้ารหัสไว้ คุณต้องการรักษาการเข้ารหัสนี้ เมื่อมีการบันทึกหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:306 utils/messageviewerutil.cpp:319
+#, kde-format
+msgid "KMail Question"
+msgstr "คำถามของ จัดการจดหมาย K"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:306
+#, fuzzy, kde-format
+#| msgid "Keep Encryption"
+msgctxt "@action:button"
+msgid "Keep Encryption"
+msgstr "เก็บการเข้ารหัส"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:307 utils/messageviewerutil.cpp:320
+#, fuzzy, kde-format
+#| msgid "Do Not Keep"
+msgctxt "@action:button"
+msgid "Do Not Keep"
+msgstr "ไม่ต้องเก็บ"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:317
+#, kde-format
+msgid "The part %1 of the message is signed. Do you want to keep the signature when saving?"
+msgstr "ส่วน %1 นี้ของจดหมายมีการเซ็นตไว้ คุณต้องการรักษาลายเซ็นนี้ไว้ เมื่อมีการบันทึกหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:319
+#, fuzzy, kde-format
+#| msgid "Keep Signature"
+msgctxt "@action:button"
+msgid "Keep Signature"
+msgstr "คงลายเซ็นไว้"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:383 utils/messageviewerutil.cpp:401
+#: utils/messageviewerutil.cpp:419 utils/messageviewerutil.cpp:538
+#, fuzzy, kde-kuit-format
+#| msgctxt "1 = file name, 2 = error string"
+#| msgid ""
+#| "<qt>Could not write to the file<br>"
+#| "<filename>%1</filename><br>"
+#| "<br>"
+#| "%2"
+msgctxt "1 = file name, 2 = error string"
+msgid ""
+"<qt>Could not write to the file<br />"
+"<filename>%1</filename><br />"
+"<br />"
+"%2</qt>"
+msgstr ""
+"<qt>ไม่สามารถเขียนแฟ้ม<br>"
+"<filename>%1</filename><br>"
+"ได้<br>"
+"%2"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:386
+#, fuzzy, kde-format
+#| msgid "Error saving attachment"
+msgctxt "@title:window"
+msgid "Error saving attachment"
+msgstr "เกิดข้อผิดพลาดในการบันทึกสิ่งที่แนบมาด้วย"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:404 utils/messageviewerutil.cpp:422
+#, kde-format
+msgid "Error saving attachment"
+msgstr "เกิดข้อผิดพลาดในการบันทึกสิ่งที่แนบมาด้วย"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:435
+#, kde-format
+msgid "Found no attachments to save."
+msgstr "ไม่พบสิ่งที่แนบมาด้วยที่จะทำการบันทึก"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:450
+#, fuzzy, kde-format
+#| msgid " messages"
+msgid "message"
+msgstr " ฉบับ"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:472
+#, kde-format
+msgid "email messages (*.mbox);;all files (*)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:483
+#, fuzzy, kde-format
+#| msgid "&Save message"
+msgid "Save Message"
+msgid_plural "Save Messages"
+msgstr[0] "&บันทึกจดหมาย"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:508
+#, fuzzy, kde-format
+#| msgid "Message will not be encrypted"
+msgid "File %1 could not be loaded."
+msgstr "จดหมายจะไม่ถูกเข้ารหัส"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:508
+#, fuzzy, kde-format
+#| msgid "Error while uploading message"
+msgctxt "@title:window"
+msgid "Error loading message"
+msgstr "เกิดข้อผิดพลาดขึ้น ระหว่างอัพโหลดจดหมาย"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:510
+#, fuzzy, kde-format
+#| msgid "Message will not be encrypted"
+msgid "File %1 could not be created."
+msgstr "จดหมายจะไม่ถูกเข้ารหัส"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:510 utils/messageviewerutil.cpp:541
+#, fuzzy, kde-format
+#| msgid "Moving messages"
+msgctxt "@title:window"
+msgid "Error saving message"
+msgstr "กำลังย้ายจดหมาย"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:521
+#, fuzzy, kde-format
+#| msgid "End of signed message"
+msgid "We cannot save message."
+msgstr "จบจดหมายที่มีลายเซ็น"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:521
+#, fuzzy, kde-format
+#| msgid "Moving messages"
+msgid "Error saving message"
+msgstr "กำลังย้ายจดหมาย"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:585
+#, fuzzy, kde-format
+#| msgid "Declined: %1"
+msgctxt "Argument is the original name of the deleted attachment"
+msgid "Deleted: %1"
+msgstr "ปฏิเสธ: %1"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:596
+#, kde-format
+msgid "You deleted an attachment from this message. The original MIME headers for the attachment were:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:623
+#, fuzzy, kde-format
+#| msgid "&Open with '%1'"
+msgid "Open &with %1"
+msgstr "เปิดด้วย '%1'"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:625
+#, fuzzy, kde-format
+#| msgid "%"
+msgctxt "@item:inmenu Open With, %1 is application name"
+msgid "%1"
+msgstr "%"
+
+#. +> trunk6 stable6
+#: viewer/mimeparttree/mimetreemodel.cpp:59
+#, kde-format
+msgid "body part"
+msgstr "ส่วนตัวเนื้่อความ"
+
+#. +> trunk6 stable6
+#: viewer/mimeparttree/mimetreemodel.cpp:262
+#, kde-format
+msgid "Description"
+msgstr "รายละเอียด"
+
+#. +> trunk6 stable6
+#: viewer/mimeparttree/mimetreemodel.cpp:264
+#, kde-format
+msgid "Type"
+msgstr "ประเภท"
+
+#. +> trunk6 stable6
+#: viewer/mimeparttree/mimetreemodel.cpp:266
+#, kde-format
+msgid "Size"
+msgstr "ขนาด"
+
+#. +> trunk6 stable6
+#: viewer/printmessage.cpp:68
+#, fuzzy, kde-format
+#| msgid "Could not write the file %1."
+msgid "Could not generate print preview."
+msgstr "ไม่สามารถเขียนไปยังแฟ้ม %1 ได้"
+
+#. +> trunk6 stable6
+#: viewer/printmessage.cpp:104
+#, fuzzy, kde-format
+#| msgid "Documentation"
+msgctxt "@title:window"
+msgid "Print Document"
+msgstr "ระบบเอกสาร"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:407
+#, kde-format
+msgid "Turn on HTML rendering for this message."
+msgstr "เปิดใช้การแสดงผล HTML สำหรับจดหมายฉบับนี้"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:409 viewer/viewer_p.cpp:1628
+#, kde-format
+msgid "Load external references from the Internet for this message."
+msgstr "อนุญาตให้จดหมายนี้โหลดส่วนที่อ้างถึงภายนอกจากอินเทอร์เน็ตได้"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:411
+#, kde-format
+msgid "Work online."
+msgstr "ทำงานออนไลน์"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:413
+#, fuzzy, kde-format
+#| msgid "from checked accounts only"
+msgid "Make account online."
+msgstr "จากบัญชีผู้ใช้ที่กาเลือกไว้เท่านั้น"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:415
+#, kde-format
+msgid "Decrypt message."
+msgstr "ถอดรหัสจดหมาย"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:417
+#, kde-format
+msgid "Show signature details."
+msgstr "แสดงรายละเอียดของลายเซ็น"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:419
+#, kde-format
+msgid "Hide signature details."
+msgstr "ซ่อนรายละเอียดของลายเซ็น"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:421
+#, fuzzy, kde-format
+#| msgid "Show signature details."
+msgid "Show encryption details."
+msgstr "แสดงรายละเอียดของลายเซ็น"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:423
+#, fuzzy, kde-format
+#| msgid "Hide signature details."
+msgid "Hide encryption details."
+msgstr "ซ่อนรายละเอียดของลายเซ็น"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:428
+#, fuzzy, kde-format
+#| msgid "Documentation"
+msgid "Open Documentation"
+msgstr "ระบบเอกสาร"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:462
+#, kde-format
+msgid "Expand all quoted text."
+msgstr "ขยายส่วนที่อ้างถึงทั้งหมด"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:464
+#, kde-format
+msgid "Collapse quoted text."
+msgstr "ยุบส่วนที่อ้างถึง"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:491
+#, kde-format
+msgid "Could not start certificate manager. Please check your installation."
+msgstr "ไม่สามารถเริ่มตัวจัดการใบรับรองได้ โปรดตรวจสอบการติดตั้งของคุณ"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:493
+#, kde-format
+msgid "KMail Error"
+msgstr "ข้อผิดพลาดของ Kmail"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:510
+#, kde-format
+msgid "Show certificate 0x%1"
+msgstr "แสดงใบรับรอง 0x%1"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:569
+#, fuzzy, kde-format
+#| msgid "Open in Address Book"
+msgid "&Open in Address Book"
+msgstr "เปิดในสมุดที่อยู่"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:571
+#, fuzzy, kde-format
+#| msgid "Email Address"
+msgid "&Copy Email Address"
+msgstr "ที่อยู่อีเมล"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:584 viewer/viewer_p.cpp:2720
+#, kde-format
+msgid "Address copied to clipboard."
+msgstr "คัดลอกที่อยู่ไปยังคลิปบอร์ดแล้ว"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:595
+#, fuzzy, kde-format
+#| msgid "Open in Address Book"
+msgid "Lookup the contact in KAddressbook"
+msgstr "เปิดในสมุดที่อยู่"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:771
+#, kde-format
+msgid "Attachment: %1"
+msgstr "สิ่งที่แนบมาด้วย: %1"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:774
+#, fuzzy, kde-format
+#| msgid "Encapsulated message"
+msgid "Encapsulated Message (Subject: %1)"
+msgstr "เนื้อหาจดหมายที่มีการปกปิด"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:776
+#, fuzzy, kde-format
+#| msgid "Encapsulated message"
+msgid "Encapsulated Message"
+msgstr "เนื้อหาจดหมายที่มีการปกปิด"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:779
+#, fuzzy, kde-format
+#| msgid "Unable to edit attachment"
+msgid "Unnamed attachment"
+msgstr "ไม่สามารถแก้ไขสิ่งที่แนบมาด้วยได้"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:814
+#, kde-format
+msgid "Show GnuPG Audit Log for this operation"
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:855
+#, kde-format
+msgid "Opening URL..."
+msgstr "กำลังเปิดที่อยู่ URL..."
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:864
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info"
+#| msgid "Do you really want to execute <filename>%1</<filename>?"
+msgctxt "@info"
+msgid "Do you really want to execute <filename>%1</filename>?"
+msgstr "คุณต้องการประมวลผล <filename>%1</<filename> จริงหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:866
+#, fuzzy, kde-format
+#| msgid "Execute"
+msgctxt "@action:button"
+msgid "Execute"
+msgstr "ประมวลผล"
+
+#. +> trunk6 stable6
+#: viewer/viewer.cpp:146
+#, fuzzy, kde-format
+#| msgid "Moving messages"
+msgid "Loading message..."
+msgstr "กำลังย้ายจดหมาย"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:345
+#, kde-format
+msgid "Deleting an attachment might invalidate any digital signature on this message."
+msgstr "การลบสิ่งที่แนบมาด้วยอาจจะทำให้ลายเซ็นดิจิตัลบนระบบนี้บางตัวใช้งานไม่ได้"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:346 viewer/viewer_p.cpp:381
+#, fuzzy, kde-format
+#| msgid "Delete Attachment"
+msgctxt "@title:window"
+msgid "Delete Attachment"
+msgstr "ลบสิ่งที่แนบมาด้วย"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:380
+#, kde-format
+msgid "Deleting an attachment from an encrypted or old-style mailman message is not supported."
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:429
+#, fuzzy, kde-format
+#| msgid "&Open With..."
+msgctxt "@title:menu"
+msgid "&Open With"
+msgstr "เปิดด้วย..."
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:447
+#, fuzzy, kde-format
+#| msgid "Other Actio&ns"
+msgctxt "@action:inmenu Open With"
+msgid "&Other..."
+msgstr "การกระทำอื่น ๆ"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:449 viewer/viewer_p.cpp:462
+#, fuzzy, kde-format
+#| msgid "&Open With..."
+msgctxt "@title:menu"
+msgid "&Open With..."
+msgstr "เปิดด้วย..."
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:526 viewer/viewer_p.cpp:1738
+#, kde-format
+msgctxt "to open"
+msgid "Open"
+msgstr "เปิด"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:540 viewer/viewer_p.cpp:1745
+#, kde-format
+msgctxt "to view something"
+msgid "View"
+msgstr "แสดง"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:548
+#, kde-format
+msgid "Scroll To"
+msgstr "เลื่อนไปยัง"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:553
+#, kde-format
+msgid "Save As..."
+msgstr "บันทึกเป็น..."
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:559 viewer/viewer_p.cpp:1755
+#, kde-format
+msgid "Copy"
+msgstr "คัดลอก"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:570 viewer/viewer_p.cpp:1760
+#, kde-format
+msgid "Delete Attachment"
+msgstr "ลบสิ่งที่แนบมาด้วย"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:581
+#, fuzzy, kde-format
+#| msgid "Reply to A&uthor..."
+msgid "Reply To Author"
+msgstr "ตอบกลับไปยังผู้เขียน..."
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:589
+#, fuzzy, kde-format
+#| msgctxt "Message->"
+#| msgid "Reply to All"
+msgid "Reply To All"
+msgstr "ตอบกลับทั้งหมด"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:595 viewer/viewer_p.cpp:1765
+#, kde-format
+msgid "Properties"
+msgstr "คุณสมบัติ"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:732
+#, kde-format
+msgid "KMail"
+msgstr "KMail"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:733
+#, fuzzy, kde-format
+#| msgid "KDE Email Client"
+msgid "The KDE Mail Client"
+msgstr "โปรแกรมจัดการจดหมายของ KDE"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1279
+#, fuzzy, kde-format
+#| msgid "View Attachment: %1"
+msgctxt "@title:window"
+msgid "View Attachment: %1"
+msgstr "แสดงสิ่งที่แนบมาด้วย: %1"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1481
+#, kde-format
+msgctxt "View->"
+msgid "&Attachments"
+msgstr "สิ่งที่แนบมาด้วย"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1483
+#, kde-format
+msgid "Choose display style of attachments"
+msgstr "เลือกรูปแบบการแสดงสิ่งที่แนบมาด้วย"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1486
+#, kde-format
+msgctxt "View->attachments->"
+msgid "&As Icons"
+msgstr "เป็นไอคอน"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1489
+#, kde-format
+msgid "Show all attachments as icons. Click to see them."
+msgstr "แสดงสิ่งที่แนบมาด้วยเป็นไอคอน คลิ้กเพื่อดูมัน"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1493
+#, kde-format
+msgctxt "View->attachments->"
+msgid "&Smart"
+msgstr "ตามแบบที่กำหนด"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1496
+#, kde-format
+msgid "Show attachments as suggested by sender."
+msgstr "แสดงสิ่งที่แนบมาด้วยตามคำแนะนำของผู้ส่ง"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1500
+#, kde-format
+msgctxt "View->attachments->"
+msgid "&Inline"
+msgstr "แสดงในตัวจดหมาย"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1503
+#, kde-format
+msgid "Show all attachments inline (if possible)"
+msgstr "แสดงสิ่งที่แนบมาด้วยในบรรทัดเนื้อหา (หากเป็นไปได้)"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1507
+#, kde-format
+msgctxt "View->attachments->"
+msgid "&Hide"
+msgstr "ซ่อน"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1510
+#, kde-format
+msgid "Do not show attachments in the message viewer"
+msgstr "ไม่ให้แสดงสิ่งที่แนบมาด้วยในช่องเนื้อหาจดหมาย"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1514
+#, kde-format
+msgctxt "View->attachments->"
+msgid "In Header Only"
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1517
+#, fuzzy, kde-format
+#| msgid "Show all attachments as icons. Click to see them."
+msgid "Show Attachments only in the header of the mail"
+msgstr "แสดงสิ่งที่แนบมาด้วยเป็นไอคอน คลิ้กเพื่อดูมัน"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1522
+#, kde-format
+msgid "&Set Encoding"
+msgstr "ตั้งค่าชุดรหัสอักขระ"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1527 widgets/configurewidget.cpp:43
+#: widgets/configurewidget.cpp:77
+#, kde-format
+msgid "Auto"
+msgstr "อัตโนมัติ"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1537
+#, fuzzy, kde-format
+#| msgid "&Copy To"
+msgid "Copy Text"
+msgstr "ทำสำเนาไปยัง"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1543
+#, fuzzy, kde-format
+#| msgid "Select All Text"
+msgctxt "@action"
+msgid "Select All Text"
+msgstr "เลือกข้อความทั้งหมด"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1549 viewer/viewer_p.cpp:2074
+#, kde-format
+msgid "Copy Link Address"
+msgstr "คัดลอกตำแหน่งเชื่อมโยง"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1554
+#, kde-format
+msgid "Open URL"
+msgstr "เปิดที่อยู่ URL"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1565
+#, kde-format
+msgid "Show Message Structure"
+msgstr "แสดงโครงสร้างของจดหมาย"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1570
+#, fuzzy, kde-format
+#| msgid "&View Source"
+msgctxt "@action"
+msgid "&View Source"
+msgstr "แสดงต้นฉบับ"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1575
+#, fuzzy, kde-format
+#| msgid "&Save message"
+msgid "&Save Message..."
+msgstr "&บันทึกจดหมาย"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1581
+#, fuzzy, kde-format
+#| msgid "&Save as Draft"
+msgctxt "@action"
+msgid "&Save Display Format"
+msgstr "บันทึกเป็นฉบับร่าง"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1585
+#, fuzzy, kde-format
+#| msgid "&Save as Draft"
+msgctxt "@action"
+msgid "&Reset Display Format"
+msgstr "บันทึกเป็นฉบับร่าง"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1592
+#, fuzzy, kde-format
+#| msgid "Scroll Message Up"
+msgctxt "@action"
+msgid "Scroll Message Up"
+msgstr "เลื่อนจดหมายขึ้น"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1597
+#, fuzzy, kde-format
+#| msgid "Scroll Message Down"
+msgctxt "@action"
+msgid "Scroll Message Down"
+msgstr "เลื่อนจดหมายลง"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1602
+#, fuzzy, kde-format
+#| msgid "Scroll Message Up (More)"
+msgctxt "@action"
+msgid "Scroll Message Up (More)"
+msgstr "เลื่อนจดหมายขึ้น (มากกว่าเดิม)"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1607
+#, fuzzy, kde-format
+#| msgid "Scroll Message Down (More)"
+msgctxt "@action"
+msgid "Scroll Message Down (More)"
+msgstr "เลื่อนจดหมายลง (มากกว่าเดิม)"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1617
+#, kde-format
+msgid "Toggle HTML Display Mode"
+msgstr "สลับโหมดแสดงผลแบบ HTML"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1621
+#, kde-format
+msgid "Toggle display mode between HTML and plain text"
+msgstr "สลับโหมดการแสดงผลระหว่างแบบ HTML กับแบบข้อความธรรมดา"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1624
+#, fuzzy, kde-format
+#| msgid "Load External References"
+msgctxt "@action"
+msgid "Load external references"
+msgstr "เรียกส่วนที่อ้างถึงจากภายนอก"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1630
+#, fuzzy, kde-format
+#| msgid "&Copy To"
+msgctxt "@action"
+msgid "Speak Text"
+msgstr "ทำสำเนาไปยัง"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1636
+#, fuzzy, kde-format
+#| msgid "Se&lect..."
+msgctxt "@action"
+msgid "Share Text..."
+msgstr "เลือก..."
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1654
+#, fuzzy, kde-format
+#| msgid "Choose Location"
+msgctxt "@action"
+msgid "Copy Image Location"
+msgstr "เลือกตำแหน่ง"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1660
+#, kde-format
+msgid "&Find in Message..."
+msgstr "ค้นหาในจดหมาย..."
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1669
+#, kde-format
+msgid "Disable Emoticon"
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1735
+#, kde-format
+msgid "Save &As..."
+msgstr "บันทึกเป็น..."
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1743
+#, kde-format
+msgid "Open With..."
+msgstr "เปิดด้วย..."
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1750
+#, kde-format
+msgid "Save All Attachments..."
+msgstr "บันทึกสิ่งที่แนบมาด้วยทั้งหมด..."
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1994
+#, kde-format
+msgid "The network is broken."
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1994 viewer/viewer_p.cpp:1997
+#, kde-format
+msgctxt "@title:window"
+msgid "Check Phishing URL"
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1997
+#, fuzzy, kde-format
+#| msgid "The signature file is not valid"
+msgid "The URL %1 is not valid."
+msgstr "แฟ้มลายเซ็นใช้งานไม่ได้"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:2017
+#, kde-format
+msgid "This web site is a malware, do you want to continue to show it?"
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:2018
+#, kde-format
+msgctxt "@title:window"
+msgid "Malware"
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:2072
+#, fuzzy, kde-format
+#| msgid "Email Address"
+msgid "Copy Email Address"
+msgstr "ที่อยู่อีเมล"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:2155
+#, fuzzy, kde-format
+#| msgid "Message as Plain Text"
+msgctxt "@title:window"
+msgid "Message as Plain Text"
+msgstr "จดหมายเป็นข้อความธรรมดา"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:2726
+#, kde-format
+msgid "URL copied to clipboard."
+msgstr "คัดลอก URL ไปยังคลิปบอร์ดแล้ว"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:2888
+#, fuzzy, kde-format
+#| msgid "Message was signed by %1."
+msgid "Message loading failed: %1."
+msgstr "จดหมายถูกเซ็นกำกับโดย %1"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:2893
+#, fuzzy, kde-format
+#| msgid "Message was signed by %1."
+msgid "Message not found."
+msgstr "จดหมายถูกเซ็นกำกับโดย %1"
+
+#. +> trunk6 stable6
+#: widgets/attachmentdialog.cpp:27
+#, fuzzy, kde-kuit-format
+#| msgid ""
+#| "Open attachment '%1'?\n"
+#| "Note that opening an attachment may compromise your system's security."
+msgctxt "@info"
+msgid ""
+"Open attachment <filename>%1</filename>?<nl/>"
+"Note that opening an attachment may compromise your system's security."
+msgstr ""
+"เปิดแฟ้มที่แนบมาด้วย '%1' หรือไม่ ?\n"
+"ควรจำไว้ว่าการเปิดสิ่งที่แนบมาด้วยบางตัวอาจส่งผลต่อความปลอดภัยของระบบได้"
+
+#. +> trunk6 stable6
+#: widgets/attachmentdialog.cpp:32
+#, fuzzy, kde-format
+#| msgid "Open Attachment?"
+msgctxt "@title:window"
+msgid "Open Attachment?"
+msgstr "เปิดสิ่งที่แนบมาด้วยหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: widgets/attachmentdialog.cpp:39
+#, fuzzy, kde-format
+#| msgid "&Open with '%1'"
+msgid "&Open With '%1'"
+msgstr "เปิดด้วย '%1'"
+
+#. +> trunk6 stable6
+#: widgets/attachmentdialog.cpp:46
+#, fuzzy, kde-format
+#| msgid "Open With..."
+msgid "Open &With..."
+msgstr "เปิดด้วย..."
+
+#. +> trunk6 stable6
+#: widgets/attachmentdialog.cpp:68
+#, kde-format
+msgid "Do not ask again"
+msgstr "ไม่ต้องถามอีก"
+
+#. +> trunk6 stable6
+#: widgets/htmlstatusbar.cpp:108
+#, fuzzy, kde-format
+#| msgid ""
+#| "<qt><b><br />"
+#| "H<br />"
+#| "T<br />"
+#| "M<br />"
+#| "L<br />"
+#| " <br />"
+#| "M<br />"
+#| "e<br />"
+#| "s<br />"
+#| "s<br />"
+#| "a<br />"
+#| "g<br />"
+#| "e</b></qt>"
+msgctxt "'HTML Message' with html linebreaks between each letter and in bold text."
+msgid ""
+"<qt><b><br />"
+"H<br />"
+"T<br />"
+"M<br />"
+"L<br />"
+" <br />"
+"M<br />"
+"e<br />"
+"s<br />"
+"s<br />"
+"a<br />"
+"g<br />"
+"e</b></qt>"
+msgstr ""
+"<qt><b><br />"
+"H<br />"
+"T<br />"
+"M<br />"
+"L<br />"
+" <br />"
+"M<br />"
+"e<br />"
+"s<br />"
+"s<br />"
+"a<br />"
+"g<br />"
+"e</b></qt>"
+
+#. +> trunk6 stable6
+#: widgets/htmlstatusbar.cpp:112
+#, fuzzy, kde-format
+#| msgid ""
+#| "<qt><br />"
+#| "N<br />"
+#| "o<br />"
+#| " <br />"
+#| "H<br />"
+#| "T<br />"
+#| "M<br />"
+#| "L<br />"
+#| " <br />"
+#| "M<br />"
+#| "e<br />"
+#| "s<br />"
+#| "s<br />"
+#| "a<br />"
+#| "g<br />"
+#| "e</qt>"
+msgctxt "'No HTML Message' with html linebreaks between each letter."
+msgid ""
+"<qt><br />"
+"N<br />"
+"o<br />"
+" <br />"
+"H<br />"
+"T<br />"
+"M<br />"
+"L<br />"
+" <br />"
+"M<br />"
+"e<br />"
+"s<br />"
+"s<br />"
+"a<br />"
+"g<br />"
+"e</qt>"
+msgstr ""
+"<qt><br />"
+"ไ<br />"
+"ม่<br />"
+"ใ<br />"
+"ช่<br />"
+"จ<br />"
+"ด<br />"
+"ห<br />"
+"ม<br />"
+"า<br />"
+"ย<br />"
+"<br />"
+"H<br />"
+"T<br />"
+"M<br />"
+"L<br />"
+"</qt>"
+
+#. +> trunk6 stable6
+#: widgets/htmlstatusbar.cpp:117
+#, fuzzy, kde-format
+#| msgid ""
+#| "<qt><b><br />"
+#| "H<br />"
+#| "T<br />"
+#| "M<br />"
+#| "L<br />"
+#| " <br />"
+#| "M<br />"
+#| "e<br />"
+#| "s<br />"
+#| "s<br />"
+#| "a<br />"
+#| "g<br />"
+#| "e</b></qt>"
+msgctxt "'Plain Message' with html linebreaks between each letter."
+msgid ""
+"<qt><br />"
+"P<br />"
+"l<br />"
+"a<br />"
+"i<br />"
+"n<br />"
+" <br />"
+"M<br />"
+"e<br />"
+"s<br />"
+"s<br />"
+"a<br />"
+"g<br />"
+"e<br />"
+"</qt>"
+msgstr ""
+"<qt><b><br />"
+"H<br />"
+"T<br />"
+"M<br />"
+"L<br />"
+" <br />"
+"M<br />"
+"e<br />"
+"s<br />"
+"s<br />"
+"a<br />"
+"g<br />"
+"e</b></qt>"
+
+#. +> trunk6 stable6
+#: widgets/htmlstatusbar.cpp:121
+#, fuzzy, kde-format
+#| msgid ""
+#| "<qt><br />"
+#| "N<br />"
+#| "o<br />"
+#| " <br />"
+#| "H<br />"
+#| "T<br />"
+#| "M<br />"
+#| "L<br />"
+#| " <br />"
+#| "M<br />"
+#| "e<br />"
+#| "s<br />"
+#| "s<br />"
+#| "a<br />"
+#| "g<br />"
+#| "e</qt>"
+msgctxt "'Calendar Message' with html linebreaks between each letter."
+msgid ""
+"<qt><br />"
+"C<br />"
+"a<br />"
+"l<br />"
+"e<br />"
+"n<br />"
+"d<br />"
+"a<br />"
+"r<br />"
+" <br />"
+"M<br />"
+"e<br />"
+"s<br />"
+"s<br />"
+"a<br />"
+"g<br />"
+"e<br />"
+"</qt>"
+msgstr ""
+"<qt><br />"
+"ไ<br />"
+"ม่<br />"
+"ใ<br />"
+"ช่<br />"
+"จ<br />"
+"ด<br />"
+"ห<br />"
+"ม<br />"
+"า<br />"
+"ย<br />"
+"<br />"
+"H<br />"
+"T<br />"
+"M<br />"
+"L<br />"
+"</qt>"
+
+#. +> trunk6 stable6
+#: widgets/htmlstatusbar.cpp:135
+#, fuzzy, kde-format
+#| msgid "Click to toggle between HTML and plain text."
+msgid "Click to toggle between HTML, plain text and calendar."
+msgstr "คลิกเพื่อสลับโหมดแบบ HTML กับแบบข้อความธรรมดา"
+
+#. +> trunk6 stable6
+#: widgets/invitationsettings.cpp:70
+#, kde-format
+msgid ""
+"<qt>Invitations are normally sent as attachments to a mail. This switch changes the invitation mails to be sent in the text of the mail instead; this is necessary to send invitations and replies to Microsoft Outlook.<br />"
+"But, when you do this, you no longer get descriptive text that mail programs can read; so, to people who have email programs that do not understand the invitations, the resulting messages look very odd.<br />"
+"People that have email programs that do understand invitations will still be able to work with this.</qt>"
+msgstr ""
+
+#. +> trunk6 stable6
+#: widgets/mailsourceviewtextbrowserwidget.cpp:133
+#, kde-format
+msgid "Speak Text"
+msgstr ""
+
+#. +> trunk6 stable6
+#: widgets/mailsourcewebengineviewer.cpp:53
+#, fuzzy, kde-format
+#| msgid "&View Source"
+msgctxt "Unchanged mail message"
+msgid "Raw Source"
+msgstr "แสดงต้นฉบับ"
+
+#. +> trunk6 stable6
+#: widgets/mailsourcewebengineviewer.cpp:54
+#, kde-format
+msgid "Raw, unmodified mail as it is stored on the filesystem or on the server"
+msgstr ""
+
+#. +> trunk6 stable6
+#: widgets/mailsourcewebengineviewer.cpp:57
+#, fuzzy, kde-format
+#| msgid "&View Source"
+msgctxt "Mail message as shown, in HTML format"
+msgid "HTML Source"
+msgstr "แสดงต้นฉบับ"
+
+#. +> trunk6 stable6
+#: widgets/mailsourcewebengineviewer.cpp:58
+#, kde-format
+msgid "HTML code for displaying the message to the user"
+msgstr ""
+
+#. +> trunk6 stable6
+#: widgets/opensavedfilefolderwidget.cpp:26
+#, kde-format
+msgctxt "@action - For we don't know if it's one or many attachments"
+msgid "Open folder where attachment was saved"
+msgstr ""
+
+#. +> trunk6 stable6
+#: widgets/opensavedfilefolderwidget.cpp:27
+#, fuzzy, kde-format
+#| msgid "Open Full Search"
+msgctxt "@action"
+msgid "Open File"
+msgstr "เปิดกล่องการค้นหา"
+
+#. +> trunk6 stable6
+#: widgets/opensavedfilefolderwidget.cpp:62
+#, kde-format
+msgctxt "@action"
+msgid "Open folder where attachment was saved"
+msgid_plural "Open folder where attachments were saved"
+msgstr[0] ""
+
+#. +> trunk6 stable6
+#: widgets/opensavedfilefolderwidget.cpp:65
+#, kde-format
+msgctxt "@action"
+msgid "Open folder where PDF file was saved"
+msgstr ""
+
+#. +> trunk6 stable6
+#: widgets/opensavedfilefolderwidget.cpp:78
+#, fuzzy, kde-format
+#| msgid "Unable to edit attachment"
+msgid "KMail was unable to open the attachment."
+msgstr "ไม่สามารถแก้ไขสิ่งที่แนบมาด้วยได้"
+
+#. +> trunk6 stable6
+#: widgets/shownextmessagewidget.cpp:15
+#, fuzzy, kde-format
+#| msgid "&Next Message"
+msgctxt "@action:button"
+msgid "Next Message"
+msgstr "ฉบับถัดไป"
+
+#. +> trunk6 stable6
+#: widgets/shownextmessagewidget.cpp:16
+#, fuzzy, kde-format
+#| msgid "Previous Unread &Message"
+msgctxt "@action:button"
+msgid "Previous Message"
+msgstr "ฉบับที่ยังไม่ได้อ่านก่อนหน้านี้"

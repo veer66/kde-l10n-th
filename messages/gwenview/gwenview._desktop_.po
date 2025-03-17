@@ -1,0 +1,60 @@
+# translation of desktop_kdegraphics.po to Thai
+# Narachai Sakorn <narachai@opentle.org>, 2004.
+# Sahachart Anukulkitch <drrider@gmail.com>, 2006.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdegraphics\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-12-15 13:19+0100\n"
+"PO-Revision-Date: 2010-03-27 14:21+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#: app/org.kde.gwenview.desktop.cmake:2
+msgctxt "Name"
+msgid "Gwenview"
+msgstr "เกวนวิว"
+
+#. +> trunk6 stable6
+#: app/org.kde.gwenview.desktop.cmake:76
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Image Viewer"
+msgctxt "GenericName"
+msgid "Image Viewer"
+msgstr "เครื่องมือแสดงภาพ"
+
+#. +> trunk6 stable6
+#: app/org.kde.gwenview.desktop.cmake:120
+msgctxt "Comment"
+msgid "A simple image viewer"
+msgstr "เครื่องมือแสดงภาพแบบพื้นฐาน"
+
+#. +> trunk6 stable6
+#: importer/gwenview_importer.desktop:11
+#: importer/gwenview_importer_camera.desktop:10
+msgctxt "Name"
+msgid "Download Photos with Gwenview"
+msgstr "ดาวน์โหลดภาพถ่ายด้วยเกวนวิว"
+
+#. +> trunk6 stable6
+#: importer/org.kde.gwenview_importer.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Gwenview Image Viewer"
+msgctxt "Name"
+msgid "Gwenview Importer"
+msgstr "เกวนวิว - เครื่องมือแสดงภาพ"
+
+#. +> trunk6 stable6
+#: part/gvpart.desktop.cmake:3
+msgctxt "Name"
+msgid "Gwenview Image Viewer"
+msgstr "เกวนวิว - เครื่องมือแสดงภาพ"

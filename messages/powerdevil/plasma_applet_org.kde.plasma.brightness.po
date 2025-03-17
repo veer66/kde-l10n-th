@@ -1,0 +1,316 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: powerdevil\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-02-27 09:48+0100\n"
+"PO-Revision-Date: 2025-03-17 14:55+0700\n"
+"Last-Translator: Thai Translator <none>\n"
+"Language-Team: Thai <kde-i18n-docs@kde.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#: package/contents/ui/BrightnessItem.qml:30
+#, kde-format
+msgctxt "Backlight on or off"
+msgid "Off"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/BrightnessItem.qml:31
+#, kde-format
+msgctxt "Brightness level"
+msgid "Low"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/BrightnessItem.qml:32
+#, kde-format
+msgctxt "Brightness level"
+msgid "Medium"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/BrightnessItem.qml:33
+#, kde-format
+msgctxt "Brightness level"
+msgid "High"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/BrightnessItem.qml:34
+#, kde-format
+msgctxt "Backlight on or off"
+msgid "On"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/BrightnessItem.qml:46
+#, kde-format
+msgctxt "Placeholder is brightness percentage"
+msgid "%1%"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/BrightnessItem.qml:90
+#, kde-format
+msgctxt "Display brightness"
+msgid "Brightness"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/BrightnessItem.qml:113
+#, kde-format
+msgctxt "Placeholder is display name"
+msgid "Display Brightness - %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/KeyboardColorItem.qml:77
+#, kde-format
+msgid "Follow accent color"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/main.qml:96
+#, kde-format
+msgid "Brightness and Color"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/main.qml:136
+#, kde-format
+msgid "Screen brightness at %1%"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/main.qml:137
+#, kde-format
+msgctxt "Brightness of named display at percentage"
+msgid "Brightness of %1 at %2%"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/main.qml:142
+#, kde-format
+msgid "Keyboard brightness at %1%"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/main.qml:148
+#, kde-format
+msgctxt "Status"
+msgid "Night Light suspended; middle-click to resume"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/main.qml:150
+#, kde-format
+msgctxt "Status"
+msgid "Night Light suspended"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/main.qml:155
+#, kde-format
+msgctxt "Status"
+msgid "Night Light at day color temperature"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/main.qml:157
+#, kde-format
+msgctxt "Status"
+msgid "Night Light at night color temperature"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/main.qml:162
+#, kde-format
+msgctxt "Status; placeholder is a time"
+msgid "Night Light in morning transition (complete by %1)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/main.qml:164
+#, kde-format
+msgctxt "Status; placeholder is a time"
+msgid "Night Light in evening transition (complete by %1)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/main.qml:182
+#, kde-format
+msgctxt "Status; placeholder is a time"
+msgid "Night Light evening transition scheduled for %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/main.qml:184
+#, kde-format
+msgctxt "Status; placeholder is a time"
+msgid "Night Light morning transition scheduled for %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/main.qml:188
+#, kde-format
+msgid "Scroll to adjust screen brightness"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/main.qml:191
+#, kde-format
+msgid "Middle-click to suspend Night Light"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/main.qml:274
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Configure Night Light…"
+msgstr ""
+
+#. +> trunk6
+#: package/contents/ui/main.qml:280
+#, kde-format
+msgid "&Configure Power Management…"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/NightLightItem.qml:77
+#, kde-format
+msgctxt "Night light status"
+msgid "Suspended"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/NightLightItem.qml:80
+#, kde-format
+msgctxt "Night light status"
+msgid "Unavailable"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/NightLightItem.qml:83
+#, kde-format
+msgctxt "Night light status"
+msgid "Not enabled"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/NightLightItem.qml:86
+#, kde-format
+msgctxt "Night light status"
+msgid "Not running"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/NightLightItem.qml:89
+#, kde-format
+msgctxt "Night light status"
+msgid "On"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/NightLightItem.qml:92
+#, kde-format
+msgctxt "Night light phase"
+msgid "Morning Transition"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/NightLightItem.qml:94
+#, kde-format
+msgctxt "Night light phase"
+msgid "Day"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/NightLightItem.qml:96
+#, kde-format
+msgctxt "Night light phase"
+msgid "Evening Transition"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/NightLightItem.qml:98
+#, kde-format
+msgctxt "Night light phase"
+msgid "Night"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/NightLightItem.qml:109
+#, kde-format
+msgctxt "Placeholder is screen color temperature"
+msgid "%1K"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/NightLightItem.qml:124
+#, kde-format
+msgctxt "@action:button Night Light"
+msgid "Suspend"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/NightLightItem.qml:149
+#, kde-format
+msgid "Configure…"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/NightLightItem.qml:149
+#, kde-format
+msgid "Enable and Configure…"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/NightLightItem.qml:177
+#, kde-format
+msgctxt "Label for a time"
+msgid "Transition to day complete by:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/NightLightItem.qml:179
+#, kde-format
+msgctxt "Label for a time"
+msgid "Transition to night scheduled for:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/NightLightItem.qml:181
+#, kde-format
+msgctxt "Label for a time"
+msgid "Transition to night complete by:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/NightLightItem.qml:183
+#, kde-format
+msgctxt "Label for a time"
+msgid "Transition to day scheduled for:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/PopupDialog.qml:125
+#, kde-format
+msgid "Keyboard Backlight"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/PopupDialog.qml:158
+#, kde-format
+msgid "Keyboard Color"
+msgstr ""
+
+#. +> trunk6 stable6
+#: package/contents/ui/PopupDialog.qml:169
+#, kde-format
+msgid "Night Light"
+msgstr ""

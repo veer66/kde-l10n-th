@@ -1,0 +1,2378 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: haruna\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-03-10 09:53+0100\n"
+"PO-Revision-Date: 2025-03-17 14:53+0700\n"
+"Last-Translator: Thai Translator <none>\n"
+"Language-Team: Thai <kde-i18n-docs@kde.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#. +> trunk6
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#. +> trunk6
+#: src/application.cpp:113
+#, kde-format
+msgctxt "application title/display name"
+msgid "Haruna"
+msgstr ""
+
+#. +> trunk6
+#: src/application.cpp:115
+#, kde-format
+msgctxt "@title"
+msgid "Media player"
+msgstr ""
+
+#. +> trunk6
+#: src/application.cpp:117
+#, kde-format
+msgctxt "copyright statement"
+msgid "(c) 2019-2025"
+msgstr ""
+
+#. +> trunk6
+#: src/application.cpp:122
+#, kde-format
+msgctxt "@info:credit"
+msgid "George Florea Bănuș"
+msgstr ""
+
+#. +> trunk6
+#: src/application.cpp:123
+#, kde-format
+msgctxt "@info:credit"
+msgid "Developer"
+msgstr ""
+
+#. +> trunk6
+#: src/application.cpp:136
+#, kde-format
+msgid "Feature-rich command-line audio/video downloader"
+msgstr ""
+
+#. +> trunk6
+#: src/application.cpp:146
+#, kde-format
+msgid "Command line video player"
+msgstr ""
+
+#. +> trunk6
+#: src/application.cpp:152
+#, kde-format
+msgid "Cross-platform solution to record, convert and stream audio and video"
+msgstr ""
+
+#. +> trunk6
+#: src/application.cpp:164
+#, kde-format
+msgctxt "@info:shell"
+msgid "File to open"
+msgstr ""
+
+#. +> trunk6
+#: src/application.cpp:168
+#, kde-format
+msgctxt "@info:shell"
+msgid "Allows to temporarily override the ytdl format selection setting. Will be overwritten if the setting is changed through the GUI"
+msgstr ""
+
+#. +> trunk6
+#: src/application.cpp:170
+#, kde-format
+msgctxt "@info:shell"
+msgid "bestvideo+bestaudio/best"
+msgstr ""
+
+#. +> trunk6
+#: src/lockmanager.cpp:34
+#, kde-format
+msgctxt "@info reason for blocking sleep and screen slocking"
+msgid "Playing media file"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:24
+#, kde-format
+msgctxt "@action"
+msgid "Open Actions Dialog"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:30
+#, kde-format
+msgctxt "@action"
+msgid "About Haruna"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:37
+#, kde-format
+msgctxt "@action"
+msgid "Report bug"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:44
+#, kde-format
+msgctxt "@action"
+msgid "Sponsor Haruna"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:51
+#, kde-format
+msgctxt "@action"
+msgid "Audio Cycle Up"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:58
+#, kde-format
+msgctxt "@action"
+msgid "Audio Cycle Down"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:65
+#, kde-format
+msgctxt "@action"
+msgid "Settings"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:72
+#, kde-format
+msgctxt "@action"
+msgid "Configure Keyboard Shortcuts"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:79
+#, kde-format
+msgctxt "@action"
+msgid "Exit Fullscreen"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:86
+#, kde-format
+msgctxt "@action"
+msgid "Frame Step Forward"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:94
+#, kde-format
+msgctxt "@action"
+msgid "Frame Step Backward"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:102
+#, kde-format
+msgctxt "@action"
+msgid "Load Last Played File"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:109
+#, kde-format
+msgctxt "@action"
+msgid "Mute"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:116
+#, kde-format
+msgctxt "@action"
+msgid "Open Context Menu"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:120
+#, kde-format
+msgctxt "@action"
+msgid "Opens and closes the context menu at the position of the mouse pointer"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:124
+#, kde-format
+msgctxt "@action"
+msgid "Open File"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:131
+#, kde-format
+msgctxt "@action"
+msgid "Add External Subtitle…"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:138
+#, kde-format
+msgctxt "@action"
+msgid "Open URL"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:145
+#, kde-format
+msgctxt "@action"
+msgid "Playback Speed Increase"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:152
+#, kde-format
+msgctxt "@action"
+msgid "Playback Speed Decrease"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:159
+#, kde-format
+msgctxt "@action"
+msgid "Playback Speed Reset"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:166
+#, kde-format
+msgctxt "@action"
+msgid "Play/Pause"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:173
+#, kde-format
+msgctxt "@action"
+msgid "Play Next"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:180
+#, kde-format
+msgctxt "@action"
+msgid "Play Previous"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:187
+#, kde-format
+msgctxt "@action"
+msgid "Quit"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:194
+#, kde-format
+msgctxt "@action"
+msgid "Restart Playback"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:201
+#, kde-format
+msgctxt "@action"
+msgid "Seek Small Step Forward"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:208
+#, kde-format
+msgctxt "@action"
+msgid "Seek Small Step Backward"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:215
+#, kde-format
+msgctxt "@action"
+msgid "Seek Medium Step Forward"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:222
+#, kde-format
+msgctxt "@action"
+msgid "Seek Medium Step Backward"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:229
+#, kde-format
+msgctxt "@action"
+msgid "Seek Big Step Forward"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:236
+#, kde-format
+msgctxt "@action"
+msgid "Seek Big Step Backward"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:243
+#, kde-format
+msgctxt "@action"
+msgid "Seek Next Chapter"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:250
+#, kde-format
+msgctxt "@action"
+msgid "Seek Previous Chapter"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:257
+#, kde-format
+msgctxt "@action"
+msgid "Seek To Next Subtitle"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:264
+#, kde-format
+msgctxt "@action"
+msgid "Seek To Previous Subtitle"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:271
+#, kde-format
+msgctxt "@action"
+msgid "Seek To Watch Later Position"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:278
+#, kde-format
+msgctxt "@action"
+msgid "Set Loop"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:285
+#, kde-format
+msgctxt "@action"
+msgid "Screenshot"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:292
+#, kde-format
+msgctxt "@action"
+msgid "Subtitle Toggle"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:299
+#, kde-format
+msgctxt "@action"
+msgid "Subtitle Increase Font Size"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:306
+#, kde-format
+msgctxt "@action"
+msgid "Subtitle Decrease Font Size"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:313
+#, kde-format
+msgctxt "@action"
+msgid "Subtitle Move Up"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:320
+#, kde-format
+msgctxt "@action"
+msgid "Subtitle Move Down"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:327
+#, kde-format
+msgctxt "@action"
+msgid "Subtitle Quicken"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:334
+#, kde-format
+msgctxt "@action"
+msgid "Subtitle Delay"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:341
+#, kde-format
+msgctxt "@action"
+msgid "Subtitle Cycle Up"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:348
+#, kde-format
+msgctxt "@action"
+msgid "Subtitle Cycle Down"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:355
+#, kde-format
+msgctxt "@action"
+msgid "Toggle Deinterlacing"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:362
+#, kde-format
+msgctxt "@action"
+msgid "Toggle Fullscreen"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:369
+#, kde-format
+msgctxt "@action"
+msgid "Toggle Menu Bar"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:376
+#, kde-format
+msgctxt "@action"
+msgid "Toggle Header"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:383 src/qml/Settings/SettingsWindow.qml:104
+#, kde-format
+msgctxt "@action"
+msgid "Playlist"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:390
+#, kde-format
+msgctxt "@action"
+msgid "Video Move Left"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:397
+#, kde-format
+msgctxt "@action"
+msgid "Video Move Right"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:404
+#, kde-format
+msgctxt "@action"
+msgid "Video Move Up"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:411
+#, kde-format
+msgctxt "@action"
+msgid "Video Move Down"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:418
+#, kde-format
+msgctxt "@action"
+msgid "Rotate clockwise"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:425
+#, kde-format
+msgctxt "@action"
+msgid "Rotate counter clockwise"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:432
+#, kde-format
+msgctxt "@action"
+msgid "Volume Up"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:439
+#, kde-format
+msgctxt "@action"
+msgid "Volume Down"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:446
+#, kde-format
+msgctxt "@action"
+msgid "Zoom In"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:453
+#, kde-format
+msgctxt "@action"
+msgid "Zoom Out"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:460
+#, kde-format
+msgctxt "@action"
+msgid "Zoom Reset"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:467
+#, kde-format
+msgctxt "@action"
+msgid "Contrast Up"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:474
+#, kde-format
+msgctxt "@action"
+msgid "Contrast Down"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:481
+#, kde-format
+msgctxt "@action"
+msgid "Contrast Reset"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:488
+#, kde-format
+msgctxt "@action"
+msgid "Brightness Up"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:495
+#, kde-format
+msgctxt "@action"
+msgid "Brightness Down"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:502
+#, kde-format
+msgctxt "@action"
+msgid "Brightness Reset"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:509
+#, kde-format
+msgctxt "@action"
+msgid "Gamma Up"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:516
+#, kde-format
+msgctxt "@action"
+msgid "Gamma Down"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:523
+#, kde-format
+msgctxt "@action"
+msgid "Gamma Reset"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:530
+#, kde-format
+msgctxt "@action"
+msgid "Saturation Up"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:537
+#, kde-format
+msgctxt "@action"
+msgid "Saturation Down"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:544
+#, kde-format
+msgctxt "@action"
+msgid "Saturation Reset"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:693
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The chosen shortcut conflicts with the shortcut of the <b>%1</b> action.<br>"
+"<br>"
+"Do you want to reassign the shortcut?"
+msgstr ""
+
+#. +> trunk6
+#: src/models/actionsmodel.cpp:699
+#, kde-format
+msgctxt "@action:button"
+msgid "Reassign"
+msgstr ""
+
+#. +> trunk6
+#: src/mpv/mpvitem.cpp:320
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Could not play: %1"
+msgstr ""
+
+#. +> trunk6
+#: src/mpv/mpvitem.cpp:403 src/mpv/mpvitem.cpp:405
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Subtitle timing: %1 seconds"
+msgstr ""
+
+#. +> trunk6
+#: src/mpv/mpvitem.cpp:455
+#, kde-format
+msgctxt "@action The \"None\" subtitle track is used to clear/unset selected track"
+msgid "None"
+msgstr ""
+
+#. +> trunk6
+#: src/mpv/mpvitem.cpp:494
+#, kde-format
+msgctxt "@info:tooltip osd"
+msgid "Screenshot failed"
+msgstr ""
+
+#. +> trunk6
+#: src/mpv/mpvitem.cpp:499
+#, kde-format
+msgctxt "@info:tooltip osd"
+msgid "Screenshot taken"
+msgstr ""
+
+#. +> trunk6
+#: src/mpv/mpvitem.cpp:501
+#, kde-format
+msgctxt "@info:tooltip osd"
+msgid "Screenshot: %1"
+msgstr ""
+
+#. +> trunk6
+#: src/mpv/mpvitem.cpp:528
+#, kde-format
+msgctxt "Error message when video can't be decoded/played"
+msgid "No video track detected, most likely the video track can't be decoded/played due to missing codecs"
+msgstr ""
+
+#. +> trunk6
+#: src/mpv/mpvitem.cpp:561
+#, kde-format
+msgctxt "@info:tooltip osd"
+msgid "Skipped chapter: %1"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Actions.qml:93 src/qml/Actions.qml:111
+msgctxt "@info:tooltip"
+msgid "Audio: %1 %2"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Actions.qml:164
+msgctxt "osd message when trying to open subtile selection dialog while no file is open"
+msgid "Can't load subtitle when no file is open"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Actions.qml:183 src/qml/Actions.qml:189 src/qml/Actions.qml:194
+msgctxt "@info:tooltip"
+msgid "Playback speed: %1"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Actions.qml:289
+msgctxt "@info:tooltip"
+msgid "Loop start: %1"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Actions.qml:295
+msgctxt "@info:tooltip"
+msgid "Loop: %1 - %2"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Actions.qml:301
+msgctxt "@info:tooltip"
+msgid "Loop cleared"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Actions.qml:321
+msgctxt "@info:tooltip"
+msgid "Subtitles off"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Actions.qml:321
+msgctxt "@info:tooltip"
+msgid "Subtitles on"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Actions.qml:330 src/qml/Actions.qml:342
+msgctxt "@info:tooltip"
+msgid "Subtitle: None"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Actions.qml:334 src/qml/Actions.qml:346
+msgctxt "@info:tooltip"
+msgid "Subtitle: %1 %2"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Actions.qml:353 src/qml/Actions.qml:359
+msgctxt "@info:tooltip"
+msgid "Subtitle scale: %1"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Actions.qml:373
+msgctxt "@info:tooltip"
+msgid "Deinterlace: %1"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Actions.qml:438 src/qml/Actions.qml:444
+msgctxt "@info:tooltip"
+msgid "Zoom: %1"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Actions.qml:449
+msgctxt "@info:tooltip"
+msgid "Zoom: 0"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Actions.qml:456 src/qml/Actions.qml:462
+msgctxt "@info:tooltip"
+msgid "Contrast: %1"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Actions.qml:467
+msgctxt "@info:tooltip"
+msgid "Contrast: 0"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Actions.qml:473 src/qml/Actions.qml:479
+msgctxt "@info:tooltip"
+msgid "Brightness: %1"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Actions.qml:484
+msgctxt "@info:tooltip"
+msgid "Brightness: 0"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Actions.qml:490 src/qml/Actions.qml:496
+msgctxt "@info:tooltip"
+msgid "Gamma: %1"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Actions.qml:501
+msgctxt "@info:tooltip"
+msgid "Gamma: 0"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Actions.qml:507 src/qml/Actions.qml:513
+msgctxt "@info:tooltip"
+msgid "Saturation: %1"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Actions.qml:518
+msgctxt "@info:tooltip"
+msgid "Saturation: 0"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Footer.qml:147
+msgctxt "@info:tooltip"
+msgid "Start Playback"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Footer.qml:147
+msgctxt "@info:tooltip"
+msgid "Pause Playback"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Footer.qml:163
+msgctxt "@info:tooltip"
+msgid "Play previous file"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Footer.qml:179
+msgctxt "@info:tooltip"
+msgid "Play next file"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Footer.qml:243
+msgctxt "@info:tooltip"
+msgid "Remaining: %1"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Haruna/Components/ColorPickerButton.qml:42
+msgctxt "@info:tooltip"
+msgid "Select a color"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Haruna/Components/ColorPickerButton.qml:49
+msgctxt "@title:window"
+msgid "Select a color"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Haruna/Components/HamburgerMenu.qml:62
+msgctxt "@action:inmenu"
+msgid "Recent Files"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Haruna/Components/HamburgerMenu.qml:83
+#: src/qml/Menus/Global/GlobalSubtitlesMenu.qml:25
+#: src/qml/Menus/SubtitlesMenu.qml:23
+msgctxt "@title:menu"
+msgid "Primary Subtitle"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Haruna/Components/HamburgerMenu.qml:89
+#: src/qml/Menus/Global/GlobalSubtitlesMenu.qml:59
+#: src/qml/Menus/SubtitlesMenu.qml:29
+msgctxt "@title:menu"
+msgid "Secondary Subtitle"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Haruna/Components/HamburgerMenu.qml:98
+msgctxt "@title:menu"
+msgid "Audio Track"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Haruna/Components/HamburgerMenu.qml:121
+msgctxt "@action:inmenu"
+msgid "&More"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Haruna/Components/InputPopup.qml:31
+msgctxt "@info"
+msgid "Neither <a href=\"https://github.com/yt-dlp/yt-dlp\">yt-dlp</a> nor <a href=\"https://github.com/ytdl-org/youtube-dl\">youtube-dl</a> was found."
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Haruna/Components/SubtitlesFolders.qml:28
+msgctxt "@title"
+msgid "Load subtitles from"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Haruna/Components/SubtitlesFolders.qml:105
+msgctxt "@action:button"
+msgid "Confirm deletion"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Haruna/Components/SubtitlesFolders.qml:116
+msgctxt "@info:tooltip"
+msgid "Delete this folder from list"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Haruna/Components/SubtitlesFolders.qml:132
+msgctxt "@info:tooltip"
+msgid "Save changes"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Haruna/Components/SubtitlesFolders.qml:142
+msgid "No folder set"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Haruna/Components/SubtitlesFolders.qml:160
+msgctxt "@action:button"
+msgid "Add new folder"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Haruna/Components/SubtitlesFolders.qml:168
+msgctxt "@info:tooltip add new sutbtitle folder setting"
+msgid "Add a folder in which to look for subtitles."
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Haruna/Components/SubtitlesFolders.qml:177
+msgctxt "@label:check"
+msgid "Search subtitles recursively"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Haruna/Components/SubtitlesFolders.qml:194
+msgctxt "@info:tooltip"
+msgid ""
+"Subtitles are searched recursively in the \"%1\" setting\n"
+"Only relative folders are searched"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Header.qml:78
+msgctxt "@action:intoolbar"
+msgid "Subtitles"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Header.qml:102
+msgctxt "@action:intoolbar"
+msgid "Audio"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/HProgressBar.qml:43
+msgctxt "@info:tooltip"
+msgid "Open chapters menu"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/HProgressBar.qml:282
+msgctxt "@action:inmenu"
+msgid "Skip Chapters"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/HProgressBar.qml:290
+msgctxt "@info:tooltip"
+msgid ""
+"Automatically skips chapters containing certain words/characters.\n"
+"Check 'Playback' settings for more details"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Main.qml:29
+msgctxt "@title:window"
+msgid "Haruna"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Main.qml:301 src/qml/PlayList.qml:394
+#: src/qml/Settings/VideoSettings.qml:70
+msgctxt "@title:window"
+msgid "Select file"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Main.qml:320
+msgctxt "@title:window"
+msgid "Select subtitles file"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Main.qml:340
+msgctxt "@action:button"
+msgid "Open"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Menus/AudioMenu.qml:18 src/qml/Menus/Global/GlobalAudioMenu.qml:20
+msgctxt "@title:menu"
+msgid "&Audio"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Menus/AudioMenu.qml:26 src/qml/Menus/Global/GlobalAudioMenu.qml:25
+msgctxt "@title:menu"
+msgid "&Track"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Menus/ContextMenu.qml:21
+msgctxt "@title:menu"
+msgid "Playback speed"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Menus/FileMenu.qml:20 src/qml/Menus/Global/GlobalFileMenu.qml:19
+msgctxt "@title:menu"
+msgid "&File"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Menus/FileMenu.qml:32 src/qml/Menus/Global/GlobalFileMenu.qml:42
+msgctxt "@title:menu"
+msgid "Recent Files"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Menus/FileMenu.qml:56 src/qml/Menus/Global/GlobalFileMenu.qml:67
+msgctxt "@action:inmenu"
+msgid "Clear List"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Menus/Global/GlobalHelpMenu.qml:12 src/qml/Menus/HelpMenu.qml:12
+msgctxt "@title:menu"
+msgid "&Help"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Menus/Global/GlobalPlaybackMenu.qml:12
+#: src/qml/Menus/PlaybackMenu.qml:12
+msgctxt "@title:menu"
+msgid "&Playback"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Menus/Global/GlobalPlaybackMenu.qml:67
+#: src/qml/Menus/PlaybackMenu.qml:30
+msgctxt "@title:menu"
+msgid "Seek"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Menus/Global/GlobalSettingsMenu.qml:17
+#: src/qml/Menus/SettingsMenu.qml:17
+msgctxt "@title:menu"
+msgid "&Settings"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Menus/Global/GlobalSettingsMenu.qml:20
+#: src/qml/Menus/SettingsMenu.qml:20
+msgctxt "@action:inmenu"
+msgid "General"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Menus/Global/GlobalSettingsMenu.qml:26
+#: src/qml/Menus/SettingsMenu.qml:26
+msgctxt "@action:inmenu"
+msgid "Playback"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Menus/Global/GlobalSettingsMenu.qml:32
+#: src/qml/Menus/SettingsMenu.qml:32
+msgctxt "@action:inmenu"
+msgid "Video"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Menus/Global/GlobalSettingsMenu.qml:38
+#: src/qml/Menus/SettingsMenu.qml:38
+msgctxt "@action:inmenu"
+msgid "Audio"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Menus/Global/GlobalSettingsMenu.qml:44
+#: src/qml/Menus/SettingsMenu.qml:44
+msgctxt "@action:inmenu"
+msgid "Subtitles"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Menus/Global/GlobalSettingsMenu.qml:50
+#: src/qml/Menus/SettingsMenu.qml:50
+msgctxt "@action:inmenu"
+msgid "Playlist"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Menus/Global/GlobalSettingsMenu.qml:56
+#: src/qml/Menus/SettingsMenu.qml:56
+msgctxt "@action:inmenu"
+msgid "Mouse"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Menus/Global/GlobalSettingsMenu.qml:62
+#: src/qml/Menus/SettingsMenu.qml:62
+msgctxt "@action:inmenu"
+msgid "Shortcuts"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Menus/Global/GlobalSettingsMenu.qml:69
+#: src/qml/Menus/SettingsMenu.qml:69
+msgctxt "@action:inmenu"
+msgid "Custom Commands"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Menus/Global/GlobalSettingsMenu.qml:75
+#: src/qml/Menus/SettingsMenu.qml:75
+msgctxt "@action:inmenu"
+msgid "Debug"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Menus/Global/GlobalSettingsMenu.qml:81
+#: src/qml/Menus/SettingsMenu.qml:81
+msgctxt "@action:inmenu"
+msgid "About"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Menus/Global/GlobalSubtitlesMenu.qml:20
+#: src/qml/Menus/SubtitlesMenu.qml:18
+msgctxt "@title:menu"
+msgid "&Subtitles"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Menus/Global/GlobalVideoMenu.qml:12 src/qml/Menus/VideoMenu.qml:12
+msgctxt "@title:menu"
+msgid "&Video"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Menus/Global/GlobalVideoMenu.qml:81 src/qml/Menus/VideoMenu.qml:27
+msgctxt "@title:menu"
+msgid "Adjustments"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Menus/Global/GlobalViewMenu.qml:15 src/qml/Menus/ViewMenu.qml:15
+msgctxt "@title:menu"
+msgid "&View"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Menus/Global/GlobalViewMenu.qml:28 src/qml/Menus/ViewMenu.qml:24
+msgctxt "@action:inmenu"
+msgid "Hide Menubar"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Menus/Global/GlobalViewMenu.qml:30 src/qml/Menus/ViewMenu.qml:26
+msgctxt "@action:inmenu"
+msgid "Show Menubar"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Menus/Global/GlobalViewMenu.qml:41 src/qml/Menus/ViewMenu.qml:35
+msgctxt "@action:inmenu"
+msgid "Hide Toolbar"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Menus/Global/GlobalViewMenu.qml:43 src/qml/Menus/ViewMenu.qml:37
+msgctxt "@action:inmenu"
+msgid "Show Toolbar"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/MpvVideo.qml:31
+msgctxt "@info:tooltip"
+msgid "Volume: %1"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/PlayList.qml:69
+msgctxt "@action:button"
+msgid "Open playlist"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/PlayList.qml:78
+msgctxt "@action:button"
+msgid "Add ..."
+msgstr ""
+
+#. +> trunk6
+#: src/qml/PlayList.qml:81
+msgctxt "@action:button"
+msgid "File"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/PlayList.qml:89
+msgctxt "@action:button"
+msgid "Url"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/PlayList.qml:100
+msgctxt "@action:button"
+msgid "Sort"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/PlayList.qml:104
+msgctxt "@action:button"
+msgid "Name ascending"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/PlayList.qml:110
+msgctxt "@action:button"
+msgid "Name descending"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/PlayList.qml:116
+msgctxt "@action:button"
+msgid "Duration ascending"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/PlayList.qml:122
+msgctxt "@action:button"
+msgid "Duration descending"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/PlayList.qml:129
+msgctxt "@action:button"
+msgid "Clear"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/PlayList.qml:137
+msgctxt "@action:button"
+msgid "Save as"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/PlayList.qml:158
+msgctxt "@action:button"
+msgid "Add"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/PlayList.qml:243
+msgctxt "@action:inmenu"
+msgid "Open containing folder"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/PlayList.qml:249
+msgctxt "@action:inmenu"
+msgid "Open in browser"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/PlayList.qml:258
+msgctxt "@action:inmenu"
+msgid "Copy name"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/PlayList.qml:263
+msgctxt "@action:inmenu"
+msgid "Copy path"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/PlayList.qml:264
+msgctxt "@action:inmenu"
+msgid "Copy url"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/PlayList.qml:269
+msgctxt "@action:inmenu"
+msgid "Remove from playlist"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/PlayList.qml:274
+msgctxt "@action:inmenu"
+msgid "Rename"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/PlayList.qml:280
+msgctxt "@action:inmenu"
+msgid "Scroll to playing item"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/PlayList.qml:290
+msgctxt "@action:inmenu"
+msgid "Trash file"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/AudioSettings.qml:25
+#: src/qml/Settings/SubtitlesSettings.qml:51
+msgctxt "@label:textbox"
+msgid "Preferred language"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/AudioSettings.qml:33
+#: src/qml/Settings/SubtitlesSettings.qml:59
+msgctxt "placeholder text"
+msgid "eng, ger etc."
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/AudioSettings.qml:52
+#: src/qml/Settings/SubtitlesSettings.qml:79
+msgctxt "@label:spinbox"
+msgid "Preferred track"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/AudioSettings.qml:75
+msgctxt "@label:spinbox"
+msgid "Volume step"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/CustomCommandsSettings.qml:35
+msgctxt "@label:textbox"
+msgid "No custom commands yet"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/CustomCommandsSettings.qml:37
+msgctxt "@action:button"
+msgid "&Add command"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/CustomCommandsSettings.qml:88
+msgctxt "@info:tooltip"
+msgid ""
+"Checked: property will be set at startup\n"
+"Unchecked: property will not be set at startup"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/CustomCommandsSettings.qml:168
+msgctxt "@action:intoolbar"
+msgid "&Add"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/DebugSettings.qml:26
+msgctxt "@label:textbox"
+msgid "Config folder"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/DebugSettings.qml:38
+msgctxt "@info:tooltip"
+msgid "Open config folder"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/DebugSettings.qml:50
+msgctxt "@label:textbox"
+msgid "Config file"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/DebugSettings.qml:62
+msgctxt "@info:tooltip"
+msgid "Open config file"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/DebugSettings.qml:74
+msgctxt "@label:textbox"
+msgid "Custom commands config file"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/DebugSettings.qml:86
+msgctxt "@info:tooltip"
+msgid "Open custom commands config file"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/DebugSettings.qml:98
+msgctxt "@info:usagetip"
+msgid "If fields are empty that means there is no config file/folder (e.g when using the default settings)."
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/DebugSettings.qml:106
+msgctxt "@option:check"
+msgid "Enable mpv logging"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/EditCustomCommand.qml:42
+msgctxt "@label:textbox"
+msgid "Command"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/EditCustomCommand.qml:51
+msgctxt "placeholder text"
+msgid "add volume +10"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/EditCustomCommand.qml:58
+msgctxt "@info:tooltip"
+msgid ""
+"What mpv command to run, see <a href=\"https://mpv.io/manual/stable/#list-of-input-commands\">MPV Commands</a> for a list of available commands.<br>"
+"Not all commands will work as some are specific for mpv.<br>"
+"Most useful are the commands to manipulate properties, like <strong>set</strong>, <strong>add</strong>, <strong>cycle</strong>.<br>"
+"<strong>set</strong>: sets the value of a property <strong>set volume-max 150</strong>.<br>"
+"<strong>add</strong>: increases/decreases the value of a property <strong>add volume 15</strong>, increases volume by 15. To decrease the value use <strong>add volume -15</strong>.<br>"
+"<strong>cycle</strong>: cycle through the values of a property <strong>cycle aid up</strong>."
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/EditCustomCommand.qml:75
+msgctxt "@label:textbox"
+msgid "OSD Message"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/EditCustomCommand.qml:85
+msgctxt "placeholder text"
+msgid "Filename: ${filename}"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/EditCustomCommand.qml:91
+msgctxt "@info:tooltip"
+msgid ""
+"An OSD message to display when triggering an action type custom command.<br>"
+"Use ${property_name} to display the value of a property <strong>Volume: ${volume}</strong>"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/EditCustomCommand.qml:100
+msgctxt "@label"
+msgid "Type"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/EditCustomCommand.qml:121
+msgctxt "@option:radio"
+msgid "Keyboard shortcut"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/EditCustomCommand.qml:122
+msgctxt "@info:tooltip"
+msgid "The command will be triggered with a shortcut. The shortcut can be set after saving."
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/EditCustomCommand.qml:131
+msgctxt "@option:radio"
+msgid "Run at startup"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/EditCustomCommand.qml:132
+msgctxt "@info:tooltip"
+msgid "The command will be run at application startup."
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/EditCustomCommand.qml:144
+msgctxt "@action:intoolbar"
+msgid "Delete"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/EditCustomCommand.qml:160
+msgctxt "@action:intoolbar"
+msgid "Cancel"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/EditCustomCommand.qml:168
+msgctxt "@action:intoolbar"
+msgid "&Save"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:25
+msgctxt "@label:spinbox"
+msgid "Osd font size"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:51
+msgctxt "@label:textbox"
+msgid "File dialog location"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:70
+msgctxt "@info:tooltip"
+msgid "The default location of the open file dialog. If empty the file dialog will try to open to the last opened location."
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:81
+msgctxt "@label:spinbox"
+msgid "Maximum recent files"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:98
+msgctxt "@info:tooltip"
+msgid "How many recent files to store. Enter 0 (zero) to disable."
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:106
+msgctxt "@option:check"
+msgid "Allow only one instance"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:122
+msgctxt "@info:tooltip"
+msgid ""
+"Trying to open another Haruna instance will do nothing.\n"
+"Trying to open another file with Haruna will open the file in the running instance."
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:136
+msgctxt "@option:check"
+msgid "Add file to playlist"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:152
+msgctxt "@info:tooltip"
+msgid "File will be added to the end of the playlist"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:161
+msgctxt "@title"
+msgid "Interface"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:167
+msgctxt "@label:spinbox"
+msgid "Footer style"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:192
+msgctxt "@label:spinbox"
+msgid "Show floating footer on"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:221
+msgctxt "@info:tooltip"
+msgid ""
+"What action shows the footer.<br>"
+"<strong>Every mouse movement</strong> - every mouse movement over the video area<br>"
+"<strong>Bottom mouse movement</strong> - mouse movement on the bottom of the video area"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:229
+msgctxt "@label:spinbox"
+msgid "Preview thumbnail"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:234
+msgctxt "@option:check"
+msgid "Show preview thumbnail"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:241
+msgctxt "@info:tooltip"
+msgid "Shows a preview while hovering the seek/progress bar."
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:250
+msgctxt "@option:check"
+msgid "Use accurate preview"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:267
+msgctxt "@info:tooltip"
+msgid "Generating an accurate preview is slow"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:277
+msgctxt "@label:spinbox"
+msgid "Thumbnail width"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:295
+msgctxt "@label"
+msgid "Window"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:301
+msgctxt "@option:check"
+msgid "Resize to fit video"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:319
+msgctxt "@info:tooltip"
+msgid "Not supported on Wayland."
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:320
+msgctxt "@info:tooltip"
+msgid ""
+"The window is resized according to the video resolution.\n"
+"The maximum size is not constrained, this is left to the operating system."
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:333
+msgctxt "@option:check"
+msgid "Start in fullscreen mode"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:348
+msgctxt "@info:tooltip"
+msgid ""
+"Enter fullscreen mode when the application starts.\n"
+"This takes precedence over Resize to fit video, and Remember window size and position settings."
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:362
+msgctxt "@option:check"
+msgid "Remember window size and position"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:382
+msgctxt "@info:tooltip extra wayland info for the \"Remember window size and position\" setting"
+msgid ""
+"<b>Restoring position is not supported on Wayland.</b><br>"
+"<br>"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:384
+msgctxt "@info:tooltip"
+msgid ""
+"Changes to the window's size and position are saved and used for newly opened windows.<br>"
+"<br>"
+"%1The \"Resize to fit video\" setting takes precedence."
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:398
+msgctxt "@option:check"
+msgid "Show menubar"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:409
+#: src/qml/Settings/PlaylistSettings.qml:77
+msgctxt "@option:check"
+msgid "Show toolbar"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:420
+msgctxt "@option:check"
+msgid "Show chapter markers"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:429
+msgctxt "@label:listbox"
+msgid "Color scheme"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:473
+msgctxt "@label:listbox"
+msgid "GUI style"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:524
+msgctxt "@option:check"
+msgid "Use Breeze icon theme"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/GeneralSettings.qml:532
+msgctxt "@info:tooltip"
+msgid ""
+"Sets the icon theme to breeze.\n"
+"Requires restart."
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/MouseSettings.qml:85
+msgctxt "@label"
+msgid "No action set"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/MouseSettings.qml:99
+msgctxt "@info:tooltip"
+msgid "Clear action"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/MouseSettings.qml:136
+msgctxt "@title"
+msgid "Double click to set action"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:26
+msgctxt "@label:spinbox"
+msgid "Seek small step"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:46
+msgctxt "@info:tooltip seek small step setting"
+msgid "How much to seek when triggering the corresponding action. Seek mode is <a href='https://mpv.io/manual/stable/#command-interface-seek-<target>-[<flags>]'>exact</a>"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:53
+msgctxt "@label:spinbox"
+msgid "Seek medium step"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:73
+msgctxt "@info:tooltip seek medium step setting"
+msgid ""
+"How much to seek when triggering the corresponding action. Seek mode is <a href='https://mpv.io/manual/stable/#command-interface-seek-<target>-[<flags>]'>exact</a>.<br>"
+"This is also used for mouse wheel seeking, when mouse is over the progress bar."
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:81
+msgctxt "@label:spinbox"
+msgid "Seek big step"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:100
+msgctxt "@info:tooltip seek big step setting"
+msgid "How much to seek when triggering the corresponding action. Seek mode is <a href='https://mpv.io/manual/stable/#command-interface-seek-<target>-[<flags>]'>exact</a>"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:106
+msgctxt "@label"
+msgid "Hardware decoding"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:150
+msgctxt "@info:tooltip hardware decoding setting"
+msgid ""
+"Specify the hardware video decoding API that should be used if possible. Whether hardware decoding is actually done depends on the video codec. If hardware decoding is not possible, mpv will fall back on software decoding.<br>"
+"<br>"
+"<ul>"
+"<li><strong>auto</strong> tries to automatically enable hardware decoding using the first available method.</li>"
+"<li><strong>auto-safe</strong> similar to auto, but allows only whitelisted methods that are considered \"safe\".</li>"
+"<li><strong>vaapi</strong> works with Intel and AMD GPUs only. It also requires the opengl EGL backend.</li>"
+"<li><strong>nvdec</strong> the newest, and recommended method to do hardware decoding on Nvidia GPUs.</li>"
+"<li><strong>cuda</strong> an older implementation of hardware decoding on Nvidia GPUs.</li>"
+"<li><strong>videotoolbox</strong></li>"
+"<li><strong>d3d11va</strong></li>"
+"</ul>"
+"<br>"
+"<br>"
+"You can read more about hardware decoding here: <a href='https://mpv.io/manual/stable/#options-hwdec'>https://mpv.io/manual/stable/#options-hwdec</a><br>"
+"<br>"
+"You can set another hardware decoder by creating a startup custom command <strong>set hwdec <i>decoder_name</i></strong>."
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:174
+msgctxt "@option:check"
+msgid "Open last played file on startup"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:183
+msgctxt "@info:tooltip open last played file setting"
+msgid "On startup it opens the file that was playing when the application was closed."
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:192
+msgctxt "@option:check"
+msgid "Pause on minimize"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:201
+msgctxt "@info:tooltip pause on minimize setting"
+msgid "Pauses the player while the window is minimized, playback resumes when restored."
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:210
+msgctxt "@title"
+msgid "Playback position"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:220
+msgctxt "@option:check"
+msgid "Restore playback position"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:229
+msgctxt "@info:tooltip save playback position"
+msgid ""
+"Saves the file position during playback, opening the same file again will seek to the saved position.\n"
+"Position is saved every %1 second, except for the last 10 seconds of the video."
+msgid_plural ""
+"Saves the file position during playback, opening the same file again will seek to the saved position.\n"
+"Position is saved every %1 seconds, except for the last 10 seconds of the video."
+msgstr[0] ""
+msgstr[1] ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:243
+msgctxt "@option:check"
+msgid "Start playing"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:253
+msgctxt "@info:tooltip start playing setting"
+msgid "The file will be playing after restoring the playback position"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:276
+msgctxt "@info"
+msgid "For any duration"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:279
+msgctxt "@info"
+msgid "If duration is longer than %1 minute"
+msgid_plural "If duration is longer than %1 minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:288
+msgctxt "@info:tooltip restore playback position > duration"
+msgid "Position for remote files is restored regardless of duration."
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:310
+msgctxt "@info:tooltip restore playback position > save interval"
+msgid "Save position every %1 second"
+msgid_plural "Save position every %1 seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:323
+msgctxt "@title"
+msgid "Chapters"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:332
+msgctxt "@option:check"
+msgid "Skip chapters"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:340
+msgctxt "@info:tooltip skip chapters setting"
+msgid "When enabled it automatically skips chapters containing certain words/characters."
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:348
+msgctxt "@option:check"
+msgid "Show osd message on skip"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:357
+msgctxt "@info:tooltip show osd message on skip setting"
+msgid "When skipping chapters an osd message will show the title of the skipped chapter."
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:363
+msgctxt "@label:textbox"
+msgid "Skip words"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:372
+msgctxt "placeholder text"
+msgid "op, ed, chapter 1"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:378
+msgctxt "@info:tooltip skip words setting"
+msgid "Skip chapters containing these words. Comma separated list. The match is not exact, meaning <strong>op</strong> will match words containing it like <strong><u>op</u>ening</strong>."
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:402
+msgctxt "@title"
+msgid "Youtube-dl"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:408
+msgid "Format selection"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:448
+msgctxt "@info:tooltip format selection setting"
+msgid "Selects a video source that is closest to the selected format."
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaybackSettings.qml:477
+msgctxt "placeholder text"
+msgid "bestvideo+bestaudio/best"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaylistSettings.qml:24
+msgctxt "@label:listbox"
+msgid "Position"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaylistSettings.qml:49
+msgctxt "@label:listbox"
+msgid "Playlist style"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaylistSettings.qml:87
+msgctxt "@option:check"
+msgid "Overlay video"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaylistSettings.qml:94
+msgctxt "@info:tooltip"
+msgid ""
+"When checked the playlist goes on top of the video\n"
+"When unchecked the video is resized"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaylistSettings.qml:101
+msgctxt "@option:check"
+msgid "Show media title instead of file name"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaylistSettings.qml:111
+msgctxt "@option:check"
+msgid "Auto load videos from same folder"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaylistSettings.qml:121
+msgctxt "@option:check"
+msgid "Repeat"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaylistSettings.qml:131
+msgctxt "@option:check"
+msgid "Show row number"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaylistSettings.qml:141
+msgctxt "@option:check"
+msgid "Toggle with mouse"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaylistSettings.qml:150
+msgctxt "@option:check"
+msgid "Increase font size when fullscreen"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaylistSettings.qml:163
+msgctxt "@option:check"
+msgid "Remember last playlist state"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaylistSettings.qml:170
+msgctxt "@info:tooltip"
+msgid "When checked the playlist state (visible/hidden) is remembered across launches"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/PlaylistSettings.qml:178
+msgctxt "@option:check"
+msgid "Open items with single click"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/SettingsWindow.qml:42
+msgctxt "@title:window"
+msgid "Settings"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/SettingsWindow.qml:58
+msgctxt "@action"
+msgid "General"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/SettingsWindow.qml:67
+msgctxt "@action"
+msgid "Playback"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/SettingsWindow.qml:76
+msgctxt "@action"
+msgid "Video"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/SettingsWindow.qml:86
+msgctxt "@action"
+msgid "Audio"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/SettingsWindow.qml:95
+msgctxt "@action"
+msgid "Subtitles"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/SettingsWindow.qml:113
+msgctxt "@action"
+msgid "Mouse"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/SettingsWindow.qml:122
+msgctxt "@action"
+msgid "Shortcuts"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/SettingsWindow.qml:132
+msgctxt "@action"
+msgid "Custom commands"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/SettingsWindow.qml:142
+msgctxt "@action"
+msgid "Debug"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/SettingsWindow.qml:152
+msgctxt "@action"
+msgid "About"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/SubtitlesSettings.qml:36
+msgctxt "@label:check"
+msgid "Auto select track"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/SubtitlesSettings.qml:46
+msgctxt "@info:tooltip"
+msgid "When checked a subtitle track will be automatically selected and displayed"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/SubtitlesSettings.qml:103
+msgctxt "@option:check"
+msgid "Allow subtitles in black borders"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/SubtitlesSettings.qml:112
+msgctxt "@info:tooltip"
+msgid "When checked the subtitles can be rendered outside the video, in the black borders. Might not work for all .ass subtitles."
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/SubtitlesSettings.qml:117
+msgctxt "@title"
+msgid "Styling"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/SubtitlesSettings.qml:123
+msgctxt "@label:listbox"
+msgid "Font family"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/SubtitlesSettings.qml:155
+msgctxt "@label:spinbox"
+msgid "Font size"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/SubtitlesSettings.qml:171
+msgctxt "@label"
+msgid "Font style"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/SubtitlesSettings.qml:176
+msgctxt "@option:check"
+msgid "Bold"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/SubtitlesSettings.qml:188
+msgctxt "@option:check"
+msgid "Italic"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/SubtitlesSettings.qml:198
+msgctxt "@label:textbox"
+msgid "Font color"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/SubtitlesSettings.qml:249
+#: src/qml/Settings/SubtitlesSettings.qml:305
+#: src/qml/Settings/SubtitlesSettings.qml:382
+msgctxt "@info:tooltip"
+msgid "Set default value"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/SubtitlesSettings.qml:255
+msgctxt "@label:textbox"
+msgid "Shadow color"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/SubtitlesSettings.qml:311
+msgctxt "@label:spinbox"
+msgid "Shadow offset"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/SubtitlesSettings.qml:327
+#: src/qml/Settings/SubtitlesSettings.qml:404
+msgctxt "@info:tooltip"
+msgid "Set to 0 (zero) to disable."
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/SubtitlesSettings.qml:332
+msgctxt "@label:textbox"
+msgid "Border color"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/SubtitlesSettings.qml:388
+msgctxt "@label:spinbox"
+msgid "Border width"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/VideoSettings.qml:29
+msgctxt "@label:listbox"
+msgid "Default cover"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/VideoSettings.qml:38
+msgctxt "placeholder text"
+msgid "path to image"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/VideoSettings.qml:50
+msgctxt "@info:tooltip"
+msgid "Used for music files that don't have a video track, an embedded cover image or a cover/folder image in the same folder as the played file."
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/VideoSettings.qml:81
+msgctxt "@title"
+msgid "Screenshots"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/VideoSettings.qml:91
+msgctxt "@label:listbox"
+msgid "Format"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/VideoSettings.qml:131
+msgctxt "@label:textbox"
+msgid "Template"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/VideoSettings.qml:161
+msgctxt "@info:tooltip"
+msgid ""
+"Specify the filename template used to save screenshots. The template specifies the filename without file extension, and can contain format specifiers, which will be substituted when taking a screenshot. By default, the template is \"%F-%n\". <br>"
+"The template can start with a relative or absolute path, in order to specify a directory location where screenshots should be saved.<br>"
+"If the final screenshot filename points to an already existing file, the file will not be overwritten. The screenshot will either not be saved, or if the template contains %n, saved using different, newly generated filename.<br>"
+"For full info checkout <a href='https://mpv.io/manual/stable/#options-screenshot-template'>https://mpv.io/manual/stable/#options-screenshot-template</a><br>"
+"<br>"
+"<strong>Allowed format specifiers:</strong><br>"
+"<ul>"
+"<li><strong>%[#][0X]n</strong> A sequence number, padded with zeros to length X.<br>"
+"<li><strong>%f</strong> Filename of the currently played video.<br>"
+"<li><strong>%F</strong> Same as %f, but without the file extension.<br>"
+"<li><strong>%x</strong> Directory path of the currently played video. If the video is not on the filesystem (http:// urls), this expands to an empty string.<br>"
+"<li><strong>%X{fallback}</strong> Same as %x, but if the video file is not on the filesystem, return the fallback string inside the {...}.<br>"
+"<li><strong>%p</strong> Current playback time. The result is a string of the form \"HH:MM:SS\".<br>"
+"<li><strong>%P</strong> Similar to %p, but extended with the playback time in milliseconds \"HH:MM:SS.mmm\".<br>"
+"<li><strong>%wX</strong> Specify the current playback time using the format string X.<br>"
+"Valid format specifiers:<br>"
+"<ul>"
+"<li><strong>%wH</strong> hour (padded with 0 to two digits)</li>"
+"<li><strong>%wh</strong> hour (not padded)</li>"
+"<li><strong>%wM</strong> minutes (00-59)</li>"
+"<li><strong>%wm</strong> total minutes (includes hours, unlike %wM)</li>"
+"<li><strong>%wS</strong> seconds (00-59)</li>"
+"<li><strong>%ws</strong> total seconds (includes hours and minutes)</li>"
+"<li><strong>%wf</strong> like %ws, but as float</li>"
+"<li><strong>%wT</strong> milliseconds (000-999)</li>"
+"<li><strong>%%</strong> Replaced with the % character itself.</li>"
+"</ul>"
+"<br>"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/VideoSettings.qml:196
+msgctxt "@title"
+msgid "Image adjustments"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/VideoSettings.qml:206
+msgctxt "@label:slider"
+msgid "Contrast"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/VideoSettings.qml:225
+msgctxt "@label:slider"
+msgid "Brightness"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/VideoSettings.qml:244
+msgctxt "@label:slider"
+msgid "Gamma"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/VideoSettings.qml:263
+msgctxt "@label:slider"
+msgid "Saturation"
+msgstr ""
+
+#. +> trunk6
+#: src/qml/Settings/VideoSettings.qml:279
+msgctxt "@info"
+msgid "Middle click on the sliders to reset them"
+msgstr ""

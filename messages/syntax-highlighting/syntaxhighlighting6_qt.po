@@ -1,0 +1,2635 @@
+# translation of katepart4.po to Thai
+# Copyright (C) 2003, 2005, 2006, 2007, 2008 Free Software Foundation, Inc.
+# Thanomsub Noppaburana <donga_n@yahoo.com>, 2003, 2005.
+# Sahachart Anukulkitch <drrider@gmail.com>, 2006, 2007.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008, 2010.
+# Phuwanat Sakornsakolpat <narachai@gmail.com>, 2010.
+# SPDX-FileCopyrightText: 2025 Pongsakorn S. <kde@xerusion.me>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: katepart4\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2025-02-17 10:34+0100\n"
+"PO-Revision-Date: 2025-03-03 20:07+0700\n"
+"Last-Translator: Pongsakorn S. <kde@xerusion.me>\n"
+"Language-Team: Thai\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "4DOS BatchToMemory"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "ABAP"
+msgctxt "Language|"
+msgid "ABAP"
+msgstr "ภาษา ABAP"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "ABC"
+msgctxt "Language|"
+msgid "ABC"
+msgstr "ภาษา ABC"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "ActionScript 2.0"
+msgctxt "Language|"
+msgid "ActionScript 2.0"
+msgstr "ภาษา ActionScript 2.0"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Ada"
+msgctxt "Language|"
+msgid "Ada"
+msgstr "ภาษา Ada"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Agda"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "AHDL"
+msgctxt "Language|"
+msgid "AHDL"
+msgstr "ภาษา AHDL"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "AutoHotKey"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Alerts"
+msgctxt "Language|"
+msgid "Alerts"
+msgstr "แจ้งเตือน"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "AMPLE"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "ANS-Forth94"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "ANSI C89"
+msgctxt "Language|"
+msgid "ANSI C89"
+msgstr "ภาษา ANSI C89"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Ansys"
+msgctxt "Language|"
+msgid "Ansys"
+msgstr "ภาษา Ansys"
+
+#. +> trunk6
+msgctxt "Language|"
+msgid "ANTLR"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Apache Configuration"
+msgctxt "Language|"
+msgid "Apache Configuration"
+msgstr "แฟ้มค่าปรับแต่งของ Apache"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "AppArmor Security Profile"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "AsciiDoc"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Asm6502"
+msgctxt "Language|"
+msgid "Asm6502"
+msgstr "แอสเซมเบลอร์ Asm6502"
+
+#. +> trunk6
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "AVR Assembler"
+msgctxt "Language|"
+msgid "ARM Assembler"
+msgstr "แอสเซมเบลอร์ของ AVR"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "AVR Assembler"
+msgctxt "Language|"
+msgid "AVR Assembler"
+msgstr "แอสเซมเบลอร์ของ AVR"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Motorola DSP56k"
+msgctxt "Language|"
+msgid "Motorola DSP56k"
+msgstr "โพรเซสเซอร์ Motorola DSP56k"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Motorola 68k (VASM/Devpac)"
+msgctxt "Language|"
+msgid "Motorola 68k (VASM/Devpac)"
+msgstr "โพรเซสเซอร์ Motorola 68k (VASM/Devpac)"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "ASN.1"
+msgctxt "Language|"
+msgid "ASN.1"
+msgstr "ภาษา ASN.1"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "ASP"
+msgctxt "Language|"
+msgid "ASP"
+msgstr "ภาษา ASP"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "ASP"
+msgctxt "Language|"
+msgid "ATS"
+msgstr "ภาษา ASP"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "AWK"
+msgctxt "Language|"
+msgid "AWK"
+msgstr "ภาษาโปรแกรม AWK"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "BibTeX"
+msgctxt "Language|"
+msgid "BibTeX"
+msgstr "เอกสาร BibTeX"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Bitbake"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "B-Method"
+msgctxt "Language|"
+msgid "B-Method"
+msgstr "ภาษา B-Method"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Boo"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Cabal"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "CartoCSS MML"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "CartoCSS MSS"
+msgstr ""
+
+#. +> trunk6
+#, fuzzy
+#| msgctxt "Language Section"
+#| msgid "Scripts"
+msgctxt "Language|"
+msgid "CashScript"
+msgstr "ภาษาสคริปต์"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "CleanCSS"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "CGiS"
+msgctxt "Language|"
+msgid "CGiS"
+msgstr "ภาษา CGiS"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Cg"
+msgctxt "Language|"
+msgid "Cg"
+msgstr "ภาษา Cg"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "ChangeLog"
+msgctxt "Language|"
+msgid "ChangeLog"
+msgstr "บันทึกความเปลี่ยนแปลง"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Common Intermediate Language (CIL)"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Cisco"
+msgctxt "Language|"
+msgid "Cisco"
+msgstr "แฟ้มปรับแต่ง Cisco"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Clipper"
+msgctxt "Language|"
+msgid "Clipper"
+msgstr "ภาษา Clipper"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "CLIST"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Clojure"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "COBOL"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgid "Scripts"
+msgctxt "Language|"
+msgid "CoffeeScript"
+msgstr "สคริปต์"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "ColdFusion"
+msgctxt "Language|"
+msgid "ColdFusion"
+msgstr "สคริปต์ ColdFusion"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Common Lisp"
+msgctxt "Language|"
+msgid "Common Lisp"
+msgstr "สคริปต์ Common Lisp"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Component-Pascal"
+msgctxt "Language|"
+msgid "Component-Pascal"
+msgstr "ภาษาคอมโพเนนท์ปาสคาล"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "CMake"
+msgctxt "Language|"
+msgid "Crack"
+msgstr "แฟ้ม CMake"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Crystal"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "CSS"
+msgctxt "Language|"
+msgid "CSS"
+msgstr "สไตล์ชีต (CSS)"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "CSV (pipe)"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "CSV (semicolon)"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "CSV (whitespace)"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "CSS"
+msgctxt "Language|"
+msgid "CSV"
+msgstr "สไตล์ชีต (CSS)"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "C#"
+msgctxt "Language|"
+msgid "C#"
+msgstr "ภาษา C#"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgid "Scripts"
+msgctxt "Language|"
+msgid "CubeScript"
+msgstr "สคริปต์"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "CUE Sheet"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Curry"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "C"
+msgctxt "Language|"
+msgid "C"
+msgstr "ภาษา C"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Dart"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Debian Changelog"
+msgctxt "Language|"
+msgid "Debian Changelog"
+msgstr "บันทึกการเปลี่ยนแปลงของเดเบียน"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Debian Changelog"
+msgctxt "Language|"
+msgid "Debian Control"
+msgstr "บันทึกการเปลี่ยนแปลงของเดเบียน"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid ".desktop"
+msgctxt "Language|"
+msgid ".desktop"
+msgstr "แฟ้ม .desktop"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Diff"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Django HTML Template"
+msgctxt "Language|"
+msgid "Django HTML Template"
+msgstr "แม่แบบ Django HTML"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "MS-DOS Batch"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "dot"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Makefile"
+msgctxt "Language|"
+msgid "Doxyfile"
+msgstr "สคริปต์ Makefile"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Doxygen"
+msgctxt "Language|"
+msgid "Doxygen"
+msgstr "เอกสาร Doxygen"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "DTD"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "D"
+msgctxt "Language|"
+msgid "D"
+msgstr "ภาษา D"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Eiffel"
+msgctxt "Language|"
+msgid "Eiffel"
+msgstr "ภาษา Eiffel"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Elm"
+msgstr ""
+
+#. +> trunk6
+msgctxt "Language|"
+msgid "Elvish"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Email"
+msgctxt "Language|"
+msgid "Email"
+msgstr "อีเมล"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Erlang"
+msgctxt "Language|"
+msgid "Erlang"
+msgstr "ภาษา Erlang"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Euphoria"
+msgctxt "Language|"
+msgid "Euphoria"
+msgstr "ภาษา Euphoria"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "E Language"
+msgctxt "Language|"
+msgid "E Language"
+msgstr "ภาษา E"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Intel x86 (NASM)"
+msgctxt "Language|"
+msgid "Intel x86 (FASM)"
+msgstr "แอสเซมเบลอร์ของ Intel x86 (NASM)"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "FASTQ"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "ferite"
+msgctxt "Language|"
+msgid "ferite"
+msgstr "ภาษา Ferite"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "4GL"
+msgctxt "Language|"
+msgid "4GL"
+msgstr "ภาษา 4GL"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "4GL-PER"
+msgctxt "Language|"
+msgid "4GL-PER"
+msgstr "ภาษา 4GL-PER"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Fish"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "FlatBuffers"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Fluent"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgid "File Format"
+msgctxt "Language|"
+msgid "Fortran (Fixed Format)"
+msgstr "รูปแบบแฟ้ม"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Fortran (Free Format)"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "FreeBASIC"
+msgctxt "Language|"
+msgid "FreeBASIC"
+msgstr "ภาษา FreeBASIC"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "FSharp"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "fstab"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "FTL"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "ASP"
+msgctxt "Language|"
+msgid "GAP"
+msgstr "ภาษา ASP"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "G-Code"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "GDB Backtrace"
+msgctxt "Language|"
+msgid "GDB Backtrace"
+msgstr "บันทึกการทำงานย้อนหลัง GDB"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "GDB Init"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "GDL"
+msgctxt "Language|"
+msgid "GDB"
+msgstr "ภาษา GDL"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "GDL"
+msgctxt "Language|"
+msgid "GDL"
+msgstr "ภาษา GDL"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "GNU Gettext"
+msgctxt "Language|"
+msgid "GNU Gettext"
+msgstr "เอกสาร GNU Gettext"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Cucumber Gherkin feature"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgid "&Ignore"
+msgctxt "Language|"
+msgid "Git Ignore"
+msgstr "ไม่&สนใจ"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Gitolite"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Git Rebase"
+msgstr ""
+
+#. +> trunk6
+msgctxt "Language|"
+msgid "Gleam"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "GlossTex"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "GLSL"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "GNU Assembler"
+msgctxt "Language|"
+msgid "GNU Assembler"
+msgstr "แอสเซมเบลอร์ของ GNU"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Gnuplot"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgid "Go"
+msgctxt "Language|"
+msgid "Go"
+msgstr "ไปยัง"
+
+#. +> trunk6
+msgctxt "Language|"
+msgid "GPRBuild"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "KDev-PG[-Qt] Grammar"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "GraphQL"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Groovy"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Hamlet"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Haml"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Hare"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Haskell"
+msgctxt "Language|"
+msgid "Haskell"
+msgstr "ภาษา Haskell"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Haxe"
+msgstr ""
+
+#. +> trunk6
+msgctxt "Language|"
+msgid "Hjson"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "HTML"
+msgctxt "Language|"
+msgid "HTML"
+msgstr "ภาษา HTML"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Hunspell Affix File"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Hunspell Thesaurus File"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Hunspell Dictionary File"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Quake Script"
+msgctxt "Language|"
+msgid "Quake Script"
+msgstr "สคริปต์ของเกม Quake"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "IDL"
+msgctxt "Language|"
+msgid "IDL"
+msgstr "ภาษา IDL"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Idris"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "ILERPG"
+msgctxt "Language|"
+msgid "ILERPG"
+msgstr "ภาษา ILERPG"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language Section"
+#| msgid "Configuration"
+msgctxt "Language|"
+msgid "Inform"
+msgstr "แฟ้มค่าปรับแต่ง"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "INI Files"
+msgctxt "Language|"
+msgid "INI Files"
+msgstr "แฟ้ม INI"
+
+#. +> trunk6 trunk5
+#, fuzzy
+msgctxt "Language|"
+msgid "InnoSetup"
+msgstr "&หยุด"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Intel HEX"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Jam"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Javadoc"
+msgctxt "Language|"
+msgid "Javadoc"
+msgstr "เอกสารจาวา (Javadoc)"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "JavaScript"
+msgctxt "Language|"
+msgid "JavaScript React (JSX)"
+msgstr "ภาษาจาวาสคริปต์"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "JavaScript"
+msgctxt "Language|"
+msgid "JavaScript"
+msgstr "ภาษาจาวาสคริปต์"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Java"
+msgctxt "Language|"
+msgid "Java"
+msgstr "ภาษาจาวา"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "JCL"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Jira"
+msgstr ""
+
+#. +> trunk6
+msgctxt "Language|"
+msgid "Jsonnet"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "JSON"
+msgctxt "Language|"
+msgid "JSON"
+msgstr "ภาษา JSON"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "JSP"
+msgctxt "Language|"
+msgid "JSP"
+msgstr "ภาษา JSP"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Julia"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "J"
+msgstr ""
+
+#. +> trunk6
+#, fuzzy
+#| msgid "Configure"
+msgctxt "Language|"
+msgid "Kate Config"
+msgstr "ปรับแต่ง"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "KBasic"
+msgctxt "Language|"
+msgid "KBasic"
+msgstr "ภาษา KBasic"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgid "Configure"
+msgctxt "Language|"
+msgid "Kconfig"
+msgstr "ปรับแต่ง"
+
+#. +> trunk6
+msgctxt "Language|"
+msgid "Klipper Config"
+msgstr ""
+
+#. +> trunk6
+msgctxt "Language|"
+msgid "Klipper G-Code"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Kotlin"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "k"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "LaTeX"
+msgctxt "Language|"
+msgid "LaTeX"
+msgstr "เอกสาร LaTeX"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "LDIF"
+msgctxt "Language|"
+msgid "LDIF"
+msgstr "เอกสาร LDIF"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Quake Script"
+msgctxt "Language|"
+msgid "GNU Linker Script"
+msgstr "สคริปต์ของเกม Quake"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "LESSCSS"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Lex/Flex"
+msgctxt "Language|"
+msgid "Lex/Flex"
+msgstr "ภาษา Lex/Flex"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "LilyPond"
+msgctxt "Language|"
+msgid "LilyPond"
+msgstr "เอกสาร LilyPond"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Literate Haskell"
+msgctxt "Language|"
+msgid "Literate Curry"
+msgstr "ภาษา Literate Haskell"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Literate Haskell"
+msgctxt "Language|"
+msgid "Literate Haskell"
+msgstr "ภาษา Literate Haskell"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "LLVM"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Logcat"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Log File (advanced)"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Log File (simplified)"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Logtalk"
+msgctxt "Language|"
+msgid "Logtalk"
+msgstr "ภาษา Logtalk"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "LPC"
+msgctxt "Language|"
+msgid "LPC"
+msgstr "ภาษา LPC"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "LSL"
+msgctxt "Language|"
+msgid "LSL"
+msgstr "ภาษา LSL"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Lua"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "M3U"
+msgctxt "Language|"
+msgid "M3U"
+msgstr "แฟ้มรายการเล่น (M3U)"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "GNU M4"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "MAB-DB"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Magma"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Makefile"
+msgctxt "Language|"
+msgid "Makefile"
+msgstr "สคริปต์ Makefile"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Mako"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Troff Mandoc"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "MapCSS"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Markdown"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Mason"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Mathematica"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Matlab"
+msgctxt "Language|"
+msgid "Matlab"
+msgstr "เอกสาร Matlab"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Maxima"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "MediaWiki"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "QML"
+msgctxt "Language|"
+msgid "MEL"
+msgstr "ภาษา QML"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "mergetag text"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Meson"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Metapost/Metafont"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Metamath"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "MIB"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "MIPS Assembler"
+msgctxt "Language|"
+msgid "MIPS Assembler"
+msgstr "แอสเซมเบลอร์ของ MIPS"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgid "Move Lines Up"
+msgctxt "Language|"
+msgid "Modelica"
+msgstr "เลื่อนบรรทัดขึ้น"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgid "Move Lines Up"
+msgctxt "Language|"
+msgid "Modelines"
+msgstr "เลื่อนบรรทัดขึ้น"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Modula-2 (ISO only)"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Modula-2 (PIM only)"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Modula-2 (R10 only)"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Modula-2"
+msgctxt "Language|"
+msgid "Modula-2"
+msgstr "ภาษา Modula-2"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Modula-2"
+msgctxt "Language|"
+msgid "Modula-3"
+msgstr "ภาษา Modula-2"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "MonoBasic"
+msgctxt "Language|"
+msgid "MonoBasic"
+msgstr "ภาษา MonoBasic"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Music Publisher"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Mustache/Handlebars (HTML)"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Nagios"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Intel x86 (NASM)"
+msgctxt "Language|"
+msgid "Intel x86 (NASM)"
+msgstr "แอสเซมเบลอร์ของ Intel x86 (NASM)"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Nemerle"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "nesC"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language Section"
+#| msgid "Configuration"
+msgctxt "Language|"
+msgid "nginx Configuration"
+msgstr "แฟ้มค่าปรับแต่ง"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "noweb"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Objective-C++"
+msgctxt "Language|"
+msgid "Objective-C++"
+msgstr "ภาษา Objective-C++"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Objective-C"
+msgctxt "Language|"
+msgid "Objective-C"
+msgstr "ภาษา Objective-C"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Objective-C"
+msgctxt "Language|"
+msgid "Objective Caml Ocamllex"
+msgstr "ภาษา Objective-C"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Objective-C"
+msgctxt "Language|"
+msgid "Objective Caml"
+msgstr "ภาษา Objective-C"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Objective-C"
+msgctxt "Language|"
+msgid "Objective Caml Ocamlyacc"
+msgstr "ภาษา Objective-C"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Octave"
+msgstr ""
+
+#. +> trunk6
+msgctxt "Language|"
+msgid "Odin"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "OORS"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "OPAL"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "OpenCL"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "OpenSCAD"
+msgstr ""
+
+#. +> trunk6
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "PostScript"
+msgctxt "Language|"
+msgid "opsi-script"
+msgstr "โพสต์สคริปต์"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgid "Normal mode"
+msgctxt "Language|"
+msgid "Org Mode"
+msgstr "ข้อความปกติ"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Overpass QL"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Pango"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Pascal"
+msgctxt "Language|"
+msgid "Pascal"
+msgstr "ภาษาปาสคาล"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Perl"
+msgctxt "Language|"
+msgid "Perl"
+msgstr "ภาษาเพิร์ล"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "PHP/PHP"
+msgctxt "Language|"
+msgid "PHP/PHP"
+msgstr "ภาษา PHP/PHP"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "PicAsm"
+msgctxt "Language|"
+msgid "PicAsm"
+msgstr "แอสเซมเบลอร์ PicAsm"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Pig"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Pike"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "PL/I"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "PLY"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "PostScript"
+msgctxt "Language|"
+msgid "PostScript"
+msgstr "โพสต์สคริปต์"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "POV-Ray"
+msgctxt "Language|"
+msgid "POV-Ray"
+msgstr "เอกสาร POV-Ray"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Praat"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "progress"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Protobuf"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgid "Plugins"
+msgctxt "Language|"
+msgid "Pug"
+msgstr "โปรแกรมเสริม"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Puppet"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "PureBasic"
+msgctxt "Language|"
+msgid "PureBasic"
+msgstr "ภาษา PureBasic"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgid "Scripts"
+msgctxt "Language|"
+msgid "PureScript"
+msgstr "สคริปต์"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "PureBasic"
+msgctxt "Language|"
+msgid "Pure"
+msgstr "ภาษา PureBasic"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Python"
+msgctxt "Language|"
+msgid "Python"
+msgstr "ภาษาไพธอน"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language Section"
+#| msgid "Configuration"
+msgctxt "Language|"
+msgid "QDoc Configuration"
+msgstr "แฟ้มค่าปรับแต่ง"
+
+#. +> trunk6
+msgctxt "Language|"
+msgid "QFace"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "CMake"
+msgctxt "Language|"
+msgid "QMake"
+msgstr "แฟ้ม CMake"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "QML"
+msgctxt "Language|"
+msgid "QML"
+msgstr "ภาษา QML"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "q"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Racket"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Raku"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "RapidQ"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgid "Show i&ndentation lines"
+msgctxt "Language|"
+msgid "R documentation"
+msgstr "แสดงเส้นบ่งชี้ระยะเ&ยื้อง"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "RelaxNG-Compact"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "RenPy"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgid "&Replace"
+msgctxt "Language|"
+msgid "Replicode"
+msgstr "แ&ทนที่"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgid "Selected text:"
+msgctxt "Language|"
+msgid "reStructuredText"
+msgstr "ข้อความส่วนที่เลือก:"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "RETRO"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "REXX"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Ruby/Rails/RHTML"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "RenderMan RIB"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "R Markdown"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Robot"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Roff"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "RPM Spec"
+msgctxt "Language|"
+msgid "RPM Spec"
+msgstr "แฟ้ม spec ของ RPM"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "RSI IDL"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgid "File Format"
+msgctxt "Language|"
+msgid "Rich Text Format"
+msgstr "รูปแบบแฟ้ม"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Ruby"
+msgctxt "Language|"
+msgid "Ruby"
+msgstr "ภาษารูบี้"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Rust"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "R Script"
+msgctxt "Language|"
+msgid "R Script"
+msgstr "สคริปต์ภาษา R"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "SASS"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgid "Other"
+msgctxt "Language|"
+msgid "Sather"
+msgstr "อื่น ๆ"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Scala"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgid "&Schema"
+msgctxt "Language|"
+msgid "Scheme"
+msgstr "&ชุดรูปแบบ"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "scilab"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "SCSS"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "sed"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "SELinux CIL Policy"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "SELinux File Contexts"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "SELinux Policy"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "SGML"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "SiSU"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Smali"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "LSL"
+msgctxt "Language|"
+msgid "SML"
+msgstr "ภาษา LSL"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Snort/Suricata"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Solidity"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Spice"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "SQL (MySQL)"
+msgctxt "Language|"
+msgid "SQL (MySQL)"
+msgstr "ภาษา SQL (MySQL)"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "SQL (Oracle)"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "SQL (PostgreSQL)"
+msgctxt "Language|"
+msgid "SQL (PostgreSQL)"
+msgstr "ภาษา SQL (PostgreSQL)"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "SQL"
+msgctxt "Language|"
+msgid "SQL"
+msgstr "ภาษา SQL"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Stan"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Stata"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "LSL"
+msgctxt "Language|"
+msgid "STL"
+msgstr "ภาษา LSL"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "SubRip Subtitles"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "SystemC"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "systemd unit"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "SystemVerilog"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "TADS 3"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "TaskJuggler"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Tcl/Tk"
+msgctxt "Language|"
+msgid "Tcl/Tk"
+msgstr "ภาษา Tcl/Tk"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Tcsh"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Terraform"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Texinfo"
+msgctxt "Language|"
+msgid "Texinfo"
+msgstr "เอกสาร Texinfo"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgid "Text Area Background"
+msgctxt "Language|"
+msgid "Textile"
+msgstr "พื้นหลังของพื้นที่แสดงข้อความ"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "TextProto"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "TI Basic"
+msgctxt "Language|"
+msgid "TI Basic"
+msgstr "ภาษา TI Basic"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Tiger"
+msgstr ""
+
+#. +> trunk6
+msgctxt "Language|"
+msgid "TLA+"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "ASP"
+msgctxt "Language|"
+msgid "TSV"
+msgstr "ภาษา ASP"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "txt2tags"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "JavaScript"
+msgctxt "Language|"
+msgid "TypeScript React (TSX)"
+msgstr "ภาษาจาวาสคริปต์"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language Section"
+#| msgid "Scripts"
+msgctxt "Language|"
+msgid "TypeScript"
+msgstr "ภาษาสคริปต์"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "UnrealScript"
+msgctxt "Language|"
+msgid "UnrealScript"
+msgstr "สคริปต์ Unreal"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Vala"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Valgrind Suppression"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Apache Configuration"
+msgctxt "Language|"
+msgid "Varnish module spec file"
+msgstr "แฟ้มค่าปรับแต่งของ Apache"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Apache Configuration"
+msgctxt "Language|"
+msgid "Varnish Test Case language"
+msgstr "แฟ้มค่าปรับแต่งของ Apache"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Apache Configuration"
+msgctxt "Language|"
+msgid "Varnish Configuration Language"
+msgstr "แฟ้มค่าปรับแต่งของ Apache"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "vCard, vCalendar, iCalendar"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Velocity"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Vera"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Verilog"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "VHDL"
+msgctxt "Language|"
+msgid "VHDL"
+msgstr "ภาษา VHDL"
+
+#. +> trunk6
+msgctxt "Language|"
+msgid "Viper"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "VRML"
+msgctxt "Language|"
+msgid "VRML"
+msgstr "ภาษา VRML"
+
+#. +> trunk6
+msgctxt "Language|"
+msgid "Vue"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "V"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Wavefront OBJ"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Wayland Trace"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "WINE Config"
+msgctxt "Language|"
+msgid "WINE Config"
+msgstr "แฟ้มปรับแต่ง WINE"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Wesnoth Markup Language"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "xHarbour"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "XML (Debug)"
+msgctxt "Language|"
+msgid "XML (Debug)"
+msgstr "ภาษา XML (ดีบั๊ก)"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "XML"
+msgctxt "Language|"
+msgid "XML"
+msgstr "ภาษา XML"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "PostScript"
+msgctxt "Language|"
+msgid "Xonotic Script"
+msgstr "โพสต์สคริปต์"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "x.org Configuration"
+msgctxt "Language|"
+msgid "x.org Configuration"
+msgstr "แฟ้มปรับแต่ง x.org"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "xslt"
+msgctxt "Language|"
+msgid "xslt"
+msgstr "แฟ้ม xslt"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "XML"
+msgctxt "Language|"
+msgid "XUL"
+msgstr "ภาษา XML"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "yacas"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "Yacc/Bison"
+msgctxt "Language|"
+msgid "Yacc/Bison"
+msgstr "ภาษา Yacc/Bison"
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "YAML"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "YANG"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "YARA"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Zig"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Zonnon"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Language|"
+msgid "Zsh"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language Section"
+#| msgid "Scripts"
+msgctxt "Language Section|"
+msgid "Scripts"
+msgstr "ภาษาสคริปต์"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language Section"
+#| msgid "Sources"
+msgctxt "Language Section|"
+msgid "Sources"
+msgstr "ต้นฉบับ"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgid "Other"
+msgctxt "Language Section|"
+msgid "Other"
+msgstr "อื่น ๆ"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language Section"
+#| msgid "Hardware"
+msgctxt "Language Section|"
+msgid "Hardware"
+msgstr "ฮาร์ดแวร์"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language Section"
+#| msgid "Scientific"
+msgctxt "Language Section|"
+msgid "Scientific"
+msgstr "ภาษาทางด้านวิทยาศาสตร์"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language Section"
+#| msgid "Configuration"
+msgctxt "Language Section|"
+msgid "Configuration"
+msgstr "แฟ้มค่าปรับแต่ง"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language Section"
+#| msgid "Markup"
+msgctxt "Language Section|"
+msgid "Markup"
+msgstr "ภาษามาร์กอัป"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language Section"
+#| msgid "Assembler"
+msgctxt "Language Section|"
+msgid "Assembler"
+msgstr "ภาษาแอสเซมเบลอร์"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language Section"
+#| msgid "Database"
+msgctxt "Language Section|"
+msgid "Database"
+msgstr "ฐานข้อมูล"
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "D"
+msgctxt "Language Section|"
+msgid "3D"
+msgstr "ภาษา D"
+
+#. +> trunk6 trunk5
+msgctxt "Theme|"
+msgid "Atom One Dark"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Theme|"
+msgid "Atom One Light"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Theme|"
+msgid "ayu Dark"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Theme|"
+msgid "ayu Light"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Theme|"
+msgid "ayu Mirage"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Theme|"
+msgid "Breeze Dark"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Theme|"
+msgid "Breeze Light"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Theme|"
+msgid "Catppuccin Frappé"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Theme|"
+msgid "Catppuccin Latte"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Theme|"
+msgid "Catppuccin Macchiato"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Theme|"
+msgid "Catppuccin Mocha"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Theme|"
+msgid "Dracula"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Theme|"
+msgid "Falcon"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Theme|"
+msgid "GitHub Dark"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Theme|"
+msgid "GitHub Light"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Theme|"
+msgid "gruvbox Dark"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Theme|"
+msgid "Homunculus"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgctxt "Language"
+#| msgid "MonoBasic"
+msgctxt "Theme|"
+msgid "Monokai"
+msgstr "ภาษา MonoBasic"
+
+#. +> trunk6 trunk5
+msgctxt "Theme|"
+msgid "Nord"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Theme|"
+msgid "Oblivion"
+msgstr ""
+
+#. +> trunk6 trunk5
+#, fuzzy
+#| msgid "Sorting"
+msgctxt "Theme|"
+msgid "Printing"
+msgstr "การเรียงลำดับ"
+
+#. +> trunk6 trunk5
+msgctxt "Theme|"
+msgid "Radical"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Theme|"
+msgid "Solarized Dark"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Theme|"
+msgid "Solarized Light"
+msgstr ""
+
+#. +> trunk6
+msgctxt "Theme|"
+msgid "Tokyo Night Light"
+msgstr ""
+
+#. +> trunk6
+msgctxt "Theme|"
+msgid "Tokyo Night Storm"
+msgstr ""
+
+#. +> trunk6
+msgctxt "Theme|"
+msgid "Tokyo Night"
+msgstr ""
+
+#. +> trunk6 trunk5
+msgctxt "Theme|"
+msgid "Vim Dark"
+msgstr ""
+
+#. +> trunk6
+msgctxt "Theme|"
+msgid "VSCodium Dark"
+msgstr ""
+
+#. +> trunk6
+#: cli/ksyntaxhighlighter.cpp:65
+msgctxt "SyntaxHighlightingCLI|"
+msgid "Command line syntax highlighter using KSyntaxHighlighting syntax definitions."
+msgstr ""
+
+#. +> trunk5
+#: cli/kate-syntax-highlighter.cpp:61
+msgctxt "SyntaxHighlightingCLI|"
+msgid "Command line syntax highlighter using Kate syntax definitions."
+msgstr ""
+
+#. +> trunk6 trunk5
+#: cli/ksyntaxhighlighter.cpp:69
+#, fuzzy
+#| msgctxt "Language Section"
+#| msgid "Sources"
+msgctxt "SyntaxHighlightingCLI|"
+msgid "source"
+msgstr "ต้นฉบับ"
+
+#. +> trunk6
+#: cli/ksyntaxhighlighter.cpp:70
+msgctxt "SyntaxHighlightingCLI|"
+msgid "The source file to highlight. If absent, read the file from stdin and the --syntax option must be used."
+msgstr ""
+
+#. +> trunk6 trunk5
+#: cli/ksyntaxhighlighter.cpp:73
+msgctxt "SyntaxHighlightingCLI|"
+msgid "List all available syntax definitions."
+msgstr ""
+
+#. +> trunk6 trunk5
+#: cli/ksyntaxhighlighter.cpp:75
+msgctxt "SyntaxHighlightingCLI|"
+msgid "List all available themes."
+msgstr ""
+
+#. +> trunk6 trunk5
+#: cli/ksyntaxhighlighter.cpp:79
+msgctxt "SyntaxHighlightingCLI|"
+msgid "Download new/updated syntax definitions."
+msgstr ""
+
+#. +> trunk6 trunk5
+#: cli/ksyntaxhighlighter.cpp:83
+msgctxt "SyntaxHighlightingCLI|"
+msgid "File to write HTML output to (default: stdout)."
+msgstr ""
+
+#. +> trunk6 trunk5
+#: cli/ksyntaxhighlighter.cpp:84
+msgctxt "SyntaxHighlightingCLI|"
+msgid "output"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: cli/ksyntaxhighlighter.cpp:88
+msgctxt "SyntaxHighlightingCLI|"
+msgid "Highlight using this syntax definition (default: auto-detect based on input file)."
+msgstr ""
+
+#. +> trunk6 trunk5
+#: cli/ksyntaxhighlighter.cpp:89
+msgctxt "SyntaxHighlightingCLI|"
+msgid "syntax"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: cli/ksyntaxhighlighter.cpp:93
+#, fuzzy
+#| msgid "Kate Syntax Highlighting Parser"
+msgctxt "SyntaxHighlightingCLI|"
+msgid "Color theme to use for highlighting."
+msgstr "ส่วนทำตัวเน้นไวยากรณ์ของ Kate"
+
+#. +> trunk6 trunk5
+#: cli/ksyntaxhighlighter.cpp:94
+#, fuzzy
+#| msgid "&Schema"
+msgctxt "SyntaxHighlightingCLI|"
+msgid "theme"
+msgstr "&ชุดรูปแบบ"
+
+#. +> trunk6
+#: cli/ksyntaxhighlighter.cpp:98
+msgctxt "SyntaxHighlightingCLI|"
+msgid "Use the specified format instead of html. Must be html, ansi or ansi256."
+msgstr ""
+
+#. +> trunk5
+#: cli/kate-syntax-highlighter.cpp:94
+msgctxt "SyntaxHighlightingCLI|"
+msgid "Use the specified format instead of html. Must be html, ansi or ansi256Colors."
+msgstr ""
+
+#. +> trunk6 trunk5
+#: cli/ksyntaxhighlighter.cpp:99
+#, fuzzy
+#| msgid "&Format:"
+msgctxt "SyntaxHighlightingCLI|"
+msgid "format"
+msgstr "รูปแ&บบ:"
+
+#. +> trunk6
+#: cli/ksyntaxhighlighter.cpp:104
+msgctxt "SyntaxHighlightingCLI|"
+msgid "Add information to debug a syntax file. Only works with --output-format=ansi or ansi256. Possible values are format, region, context, stackSize and all."
+msgstr ""
+
+#. +> trunk5
+#: cli/kate-syntax-highlighter.cpp:100
+msgctxt "SyntaxHighlightingCLI|"
+msgid "Add information to debug a syntax file. Only works with --output-format=ansi or ansi256Colors. Possible values are format, region, context and stackSize."
+msgstr ""
+
+#. +> trunk6 trunk5
+#: cli/ksyntaxhighlighter.cpp:107
+msgctxt "SyntaxHighlightingCLI|"
+msgid "type"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: cli/ksyntaxhighlighter.cpp:111
+msgctxt "SyntaxHighlightingCLI|"
+msgid "Disable ANSI background for the default color."
+msgstr ""
+
+#. +> trunk6
+#: cli/ksyntaxhighlighter.cpp:115
+#, fuzzy
+#| msgid "<p>Sets the background color of the editing area.</p>"
+msgctxt "SyntaxHighlightingCLI|"
+msgid "Select background color role from theme."
+msgstr "<p>ตั้งค่าสีพื้นหลังของพื้นที่แก้ไขข้อความ</p>"
+
+#. +> trunk6
+#: cli/ksyntaxhighlighter.cpp:116
+msgctxt "SyntaxHighlightingCLI|"
+msgid "role"
+msgstr ""
+
+#. +> trunk6
+#: cli/ksyntaxhighlighter.cpp:120
+msgctxt "SyntaxHighlightingCLI|"
+msgid "For ansi and ansi256 formats, flush the output buffer on each line."
+msgstr ""
+
+#. +> trunk6
+#: cli/ksyntaxhighlighter.cpp:125
+msgctxt "SyntaxHighlightingCLI|"
+msgid ""
+"Set HTML page's title\n"
+"(default: the filename or \"KSyntaxHighlighter\" if reading from stdin)."
+msgstr ""
+
+#. +> trunk5
+#: cli/kate-syntax-highlighter.cpp:112
+msgctxt "SyntaxHighlightingCLI|"
+msgid ""
+"Set HTML page's title\n"
+"(default: the filename or \"Kate Syntax Highlighter\" if reading from stdin)."
+msgstr ""
+
+#. +> trunk6 trunk5
+#: cli/ksyntaxhighlighter.cpp:126
+#, fuzzy
+#| msgid "Untitled"
+msgctxt "SyntaxHighlightingCLI|"
+msgid "title"
+msgstr "ยังไม่กำหนดชื่อ"
+
+#. +> trunk5
+#: cli/kate-syntax-highlighter.cpp:64
+#, fuzzy
+#| msgid "Select the color scheme to use for the print."
+msgctxt "SyntaxHighlightingCLI|"
+msgid "The source file to highlight."
+msgstr "เลือกชุดสีที่จะใช้ในการพิมพ์"
+
+#. +> trunk5
+#: cli/kate-syntax-highlighter.cpp:117
+msgctxt "SyntaxHighlightingCLI|"
+msgid "Read file from stdin. The -s option must also be used."
+msgstr ""
+
+#. +> trunk6 trunk5
+#: lib/definition_p.h:116
+#, fuzzy
+#| msgctxt "Syntax highlighting"
+#| msgid "None"
+msgctxt "Language|"
+msgid "None"
+msgstr "ไม่มี"
+
+#. +> trunk6 trunk5
+#: lib/definitiondownloader.cpp:64
+msgctxt "QObject|"
+msgid "All syntax definitions are up-to-date."
+msgstr ""
+
+#. +> trunk5
+#: lib/definitiondownloader.cpp:78
+#, qt-format
+msgctxt "QObject|"
+msgid "Downloading new syntax definition for '%1'..."
+msgstr ""
+
+#. +> trunk5
+#: lib/definitiondownloader.cpp:85
+#, qt-format
+msgctxt "QObject|"
+msgid "Updating syntax definition for '%1' to version %2..."
+msgstr ""
+
+#. +> trunk6
+#: lib/definitiondownloader.cpp:78
+#, qt-format
+msgctxt "QObject|@info"
+msgid "Downloading new syntax definition for '%1'…"
+msgstr ""
+
+#. +> trunk6
+#: lib/definitiondownloader.cpp:85
+#, qt-format
+msgctxt "QObject|@info"
+msgid "Updating syntax definition for '%1' to version %2…"
+msgstr ""

@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Digikam Manual 8.6.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-16 09:43+0100\n"
+"PO-Revision-Date: 2025-03-17 14:51+0700\n"
+"Last-Translator: Thai Translator <none>\n"
+"Language-Team: Thai <kde-i18n-docs@kde.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk5
+#: ../../export_tools/local_export.rst:1
+msgid "digiKam Export to Local Computer"
+msgstr ""
+
+#. +> trunk5
+#: ../../export_tools/local_export.rst:1
+msgid "digiKam, documentation, user manual, photo management, open source, free, learn, easy, local, computer, export"
+msgstr ""
+
+#. +> trunk5
+#: ../../export_tools/local_export.rst:14
+msgid ":ref:`Export To Local Computer <export_tools>`"
+msgstr ""
+
+#. +> trunk5
+#: ../../export_tools/local_export.rst:16
+msgid "This tool allows you to copy files from your collections to another place on your computer. File properties can be changed if desired. It is available from the :menuselection:`Export --> Export to local storage` :kbd:`Ctrl+Alt+Shift+L` menu entry or the corresponding icon from the **Tools** tab in the Right Sidebar."
+msgstr ""
+
+#. +> trunk5
+#: ../../export_tools/local_export.rst:22
+msgid "The Export to Local Computer Dialog"
+msgstr ""
+
+#. +> trunk5
+#: ../../export_tools/local_export.rst:24
+msgid "The **Target location** text field sets the target path where the file will be copied. The **Browse** button will show a file selection dialog to navigate your computer's folder hierarchy and select the right directory."
+msgstr ""
+
+#. +> trunk5
+#: ../../export_tools/local_export.rst:26
+msgid "The **Target file behavior** options allow you to choose the action to perform with the selected files:"
+msgstr ""
+
+#. +> trunk5
+#: ../../export_tools/local_export.rst:28
+msgid "**Copy files** will duplicate data at the target location."
+msgstr ""
+
+#. +> trunk5
+#: ../../export_tools/local_export.rst:29
+msgid "**Create symlinks** will add links to the original data to the target location to prevent data duplication using absolute `symbolic links <https://en.wikipedia.org/wiki/Symbolic_link>`_."
+msgstr ""
+
+#. +> trunk5
+#: ../../export_tools/local_export.rst:30
+msgid "**Create relative symlinks** will add links to the original data to the target location to prevent data duplication using relative symbolic links."
+msgstr ""
+
+#. +> trunk5
+#: ../../export_tools/local_export.rst:31
+msgid "**Include the sidecars of the items** will copy any existing sidecar files."
+msgstr ""
+
+#. +> trunk5
+#: ../../export_tools/local_export.rst:32
+msgid "**Overwrite existing items in the target** will overwrite target files if they are already present."
+msgstr ""
+
+#. +> trunk5
+#: ../../export_tools/local_export.rst:33
+msgid "**Use the album path of the items in the target** will rename target files using the original album path as a template name."
+msgstr ""
+
+#. +> trunk5
+#: ../../export_tools/local_export.rst:35
+msgid "A list of files from the collections to be exported is display below. By default, the tool proposes to export the currently selected items from the icon-view. The **+** Photos button can be used to append more items to the list."
+msgstr ""
+
+#. +> trunk5
+#: ../../export_tools/local_export.rst:37
+msgid "The **Adjust image properties** check-box enables a set of options to convert files to another **Image format** (JPEG, or PNG). The photos will be resized before copying to the target. The **Image quality** and **Image length** settings will be used to adjust the maximum height and the compression. The width calculation will be done so as to maintain the aspect ratio."
+msgstr ""
+
+#. +> trunk5
+#: ../../export_tools/local_export.rst:39
+msgid "Finally, with the **Remove all metadata** you can remove all the Exif, IPTC, and XMP metadata from the images."
+msgstr ""

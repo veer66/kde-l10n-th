@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Krita Manual 5.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-26 09:18+0200\n"
+"PO-Revision-Date: 2025-03-17 14:52+0700\n"
+"Last-Translator: Thai Translator <none>\n"
+"Language-Team: Thai <kde-i18n-docs@kde.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk5
+#: ../../<rst_epilog>:1
+msgid ".. image:: images/dockers/Krita_Specific_Color_Selector_Docker_3.png"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/dockers/specific_color_selector.rst:1
+msgid "Overview of the specific color selector docker."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/dockers/specific_color_selector.rst:12
+#: ../../reference_manual/dockers/specific_color_selector.rst:17
+msgid "Specific Color Selector"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/dockers/specific_color_selector.rst:12
+msgid "Color"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/dockers/specific_color_selector.rst:12
+msgid "Color Selector"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/dockers/specific_color_selector.rst:12
+msgid "Color Space"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/dockers/specific_color_selector.rst:12
+msgid "Color Sliders"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/dockers/specific_color_selector.rst:12
+msgid "Hue"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/dockers/specific_color_selector.rst:12
+msgid "Saturation"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/dockers/specific_color_selector.rst:12
+msgid "Value"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/dockers/specific_color_selector.rst:12
+msgid "Brightness"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/dockers/specific_color_selector.rst:12
+msgid "Lightness"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/dockers/specific_color_selector.rst:12
+msgid "Intensity"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/dockers/specific_color_selector.rst:12
+msgid "Luma"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/dockers/specific_color_selector.rst:12
+msgid "Luminosity"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/dockers/specific_color_selector.rst:19
+msgid ".. image:: images/dockers/Krita_Specific_Color_Selector_Docker.png"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/dockers/specific_color_selector.rst:21
+msgid ".. image:: images/dockers/Krita_Specific_Color_Selector_Docker_2.png"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/dockers/specific_color_selector.rst:22
+msgid "The specific color selector allows you to choose specific colors within a color space."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/dockers/specific_color_selector.rst:25
+msgid "Color Space Chooser Dropdown"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/dockers/specific_color_selector.rst:27
+msgid "Fairly straightforward. This color space chooser dropdown allows you to pick the color space, the bit depth and the ICC profile in which you are going to pick your color."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/dockers/specific_color_selector.rst:30
+msgid "Sliders"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/dockers/specific_color_selector.rst:32
+msgid "These change per color space. If you chose 16bit float or 32 bit float, these will go from 0 to 1.0, with the decimals deciding the difference between colors. When you choose 8 bit integer or 16 bit integer, a button with percentage sign (%) will appear besides the dropdown, which will allow you to input values in percentages."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/dockers/specific_color_selector.rst:36
+msgid "Hex Color Selector"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/dockers/specific_color_selector.rst:38
+msgid "This is only available for the color spaces with a depth of 8 bit. This allows you to input hex color codes, and receive the RGB, CMYK, LAB, XYZ or YCrCb equivalent, and the other way around!"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/dockers/specific_color_selector.rst:42
+msgid "HSV Color Selector"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/dockers/specific_color_selector.rst:46
+msgid "In RGB color spaces, the toggle button allows you to switch into HSV mode and choose using the Hue, Saturation and Value sliders."
+msgstr ""

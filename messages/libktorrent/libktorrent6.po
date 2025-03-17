@@ -1,0 +1,669 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libktorrent\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-02-13 10:47+0100\n"
+"PO-Revision-Date: 2025-03-17 14:54+0700\n"
+"Last-Translator: Thai Translator <none>\n"
+"Language-Team: Thai <kde-i18n-docs@kde.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#: src/bcodec/bdecoder.cpp:50
+#, kde-format
+msgid "Illegal token: %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/bcodec/bdecoder.cpp:103 src/bcodec/bdecoder.cpp:111
+#, kde-format
+msgid "Decode error"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/bcodec/bdecoder.cpp:163 src/bcodec/bdecoder.cpp:201
+#, kde-format
+msgid "Unexpected end of input"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/bcodec/bdecoder.cpp:180 src/bcodec/bdecoder.cpp:220
+#, kde-format
+msgid "Cannot convert %1 to an int"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/bcodec/bdecoder.cpp:225
+#, kde-format
+msgid "Torrent is incomplete."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/datachecker/datacheckerjob.cpp:71
+#, kde-format
+msgid "Waiting for other data checks to finish"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/datachecker/datacheckerjob.cpp:77 src/torrent/torrentstats.cpp:93
+#, kde-format
+msgid "Checking data"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/datachecker/datacheckerjob.cpp:124
+#, kde-format
+msgid "Checking Data"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/datachecker/multidatachecker.cpp:185
+#: src/datachecker/singledatachecker.cpp:38 src/diskio/multifilecache.cpp:627
+#: src/diskio/multifilecache.cpp:662 src/torrent/torrentcreator.cpp:113
+#: src/torrent/torrentcreator.cpp:234 src/torrent/torrentcreator.cpp:266
+#, kde-format
+msgid "Cannot open file %1: %2"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/diskio/cache.cpp:151 src/diskio/multifilecache.cpp:101
+#: src/diskio/singlefilecache.cpp:72
+#, kde-format
+msgid "Failed to create %1: %2"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/diskio/cachefile.cpp:81 src/util/fileops.cpp:324
+#: src/util/fileops.cpp:367
+#, kde-format
+msgid "Cannot open %1: %2"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/diskio/cachefile.cpp:108 src/diskio/cachefile.cpp:220
+#: src/diskio/cachefile.cpp:373 src/diskio/cachefile.cpp:432
+#, kde-format
+msgid "Cannot open %1 for writing: readonly filesystem"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/diskio/cachefile.cpp:114 src/diskio/cachefile.cpp:378
+#, kde-format
+msgid "Attempting to write beyond the maximum size of %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/diskio/cachefile.cpp:225
+#, kde-format
+msgid "Cannot expand file %1: attempting to grow the file beyond the maximum size"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/diskio/cachefile.cpp:229
+#, kde-format
+msgid "Cannot expand file %1: %2"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/diskio/cachefile.cpp:341
+#, kde-format
+msgid "Error: Reading past the end of the file %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/diskio/cachefile.cpp:346 src/diskio/cachefile.cpp:388
+#, kde-format
+msgid "Failed to seek file %1: %2"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/diskio/cachefile.cpp:353
+#, kde-format
+msgid "Error reading from %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/diskio/cachefile.cpp:391
+#, kde-format
+msgid "Failed to write to file %1: %2"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/diskio/cachefile.cpp:448
+#, kde-format
+msgid "Cannot preallocate diskspace: %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/diskio/chunkmanager.cpp:851 src/diskio/chunkmanager.cpp:874
+#, kde-format
+msgid "Cannot open index file %1: %2"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/diskio/dndfile.cpp:74
+#, kde-format
+msgid "Cannot create file %1: %2"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/diskio/dndfile.cpp:116
+#, kde-format
+msgid "Failed to write first chunk to DND file: %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/diskio/dndfile.cpp:131
+#, kde-format
+msgid "Failed to write last chunk to DND file: %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/diskio/movedatafilesjob.cpp:115
+#, kde-format
+msgid "Waiting for other move jobs to finish"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/diskio/movedatafilesjob.cpp:116 src/diskio/movedatafilesjob.cpp:152
+#, kde-format
+msgctxt "The source of a file operation"
+msgid "Source"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/diskio/movedatafilesjob.cpp:117 src/diskio/movedatafilesjob.cpp:153
+#, kde-format
+msgctxt "The destination of a file operation"
+msgid "Destination"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/diskio/movedatafilesjob.cpp:151
+#, kde-format
+msgctxt "@title job"
+msgid "Moving"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/diskio/multifilecache.cpp:76 src/diskio/singlefilecache.cpp:62
+#, kde-format
+msgid "Failed to open %1: %2"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/diskio/piecedata.cpp:53 src/diskio/piecedata.cpp:91
+#, kde-format
+msgid "Unable to write to a piece mapped read only"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/download/chunkdownload.cpp:344
+#, kde-format
+msgid "1 peer"
+msgid_plural "%1 peers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. +> trunk6 stable6
+#: src/download/downloader.cpp:695
+#, kde-format
+msgid "Disabled because webseed does not match torrent"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/download/httpconnection.cpp:31 src/download/webseed.cpp:42
+#: src/download/webseed.cpp:87
+#, kde-format
+msgid "Not connected"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/download/httpconnection.cpp:98
+#, kde-format
+msgid "Resolving proxy %1:%2"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/download/httpconnection.cpp:102 src/download/httpconnection.cpp:116
+#, kde-format
+msgid "Not enough system resources available"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/download/httpconnection.cpp:112
+#, kde-format
+msgid "Resolving hostname %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/download/httpconnection.cpp:128 src/download/webseed.cpp:315
+#, kde-format
+msgid "Connection closed"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/download/httpconnection.cpp:132
+#, kde-format
+msgid "Error: request failed: %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/download/httpconnection.cpp:156 src/download/httpconnection.cpp:183
+#, kde-format
+msgid "Connected"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/download/httpconnection.cpp:164
+#, kde-format
+msgid "Error: Failed to connect to webseed"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/download/httpconnection.cpp:188
+#, kde-format
+msgid "Connecting"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/download/httpconnection.cpp:197
+#, kde-format
+msgid "Failed to connect to webseed"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/download/httpconnection.cpp:202
+#, kde-format
+msgid "Failed to resolve hostname of webseed"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/download/httpconnection.cpp:273
+#, kde-format
+msgid "Error: failed to connect, server not responding"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/download/httpconnection.cpp:283
+#, kde-format
+msgid "Error: request timed out"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/download/httpconnection.cpp:353
+#, kde-format
+msgid "Redirected without a new location."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/download/webseed.cpp:502
+#, kde-format
+msgid "Unused for %1 second (Too many connection failures)"
+msgid_plural "Unused for %1 seconds (Too many connection failures)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. +> trunk6 stable6
+#: src/interfaces/trackerinterface.cpp:46
+#, kde-format
+msgid "OK"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/interfaces/trackerinterface.cpp:46
+#, kde-format
+msgid "Warning: %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/interfaces/trackerinterface.cpp:48
+#, kde-format
+msgid "Announcing"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/interfaces/trackerinterface.cpp:50 src/torrent/torrentstats.cpp:87
+#, kde-format
+msgid "Error: %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/peer/peerid.cpp:301
+#, kde-format
+msgid "Unknown client"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/torrent/torrent.cpp:97 src/torrent/torrent.cpp:144
+#: src/torrent/torrent.cpp:171 src/torrent/torrent.cpp:178
+#: src/torrent/torrent.cpp:185 src/torrent/torrent.cpp:189
+#: src/torrent/torrent.cpp:209 src/torrent/torrent.cpp:272
+#, kde-format
+msgid "Corrupted torrent."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/torrent/torrentcontrol.cpp:278
+#, kde-format
+msgid "Error writing to disk, do you have enough diskspace?"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/torrent/torrentcontrol.cpp:493
+#, kde-format
+msgid ""
+"An error occurred while loading <b>%1</b>:<br/>"
+"<b>%2</b>"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/torrent/torrentcontrol.cpp:503
+#, kde-format
+msgid "Unable to create %1: %2"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/torrent/torrentcontrol.cpp:516
+#, kde-format
+msgid "You are already downloading the torrent <b>%1</b>. The tracker lists from both torrents have been merged."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/torrent/torrentcontrol.cpp:520
+#, kde-format
+msgid "You are already downloading the torrent <b>%1</b>."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/torrent/torrentcreator.cpp:334
+#, kde-format
+msgid "Cannot create index file: %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/torrent/torrentstats.cpp:73
+#, kde-format
+msgid "Not started"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/torrent/torrentstats.cpp:75
+#, kde-format
+msgid "Download completed"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/torrent/torrentstats.cpp:77
+#, kde-format
+msgid "Seeding completed"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/torrent/torrentstats.cpp:79
+#, kde-format
+msgctxt "Status of a torrent file"
+msgid "Seeding"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/torrent/torrentstats.cpp:81
+#, kde-format
+msgid "Downloading"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/torrent/torrentstats.cpp:83
+#, kde-format
+msgid "Stalled"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/torrent/torrentstats.cpp:85
+#, kde-format
+msgid "Stopped"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/torrent/torrentstats.cpp:89
+#, kde-format
+msgid "Allocating diskspace"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/torrent/torrentstats.cpp:91
+#, kde-format
+msgid "Queued for seeding"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/torrent/torrentstats.cpp:91
+#, kde-format
+msgid "Queued for downloading"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/torrent/torrentstats.cpp:95
+#, kde-format
+msgid "Stopped. No space left on device."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/torrent/torrentstats.cpp:97
+#, kde-format
+msgid "Paused"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/torrent/torrentstats.cpp:99
+#, kde-format
+msgid "Superseeding"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/tracker/httptracker.cpp:243 src/tracker/httptracker.cpp:259
+#: src/tracker/httptracker.cpp:387
+#, kde-format
+msgid "Invalid response from tracker"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/tracker/httptracker.cpp:253
+#, kde-format
+msgid "Invalid data from tracker"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/tracker/httptracker.cpp:402
+#, kde-format
+msgid "Invalid tracker URL"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/tracker/httptracker.cpp:460 src/tracker/udptracker.cpp:314
+#: src/tracker/udptracker.cpp:321
+#, kde-format
+msgid "Timeout contacting tracker %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/tracker/udptracker.cpp:342
+#, kde-format
+msgid "Unable to resolve hostname %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/upnp/httprequest.cpp:39
+#, kde-format
+msgid "Operation timed out"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/upnp/upnprouter.cpp:157
+#, kde-format
+msgid "Failed to download %1: %2"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/upnp/upnprouter.cpp:167
+#, kde-format
+msgid "Error parsing router description."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/upnp/upnprouter.cpp:201
+#, kde-format
+msgid ""
+"Forwarding failed:\n"
+"Device does not have a WANIPConnection or WANPPPConnection."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/upnp/upnprouter.cpp:280
+#, kde-format
+msgid "Cannot find port forwarding service in the device's description."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/util/file.cpp:68
+#, kde-format
+msgid "Cannot write to %1: %2"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/util/file.cpp:81
+#, kde-format
+msgid "Cannot read from %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/util/fileops.cpp:99
+#, kde-format
+msgid "Cannot create directory %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/util/fileops.cpp:162
+#, kde-format
+msgid "Cannot symlink %1 to %2: %3"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/util/fileops.cpp:174
+#, kde-format
+msgid "Cannot move %1 to %2: %3"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/util/fileops.cpp:185 src/util/fileops.cpp:196
+#, kde-format
+msgid "Cannot copy %1 to %2: %3"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/util/fileops.cpp:250
+#, kde-format
+msgid "Cannot delete %1: %2"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/util/fileops.cpp:266
+#, kde-format
+msgid "Cannot create %1: %2"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/util/fileops.cpp:283
+#, kde-format
+msgid "Cannot calculate the filesize of %1: %2"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/util/fileops.cpp:299
+#, kde-format
+msgid "Cannot calculate the filesize: %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/util/fileops.cpp:346 src/util/fileops.cpp:359
+#, kde-format
+msgid "Cannot expand file: %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/util/fileops.cpp:385
+#, kde-format
+msgid "Cannot seek in file: %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/util/fileops.cpp:626
+#, kde-format
+msgid "Unable to open file %1: %2"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/util/functions.cpp:231
+#, kde-format
+msgid "%1/s"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/util/functions.cpp:240
+#, kde-format
+msgid "1 day "
+msgid_plural "%1 days "
+msgstr[0] ""
+msgstr[1] ""
+
+#. +> trunk6 stable6
+#: src/util/logsystemmanager.cpp:19
+#, kde-format
+msgid "General"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/util/logsystemmanager.cpp:20
+#, kde-format
+msgid "Connections"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/util/logsystemmanager.cpp:21
+#, kde-format
+msgid "Tracker"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/util/logsystemmanager.cpp:22
+#, kde-format
+msgid "DHT"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/util/logsystemmanager.cpp:23
+#, kde-format
+msgid "Disk Input/Output"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/util/logsystemmanager.cpp:24
+#, kde-format
+msgid "µTP"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/util/signalcatcher.cpp:62
+#, kde-format
+msgid "Error when writing to disk"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/util/signalcatcher.cpp:62
+#, kde-format
+msgid "Error when reading from disk"
+msgstr ""

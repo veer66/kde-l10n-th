@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: org.kde.kmplayer.appdata\n"
+"POT-Creation-Date: 2024-02-24 09:28+0100\n"
+"PO-Revision-Date: 2025-03-17 14:54+0700\n"
+"Last-Translator: Thai Translator <none>\n"
+"Language-Team: Thai <kde-i18n-docs@kde.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. (itstool) path: component/name
+#. +> trunk5 stable5
+#: org.kde.kmplayer.appdata.xml:7
+msgid "KMPlayer"
+msgstr ""
+
+#. (itstool) path: component/summary
+#. +> trunk5 stable5
+#: org.kde.kmplayer.appdata.xml:8
+msgid "Interface for MPlayer by KDE"
+msgstr ""
+
+#. (itstool) path: description/p
+#. +> trunk5 stable5
+#: org.kde.kmplayer.appdata.xml:10
+msgid "KMPlayer is a simple frontend for MPlayer/FFMpeg/Phonon."
+msgstr ""
+
+#. (itstool) path: description/p
+#. +> trunk5 stable5
+#: org.kde.kmplayer.appdata.xml:11
+msgid "Some features:"
+msgstr ""
+
+#. (itstool) path: ul/li
+#. +> trunk5 stable5
+#: org.kde.kmplayer.appdata.xml:13
+msgid "play DVD/VCD movies (from file or url and from a video device)"
+msgstr ""
+
+#. (itstool) path: ul/li
+#. +> trunk5 stable5
+#: org.kde.kmplayer.appdata.xml:14
+msgid "embed inside konqueror (movie is played inside konqueror)"
+msgstr ""
+
+#. (itstool) path: ul/li
+#. +> trunk5 stable5
+#: org.kde.kmplayer.appdata.xml:15
+msgid "embed inside khtml (movie playback inside a html page)"
+msgstr ""
+
+#. (itstool) path: ul/li
+#. +> trunk5 stable5
+#: org.kde.kmplayer.appdata.xml:16
+msgid "Movie recording using mencoder (part of the mplayer package)"
+msgstr ""
+
+#. (itstool) path: ul/li
+#. +> trunk5 stable5
+#: org.kde.kmplayer.appdata.xml:17
+msgid "No video during recording, but you can always open a new window and play it"
+msgstr ""
+
+#. (itstool) path: ul/li
+#. +> trunk5 stable5
+#: org.kde.kmplayer.appdata.xml:18
+msgid "Broadcasting, http streaming, using ffserver/ffmpeg"
+msgstr ""
+
+#. (itstool) path: ul/li
+#. +> trunk5 stable5
+#: org.kde.kmplayer.appdata.xml:19
+msgid "For TV sources, you need v4lctl (part of the xawtv package)"
+msgstr ""

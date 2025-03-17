@@ -1,0 +1,112 @@
+# SPDX-FileCopyrightText: 2025 Pongsakorn S. <kde@xerusion.me>
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdegames\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-12-16 09:45+0100\n"
+"PO-Revision-Date: 2025-03-03 20:07+0700\n"
+"Last-Translator: Pongsakorn S. <kde@xerusion.me>\n"
+"Language-Team: Thai\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#: sounds/kreversi.notifyrc:4
+#, fuzzy
+msgctxt "Comment"
+msgid "KReversi Game"
+msgstr "GenericName=เกมกระดาน"
+
+#. +> trunk6 stable6
+#: sounds/kreversi.notifyrc:58
+#, fuzzy
+msgctxt "Name"
+msgid "Click"
+msgstr "Name=แดงคลาสสิค"
+
+#. +> trunk6 stable6
+#: sounds/kreversi.notifyrc:130
+#, fuzzy
+msgctxt "Comment"
+msgid "Click"
+msgstr "Name=กิ๊บเก๋"
+
+#. +> trunk6 stable6
+#: sounds/kreversi.notifyrc:205
+#, fuzzy
+msgctxt "Name"
+msgid "Game Won"
+msgstr "Name=แกเลียน"
+
+#. +> trunk6 stable6
+#: sounds/kreversi.notifyrc:265
+#, fuzzy
+msgctxt "Comment"
+msgid "Game won"
+msgstr "Name=แกเลียน"
+
+#. +> trunk6 stable6
+#: sounds/kreversi.notifyrc:338
+#, fuzzy
+msgctxt "Name"
+msgid "Game Lost"
+msgstr "Name=เกมส์"
+
+#. +> trunk6 stable6
+#: sounds/kreversi.notifyrc:398
+#, fuzzy
+msgctxt "Comment"
+msgid "Game lost"
+msgstr "Name=เกมส์"
+
+#. +> trunk6 stable6
+#: sounds/kreversi.notifyrc:469
+#, fuzzy
+msgctxt "Name"
+msgid "Draw"
+msgstr "Name=เทปสำรองข้อมูล - K"
+
+#. +> trunk6 stable6
+#: sounds/kreversi.notifyrc:537
+#, fuzzy
+msgctxt "Comment"
+msgid "Draw"
+msgstr "Name=เทปสำรองข้อมูล - K"
+
+#. +> trunk6 stable6
+#: sounds/kreversi.notifyrc:608
+#, fuzzy
+msgctxt "Name"
+msgid "Illegal Move"
+msgstr "Name=Legal"
+
+#. +> trunk6 stable6
+#: sounds/kreversi.notifyrc:672
+#, fuzzy
+msgctxt "Comment"
+msgid "Illegal move"
+msgstr "Name=Legal"
+
+#. +> trunk6 stable6
+#: src/org.kde.kreversi.desktop:3
+#, fuzzy
+msgctxt "Name"
+msgid "KReversi"
+msgstr "Name=หมากหนีบ - K"
+
+#. +> trunk6 stable6
+#: src/org.kde.kreversi.desktop:80
+#, fuzzy
+msgctxt "GenericName"
+msgid "Reversi Board Game"
+msgstr "GenericName=เกมกระดาน"
+
+#. +> trunk6 stable6
+#: themes/default.desktop:3
+#, fuzzy
+msgctxt "Name"
+msgid "KReversi Default Theme"
+msgstr "GenericName=เกมกระดาน"

@@ -1,0 +1,202 @@
+# translation of krunner_powerdevil.po to Thai
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: krunner_powerdevil\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-11-22 11:23+0100\n"
+"PO-Revision-Date: 2010-02-11 21:30+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#: PowerDevilRunner.cpp:31
+#, kde-format
+msgctxt "Note this is a KRunner keyword; 'power' as in 'power saving mode'"
+msgid "power"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:32
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "suspend"
+msgstr "ปิดพักเครื่อง"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:33
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "to ram"
+msgstr "เก็บสถานะไว้ในหน่วยความจำ"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:34
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "sleep"
+msgstr "พักเครื่อง"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:35
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "hibernate"
+msgstr "จำศีล"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:36
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "to disk"
+msgstr "เก็บสถานะไว้ในดิสก์"
+
+#. +> trunk6 stable6
+#: PowerDevilRunner.cpp:37
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "hybrid sleep"
+msgstr ""
+
+#. +> trunk6 stable6
+#: PowerDevilRunner.cpp:38
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "hybrid"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:39 PowerDevilRunner.cpp:40 PowerDevilRunner.cpp:66
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "dim screen"
+msgstr "ทำหน้าจอมืดลง"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:50
+#, kde-format
+msgid "Lists system suspend (e.g. sleep, hibernate) options and allows them to be activated"
+msgstr "เรียกดูตัวเลือกต่าง ๆ ของรายการพักการทำงานของระบบ (เช่น พักเครื่อง, จำศีล เป็นต้น) และอนุญาตให้เรียกใช้งานพวกมันได้"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:54
+#, kde-format
+msgid "Suspends the system to RAM"
+msgstr "ปิดพักเครื่องโดยเก็บสถานะไว้ในหน่วยความจำ"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:58
+#, kde-format
+msgid "Suspends the system to disk"
+msgstr "ปิดพักเครื่องโดยเก็บสถานะไว้ในดิสก์"
+
+#. +> trunk6 stable6
+#: PowerDevilRunner.cpp:62
+#, kde-format
+msgid "Sleeps now and falls back to hibernate"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:65
+#, fuzzy, kde-format
+#| msgctxt "Note this is a KRunner keyword"
+#| msgid "screen brightness"
+msgctxt "Note this is a KRunner keyword, <> is a placeholder and should be at the end"
+msgid "screen brightness <percent value>"
+msgstr "ความสว่างของจอภาพ"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:68
+#, fuzzy, no-c-format, kde-format
+#| msgid "Lists screen brightness options or sets it to the brightness defined by :q:; e.g. screen brightness 50 would dim the screen to 50% maximum brightness"
+msgid "Lists screen brightness options or sets it to the brightness defined by the search term; e.g. screen brightness 50 would dim the screen to 50% maximum brightness"
+msgstr "เรียกดูหรือตั้งค่าตัวเลือกต่าง ๆ ของการปรับความมืดของหน้าจอลงตามการกำหนดด้วย :q: ตัวอย่าง ความสว่างหน้าจอ 50 จะทำการเพิ่มความมืดของหน้าจอเป็น 50% ของค่าความสว่างสูงสุด"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:89
+#, fuzzy, kde-format
+#| msgid "Set Brightness to %1"
+msgid "Set Brightness to %1%"
+msgstr "ตั้งค่าความสว่างเป็น %1"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:98
+#, kde-format
+msgid "Dim screen totally"
+msgstr "ทำหน้าจอมืดลงเต็มที่"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:106
+#, kde-format
+msgid "Dim screen by half"
+msgstr "ทำหน้าจอมืดลงกึ่งหนึ่ง"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:135
+#, fuzzy, kde-format
+#| msgctxt "Note this is a KRunner keyword"
+#| msgid "sleep"
+msgctxt "Suspend to RAM"
+msgid "Sleep"
+msgstr "พักเครื่อง"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:136
+#, kde-format
+msgid "Suspend to RAM"
+msgstr "พักเครื่องโดยเก็บสถานะไว้ในหน่วยความจำ"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:141
+#, fuzzy, kde-format
+#| msgctxt "Note this is a KRunner keyword"
+#| msgid "hibernate"
+msgctxt "Suspend to disk"
+msgid "Hibernate"
+msgstr "จำศีล"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:142
+#, fuzzy, kde-format
+#| msgid "Suspend to Disk"
+msgid "Suspend to disk"
+msgstr "พักเครื่องโดยเก็บสถานะไว้ในดิสก์"
+
+#. +> trunk6 stable6
+#: PowerDevilRunner.cpp:147
+#, kde-format
+msgctxt "Suspend to both RAM and disk"
+msgid "Hybrid sleep"
+msgstr ""
+
+#. +> trunk6 stable6
+#: PowerDevilRunner.cpp:148
+#, kde-format
+msgid "Sleep now and fall back to hibernate"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:226
+#, fuzzy, kde-format
+#| msgctxt "Note this is a KRunner keyword"
+#| msgid "screen brightness"
+msgctxt "Note this is a KRunner keyword, it should end with a space"
+msgid "screen brightness "
+msgstr "ความสว่างของจอภาพ"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:228
+#, fuzzy, kde-format
+#| msgctxt "Note this is a KRunner keyword"
+#| msgid "dim screen"
+msgctxt "Note this is a KRunner keyword, it should end with a space"
+msgid "dim screen "
+msgstr "ทำหน้าจอมืดลง"

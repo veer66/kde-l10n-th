@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdesdk\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-02-10 09:46+0100\n"
+"PO-Revision-Date: 2002-07-09 11:56+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga_n@yahoo.com>\n"
+"Language-Team: Thai "
+"<th@li.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 trunk5
+#: src/buffer/org.kde.ktexteditor6.katetextbuffer.actions:2
+#, fuzzy
+msgctxt "Name"
+msgid "Document Actions"
+msgstr "Name=แอพพลิเคชัน"
+
+#. +> trunk6 trunk5
+#: src/buffer/org.kde.ktexteditor6.katetextbuffer.actions:55
+#, fuzzy
+#| msgid "Name=Text Document"
+msgctxt "Name"
+msgid "Save Document"
+msgstr "Name=เอกสารข้อความ"
+
+#. +> trunk6 trunk5
+#: src/buffer/org.kde.ktexteditor6.katetextbuffer.actions:105
+msgctxt "Description"
+msgid "Root privileges are needed to save this document"
+msgstr ""
+
+#. +> trunk6
+#: templates/ktexteditor6-plugin/ktexteditor6-plugin.kdevtemplate:3
+msgctxt "Name"
+msgid "C++ Plugin (KF6)"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: templates/ktexteditor6-plugin/ktexteditor6-plugin.kdevtemplate:37
+msgctxt "Comment"
+msgid "Generates a KTextEditor C++ plugin to perform special operations on text in KWrite, Kate, KDevelop etc."
+msgstr ""
+
+#. +> trunk5
+#: src/data/ktexteditor.desktop:5
+#, fuzzy
+#| msgid "Comment=Embeddable Text Editor Component (with Doc/View Separation)"
+msgctxt "Comment"
+msgid "Embeddable Text Editor Component (with Doc/View Separation)"
+msgstr "Comment=คอมโปเนนท์แก้ไขข้อความที่ฝังได้ (โดยแยก เอกสาร/แสดงผล)"
+
+#. +> trunk5
+#: src/data/ktexteditorplugin.desktop:5
+#, fuzzy
+msgctxt "Comment"
+msgid "KTextEditor Plugin"
+msgstr "Comment=สร้างแฟ้มข้อความใหม่"
+
+#. +> trunk5
+#: src/part/katepart.desktop.in:2
+#, fuzzy
+msgctxt "Name"
+msgid "Embedded Advanced Text Editor"
+msgstr "Name=คอมโปเนนท์แก้ไขข้อความขั้นก้าวหน้าที่ฝังได้ของ KDE"
+
+#. +> trunk5
+#: src/part/katepart.desktop.in:65
+msgctxt "Comment"
+msgid "Reusable text editor component"
+msgstr ""
+
+#. +> trunk5
+#: templates/ktexteditor-plugin/ktexteditor-plugin.kdevtemplate:3
+msgctxt "Name"
+msgid "C++"
+msgstr ""

@@ -1,0 +1,95 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2010.
+# SPDX-FileCopyrightText: 2025 Pongsakorn S. <kde@xerusion.me>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-01-24 09:46+0100\n"
+"PO-Revision-Date: 2025-03-02 11:05+0700\n"
+"Last-Translator: Pongsakorn S. <kde@xerusion.me>\n"
+"Language-Team: Thai\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6 stable5
+#: menu.cpp:109
+#, kde-format
+msgctxt "plasma_containmentactions_contextmenu"
+msgid "Show KRunner"
+msgstr "แสดง KRunner"
+
+#. +> trunk6 stable6 stable5
+#: menu.cpp:114
+#, kde-format
+msgid "Open Terminal"
+msgstr "เปิดเทอร์มินัล"
+
+#. +> trunk6 stable6 stable5
+#: menu.cpp:118
+#, kde-format
+msgctxt "plasma_containmentactions_contextmenu"
+msgid "Lock Screen"
+msgstr "ล็อคหน้าจอ"
+
+#. +> trunk6 stable6
+#: menu.cpp:127
+#, kde-format
+msgctxt "plasma_containmentactions_contextmenu"
+msgid "Show Logout Screen"
+msgstr "แสดงหน้าจอออกจากระบบ"
+
+#. +> trunk6 stable6
+#: menu.cpp:132
+#, kde-format
+msgctxt "plasma_containmentactions_contextmenu"
+msgid "Display Configuration"
+msgstr "การกําหนดค่าหน้าจอ"
+
+#. +> trunk6 stable6 stable5
+#: menu.cpp:280
+#, kde-format
+msgctxt "plasma_containmentactions_contextmenu"
+msgid "Configure Contextual Menu Plugin"
+msgstr "กําหนดค่าปลั๊กอิน เมนูตามบริบท"
+
+#. +> trunk6 stable6 stable5
+#: menu.cpp:290
+#, kde-format
+msgctxt "plasma_containmentactions_contextmenu"
+msgid "[Other Actions]"
+msgstr "[การกระทำอื่นๆ]"
+
+#. +> trunk6 stable6 stable5
+#: menu.cpp:293
+#, kde-format
+msgctxt "plasma_containmentactions_contextmenu"
+msgid "Wallpaper Actions"
+msgstr "การกระทำกับภาพพื้นหลัง"
+
+#. +> trunk6 stable6 stable5
+#: menu.cpp:297
+#, kde-format
+msgctxt "plasma_containmentactions_contextmenu"
+msgid "[Separator]"
+msgstr "[ตัวแบ่ง]"
+
+#. +> stable5
+#: menu.cpp:117
+#, fuzzy, kde-format
+#| msgid "Leave..."
+msgctxt "plasma_containmentactions_contextmenu"
+msgid "Leave…"
+msgstr "ออก..."
+
+#. +> stable5
+#: menu.cpp:126
+#, kde-format
+msgctxt "plasma_containmentactions_contextmenu"
+msgid "Configure Display Settings…"
+msgstr ""

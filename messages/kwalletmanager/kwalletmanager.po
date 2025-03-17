@@ -1,0 +1,849 @@
+# translation of kwalletmanager.po to Thai
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kwalletmanager\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-03-09 09:44+0100\n"
+"PO-Revision-Date: 2010-05-01 10:15+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ถนอมทรัพย์ นพบูรณ์"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "donga.nb@gmail.com"
+
+#. +> trunk6 stable6
+#: allyourbase.cpp:215
+#, kde-format
+msgid "An entry by the name '%1' already exists. Would you like to continue?"
+msgstr "มีรายการชื่อ '%1' อยู่ก่อนแล้ว คุณต้องการจะทำอย่างไรต่อไป ?"
+
+#. +> trunk6 stable6
+#: allyourbase.cpp:240
+#, kde-format
+msgid "A folder by the name '%1' already exists.  What would you like to do?"
+msgstr "มีโฟลเดอร์ชื่อ '%1' อยู่ก่อนแล้ว คุณจะทำอย่างไรต่อไป ?"
+
+#. +> trunk6 stable6
+#: allyourbase.cpp:243
+#, kde-format
+msgid "Replace"
+msgstr "แทนที่"
+
+#. +> trunk6 stable6
+#: allyourbase.cpp:349
+#, kde-format
+msgid "Folders"
+msgstr "โฟลเดอร์ต่าง ๆ"
+
+#. +> trunk6 stable6
+#: allyourbase.cpp:382
+#, kde-format
+msgid "An unexpected error occurred trying to drop the item"
+msgstr "เกิดข้อผิดพลาดที่ไม่คาดคิดขึ้น ระหว่างพยายามทำการลบรายการ"
+
+#. +> trunk6 stable6
+#: allyourbase.cpp:457
+#, kde-format
+msgid "An unexpected error occurred trying to drop the entry"
+msgstr "เกิดข้อผิดพลาดที่ไม่คาดคิดขึ้น ระหว่างพยายามทำการลบรายการ"
+
+#. +> trunk6 stable6
+#: allyourbase.cpp:482
+#, kde-format
+msgid "An unexpected error occurred trying to delete the original folder, but the folder has been copied successfully"
+msgstr "เกิดข้อผิดพลาดที่ไม่คาดคิดขึ้น ระหว่างพยายามทำการลบโฟลเดอร์ดั้งเดิม แต่ว่าการคัดลอกโฟลเดอร์สามารถคัดลอกได้สมบูรณ์แล้ว"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: applicationsmanager.ui:17
+#, kde-format
+msgid "These applications are currently connected to this wallet:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> trunk6 stable6
+#: applicationsmanager.ui:64
+#, kde-format
+msgid "These applications are authorized to access this wallet:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: disconnectappbutton.cpp:17
+#, fuzzy, kde-format
+#| msgid "Disconnec&t"
+msgid "Disconnect"
+msgstr "&ยุติการเชื่อมต่อ"
+
+#. i18n: ectx: property (text), widget (QPushButton, _allowOnce)
+#. +> trunk6 stable6
+#: kbetterthankdialogbase.ui:43
+#, kde-format
+msgid "&Replace"
+msgstr "แ&ทนที่"
+
+#. i18n: ectx: property (text), widget (QPushButton, _allowAlways)
+#. +> trunk6 stable6
+#: kbetterthankdialogbase.ui:53
+#, kde-format
+msgid "Replace &All"
+msgstr "แทนที่ทั้งห&มด"
+
+#. i18n: ectx: property (text), widget (QPushButton, _deny)
+#. +> trunk6 stable6
+#: kbetterthankdialogbase.ui:60
+#, kde-format
+msgid "&Skip"
+msgstr "&ข้าม"
+
+#. i18n: ectx: property (text), widget (QPushButton, _denyForever)
+#. +> trunk6 stable6
+#: kbetterthankdialogbase.ui:67
+#, kde-format
+msgid "Skip A&ll"
+msgstr "ข้ามทั้งหม&ด"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:97
+#, kde-format
+msgid "Search"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:107
+#, fuzzy, kde-format
+#| msgid "&Show values"
+msgctxt "@option:check"
+msgid "&Show values"
+msgstr "แส&ดงค่าต่าง ๆ"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:207
+#, kde-format
+msgid "&New Folder..."
+msgstr "สร้างโฟลเดอร์ใ&หม่..."
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:211
+#, kde-format
+msgid "&Delete Folder"
+msgstr "&ลบโฟลเดอร์"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:214
+#, fuzzy, kde-format
+#| msgid "&Merge Wallet..."
+msgid "&Import a wallet..."
+msgstr "รวม&กระเป๋า..."
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:218
+#, kde-format
+msgid "&Import XML..."
+msgstr "&นำเข้าแฟ้ม XML..."
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:222
+#, fuzzy, kde-format
+#| msgid "&Import XML..."
+msgid "&Export as XML..."
+msgstr "&นำเข้าแฟ้ม XML..."
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:226
+#, kde-format
+msgid "&Copy"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:231
+#, kde-format
+msgid "&New..."
+msgstr "สร้างใ&หม่..."
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:236
+#, kde-format
+msgid "&Rename"
+msgstr "เ&ปลี่ยนชื่อ"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:241 kwalletpopup.cpp:62
+#, kde-format
+msgid "&Delete"
+msgstr "&ลบ"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:246
+#, fuzzy, kde-format
+#| msgid "Show &Contents"
+msgid "Always show contents"
+msgstr "แสดงเ&นื้อหา"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:250
+#, fuzzy, kde-format
+#| msgid "Hide &Contents"
+msgid "Always hide contents"
+msgstr "ซ่อนเ&นื้อหา"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:359
+#, kde-format
+msgid "Passwords"
+msgstr "รหัสผ่าน"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:360
+#, kde-format
+msgid "Maps"
+msgstr "จับคู่ข้อมูล"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:361
+#, kde-format
+msgid "Binary Data"
+msgstr "ข้อมูลแบบไบนารี"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:362
+#, kde-format
+msgid "Unknown"
+msgstr "ไม่ทราบ"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:404
+#, kde-format
+msgid "Are you sure you wish to delete the folder '%1' from the wallet?"
+msgstr "คุณแน่ใจหรือว่า ต้องการจะลบโฟลเดอร์ '%1' นี้ออกจากกระเป๋าคุมรหัสผ่าน ?"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:410
+#, kde-format
+msgid "Error deleting folder."
+msgstr "เกิดข้อผิดพลาดระหว่างการลบโฟลเดอร์"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:429
+#, kde-format
+msgid "New Folder"
+msgstr "สร้างโฟลเดอร์ใหม่"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:429
+#, kde-format
+msgid "Please choose a name for the new folder:"
+msgstr "โปรดป้อนชื่อของโฟลเดอร์ใหม่:"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:437
+#, kde-format
+msgid "Sorry, that folder name is in use. Try again?"
+msgstr "ขออภัย มีการใช้โฟลเดอร์ชื่อดังกล่าวอยู่ก่อนแล้ว จะลองใหม่อีกครั้งหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:439 kwalleteditor.cpp:798
+#, kde-format
+msgid "Try Again"
+msgstr "ลองใหม่"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:440 kwalleteditor.cpp:799 kwalletmanager.cpp:355
+#, kde-format
+msgid "Do Not Try"
+msgstr "ไม่ลอง"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:479
+#, kde-format
+msgid "Error saving entry. Error code: %1"
+msgstr "เกิดข้อผิดพลาดระหว่างบันทึกรายการ รหัสผิดพลาดคือ: %1"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:501
+#, kde-format
+msgid ""
+"The contents of the current item has changed.\n"
+"Do you want to save changes?"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:554 kwalleteditor.cpp:881
+#, kde-format
+msgid "Password: %1"
+msgstr "รหัสผ่าน: %1"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:570 kwalleteditor.cpp:883
+#, kde-format
+msgid "Name-Value Map: %1"
+msgstr "จับคู่ ชื่อ-ค่า: %1"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:580 kwalleteditor.cpp:885
+#, kde-format
+msgid "Binary Data: %1"
+msgstr "ข้อมูลแบบไบนารี: %1"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:787
+#, kde-format
+msgid "New Entry"
+msgstr "เพิ่มรายการใหม่"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:787
+#, kde-format
+msgid "Please choose a name for the new entry:"
+msgstr "โปรดป้อนชื่อของรายการใหม่:"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:796
+#, kde-format
+msgid "Sorry, that entry already exists. Try again?"
+msgstr "ขออภัย มีรายการดังกล่าวอยู่ก่อนแล้ว จะลองใหม่อีกครั้งหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:816 kwalleteditor.cpp:825
+#, kde-format
+msgid "An unexpected error occurred trying to add the new entry"
+msgstr "เกิดข้อผิดพลาดที่ไม่คาดคิดขึ้น ระหว่างพยายามทำการเพิ่มรายการใหม่"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:877
+#, kde-format
+msgid "An unexpected error occurred trying to rename the entry"
+msgstr "เกิดข้อผิดพลาดที่ไม่คาดคิดขึ้น ระหว่างพยายามทำการเปลี่ยนชื่อรายการ"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:898
+#, kde-format
+msgid "Are you sure you wish to delete the item '%1'?"
+msgstr "คุณแน่ใจหรือว่า ต้องการจะลบรายการ '%1' นี้ ?"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:902
+#, kde-format
+msgid "An unexpected error occurred trying to delete the entry"
+msgstr "เกิดข้อผิดพลาดที่ไม่คาดคิดขึ้น ระหว่างพยายามทำการลบรายการ"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:930
+#, kde-format
+msgid "Unable to open the requested wallet."
+msgstr "ไม่สามารถเปิดกระเป๋าที่มีการร้องขอมาได้"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:972
+#, fuzzy, kde-format
+#| msgid "Unable to access XML file '<b>%1</b>'."
+msgid "Unable to create temporary file for downloading '<b>%1</b>'."
+msgstr "ไม่สามารถเข้าใช้งานแฟ้ม XML '<b>%1</b>' ได้"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:979
+#, kde-format
+msgid "Unable to access wallet '<b>%1</b>'."
+msgstr "ไม่สามารถเข้าใช้งานกระเป๋า '<b>%1</b>' ได้"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:1010 kwalleteditor.cpp:1042 kwalleteditor.cpp:1078
+#: kwalleteditor.cpp:1162
+#, kde-format
+msgid "Folder '<b>%1</b>' already contains an entry '<b>%2</b>'.  Do you wish to replace it?"
+msgstr "มีรายการ '<b>%2</b>' ในโฟลเดอร์ '<b>%1</b>' อยู่ก่อนแล้ว คุณต้องการจะแทนที่มันหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:1120
+#, kde-format
+msgid "Unable to access XML file '<b>%1</b>'."
+msgstr "ไม่สามารถเข้าใช้งานแฟ้ม XML '<b>%1</b>' ได้"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:1126
+#, kde-format
+msgid "Error reading XML file '<b>%1</b>' for input."
+msgstr "ไม่สามารถอ่านแฟ้ม XML '<b>%1</b>' เพื่อนำข้อมูลเข้าได้"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:1132
+#, kde-format
+msgid "Error: XML file does not contain a wallet."
+msgstr "ข้อผิดพลาด: แฟ้ม XML ไม่มีส่วนกระเป๋าคุมข้อมูล"
+
+#. +> trunk6 stable6
+#: kwalleteditor.cpp:1285
+#, fuzzy, kde-format
+#| msgid "Unable to access wallet '<b>%1</b>'."
+msgid "Unable to store to '<b>%1</b>'."
+msgstr "ไม่สามารถเข้าใช้งานกระเป๋า '<b>%1</b>' ได้"
+
+#. +> trunk6 stable6
+#: kwalletmanager.cpp:63
+#, kde-format
+msgid "The KDE Wallet system is not enabled. Do you want me to enable it? If not, the KWalletManager will quit as it cannot work without reading the wallets."
+msgstr ""
+
+#. +> trunk6 stable6
+#: kwalletmanager.cpp:88 kwalletmanager.cpp:95 kwalletmanager.cpp:222
+#: kwalletmanager.cpp:287
+#, fuzzy, kde-format
+#| msgid "KDE Wallet"
+msgid "Wallet"
+msgstr "กระเป๋าคุมข้อมูลของ KDE"
+
+#. +> trunk6 stable6
+#: kwalletmanager.cpp:88 kwalletmanager.cpp:287
+#, kde-format
+msgid "No wallets open."
+msgstr "ยังไม่มีกระเป๋าใดถูกเปิดใช้"
+
+#. +> trunk6 stable6
+#: kwalletmanager.cpp:95 kwalletmanager.cpp:222
+#, kde-format
+msgid "A wallet is open."
+msgstr "มีกระเป๋าถูกเปิดใช้"
+
+#. +> trunk6 stable6
+#: kwalletmanager.cpp:139 kwalletpopup.cpp:27
+#, kde-format
+msgid "&New Wallet..."
+msgstr "สร้างกระเป๋าคุมข้อมูลใ&หม่..."
+
+#. +> trunk6 stable6
+#: kwalletmanager.cpp:144
+#, fuzzy, kde-format
+#| msgid "Delete Wallet"
+msgid "&Delete Wallet..."
+msgstr "ลบกระเป๋าคุมข้อมูล"
+
+#. +> trunk6 stable6
+#: kwalletmanager.cpp:149
+#, kde-format
+msgid "Export as encrypted"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kwalletmanager.cpp:154
+#, kde-format
+msgid "&Import encrypted"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kwalletmanager.cpp:159
+#, kde-format
+msgid "Configure &Wallet..."
+msgstr "ปรับแต่ง&กระเป๋าคุมข้อมูล..."
+
+#. +> trunk6 stable6
+#: kwalletmanager.cpp:167
+#, kde-format
+msgid "Close &All Wallets"
+msgstr "ปิดกระเป๋าคุมข้อมูล&ทั้งหมด"
+
+#. +> trunk6 stable6
+#: kwalletmanager.cpp:256 walletcontrolwidget.cpp:110
+#, kde-format
+msgid "Unable to close wallet cleanly. It is probably in use by other applications. Do you wish to force it closed?"
+msgstr "ไม่สามารถปิดกระเป๋าคุมข้อมูลได้อย่างเรียบร้อย ซึ่งอาจจะมีโปรแกรมบางตัวยังใช้งานมันอยู่ คุณต้องการจะบังคับให้มันปิดกระเป๋าหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: kwalletmanager.cpp:258 walletcontrolwidget.cpp:112
+#, kde-format
+msgid "Force Closure"
+msgstr "บังคับปิดกระเป๋า"
+
+#. +> trunk6 stable6
+#: kwalletmanager.cpp:259 walletcontrolwidget.cpp:113
+#, kde-format
+msgid "Do Not Force"
+msgstr "ไม่ต้องบังคับ"
+
+#. +> trunk6 stable6
+#: kwalletmanager.cpp:263 walletcontrolwidget.cpp:117
+#, kde-format
+msgid "Unable to force the wallet closed. Error code was %1."
+msgstr "ไม่สามารถบังคับปิดกระเป๋าคุมข้อมูลได้ รหัสผิดพลาดคือ %1"
+
+#. +> trunk6 stable6
+#: kwalletmanager.cpp:279
+#, kde-format
+msgid "Error opening wallet %1."
+msgstr "เกิดข้อผิดพลาดระหว่างทำการเปิดกระเป๋าคุมข้อมูล %1"
+
+#. +> trunk6 stable6
+#: kwalletmanager.cpp:318
+#, kde-format
+msgid "Please choose a name for the new wallet:"
+msgstr "โปรดเลือกชื่อของกระเป๋าคุมข้อมูลใบใหม่:"
+
+#. +> trunk6 stable6
+#: kwalletmanager.cpp:327
+#, fuzzy, kde-format
+#| msgid "New Wallet"
+msgctxt "@title:window"
+msgid "New Wallet"
+msgstr "กระเป๋าคุมข้อมูลใหม่"
+
+#. +> trunk6 stable6
+#: kwalletmanager.cpp:346
+#, kde-format
+msgid "Empty name is not supported. Please select a new one."
+msgstr ""
+
+#. +> trunk6 stable6
+#: kwalletmanager.cpp:346
+#, kde-format
+msgid "Create new wallet"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kwalletmanager.cpp:352
+#, kde-format
+msgid "Sorry, that wallet already exists. Try a new name?"
+msgstr "ขออภัย มีกระเป๋าคุมข้อมูลดังกล่าวอยู่ก่อนแล้ว จะลองใช้ชื่อใหม่หรือไม่ ?"
+
+#. +> trunk6 stable6
+#: kwalletmanager.cpp:354
+#, kde-format
+msgid "Try New"
+msgstr "ลองใหม่"
+
+#. +> trunk6 stable6
+#: kwalletmanager.cpp:380
+#, kde-format
+msgid "Are you sure you wish to delete the wallet '%1'?"
+msgstr "คุณแน่ใจหรือว่า ต้องการจะลบกระเป๋าคุมข้อมูล '%1' ?"
+
+#. +> trunk6 stable6
+#: kwalletmanager.cpp:386
+#, kde-format
+msgid "Unable to delete the wallet. Error code was %1."
+msgstr "ไม่สามารถลบกระเป๋าคุมข้อมูลได้ รหัสผิดพลาดคือ %1"
+
+#. +> trunk6 stable6
+#: kwalletmanager.cpp:433
+#, fuzzy, kde-format
+#| msgid "A wallet name"
+msgid "File name"
+msgstr "ชื่อกระเป๋าคุมข้อมูล"
+
+#. +> trunk6 stable6
+#: kwalletmanager.cpp:440
+#, kde-format
+msgid "Failed to open file for writing"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kwalletmanager.cpp:451
+#, kde-format
+msgid "Select file"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kwalletmanager.cpp:461
+#, kde-format
+msgid "Failed to open file"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kwalletmanager.cpp:473
+#, kde-format
+msgid "Wallet named %1 already exists, Operation aborted"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kwalletmanager.cpp:479
+#, kde-format
+msgid "Failed to copy files"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kwalletmanager.cpp:491 walletcontrolwidget.cpp:100
+#, kde-format
+msgid "Ignore unsaved changes?"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kwalletmanager.cpp:491 walletcontrolwidget.cpp:100
+#, kde-format
+msgid "Ignore"
+msgstr ""
+
+#. i18n: ectx: Menu (file)
+#. +> trunk6 stable6
+#: kwalletmanager.rc:4
+#, kde-format
+msgid "&File"
+msgstr "แ&ฟ้ม"
+
+#. i18n: ectx: Menu (settings)
+#. +> trunk6 stable6
+#: kwalletmanager.rc:17
+#, kde-format
+msgid "&Settings"
+msgstr "&ตั้งค่า"
+
+#. i18n: ectx: Menu (help)
+#. +> trunk6 stable6
+#: kwalletmanager.rc:20
+#, kde-format
+msgid "&Help"
+msgstr "&ช่วยเหลือ"
+
+#. +> trunk6 stable6
+#: kwalletmanagerwidget.cpp:222
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid ""
+"An error occurred when connecting to the KWallet service:<nl/>"
+"%1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kwalletpopup.cpp:32 walletcontrolwidget.cpp:76
+#, kde-format
+msgid "&Open..."
+msgstr "เ&ปิด..."
+
+#. +> trunk6 stable6
+#: kwalletpopup.cpp:38
+#, kde-format
+msgid "Change &Password..."
+msgstr "เปลี่ยน&รหัสผ่าน..."
+
+#. +> trunk6 stable6
+#: kwalletpopup.cpp:51
+#, kde-format
+msgid "Disconnec&t"
+msgstr "&ยุติการเชื่อมต่อ"
+
+#. +> trunk6 stable6
+#: kwmapeditor.cpp:133
+#, kde-format
+msgid "Key"
+msgstr "ชื่อตัวแปร"
+
+#. +> trunk6 stable6
+#: kwmapeditor.cpp:133
+#, kde-format
+msgid "Value"
+msgstr "ค่า"
+
+#. +> trunk6 stable6
+#: kwmapeditor.cpp:151 kwmapeditor.cpp:200
+#, fuzzy, kde-format
+#| msgid "New Entry"
+msgctxt "@info:tooltip"
+msgid "Delete Entry"
+msgstr "เพิ่มรายการใหม่"
+
+#. +> trunk6 stable6
+#: kwmapeditor.cpp:220
+#, kde-format
+msgid "&New Entry"
+msgstr "เพิ่มรายการใ&หม่"
+
+#. +> trunk6 stable6
+#: main.cpp:26
+#, fuzzy, kde-format
+#| msgid "KDE Wallet Manager"
+msgid "Wallet Manager"
+msgstr "จัดการกระเป๋าคุมข้อมูลของ KDE"
+
+#. +> trunk6 stable6
+#: main.cpp:28
+#, kde-format
+msgid "KDE Wallet Management Tool"
+msgstr "เครื่องมือจัดการกระเป๋าคุมข้อมูลของ KDE"
+
+#. +> trunk6 stable6
+#: main.cpp:30
+#, kde-format
+msgid "Copyright ©2013–2017, KWallet Manager authors"
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:34
+#, kde-format
+msgctxt "@info:credit"
+msgid "Valentin Rusu"
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:34
+#, kde-format
+msgid "Former Maintainer, user interface refactoring"
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:35
+#, fuzzy, kde-format
+#| msgid "George Staikos"
+msgctxt "@info:credit"
+msgid "George Staikos"
+msgstr "George Staikos"
+
+#. +> trunk6 stable6
+#: main.cpp:35
+#, kde-format
+msgid "Original author and former maintainer"
+msgstr "ผู้เขียนดั้งเดิมและผู้ดูแลก่อนหน้านี้"
+
+#. +> trunk6 stable6
+#: main.cpp:36
+#, fuzzy, kde-format
+#| msgid "Michael Leupold"
+msgctxt "@info:credit"
+msgid "Michael Leupold"
+msgstr "Michael Leupold"
+
+#. +> trunk6 stable6
+#: main.cpp:36
+#, fuzzy, kde-format
+#| msgid "Original author and former maintainer"
+msgid "Developer and former maintainer"
+msgstr "ผู้เขียนดั้งเดิมและผู้ดูแลก่อนหน้านี้"
+
+#. +> trunk6 stable6
+#: main.cpp:37
+#, fuzzy, kde-format
+#| msgid "Isaac Clerencia"
+msgctxt "@info:credit"
+msgid "Isaac Clerencia"
+msgstr "Isaac Clerencia"
+
+#. +> trunk6 stable6
+#: main.cpp:37
+#, kde-format
+msgid "Developer"
+msgstr "ผู้พัฒนา"
+
+#. +> trunk6 stable6
+#: main.cpp:44
+#, kde-format
+msgid "Ignored, for compatibility"
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:47
+#, kde-format
+msgid "For use by kwalletd only"
+msgstr "สำหรับใช้กับ kwalletd เท่านั้น"
+
+#. +> trunk6 stable6
+#: main.cpp:48
+#, kde-format
+msgid "A wallet name"
+msgstr "ชื่อกระเป๋าคุมข้อมูล"
+
+#. +> trunk6 stable6
+#: revokeauthbutton.cpp:16
+#, kde-format
+msgid "Revoke Authorization"
+msgstr ""
+
+#. +> trunk6 stable6
+#: walletcontrolwidget.cpp:55
+#, kde-format
+msgid "&Close"
+msgstr ""
+
+#. +> trunk6 stable6
+#: walletcontrolwidget.cpp:73
+#, fuzzy, kde-format
+#| msgid "A wallet is open."
+msgctxt "the 'kdewallet' is currently open (e.g. %1 will be replaced with current wallet name)"
+msgid "The '%1' wallet is currently open."
+msgstr "มีกระเป๋าถูกเปิดใช้"
+
+#. +> trunk6 stable6
+#: walletcontrolwidget.cpp:90
+#, fuzzy, kde-format
+#| msgid "A wallet is open."
+msgid "The wallet is currently closed."
+msgstr "มีกระเป๋าถูกเปิดใช้"
+
+#. i18n: ectx: property (text), widget (KSqueezedTextLabel, _stateLabel)
+#. +> trunk6 stable6
+#: walletcontrolwidget.ui:31
+#, kde-format
+msgid "KSqueezedTextLabel"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, _openClose)
+#. +> trunk6 stable6
+#: walletcontrolwidget.ui:54
+#, fuzzy, kde-format
+#| msgid "&Open..."
+msgid "Open..."
+msgstr "เ&ปิด..."
+
+#. i18n: ectx: property (text), widget (QPushButton, _changePassword)
+#. +> trunk6 stable6
+#: walletcontrolwidget.ui:61
+#, fuzzy, kde-format
+#| msgid "Change &Password..."
+msgid "Change Password..."
+msgstr "เปลี่ยน&รหัสผ่าน..."
+
+#. i18n: ectx: attribute (title), widget (QWidget, _contentsTab)
+#. +> trunk6 stable6
+#: walletcontrolwidget.ui:80
+#, fuzzy, kde-format
+#| msgid "Hide &Contents"
+msgid "Contents"
+msgstr "ซ่อนเ&นื้อหา"
+
+#. i18n: ectx: attribute (title), widget (QWidget, _appsTab)
+#. +> trunk6 stable6
+#: walletcontrolwidget.ui:117
+#, kde-format
+msgid "Applications"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QToolButton, _hideContents)
+#. +> trunk6 stable6
+#: walletwidget.ui:159
+#, kde-format
+msgid "Hide &Contents"
+msgstr "ซ่อนเ&นื้อหา"
+
+#. i18n: ectx: property (text), widget (QCheckBox, _binaryViewShow)
+#. i18n: ectx: property (text), widget (QToolButton, _showContents)
+#. +> trunk6 stable6
+#: walletwidget.ui:205 walletwidget.ui:253
+#, kde-format
+msgid "Show &Contents"
+msgstr "แสดงเ&นื้อหา"
+
+#. i18n: ectx: property (text), widget (QPushButton, _undoChanges)
+#. +> trunk6 stable6
+#: walletwidget.ui:324
+#, kde-format
+msgid "&Undo"
+msgstr "&เลิกทำ"
+
+#. i18n: ectx: property (text), widget (QPushButton, _saveChanges)
+#. +> trunk6 stable6
+#: walletwidget.ui:334
+#, kde-format
+msgid "&Save"
+msgstr "&บันทึก"

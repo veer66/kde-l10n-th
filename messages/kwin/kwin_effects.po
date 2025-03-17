@@ -1,0 +1,1406 @@
+# translation of kwin_effects.po to Thai
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Sahachart Anukulkitch <drrider@gmail.com>, 2007.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008, 2010.
+# Narachai Sakorn <narachai@gmail.com>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kwin_effects\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-04-26 11:08+0200\n"
+"PO-Revision-Date: 2010-12-17 21:12+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. i18n: ectx: property (text), widget (QLabel, labelConstantBlurDescription)
+#. +> stable5
+#: blur/blur_config.ui:17
+#, fuzzy, kde-format
+#| msgid "&Strength:"
+msgid "Blur strength:"
+msgstr "ความเ&ข้ม:"
+
+#. i18n: ectx: property (text), widget (QLabel, labelConstantBlurLight)
+#. i18n: ectx: property (text), widget (QLabel, labelConstantNoiseLight)
+#. +> stable5
+#: blur/blur_config.ui:42 blur/blur_config.ui:108
+#, kde-format
+msgid "Light"
+msgstr "อ่อน"
+
+#. i18n: ectx: property (text), widget (QLabel, labelConstantBlurStrong)
+#. i18n: ectx: property (text), widget (QLabel, labelConstantNoiseStrong)
+#. +> stable5
+#: blur/blur_config.ui:74 blur/blur_config.ui:137
+#, kde-format
+msgid "Strong"
+msgstr "แรง"
+
+#. i18n: ectx: property (text), widget (QLabel, labelConstantNoiseDescription)
+#. +> stable5
+#: blur/blur_config.ui:83
+#, fuzzy, kde-format
+#| msgid "&Strength:"
+msgid "Noise strength:"
+msgstr "ความเ&ข้ม:"
+
+#. +> stable5
+#: colorpicker/colorpicker.cpp:101
+#, kde-format
+msgid ""
+"Select a position for color picking with left click or enter.\n"
+"Escape or right click to cancel."
+msgstr ""
+
+#. +> stable5
+#: desktopgrid/desktopgrid_config.cpp:49 invert/invert_config.cpp:35
+#: magnifier/magnifier_config.cpp:55 mouseclick/mouseclick_config.cpp:48
+#: mousemark/mousemark_config.cpp:50 overview/kcm/overvieweffectkcm.cpp:35
+#: showpaint/showpaint_config.cpp:33
+#: thumbnailaside/thumbnailaside_config.cpp:54
+#: tileseditor/kcm/tileseditoreffectkcm.cpp:31
+#: trackmouse/trackmouse_config.cpp:52
+#: windowview/kcm/windowvieweffectkcm.cpp:36 zoom/zoom_config.cpp:58
+#, kde-format
+msgid "KWin"
+msgstr ""
+
+#. +> stable5
+#: desktopgrid/desktopgrid_config.cpp:54 desktopgrid/desktopgrideffect.cpp:35
+#, kde-format
+msgid "Show Desktop Grid"
+msgstr "แสดงแนวตารางของพื้นที่ทำงาน"
+
+#. +> stable5
+#: desktopgrid/desktopgrid_config.cpp:61
+#, kde-format
+msgctxt "Desktop name alignment:"
+msgid "Disabled"
+msgstr "ถูกปิดการใช้งาน"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_InRotationEdge)
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_OutRotationEdge)
+#. +> stable5
+#: desktopgrid/desktopgrid_config.cpp:62 glide/glide_config.ui:70
+#: glide/glide_config.ui:168
+#, kde-format
+msgid "Top"
+msgstr "บนสุด"
+
+#. +> stable5
+#: desktopgrid/desktopgrid_config.cpp:63
+#, kde-format
+msgid "Top-Right"
+msgstr "บนขวา"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_InRotationEdge)
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_OutRotationEdge)
+#. +> stable5
+#: desktopgrid/desktopgrid_config.cpp:64 glide/glide_config.ui:75
+#: glide/glide_config.ui:173
+#, kde-format
+msgid "Right"
+msgstr "ขวา"
+
+#. +> stable5
+#: desktopgrid/desktopgrid_config.cpp:65
+#, kde-format
+msgid "Bottom-Right"
+msgstr "ล่างขวา"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_InRotationEdge)
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_OutRotationEdge)
+#. +> stable5
+#: desktopgrid/desktopgrid_config.cpp:66 glide/glide_config.ui:80
+#: glide/glide_config.ui:178
+#, kde-format
+msgid "Bottom"
+msgstr "ล่างสุด"
+
+#. +> stable5
+#: desktopgrid/desktopgrid_config.cpp:67
+#, kde-format
+msgid "Bottom-Left"
+msgstr "ล่างซ้าย"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_InRotationEdge)
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_OutRotationEdge)
+#. +> stable5
+#: desktopgrid/desktopgrid_config.cpp:68 glide/glide_config.ui:85
+#: glide/glide_config.ui:183
+#, kde-format
+msgid "Left"
+msgstr "ซ้าย"
+
+#. +> stable5
+#: desktopgrid/desktopgrid_config.cpp:69
+#, kde-format
+msgid "Top-Left"
+msgstr "บนซ้าย"
+
+#. +> stable5
+#: desktopgrid/desktopgrid_config.cpp:70
+#, kde-format
+msgid "Center"
+msgstr "กึ่งกลาง"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#. +> stable5
+#: desktopgrid/desktopgrid_config.ui:17 mousemark/mousemark_config.ui:17
+#: thumbnailaside/thumbnailaside_config.ui:17
+#, kde-format
+msgid "Appearance"
+msgstr "รูปลักษณ์"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_DesktopLayoutMode)
+#. +> stable5
+#: desktopgrid/desktopgrid_config.ui:30
+#, kde-format
+msgid "Pager"
+msgstr "ตัวสลับพื้นที่ทำงาน"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_DesktopLayoutMode)
+#. +> stable5
+#: desktopgrid/desktopgrid_config.ui:35
+#, kde-format
+msgid "Automatic"
+msgstr "อัตโนมัติ"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_DesktopLayoutMode)
+#. +> stable5
+#: desktopgrid/desktopgrid_config.ui:40
+#, kde-format
+msgid "Custom"
+msgstr "กำหนดเอง"
+
+#. i18n: ectx: property (text), widget (QLabel, layoutRowsLabel)
+#. +> stable5
+#: desktopgrid/desktopgrid_config.ui:48
+#, fuzzy, kde-format
+#| msgid "Number of &rows:"
+msgid "N&umber of rows:"
+msgstr "จำนวนแ&ถว:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#. +> stable5
+#: desktopgrid/desktopgrid_config.ui:103
+#, kde-format
+msgid "Desktop &name alignment:"
+msgstr "การจัดตำแหน่ง&ชื่อของพื้นที่ทำงาน:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_ShowAddRemove)
+#. +> stable5
+#: desktopgrid/desktopgrid_config.ui:116
+#, kde-format
+msgid "Show buttons to alter count of virtual desktops"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#. +> stable5
+#: desktopgrid/desktopgrid_config.ui:123
+#, fuzzy, kde-format
+#| msgid "&Layout mode:"
+msgid "&Grid layout mode:"
+msgstr "โห&มดการจัดวาง:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_LayoutMode)
+#. +> stable5
+#: desktopgrid/desktopgrid_config.ui:137 overview/kcm/overvieweffectkcm.ui:30
+#: windowview/kcm/windowvieweffectkcm.ui:30
+#, kde-format
+msgid "Closest"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_LayoutMode)
+#. +> stable5
+#: desktopgrid/desktopgrid_config.ui:142 overview/kcm/overvieweffectkcm.ui:35
+#: windowview/kcm/windowvieweffectkcm.ui:35
+#, kde-format
+msgid "Natural"
+msgstr "เป็นธรรมชาติ"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_LayoutMode)
+#. +> stable5
+#: desktopgrid/desktopgrid_config.ui:147
+#, kde-format
+msgid "None"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> stable5
+#: desktopgrid/desktopgrid_config.ui:155
+#, fuzzy, kde-format
+#| msgid "Windows"
+msgid "Windows layout:"
+msgstr "หน้าต่างต่าง ๆ"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#. +> stable5
+#: desktopgrid/desktopgrid_config.ui:171
+#, kde-format
+msgid "Activation"
+msgstr "การกระตุ้นการทำงาน"
+
+#. i18n: ectx: property (text), widget (QLabel, label_Strength)
+#. +> stable5
+#: diminactive/diminactive_config.ui:17
+#, fuzzy, kde-format
+#| msgid "&Strength:"
+msgid "Strength:"
+msgstr "ความเ&ข้ม:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_Dim)
+#. +> stable5
+#: diminactive/diminactive_config.ui:40
+#, kde-format
+msgid "Dim:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_DimPanels)
+#. +> stable5
+#: diminactive/diminactive_config.ui:47
+#, fuzzy, kde-format
+#| msgid "Do not animate panels"
+msgid "Docks and panels"
+msgstr "ไม่ต้องใช้การเคลื่อนไหวกับแถบพาเนลต่าง ๆ"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_DimDesktop)
+#. +> stable5
+#: diminactive/diminactive_config.ui:54
+#, fuzzy, kde-format
+#| msgctxt "@title:group actions when clicking on desktop"
+#| msgid "Desktop"
+msgid "Desktop"
+msgstr "พื้นที่ทำงาน"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_DimKeepAbove)
+#. +> stable5
+#: diminactive/diminactive_config.ui:61
+#, fuzzy, kde-format
+#| msgid "Inactive windows:"
+msgid "Keep above windows"
+msgstr "หน้าต่างต่าง ๆ ที่ไม่ได้ทำงานอยู่:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_DimByGroup)
+#. +> stable5
+#: diminactive/diminactive_config.ui:68
+#, kde-format
+msgid "By window group"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_DimFullScreen)
+#. +> stable5
+#: diminactive/diminactive_config.ui:75
+#, fuzzy, kde-format
+#| msgid "Windows"
+msgid "Fullscreen windows"
+msgstr "หน้าต่างต่าง ๆ"
+
+#. i18n: ectx: property (text), widget (QLabel, label_Duration)
+#. +> stable5
+#: glide/glide_config.ui:19 scale/package/contents/ui/config.ui:17
+#, fuzzy, kde-format
+#| msgid "Duration"
+msgid "Duration:"
+msgstr "ช่วงเวลา"
+
+#. i18n: ectx: property (specialValueText), widget (QSpinBox, kcfg_Duration)
+#. +> stable5
+#: glide/glide_config.ui:32 scale/package/contents/ui/config.ui:30
+#, fuzzy, kde-format
+#| msgctxt "Duration of rotation"
+#| msgid "Default"
+msgid "Default"
+msgstr "ค่าปริยาย"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_Duration)
+#. +> stable5
+#: glide/glide_config.ui:35 scale/package/contents/ui/config.ui:33
+#, fuzzy, kde-format
+#| msgid " millisecond"
+#| msgid_plural " milliseconds"
+msgid " milliseconds"
+msgstr " มิลลิวินาที"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_InAnimation)
+#. +> stable5
+#: glide/glide_config.ui:50
+#, fuzzy, kde-format
+#| msgid "Animation"
+msgid "Window Open Animation"
+msgstr "การเคลื่อนไหว"
+
+#. i18n: ectx: property (text), widget (QLabel, label_InRotationEdge)
+#. i18n: ectx: property (text), widget (QLabel, label_OutRotationEdge)
+#. +> stable5
+#: glide/glide_config.ui:56 glide/glide_config.ui:154
+#, fuzzy, kde-format
+#| msgid "Rotation duration:"
+msgid "Rotation edge:"
+msgstr "เวลาทำการหมุน:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_InRotationAngle)
+#. i18n: ectx: property (text), widget (QLabel, label_OutRotationAngle)
+#. +> stable5
+#: glide/glide_config.ui:93 glide/glide_config.ui:191
+#, fuzzy, kde-format
+#| msgid "Rotation duration:"
+msgid "Rotation angle:"
+msgstr "เวลาทำการหมุน:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_InDistance)
+#. i18n: ectx: property (text), widget (QLabel, label_OutDistance)
+#. +> stable5
+#: glide/glide_config.ui:119 glide/glide_config.ui:198
+#, kde-format
+msgid "Distance:"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_OutAnimation)
+#. +> stable5
+#: glide/glide_config.ui:148
+#, fuzzy, kde-format
+#| msgid "Animation"
+msgid "Window Close Animation"
+msgstr "การเคลื่อนไหว"
+
+#. +> stable5
+#: invert/invert.cpp:42 invert/invert_config.cpp:38
+#, kde-format
+msgid "Toggle Invert Effect"
+msgstr "เปิด/ปิดลูกเล่นกลับค่าสี"
+
+#. +> stable5
+#: invert/invert.cpp:49 invert/invert_config.cpp:44
+#, kde-format
+msgid "Toggle Invert Effect on Window"
+msgstr "เปิด/ปิดลูกเล่นกลับค่าสีบนหน้าต่าง"
+
+#. +> stable5
+#: invert/invert.cpp:56
+#, fuzzy, kde-format
+#| msgid "Invert cursor keys"
+msgid "Invert Screen Colors"
+msgstr "กลับค่าสีของตัวชี้ของเมาส์"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_FadeToBlack)
+#. +> stable5
+#: login/package/contents/ui/config.ui:17
+#, kde-format
+msgid "Fade to black (fullscreen splash screens only)"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. +> stable5
+#: magiclamp/magiclamp_config.ui:17
+#, kde-format
+msgid "Animation duration:"
+msgstr "ช่วงเวลาเคลื่อนไหว:"
+
+#. i18n: ectx: property (specialValueText), widget (QSpinBox, kcfg_AnimationDuration)
+#. +> stable5
+#: magiclamp/magiclamp_config.ui:36
+#, kde-format
+msgctxt "Duration of rotation"
+msgid "Default"
+msgstr "ค่าปริยาย"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_AnimationDuration)
+#. +> stable5
+#: magiclamp/magiclamp_config.ui:39
+#, fuzzy, kde-format
+#| msgid " millisecond"
+#| msgid_plural " milliseconds"
+msgid "milliseconds"
+msgstr " มิลลิวินาที"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupSize)
+#. +> stable5
+#: magnifier/magnifier_config.ui:17
+#, kde-format
+msgid "Size"
+msgstr "ขนาด"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> stable5
+#: magnifier/magnifier_config.ui:23
+#, kde-format
+msgid "&Width:"
+msgstr "ความ&กว้าง:"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_Width)
+#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_Height)
+#. +> stable5
+#: magnifier/magnifier_config.ui:42 magnifier/magnifier_config.ui:74
+#, kde-format
+msgid " px"
+msgstr " พิกเซล"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> stable5
+#: magnifier/magnifier_config.ui:55
+#, kde-format
+msgid "&Height:"
+msgstr "&ความสูง:"
+
+#. +> stable5
+#: mouseclick/mouseclick.cpp:34 mouseclick/mouseclick_config.cpp:51
+#, fuzzy, kde-format
+#| msgid "Toggle Invert Effect"
+msgid "Toggle Mouse Click Effect"
+msgstr "เปิด/ปิดลูกเล่นกลับค่าสี"
+
+#. +> stable5
+#: mouseclick/mouseclick.cpp:41
+#, fuzzy, kde-format
+#| msgid "Left"
+msgctxt "Left mouse button"
+msgid "Left"
+msgstr "ซ้าย"
+
+#. +> stable5
+#: mouseclick/mouseclick.cpp:42
+#, fuzzy, kde-format
+#| msgid "Middle button:"
+msgctxt "Middle mouse button"
+msgid "Middle"
+msgstr "ปุ่มกลาง:"
+
+#. +> stable5
+#: mouseclick/mouseclick.cpp:43
+#, fuzzy, kde-format
+#| msgid "Right"
+msgctxt "Right mouse button"
+msgid "Right"
+msgstr "ขวา"
+
+#. +> stable5
+#: mouseclick/mouseclick.h:60
+#, kde-format
+msgid "↓"
+msgstr ""
+
+#. +> stable5
+#: mouseclick/mouseclick.h:61
+#, kde-format
+msgid "↑"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, basic_tab)
+#. +> stable5
+#: mouseclick/mouseclick_config.ui:21
+#, kde-format
+msgid "Basic Settings"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, button1_label)
+#. +> stable5
+#: mouseclick/mouseclick_config.ui:37
+#, fuzzy, kde-format
+#| msgid "Left button:"
+msgid "Left Mouse Button Color:"
+msgstr "ปุ่มซ้าย:"
+
+#. i18n: ectx: property (text), widget (QLabel, button2_label)
+#. +> stable5
+#: mouseclick/mouseclick_config.ui:50
+#, fuzzy, kde-format
+#| msgid "Middle button:"
+msgid "Middle Mouse Button Color:"
+msgstr "ปุ่มกลาง:"
+
+#. i18n: ectx: property (text), widget (QLabel, button3_label)
+#. +> stable5
+#: mouseclick/mouseclick_config.ui:70
+#, fuzzy, kde-format
+#| msgid "Right button:"
+msgid "Right Mouse Button Color:"
+msgstr "ปุ่มขวา:"
+
+#. i18n: ectx: attribute (title), widget (QWidget, advanced_tab)
+#. +> stable5
+#: mouseclick/mouseclick_config.ui:91
+#, fuzzy, kde-format
+#| msgid "Advanced"
+msgid "Advanced Settings"
+msgstr "ขั้นสูง"
+
+#. i18n: ectx: property (title), widget (QGroupBox, rings)
+#. +> stable5
+#: mouseclick/mouseclick_config.ui:97
+#, kde-format
+msgid "Rings"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, ring_line_width_label)
+#. +> stable5
+#: mouseclick/mouseclick_config.ui:103
+#, fuzzy, kde-format
+#| msgid "&Width:"
+msgid "Line Width:"
+msgstr "ความ&กว้าง:"
+
+#. i18n: ectx: property (suffix), widget (QDoubleSpinBox, kcfg_LineWidth)
+#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_RingSize)
+#. +> stable5
+#: mouseclick/mouseclick_config.ui:119 mouseclick/mouseclick_config.ui:171
+#, fuzzy, kde-format
+#| msgid " pixel"
+#| msgid_plural " pixels"
+msgid " pixel"
+msgstr " พิกเซล"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_RingLife)
+#. +> stable5
+#: mouseclick/mouseclick_config.ui:132
+#, kde-format
+msgid " msec"
+msgstr " มิลลิวินาที"
+
+#. i18n: ectx: property (text), widget (QLabel, ring_duration_label)
+#. +> stable5
+#: mouseclick/mouseclick_config.ui:145
+#, fuzzy, kde-format
+#| msgid "Fading duration:"
+msgid "Ring Duration:"
+msgstr "ช่วงเวลาปรับจาง/เข้ม:"
+
+#. i18n: ectx: property (text), widget (QLabel, ring_radius_label)
+#. +> stable5
+#: mouseclick/mouseclick_config.ui:155
+#, fuzzy, kde-format
+#| msgid "&Radius:"
+msgid "Ring Radius:"
+msgstr "&รัศมี:"
+
+#. i18n: ectx: property (text), widget (QLabel, ring_count_label)
+#. +> stable5
+#: mouseclick/mouseclick_config.ui:184
+#, kde-format
+msgid "Ring Count:"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, font)
+#. +> stable5
+#: mouseclick/mouseclick_config.ui:210
+#, kde-format
+msgid "Text"
+msgstr "ข้อความ"
+
+#. i18n: ectx: property (text), widget (QLabel, font_label)
+#. +> stable5
+#: mouseclick/mouseclick_config.ui:216
+#, kde-format
+msgid "Font:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, showtext_label)
+#. +> stable5
+#: mouseclick/mouseclick_config.ui:233
+#, fuzzy, kde-format
+#| msgid "Show desktop"
+msgid "Show Text:"
+msgstr "แสดงพื้นที่ทำงาน"
+
+#. +> stable5
+#: mousemark/mousemark.cpp:39
+#, kde-format
+msgid "Clear All Mouse Marks"
+msgstr "ล้างจุดมาร์กสีทั้งหมดของเมาส์"
+
+#. +> stable5
+#: mousemark/mousemark.cpp:45 mousemark/mousemark_config.cpp:59
+#, kde-format
+msgid "Clear Last Mouse Mark"
+msgstr "ล้างจุดมาร์กสีล่าสุดของเมาส์"
+
+#. +> stable5
+#: mousemark/mousemark_config.cpp:53
+#, kde-format
+msgid "Clear Mouse Marks"
+msgstr "ล้างจุดมาร์กสีของเมาส์"
+
+#. +> stable5
+#: mousemark/mousemark_config.cpp:100
+#, fuzzy, kde-format
+#| msgid " pixel"
+#| msgid_plural " pixels"
+msgctxt "Suffix"
+msgid " pixel"
+msgid_plural " pixels"
+msgstr[0] " พิกเซล"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> stable5
+#: mousemark/mousemark_config.ui:23
+#, kde-format
+msgid "Wid&th:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> stable5
+#: mousemark/mousemark_config.ui:36
+#, kde-format
+msgid "&Color:"
+msgstr "&สี:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. +> stable5
+#: mousemark/mousemark_config.ui:82
+#, kde-format
+msgid "Draw with the mouse by holding Shift+Meta keys and moving the mouse."
+msgstr "ใช้เมาส์วาดภาพ ด้วยการกดปุ่มพิมพ์ Shift+Meta ค้างไว้ จากนั้นลากเมาส์เพื่อวาด"
+
+#. +> stable5
+#: outputlocator/outputlocator.cpp:48
+#, kde-format
+msgctxt "@label"
+msgid "Unknown"
+msgstr ""
+
+#. +> stable5
+#: overview/kcm/overvieweffectkcm.cpp:41 overview/overvieweffect.cpp:31
+#, fuzzy, kde-format
+#| msgid "Toggle Invert Effect"
+msgid "Toggle Overview"
+msgstr "เปิด/ปิดลูกเล่นกลับค่าสี"
+
+#. i18n: ectx: property (text), widget (QLabel, label_LayoutMode)
+#. +> stable5
+#: overview/kcm/overvieweffectkcm.ui:22
+#: windowview/kcm/windowvieweffectkcm.ui:22
+#, kde-format
+msgid "Layout mode:"
+msgstr "โหมดการจัดวาง:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_BlurBackground)
+#. +> stable5
+#: overview/kcm/overvieweffectkcm.ui:56
+#, fuzzy, kde-format
+#| msgid "Background"
+msgid "Blur background:"
+msgstr "พื้นหลัง"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> stable5
+#: overview/kcm/overvieweffectkcm.ui:73
+#, fuzzy, kde-format
+#| msgid "Ignore &minimized windows"
+msgid "Ignore minimized windows:"
+msgstr "ละเว้นหน้าต่างต่าง ๆ ที่ถูก&ย่อหายอยู่"
+
+#. +> stable5
+#: overview/qml/DesktopBar.qml:187
+#, kde-format
+msgid "Delete Virtual Desktop"
+msgstr ""
+
+#. +> stable5
+#: overview/qml/DesktopBar.qml:283
+#, fuzzy, kde-format
+#| msgctxt "@title:group actions when clicking on desktop"
+#| msgid "Desktop"
+msgid "Add Virtual Desktop"
+msgstr "พื้นที่ทำงาน"
+
+#. +> stable5
+#: overview/qml/ScreenView.qml:226
+#, fuzzy, kde-format
+#| msgid "Moving windows:"
+msgid "No matching windows"
+msgstr "การย้ายหน้าต่างต่าง ๆ :"
+
+#. +> stable5
+#: private/qml/WindowHeapDelegate.qml:151
+#, kde-format
+msgid "Drag Down To Close"
+msgstr ""
+
+#. +> stable5
+#: private/qml/WindowHeapDelegate.qml:461
+#, fuzzy, kde-format
+#| msgid "Scale window"
+msgctxt "@info:tooltip as in: 'close this window'"
+msgid "Close window"
+msgstr "ปรับขนาดหน้าต่าง"
+
+#. i18n: ectx: property (text), widget (QLabel, label_InScale)
+#. +> stable5
+#: scale/package/contents/ui/config.ui:46
+#, fuzzy, kde-format
+#| msgid "Animation"
+msgid "Window open scale:"
+msgstr "การเคลื่อนไหว"
+
+#. i18n: ectx: property (text), widget (QLabel, label_OutScale)
+#. +> stable5
+#: scale/package/contents/ui/config.ui:53
+#, fuzzy, kde-format
+#| msgid "Animation"
+msgid "Window close scale:"
+msgstr "การเคลื่อนไหว"
+
+#. +> stable5
+#: screenshot/screenshotdbusinterface1.cpp:478
+#, kde-format
+msgctxt "Notification caption that a screenshot got saved to file"
+msgid "Screenshot"
+msgstr ""
+
+#. +> stable5
+#: screenshot/screenshotdbusinterface1.cpp:479
+#, kde-format
+msgctxt "Notification with path to screenshot file"
+msgid "Screenshot saved to %1"
+msgstr ""
+
+#. +> stable5
+#: screenshot/screenshotdbusinterface1.cpp:800
+#: screenshot/screenshotdbusinterface2.cpp:512
+#, kde-format
+msgid ""
+"Select window to screen shot with left click or enter.\n"
+"Escape or right click to cancel."
+msgstr ""
+
+#. +> stable5
+#: screenshot/screenshotdbusinterface1.cpp:803
+#: screenshot/screenshotdbusinterface2.cpp:530
+#, kde-format
+msgid ""
+"Create screen shot with left click or enter.\n"
+"Escape or right click to cancel."
+msgstr ""
+
+#. +> stable5
+#: showfps/qml/main.qml:110
+#, fuzzy, kde-format
+#| msgid "Fading duration:"
+msgctxt "@label"
+msgid "Paint Duration"
+msgstr "ช่วงเวลาปรับจาง/เข้ม:"
+
+#. +> stable5
+#: showfps/qml/main.qml:162
+#, kde-format
+msgctxt "@label"
+msgid "Paint Amount"
+msgstr ""
+
+#. +> stable5
+#: showfps/qml/main.qml:175
+#, kde-format
+msgctxt "@label"
+msgid "Current FPS"
+msgstr ""
+
+#. +> stable5
+#: showfps/qml/main.qml:184
+#, fuzzy, kde-format
+#| msgid "Maximum &width:"
+msgctxt "@label"
+msgid "Maximum FPS"
+msgstr "ความ&กว้างสูงสุด:"
+
+#. +> stable5
+#: showfps/qml/main.qml:192
+#, kde-format
+msgctxt "@label"
+msgid "This effect is not a benchmark"
+msgstr ""
+
+#. +> stable5
+#: showpaint/showpaint.cpp:38 showpaint/showpaint_config.cpp:38
+#, fuzzy, kde-format
+#| msgid "Show &panels"
+msgid "Toggle Show Paint"
+msgstr "แสดงแถบ&พาเนลต่าง ๆ"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_Gaps)
+#. +> stable5
+#: slide/slide_config.ui:17
+#, kde-format
+msgid "Gap between desktops"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_HorizontalGap)
+#. +> stable5
+#: slide/slide_config.ui:23
+#, fuzzy, kde-format
+#| msgid "Horizontal"
+msgid "Horizontal:"
+msgstr "แนวนอน"
+
+#. i18n: ectx: property (text), widget (QLabel, label_VerticalGap)
+#. +> stable5
+#: slide/slide_config.ui:46
+#, fuzzy, kde-format
+#| msgid "Vertical"
+msgid "Vertical:"
+msgstr "แนวตั้ง"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_SlideBackground)
+#. +> stable5
+#: slide/slide_config.ui:72
+#, fuzzy, kde-format
+#| msgid "Slide when grouping"
+msgid "Slide desktop background"
+msgstr "เลื่อนเมื่อทำการจัดกลุ่ม"
+
+#. +> stable5
+#: thumbnailaside/thumbnailaside.cpp:29
+#: thumbnailaside/thumbnailaside_config.cpp:59
+#, kde-format
+msgid "Toggle Thumbnail for Current Window"
+msgstr "เปิด/ปิดการแสดงตัวอย่างขนาดเล็กของหน้าต่างปัจจุบัน"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> stable5
+#: thumbnailaside/thumbnailaside_config.ui:23
+#, kde-format
+msgid "Maximum &width:"
+msgstr "ความ&กว้างสูงสุด:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> stable5
+#: thumbnailaside/thumbnailaside_config.ui:36
+#, kde-format
+msgid "&Spacing:"
+msgstr "ระยะห่า&ง:"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_Spacing)
+#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_MaxWidth)
+#. +> stable5
+#: thumbnailaside/thumbnailaside_config.ui:55
+#: thumbnailaside/thumbnailaside_config.ui:106
+#, fuzzy, kde-format
+#| msgid " pixel"
+#| msgid_plural " pixels"
+msgid " pixels"
+msgstr " พิกเซล"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. +> stable5
+#: thumbnailaside/thumbnailaside_config.ui:68
+#, kde-format
+msgid "&Opacity:"
+msgstr "ความ&ทึบแสง:"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_Opacity)
+#. +> stable5
+#: thumbnailaside/thumbnailaside_config.ui:87
+#, no-c-format, kde-format
+msgid " %"
+msgstr " %"
+
+#. +> stable5
+#: tileseditor/kcm/tileseditoreffectkcm.cpp:37
+#: tileseditor/tileseditoreffect.cpp:29
+#, kde-format
+msgid "Toggle Tiles Editor"
+msgstr ""
+
+#. +> stable5
+#: tileseditor/qml/main.qml:150
+#, kde-format
+msgid "Padding:"
+msgstr ""
+
+#. +> stable5
+#: tileseditor/qml/main.qml:160
+#, kde-format
+msgid "Load Layout..."
+msgstr ""
+
+#. +> stable5
+#: tileseditor/qml/main.qml:274
+#, kde-format
+msgid "Close"
+msgstr ""
+
+#. +> stable5
+#: tileseditor/qml/TileDelegate.qml:167
+#, fuzzy, kde-format
+#| msgid "Horizontal"
+msgid "Split Horizontally"
+msgstr "แนวนอน"
+
+#. +> stable5
+#: tileseditor/qml/TileDelegate.qml:174
+#, fuzzy, kde-format
+#| msgid "Vertical"
+msgid "Split Vertically"
+msgstr "แนวตั้ง"
+
+#. +> stable5
+#: tileseditor/qml/TileDelegate.qml:182 tileseditor/qml/TileDelegate.qml:211
+#, kde-format
+msgid "Add Floating Tile"
+msgstr ""
+
+#. +> stable5
+#: tileseditor/qml/TileDelegate.qml:191
+#, kde-format
+msgid "Delete"
+msgstr ""
+
+#. +> stable5
+#: trackmouse/trackmouse.cpp:44 trackmouse/trackmouse_config.cpp:57
+#, kde-format
+msgid "Track mouse"
+msgstr "ติดตามเมาส์"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> stable5
+#: trackmouse/trackmouse_config.ui:26
+#, kde-format
+msgid "Trigger effect with:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_KeyboardShortcut)
+#. +> stable5
+#: trackmouse/trackmouse_config.ui:33
+#, kde-format
+msgid "Keyboard shortcut:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_ModifierKeys)
+#. +> stable5
+#: trackmouse/trackmouse_config.ui:43
+#, fuzzy, kde-format
+#| msgid "Modifier keys"
+msgid "Modifier keys:"
+msgstr "ปุ่มพิมพ์ที่ใช้ร่วม"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_Alt)
+#. +> stable5
+#: trackmouse/trackmouse_config.ui:65
+#, kde-format
+msgid "Alt"
+msgstr "Alt"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_Control)
+#. +> stable5
+#: trackmouse/trackmouse_config.ui:72
+#, kde-format
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_Shift)
+#. +> stable5
+#: trackmouse/trackmouse_config.ui:79
+#, kde-format
+msgid "Shift"
+msgstr "Shift"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_Meta)
+#. +> stable5
+#: trackmouse/trackmouse_config.ui:86
+#, kde-format
+msgid "Meta"
+msgstr "Meta"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, KWin::TranslucencyEffectConfigForm)
+#. +> stable5
+#: translucency/package/contents/ui/config.ui:14
+#, kde-format
+msgid "Translucency"
+msgstr "ความโปร่งแสง"
+
+#. i18n: ectx: property (title), widget (QGroupBox, m_opacityGroupBox)
+#. +> stable5
+#: translucency/package/contents/ui/config.ui:20
+#, kde-format
+msgid "General Translucency Settings"
+msgstr "ตั้งค่าทั่วไปของความโปร่งแสง"
+
+#. i18n: ectx: property (text), widget (QLabel, comboboxpopup_label)
+#. +> stable5
+#: translucency/package/contents/ui/config.ui:64
+#, kde-format
+msgid "Combobox popups:"
+msgstr "กล่องคอมโบแบบผุด:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#. +> stable5
+#: translucency/package/contents/ui/config.ui:121
+#: translucency/package/contents/ui/config.ui:431
+#, kde-format
+msgid "Opaque"
+msgstr "ทึบ"
+
+#. i18n: ectx: property (text), widget (QLabel, dialogs_label)
+#. +> stable5
+#: translucency/package/contents/ui/config.ui:137
+#, kde-format
+msgid "Dialogs:"
+msgstr "กล่องโต้ตอบต่าง ๆ :"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#. +> stable5
+#: translucency/package/contents/ui/config.ui:156
+#: translucency/package/contents/ui/config.ui:418
+#, kde-format
+msgid "Transparent"
+msgstr "ความโปร่งแสง"
+
+#. i18n: ectx: property (text), widget (QLabel, menus_label)
+#. +> stable5
+#: translucency/package/contents/ui/config.ui:188
+#, kde-format
+msgid "Menus:"
+msgstr "เมนูต่าง ๆ :"
+
+#. i18n: ectx: property (text), widget (QLabel, moveresize_label)
+#. +> stable5
+#: translucency/package/contents/ui/config.ui:207
+#, kde-format
+msgid "Moving windows:"
+msgstr "การย้ายหน้าต่างต่าง ๆ :"
+
+#. i18n: ectx: property (text), widget (QLabel, inactive_label)
+#. +> stable5
+#: translucency/package/contents/ui/config.ui:226
+#, kde-format
+msgid "Inactive windows:"
+msgstr "หน้าต่างต่าง ๆ ที่ไม่ได้ทำงานอยู่:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, kcfg_IndividualMenuConfig)
+#. +> stable5
+#: translucency/package/contents/ui/config.ui:267
+#, kde-format
+msgid "Set menu translucency independently"
+msgstr "ตั้งค่าความโปร่งแสงของเมนูโดยอิสระจากกัน"
+
+#. i18n: ectx: property (text), widget (QLabel, dropdownmenus_label)
+#. +> stable5
+#: translucency/package/contents/ui/config.ui:285
+#, kde-format
+msgid "Dropdown menus:"
+msgstr "เมนูแบบเลื่อนลง:"
+
+#. i18n: ectx: property (text), widget (QLabel, popupmenus_label)
+#. +> stable5
+#: translucency/package/contents/ui/config.ui:329
+#, kde-format
+msgid "Popup menus:"
+msgstr "เมนูแบบผุด:"
+
+#. i18n: ectx: property (text), widget (QLabel, tornoffmenus_label)
+#. +> stable5
+#: translucency/package/contents/ui/config.ui:367
+#, kde-format
+msgid "Torn-off menus:"
+msgstr "เมนูแบบหยดลง:"
+
+#. +> stable5
+#: windowview/kcm/windowvieweffectkcm.cpp:42 windowview/windowvieweffect.cpp:45
+#, kde-format
+msgid "Toggle Present Windows (Current desktop)"
+msgstr "เปิด/ปิดลูกเล่นกับหน้าต่างต่าง ๆ ในปัจจุบัน (บนพื้นที่ทำงานปัจจุบัน)"
+
+#. +> stable5
+#: windowview/kcm/windowvieweffectkcm.cpp:49 windowview/windowvieweffect.cpp:54
+#, kde-format
+msgid "Toggle Present Windows (All desktops)"
+msgstr "เปิด/ปิดลูกเล่นกับหน้าต่างต่าง ๆ ในปัจจุบัน (บนพื้นที่ทำงานทั้งหมด)"
+
+#. +> stable5
+#: windowview/kcm/windowvieweffectkcm.cpp:56 windowview/windowvieweffect.cpp:63
+#, kde-format
+msgid "Toggle Present Windows (Window class)"
+msgstr "เปิด/ปิดลูกเล่นกับหน้าต่างต่าง ๆ ในปัจจุบัน (คลาสของหน้าต่าง)"
+
+#. +> stable5
+#: windowview/kcm/windowvieweffectkcm.cpp:62 windowview/windowvieweffect.cpp:72
+#, fuzzy, kde-format
+#| msgid "Toggle Present Windows (Current desktop)"
+msgid "Toggle Present Windows (Window class on current desktop)"
+msgstr "เปิด/ปิดลูกเล่นกับหน้าต่างต่าง ๆ ในปัจจุบัน (บนพื้นที่ทำงานปัจจุบัน)"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_IgnoreMinimized)
+#. +> stable5
+#: windowview/kcm/windowvieweffectkcm.ui:56
+#, kde-format
+msgid "Ignore &minimized windows"
+msgstr "ละเว้นหน้าต่างต่าง ๆ ที่ถูก&ย่อหายอยู่"
+
+#. +> stable5
+#: windowview/qml/main.qml:108
+#, kde-format
+msgid "No Matches"
+msgstr ""
+
+#. +> stable5
+#: windowview/qml/main.qml:108
+#, fuzzy, kde-format
+#| msgid "Windows"
+msgid "No Windows"
+msgstr "หน้าต่างต่าง ๆ"
+
+#. +> stable5
+#: windowview/qml/main.qml:123
+#, fuzzy, kde-format
+#| msgid "Windows"
+msgid "Filter windows…"
+msgstr "หน้าต่างต่าง ๆ"
+
+#. i18n: ectx: property (title), widget (QGroupBox, advancedGroup)
+#. +> stable5
+#: wobblywindows/wobblywindows_config.ui:20
+#, kde-format
+msgid "Advanced"
+msgstr "ขั้นสูง"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#. +> stable5
+#: wobblywindows/wobblywindows_config.ui:26
+#, kde-format
+msgid "&Stiffness:"
+msgstr "การยึ&ดกับที่;"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#. +> stable5
+#: wobblywindows/wobblywindows_config.ui:68
+#, kde-format
+msgid "Dra&g:"
+msgstr "การ&ลาก:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#. +> stable5
+#: wobblywindows/wobblywindows_config.ui:81
+#, kde-format
+msgid "&Move factor:"
+msgstr "&องค์ประกอบการย้าย:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_MoveWobble)
+#. +> stable5
+#: wobblywindows/wobblywindows_config.ui:155
+#, kde-format
+msgid "Wo&bble when moving"
+msgstr "สร้างความพริ้วไหวกับการ&ย้ายด้วย"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_ResizeWobble)
+#. +> stable5
+#: wobblywindows/wobblywindows_config.ui:162
+#, kde-format
+msgid "Wobble when &resizing"
+msgstr "สร้างความ&พริ้วไหวกับการปรับขนาดด้วย"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_AdvancedMode)
+#. +> stable5
+#: wobblywindows/wobblywindows_config.ui:182
+#, kde-format
+msgid "Enable &advanced mode"
+msgstr "เปิดใช้งานโหมด&ก้าวหน้า"
+
+#. i18n: ectx: property (title), widget (QGroupBox, basicGroup)
+#. +> stable5
+#: wobblywindows/wobblywindows_config.ui:192
+#, kde-format
+msgid "&Wobbliness"
+msgstr "ความพ&ริ้วไหว"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> stable5
+#: wobblywindows/wobblywindows_config.ui:201
+#, kde-format
+msgid "Less"
+msgstr "น้อย"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> stable5
+#: wobblywindows/wobblywindows_config.ui:224
+#, kde-format
+msgid "More"
+msgstr "มาก"
+
+#. +> stable5
+#: zoom/zoom.cpp:65
+#, kde-format
+msgid "Move Zoomed Area to Left"
+msgstr ""
+
+#. +> stable5
+#: zoom/zoom.cpp:72
+#, kde-format
+msgid "Move Zoomed Area to Right"
+msgstr ""
+
+#. +> stable5
+#: zoom/zoom.cpp:79
+#, kde-format
+msgid "Move Zoomed Area Upwards"
+msgstr ""
+
+#. +> stable5
+#: zoom/zoom.cpp:86
+#, kde-format
+msgid "Move Zoomed Area Downwards"
+msgstr ""
+
+#. +> stable5
+#: zoom/zoom.cpp:94 zoom/zoom_config.cpp:108
+#, kde-format
+msgid "Move Mouse to Focus"
+msgstr "ย้ายเมาส์เพื่อทำการโฟกัส"
+
+#. +> stable5
+#: zoom/zoom.cpp:101 zoom/zoom_config.cpp:115
+#, kde-format
+msgid "Move Mouse to Center"
+msgstr "ย้ายเมาส์ไปตรงกลาง"
+
+#. +> stable5
+#: zoom/zoom_config.cpp:80
+#, kde-format
+msgid "Move Left"
+msgstr "ย้ายไปทางซ้าย"
+
+#. +> stable5
+#: zoom/zoom_config.cpp:87
+#, kde-format
+msgid "Move Right"
+msgstr "ย้ายไปทางขวา"
+
+#. +> stable5
+#: zoom/zoom_config.cpp:94
+#, kde-format
+msgid "Move Up"
+msgstr "ย้ายขึ้น"
+
+#. +> stable5
+#: zoom/zoom_config.cpp:101
+#, kde-format
+msgid "Move Down"
+msgstr "ย้ายลง"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, label)
+#. i18n: ectx: property (whatsThis), widget (QDoubleSpinBox, kcfg_ZoomFactor)
+#. +> stable5
+#: zoom/zoom_config.ui:25 zoom/zoom_config.ui:41
+#, kde-format
+msgid "On zoom-in and zoom-out change the zoom by the defined zoom-factor."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> stable5
+#: zoom/zoom_config.ui:28
+#, kde-format
+msgid "Zoom Factor:"
+msgstr "องค์ประกอบการย่อ/ขยาย:"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_EnableFocusTracking)
+#. +> stable5
+#: zoom/zoom_config.ui:66
+#, kde-format
+msgid "Enable tracking of the focused location. This needs QAccessible to be enabled per application (\"export QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1\")."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_EnableFocusTracking)
+#. +> stable5
+#: zoom/zoom_config.ui:69
+#, kde-format
+msgid "Enable Focus Tracking"
+msgstr "เปิดใช้งานการติดตามการได้รับโฟกัส"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_EnableTextCaretTracking)
+#. +> stable5
+#: zoom/zoom_config.ui:76
+#, kde-format
+msgid "Enable tracking of the text cursor. This needs QAccessible to be enabled per application (\"export QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1\")."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_EnableTextCaretTracking)
+#. +> stable5
+#: zoom/zoom_config.ui:79
+#, fuzzy, kde-format
+#| msgid "Enable Focus Tracking"
+msgid "Enable Text Cursor Tracking"
+msgstr "เปิดใช้งานการติดตามการได้รับโฟกัส"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> stable5
+#: zoom/zoom_config.ui:86
+#, kde-format
+msgid "Mouse Pointer:"
+msgstr "ตัวชี้ของเมาส์:"
+
+#. i18n: ectx: property (whatsThis), widget (QComboBox, kcfg_MousePointer)
+#. +> stable5
+#: zoom/zoom_config.ui:99
+#, kde-format
+msgid "Visibility of the mouse-pointer."
+msgstr "การมองเห็นได้ของตัวชี้ของเมาส์"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_MousePointer)
+#. +> stable5
+#: zoom/zoom_config.ui:103
+#, kde-format
+msgid "Scale"
+msgstr "ปรับขนาด"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_MousePointer)
+#. +> stable5
+#: zoom/zoom_config.ui:108
+#, kde-format
+msgid "Keep"
+msgstr "คงไว้"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_MousePointer)
+#. +> stable5
+#: zoom/zoom_config.ui:113
+#, kde-format
+msgid "Hide"
+msgstr "ซ่อน"
+
+#. i18n: ectx: property (whatsThis), widget (QComboBox, kcfg_MouseTracking)
+#. +> stable5
+#: zoom/zoom_config.ui:121
+#, kde-format
+msgid "Track moving of the mouse."
+msgstr "ติดตามการเคลื่อนที่ของเมาส์"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_MouseTracking)
+#. +> stable5
+#: zoom/zoom_config.ui:125
+#, kde-format
+msgid "Proportional"
+msgstr "แนวนอน"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_MouseTracking)
+#. +> stable5
+#: zoom/zoom_config.ui:130
+#, kde-format
+msgid "Centered"
+msgstr "กึ่งกลาง"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_MouseTracking)
+#. +> stable5
+#: zoom/zoom_config.ui:135
+#, kde-format
+msgid "Push"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_MouseTracking)
+#. +> stable5
+#: zoom/zoom_config.ui:140
+#, kde-format
+msgid "Disabled"
+msgstr "ถูกปิดการใช้งาน"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. +> stable5
+#: zoom/zoom_config.ui:148
+#, kde-format
+msgid "Mouse Tracking:"
+msgstr "ติดตามตำแหน่งเมาส์:"

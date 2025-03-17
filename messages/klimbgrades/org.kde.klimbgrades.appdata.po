@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: org.kde.klimbgrades.appdata\n"
+"POT-Creation-Date: 2024-05-05 11:47+0200\n"
+"PO-Revision-Date: 2025-03-17 14:54+0700\n"
+"Last-Translator: Thai Translator <none>\n"
+"Language-Team: Thai <kde-i18n-docs@kde.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. (itstool) path: component/name
+#. +> trunk6
+#: org.kde.klimbgrades.appdata.xml:8
+msgid "Klimbgrades"
+msgstr ""
+
+#. (itstool) path: component/summary
+#. +> trunk6
+#: org.kde.klimbgrades.appdata.xml:9
+msgid "Quickly convert difficulty grades for rock climbing, lead and bouldering scales"
+msgstr ""
+
+#. (itstool) path: ul/li
+#. +> trunk6
+#: org.kde.klimbgrades.appdata.xml:12
+msgid "Lead: French, YDS, UIAA, British Tech, British Adjectival"
+msgstr ""
+
+#. (itstool) path: ul/li
+#. +> trunk6
+#: org.kde.klimbgrades.appdata.xml:13
+msgid "Boulder: Fontainebleu, Hueco, B Grade"
+msgstr ""
+
+#. (itstool) path: description/p
+#. +> trunk6
+#: org.kde.klimbgrades.appdata.xml:15
+msgid "Example application to demonstrate KDE's Kirigami Qt-based framework for building cross-platform applications."
+msgstr ""

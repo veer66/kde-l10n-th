@@ -1,0 +1,487 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: karbon\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-11-09 11:24+0100\n"
+"PO-Revision-Date: 2002-08-07 14:16+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga_n@yahoo.com>\n"
+"Language-Team: Thai "
+"<th@li.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#: CalligraphyTool/KarbonCalligraphicShapeFactory.cpp:15
+#, fuzzy, kde-format
+msgid "A calligraphic shape"
+msgstr "&วงรี"
+
+#. +> trunk6 stable6
+#: CalligraphyTool/KarbonCalligraphicShapeFactory.cpp:17
+#, fuzzy, kde-format
+msgid "Calligraphic Shape"
+msgstr "&วงรี"
+
+#. +> trunk6 stable6
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:56
+#, fuzzy, kde-format
+msgid "Save profile as..."
+msgstr "แบน"
+
+#. +> trunk6 stable6
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:61
+#, fuzzy, kde-format
+msgid "Remove profile"
+msgstr "แบน"
+
+#. +> trunk6 stable6
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:69
+#, fuzzy, kde-format
+#| msgid "Delete Objects"
+msgid "&Follow selected path"
+msgstr "ลบวัตถุ"
+
+#. +> trunk6 stable6
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:72
+#, fuzzy, kde-format
+msgid "Use tablet &pressure"
+msgstr "สีเริ่มต้น:"
+
+#. +> trunk6 stable6
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:75
+#, fuzzy, kde-format
+msgid "Width:"
+msgstr "ความกว้างเส้นการลาก"
+
+#. +> trunk6 stable6
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:83
+#, kde-format
+msgid "Thinning:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:92
+#, fuzzy, kde-format
+msgid "Use tablet &angle"
+msgstr "สีเริ่มต้น:"
+
+#. +> trunk6 stable6
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:95
+#, kde-format
+msgid "Angle:"
+msgstr "มุม:"
+
+#. +> trunk6 stable6
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:104
+#, fuzzy, kde-format
+#| msgid "Orientation:"
+msgid "Fixation:"
+msgstr "การจัดวาง:"
+
+#. +> trunk6 stable6
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:113
+#, fuzzy, kde-format
+msgid "Caps:"
+msgstr "หัวเส้น"
+
+#. +> trunk6 stable6
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:122
+#, kde-format
+msgid "Mass:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:131
+#, kde-format
+msgid "Drag:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:188
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:189
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:216
+#, fuzzy, kde-format
+msgid "Current"
+msgstr "ลบวัตถุ"
+
+#. +> trunk6 stable6
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:207
+#, fuzzy, kde-format
+msgid "Profile name"
+msgstr "คุณบัติการลาก"
+
+#. +> trunk6 stable6
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:208
+#, kde-format
+msgid "Please insert the name by which you want to save this profile:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:217
+#, kde-format
+msgctxt "invalid profile name"
+msgid "Invalid name."
+msgstr ""
+
+#. +> trunk6 stable6
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:217
+#, kde-format
+msgid "Sorry, the name you entered is invalid."
+msgstr ""
+
+#. +> trunk6 stable6
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:225
+#, kde-format
+msgid ""
+"A profile with that name already exists.\n"
+"Do you want to overwrite it?"
+msgstr ""
+
+#. +> trunk6 stable6
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:340
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:365
+#, kde-format
+msgid "Mouse"
+msgstr ""
+
+#. +> trunk6 stable6
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:353
+#, fuzzy, kde-format
+#| msgid "Gradient"
+msgid "Graphics Pen"
+msgstr "ไล่ระดับสี"
+
+#. +> trunk6 stable6
+#: CalligraphyTool/KarbonCalligraphyTool.cpp:330
+#, kde-format
+msgid "Fill"
+msgstr "เติมสี"
+
+#. +> trunk6 stable6
+#: CalligraphyTool/KarbonCalligraphyTool.cpp:358
+#, fuzzy, kde-format
+msgid "Calligraphy: increase width"
+msgstr "&วงรี"
+
+#. +> trunk6 stable6
+#: CalligraphyTool/KarbonCalligraphyTool.cpp:363
+#, fuzzy, kde-format
+msgid "Calligraphy: decrease width"
+msgstr "&วงรี"
+
+#. +> trunk6 stable6
+#: CalligraphyTool/KarbonCalligraphyTool.cpp:368
+#, fuzzy, kde-format
+msgid "Calligraphy: increase angle"
+msgstr "&วงรี"
+
+#. +> trunk6 stable6
+#: CalligraphyTool/KarbonCalligraphyTool.cpp:373
+#, fuzzy, kde-format
+msgid "Calligraphy: decrease angle"
+msgstr "&วงรี"
+
+#. +> trunk6 stable6
+#: CalligraphyTool/KarbonCalligraphyTool.cpp:380
+#: CalligraphyTool/KarbonCalligraphyTool.cpp:381
+#: CalligraphyTool/KarbonCalligraphyToolFactory.cpp:19
+#, fuzzy, kde-format
+msgid "Calligraphy"
+msgstr "&วงรี"
+
+#. +> trunk6 stable6
+#: filterEffectTool/FilterAddCommand.cpp:21
+#, fuzzy
+msgctxt "(qtundo-format)"
+msgid "Add filter effect"
+msgstr "ไล่ระดับสี"
+
+#. +> trunk6 stable6
+#: filterEffectTool/FilterEffectEditWidget.cpp:60
+#, fuzzy, kde-format
+msgid "Add effect to current filter stack"
+msgstr "ตั้งค่าความกว้างเส้น"
+
+#. +> trunk6 stable6
+#: filterEffectTool/FilterEffectEditWidget.cpp:70
+#, fuzzy, kde-format
+msgid "Add to filter presets"
+msgstr "ไล่ระดับสี"
+
+#. +> trunk6 stable6
+#: filterEffectTool/FilterEffectEditWidget.cpp:74
+#, fuzzy, kde-format
+msgid "Remove filter preset"
+msgstr "แบน"
+
+#. +> trunk6 stable6
+#: filterEffectTool/FilterEffectEditWidget.cpp:335
+#, fuzzy, kde-format
+msgid "Effect name"
+msgstr "คุณบัติการลาก"
+
+#. +> trunk6 stable6
+#: filterEffectTool/FilterEffectEditWidget.cpp:335
+#, kde-format
+msgid "Please enter a name for the filter effect"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, FilterEffectEditWidget)
+#. +> trunk6 stable6
+#: filterEffectTool/FilterEffectEditWidget.ui:32
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:320
+#, fuzzy, kde-format
+msgid "Filter Effect Editor"
+msgstr "แบน"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> trunk6 stable6
+#: filterEffectTool/FilterEffectEditWidget.ui:40
+#, fuzzy, kde-format
+msgid "Effects and Connections"
+msgstr "คุณบัติการลาก"
+
+#. i18n: ectx: property (text), widget (QToolButton, removeEffect)
+#. i18n: ectx: property (text), widget (QToolButton, addEffect)
+#. i18n: ectx: property (text), widget (QToolButton, raiseEffect)
+#. i18n: ectx: property (text), widget (QToolButton, lowerEffect)
+#. i18n: ectx: property (text), widget (QToolButton, addPreset)
+#. i18n: ectx: property (text), widget (QToolButton, removePreset)
+#. +> trunk6 stable6
+#: filterEffectTool/FilterEffectEditWidget.ui:57
+#: filterEffectTool/FilterEffectEditWidget.ui:67
+#: filterEffectTool/FilterEffectEditWidget.ui:74
+#: filterEffectTool/FilterEffectEditWidget.ui:81
+#: filterEffectTool/FilterEffectEditWidget.ui:102
+#: filterEffectTool/FilterEffectEditWidget.ui:109
+#, kde-format
+msgid "..."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: filterEffectTool/FilterEffectEditWidget.ui:92
+#, fuzzy, kde-format
+msgid "Filter Presets"
+msgstr "ไล่ระดับสี"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. +> trunk6 stable6
+#: filterEffectTool/FilterEffectEditWidget.ui:116
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:474
+#, fuzzy, kde-format
+msgid "Effect Properties"
+msgstr "คุณบัติการลาก"
+
+#. +> trunk6 stable6
+#: filterEffectTool/FilterRemoveCommand.cpp:23
+#, fuzzy
+msgctxt "(qtundo-format)"
+msgid "Remove filter effect"
+msgstr "แบน"
+
+#. +> trunk6 stable6
+#: filterEffectTool/FilterStackSetCommand.cpp:25
+#, fuzzy
+msgctxt "(qtundo-format)"
+msgid "Set filter stack"
+msgstr "ตั้งค่าความกว้างเส้น"
+
+#. +> trunk6 stable6
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:439
+#, fuzzy, kde-format
+msgid "Effects"
+msgstr "คุณบัติการลาก"
+
+#. +> trunk6 stable6
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:447
+#, kde-format
+msgid "View and edit filter"
+msgstr ""
+
+#. +> trunk6 stable6
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:453
+#, fuzzy, kde-format
+msgid "Remove filter from object"
+msgstr "แบน"
+
+#. +> trunk6 stable6
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:457
+#, fuzzy, kde-format
+msgid "Add Filter"
+msgstr "ไล่ระดับสี"
+
+#. +> trunk6 stable6
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:486
+#, kde-format
+msgid "X:"
+msgstr "X:"
+
+#. +> trunk6 stable6
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:492
+#, fuzzy, kde-format
+msgid "Y:"
+msgstr "X:"
+
+#. +> trunk6 stable6
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:498
+#, kde-format
+msgid "W:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:504
+#, kde-format
+msgid "H:"
+msgstr "H:"
+
+#. +> trunk6 stable6
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:509
+#, fuzzy, kde-format
+msgid "Effect Region"
+msgstr "คุณบัติการลาก"
+
+#. +> trunk6 stable6
+#: filterEffectTool/KarbonFilterEffectsToolFactory.cpp:16
+#, fuzzy, kde-format
+msgid "Filter effects editing"
+msgstr "แบน"
+
+#. +> trunk6 stable6
+#: KarbonGradientTool.cpp:199
+#, kde-format
+msgid "Drag to move gradient position."
+msgstr ""
+
+#. +> trunk6 stable6
+#: KarbonGradientTool.cpp:208
+#, kde-format
+msgid "Drag to move color stop. Double click to remove color stop."
+msgstr ""
+
+#. +> trunk6 stable6
+#: KarbonGradientTool.cpp:210
+#, kde-format
+msgid "Drag to move color stop."
+msgstr ""
+
+#. +> trunk6 stable6
+#: KarbonGradientTool.cpp:217
+#, kde-format
+msgid "Drag to move gradient position. Double click to insert color stop."
+msgstr ""
+
+#. +> trunk6 stable6
+#: KarbonGradientTool.cpp:493
+#, fuzzy, kde-format
+msgid "Edit Gradient"
+msgstr "ไล่ระดับสี"
+
+#. +> trunk6 stable6
+#: KarbonGradientTool.cpp:495
+#, fuzzy, kde-format
+msgid "Predefined Gradients"
+msgstr "ไล่ระดับสี"
+
+#. +> trunk6 stable6
+#: KarbonGradientToolFactory.cpp:17
+#, fuzzy, kde-format
+msgid "Gradient editing"
+msgstr "ไล่ระดับสี"
+
+#. +> trunk6 stable6
+#: KarbonPatternOptionsWidget.cpp:22
+#, kde-format
+msgid "Original"
+msgstr ""
+
+#. +> trunk6 stable6
+#: KarbonPatternOptionsWidget.cpp:23
+#, fuzzy, kde-format
+msgid "Tiled"
+msgstr "เติมสี"
+
+#. +> trunk6 stable6
+#: KarbonPatternOptionsWidget.cpp:24
+#, kde-format
+msgid "Stretched"
+msgstr ""
+
+#. +> trunk6 stable6
+#: KarbonPatternOptionsWidget.cpp:26
+#, fuzzy, kde-format
+msgid "Top Left"
+msgstr "เติมสีวัตถุ"
+
+#. +> trunk6 stable6
+#: KarbonPatternOptionsWidget.cpp:27
+#, kde-format
+msgid "Top"
+msgstr ""
+
+#. +> trunk6 stable6
+#: KarbonPatternOptionsWidget.cpp:28
+#, fuzzy, kde-format
+msgid "Top Right"
+msgstr "เติมสีวัตถุ"
+
+#. +> trunk6 stable6
+#: KarbonPatternOptionsWidget.cpp:29
+#, kde-format
+msgid "Left"
+msgstr ""
+
+#. +> trunk6 stable6
+#: KarbonPatternOptionsWidget.cpp:30
+#, kde-format
+msgid "Center"
+msgstr ""
+
+#. +> trunk6 stable6
+#: KarbonPatternOptionsWidget.cpp:31
+#, fuzzy, kde-format
+msgid "Right"
+msgstr "สูง (%1):"
+
+#. +> trunk6 stable6
+#: KarbonPatternOptionsWidget.cpp:32
+#, fuzzy, kde-format
+msgid "Bottom Left"
+msgstr "เติมสีวัตถุ"
+
+#. +> trunk6 stable6
+#: KarbonPatternOptionsWidget.cpp:33
+#, fuzzy, kde-format
+msgid "Bottom"
+msgstr "เติมสีวัตถุ"
+
+#. +> trunk6 stable6
+#: KarbonPatternOptionsWidget.cpp:34
+#, fuzzy, kde-format
+msgid "Bottom Right"
+msgstr "เติมสีวัตถุ"
+
+#. +> trunk6 stable6
+#: KarbonPatternTool.cpp:270
+#, fuzzy, kde-format
+msgid "Pattern Options"
+msgstr "แบน"
+
+#. +> trunk6 stable6
+#: KarbonPatternTool.cpp:272
+#, fuzzy, kde-format
+msgid "Patterns"
+msgstr "แบน"
+
+#. +> trunk6 stable6
+#: KarbonPatternToolFactory.cpp:17
+#, fuzzy, kde-format
+msgid "Pattern editing"
+msgstr "แบน"

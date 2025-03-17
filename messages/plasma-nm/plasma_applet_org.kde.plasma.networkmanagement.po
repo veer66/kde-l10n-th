@@ -1,0 +1,294 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Phuwanat Sakornsakolpat <narachai@gmail.com>, 2010.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-03-13 10:25+0100\n"
+"PO-Revision-Date: 2010-12-17 15:28+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/ConnectionItem.qml:56
+#, fuzzy, kde-format
+#| msgctxt "network interface connected state label"
+#| msgid "Connected"
+msgid "Connect"
+msgstr "เชื่อมต่อแล้ว"
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/ConnectionItem.qml:56
+#, fuzzy, kde-format
+msgid "Disconnect"
+msgstr "เชื่อมต่อแล้ว"
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/ConnectionItem.qml:81
+#, fuzzy, kde-format
+#| msgid "Show network interfaces using:"
+msgid "Show Network's QR Code"
+msgstr "แสดงอินเทอร์เฟซเครือข่ายที่ใช้:"
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/ConnectionItem.qml:87
+#, fuzzy, kde-format
+#| msgid "Confirm Delete"
+msgid "Configure…"
+msgstr "ยืนยันการลบ"
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/ConnectionItem.qml:127
+#, kde-format
+msgid "Speed"
+msgstr "ความเร็ว"
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/ConnectionItem.qml:132
+#, kde-format
+msgid "Details"
+msgstr "รายละเอียด"
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/ConnectionItem.qml:179
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Current download speed is %1 kibibytes per second; current upload speed is %2 kibibytes per second"
+msgstr ""
+
+#. +> trunk6 stable6
+#: contents/ui/ConnectionItem.qml:296
+#, fuzzy, kde-format
+msgid "Connected, ↓ %1/s, ↑ %2/s"
+msgstr "เชื่อมต่อไปยัง %1 แล้ว"
+
+#. +> stable5
+#: contents/ui/ConnectionItem.qml:286
+#, fuzzy, kde-format
+msgid "Connected, ⬇ %1/s, ⬆ %2/s"
+msgstr "เชื่อมต่อไปยัง %1 แล้ว"
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/ConnectionItem.qml:300
+#, fuzzy, kde-format
+msgid "Connected"
+msgstr "เชื่อมต่อแล้ว"
+
+#. +> trunk6 stable6
+#: contents/ui/ConnectionListPage.qml:35
+#, fuzzy, kde-format
+#| msgid "Password on this network"
+msgid "You need to log in to this network"
+msgstr "รหัสผ่านบนเครือข่ายนี้"
+
+#. +> trunk6 stable6
+#: contents/ui/ConnectionListPage.qml:39
+#, kde-format
+msgctxt "@action:button"
+msgid "Log in"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/ConnectionListPage.qml:116
+#, fuzzy, kde-format
+msgid "Airplane mode is enabled"
+msgstr "ฮาร์ดแวร์ไร้สายเปิดใช้งานแล้ว"
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/ConnectionListPage.qml:120
+#, fuzzy, kde-format
+#| msgctxt "@info:status Notification text when a single wireless network disappeared"
+#| msgid "Wireless network %1 disappeared"
+msgid "Wireless and mobile networks are deactivated"
+msgstr "ไม่พบเครือข่ายไร้สาย %1 แล้ว"
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/ConnectionListPage.qml:122
+#, fuzzy, kde-format
+msgid "Wireless is deactivated"
+msgstr "ฮาร์ดแวร์ไร้สายเปิดใช้งานแล้ว"
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/ConnectionListPage.qml:125
+#, kde-format
+msgid "Mobile network is deactivated"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/ConnectionListPage.qml:128
+#, kde-format
+msgid "No matches"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/ConnectionListPage.qml:130
+#, fuzzy, kde-format
+msgid "No available connections"
+msgstr "การเชื่อมต่อ"
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/DetailsText.qml:45
+#, kde-format
+msgid "Copy"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/main.qml:32
+#, fuzzy, kde-format
+#| msgid "Net&work:"
+msgid "Networks"
+msgstr "เ&ครือข่าย:"
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/main.qml:41
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Middle-click to turn off Airplane Mode"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/main.qml:43
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Middle-click to turn on Airplane Mode"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/main.qml:71 contents/ui/Toolbar.qml:73
+#, kde-format
+msgid "Enable Wi-Fi"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/main.qml:82
+#, fuzzy, kde-format
+#| msgid "User name on this network"
+msgid "Enable Mobile Network"
+msgstr "ชื่อผู้ใช้บนเครือข่ายนี้"
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/main.qml:94
+#, fuzzy, kde-format
+#| msgid "Wireless"
+msgid "Enable Airplane Mode"
+msgstr "ไร้สาย"
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/main.qml:106
+#, kde-format
+msgid "Open Network Login Page…"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/main.qml:116
+#, fuzzy, kde-format
+msgid "&Configure Network Connections…"
+msgstr "การเชื่อมต่อ"
+
+#. +> stable5
+#: contents/ui/main.qml:139
+#, kde-format
+msgctxt "@title:window"
+msgid "QR Code for %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: contents/ui/PopupDialog.qml:51
+#, fuzzy, kde-format
+#| msgctxt "Edit connection dialog caption"
+#| msgid "Edit Network Connection"
+msgctxt "@action:button"
+msgid "Return to Network Connections"
+msgstr "แก้ไขการเชื่อมต่อเครือข่าย"
+
+#. +> trunk6 stable6
+#: contents/ui/ShareNetworkQrCodePage.qml:31
+#, kde-format
+msgid "Scan this QR code with another device to connect to the \"%1\" network."
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/Toolbar.qml:122
+#, fuzzy, kde-format
+#| msgid "User name on this network"
+msgid "Enable mobile network"
+msgstr "ชื่อผู้ใช้บนเครือข่ายนี้"
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/Toolbar.qml:147
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Disable airplane mode<nl/>"
+"<nl/>"
+"This will enable Wi-Fi and Bluetooth"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/Toolbar.qml:148
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Enable airplane mode<nl/>"
+"<nl/>"
+"This will disable Wi-Fi and Bluetooth"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/Toolbar.qml:159
+#, kde-format
+msgid "Hotspot"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/Toolbar.qml:183 contents/ui/Toolbar.qml:194
+#, fuzzy, kde-format
+#| msgid "Disable &split tunnel"
+msgid "Disable Hotspot"
+msgstr "ปิดใช้งานท่อแ&ยก"
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/Toolbar.qml:188 contents/ui/Toolbar.qml:194
+#, fuzzy, kde-format
+#| msgid "Connection"
+msgid "Create Hotspot"
+msgstr "การเชื่อมต่อ"
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/Toolbar.qml:226
+#, fuzzy, kde-format
+msgid "Configure network connections…"
+msgstr "การเชื่อมต่อ"
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/TrafficMonitor.qml:37 contents/ui/TrafficMonitor.qml:111
+#, kde-format
+msgid "/s"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/TrafficMonitor.qml:89
+#, kde-format
+msgid "Upload"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/TrafficMonitor.qml:89
+#, kde-format
+msgid "Download"
+msgstr ""
+
+#. +> stable5
+#: contents/ui/PasswordField.qml:16
+#, fuzzy, kde-format
+#| msgid "Password:"
+msgid "Password…"
+msgstr "รหัสผ่าน:"

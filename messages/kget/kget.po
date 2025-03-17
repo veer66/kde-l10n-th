@@ -1,0 +1,5493 @@
+# translation of kget.po to Thai
+# Copyright (C) 2003, 2005, 2006, 2007, 2008 Free Software Foundation, Inc.
+# Thanomsub Noppaburana <donga_n@yahoo.com>, 2003, 2005.
+# Sahachart Anukulkitch <drrider@gmail.com>, 2006, 2007.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kget\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-03-02 10:56+0100\n"
+"PO-Revision-Date: 2010-03-04 21:36+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#: conf/autopastemodel.cpp:174
+#, kde-format
+msgid "Pattern"
+msgstr ""
+
+#. +> trunk6 stable6
+#: conf/autopastemodel.cpp:176
+#, kde-format
+msgid "Syntax"
+msgstr ""
+
+#. +> trunk6 stable6
+#: conf/autopastemodel.cpp:209 conf/integrationpreferences.cpp:38
+#, kde-format
+msgid "Escape sequences"
+msgstr ""
+
+#. +> trunk6 stable6
+#: conf/autopastemodel.cpp:209 conf/integrationpreferences.cpp:39
+#, fuzzy, kde-format
+#| msgid "Regular expression:"
+msgid "Regular expression"
+msgstr "เงื่อนไขการค้นหา:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_AutomaticDeletionEnabled)
+#. +> trunk6 stable6
+#: conf/dlgadvanced.ui:19
+#, kde-format
+msgid "Automatically delete all transfer history older than:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_EnableSystemTray)
+#. +> trunk6 stable6
+#: conf/dlgadvanced.ui:36
+#, kde-format
+msgid "Enable system tray icon"
+msgstr "เปิดใช้ไอคอนบนถาดระบบ"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_AfterFinishActionEnabled)
+#. +> trunk6 stable6
+#: conf/dlgadvanced.ui:45
+#, kde-format
+msgid "Execute action after all downloads have been finished:"
+msgstr "ประมวลผลการกระทำ เมื่อการดาวน์โหลดทั้งหมดได้เสร็จสิ้นแล้ว:"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_AfterFinishAction)
+#. +> trunk6 stable6
+#: conf/dlgadvanced.ui:53 mainwindow.cpp:360 ui/droptarget.cpp:95
+#, kde-format
+msgid "Quit KGet"
+msgstr "ออกจาก 'ช่วยดาวน์โหลด-K'"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> trunk6 stable6
+#: conf/dlgadvanced.ui:61
+#, kde-format
+msgid "At startup:"
+msgstr "เมื่อเริ่มโปรแกรม:"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_StartupAction)
+#. +> trunk6 stable6
+#: conf/dlgadvanced.ui:69
+#, kde-format
+msgid "Restore Download State"
+msgstr "เรียกคืนสถานะการดาวน์โหลด"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_StartupAction)
+#. +> trunk6 stable6
+#: conf/dlgadvanced.ui:74
+#, kde-format
+msgid "Start All Downloads"
+msgstr "เริ่มการดาวน์โหลดทั้งหมด"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_StartupAction)
+#. +> trunk6 stable6
+#: conf/dlgadvanced.ui:79
+#, kde-format
+msgid "Stop All Downloads"
+msgstr "หยุดการดาวน์โหลดทั้งหมด"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: conf/dlgadvanced.ui:90
+#, kde-format
+msgid "History backend:"
+msgstr "ฐานข้อมูลสำหรับเก็บข้อมูลประวัติการถ่ายโอน:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, kcfg_EnableKUIServerIntegration)
+#. +> trunk6 stable6
+#: conf/dlgadvanced.ui:99
+#, fuzzy, kde-format
+#| msgid "Enable KDE global progress tracking"
+msgid "Enable KDE Global Progress Tracking"
+msgstr "เปิดใช้การติดตามความคืบหน้ากับทั้งระบบ KDE"
+
+#. i18n: ectx: property (text), widget (QRadioButton, kcfg_ExportSingleTransfer)
+#. +> trunk6 stable6
+#: conf/dlgadvanced.ui:111
+#, kde-format
+msgid "Show every single download "
+msgstr "แสดงแต่ละการดาวน์โหลด"
+
+#. i18n: ectx: property (text), widget (QRadioButton, kcfg_ExportGlobalJob)
+#. +> trunk6 stable6
+#: conf/dlgadvanced.ui:118
+#, kde-format
+msgid "Show overall progress"
+msgstr "แสดงภาพรวมความคืบหน้า"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#. +> trunk6 stable6
+#: conf/dlgadvanced.ui:128
+#, kde-format
+msgid "Handle existing Files/Transfers"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, kcfg_FilesAlwaysAsk)
+#. +> trunk6 stable6
+#: conf/dlgadvanced.ui:134
+#, kde-format
+msgid "Always ask"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, kcfg_FilesAutomaticRename)
+#. +> trunk6 stable6
+#: conf/dlgadvanced.ui:141
+#, fuzzy, kde-format
+#| msgid "Automatic verification"
+msgid "Automatic rename"
+msgstr "ทำการตรวจความถูกต้องอัตโนมัติ"
+
+#. i18n: ectx: property (text), widget (QRadioButton, kcfg_FilesOverwrite)
+#. +> trunk6 stable6
+#: conf/dlgadvanced.ui:148
+#, fuzzy, kde-format
+#| msgid "Overwrite existing file?"
+msgid "Overwrite"
+msgstr "ต้องการจะเขียนทับแฟ้มที่มีอยู่หรือไม่ ?"
+
+#. i18n: ectx: property (title), widget (QGroupBox, kcfg_ShowDropTarget)
+#. +> trunk6 stable6
+#: conf/dlgappearance.ui:17
+#, fuzzy, kde-format
+#| msgid "Drop Target"
+msgid "Use Drop Target"
+msgstr "ไอคอน หย่อนเพื่อดาวน์โหลด"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_AnimateDropTarget)
+#. +> trunk6 stable6
+#: conf/dlgappearance.ui:29
+#, kde-format
+msgid "Enable animations"
+msgstr "ใช้ภาพเคลื่อนไหว"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_DirectoriesAsSuggestion)
+#. +> trunk6 stable6
+#: conf/dlggroups.ui:17
+#, kde-format
+msgid "Use default folders for groups as suggestion"
+msgstr "แนะนำให้ใช้โฟลเดอร์ปริยายของกลุ่มต่าง ๆ"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_AskForDestination)
+#. +> trunk6 stable6
+#: conf/dlggroups.ui:24
+#, kde-format
+msgid "Ask for destination if there are no default folders"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, rename)
+#. +> trunk6 stable6
+#: conf/dlggroups.ui:52 ui/transfersettingsdialog.ui:152
+#, kde-format
+msgid "Rename"
+msgstr "เปลี่ยนชื่อ"
+
+#. i18n: ectx: property (text), widget (KIconButton, selectIcon)
+#. +> trunk6 stable6
+#: conf/dlggroups.ui:65
+#, kde-format
+msgid "Select Icon..."
+msgstr "เลือกไอคอน..."
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_KonquerorIntegration)
+#. +> trunk6 stable6
+#: conf/dlgintegration.ui:17
+#, fuzzy, kde-format
+#| msgid "Use as download manager for Konqueror"
+msgid "Use as download manager for Konqueror"
+msgstr "ใช้เป็นตัวจัดการการดาวน์โหลดของคอนเควอร์เรอร์"
+
+#. i18n: ectx: property (title), widget (QGroupBox, kcfg_AutoPaste)
+#. +> trunk6 stable6
+#: conf/dlgintegration.ui:24
+#, fuzzy, kde-format
+#| msgid "Monitor clipboard for files to download"
+msgid "Monitor Clipboard for Files to Download"
+msgstr "เฝ้าดูคลิปบอร์ดเพื่อคอยดูว่ามีแฟ้มที่จะดาวน์โหลดหรือไม่"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#. +> trunk6 stable6
+#: conf/dlgintegration.ui:36
+#, kde-format
+msgid "Case sensitive:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, increase)
+#. +> trunk6 stable6
+#: conf/dlgintegration.ui:93 conf/verificationpreferences.cpp:35
+#, fuzzy, kde-format
+#| msgid "Priority"
+msgid "&Increase Priority"
+msgstr "ความสำคัญ"
+
+#. i18n: ectx: property (text), widget (QPushButton, decrease)
+#. +> trunk6 stable6
+#: conf/dlgintegration.ui:100 conf/verificationpreferences.cpp:36
+#, fuzzy, kde-format
+#| msgid "Priority"
+msgid "&Decrease Priority"
+msgstr "ความสำคัญ"
+
+#. i18n: ectx: property (text), widget (QLabel, lbl_maxnum)
+#. +> trunk6 stable6
+#: conf/dlgnetwork.ui:19
+#, fuzzy, kde-format
+#| msgid "Limit Maximum Downloads Per Group"
+msgid "Maximum downloads per group:"
+msgstr "จำกัดจำนวนการดาวน์โหลดสูงสุดต่อกลุ่ม"
+
+#. i18n: ectx: property (specialValueText), widget (QSpinBox, kcfg_MaxConnections)
+#. +> trunk6 stable6
+#: conf/dlgnetwork.ui:26
+#, fuzzy, kde-format
+#| msgid "No Limit"
+msgctxt "no limit for maximum downloads has been set"
+msgid "No limit"
+msgstr "ไม่จำกัด"
+
+#. i18n: ectx: property (title), widget (QGroupBox, kcfg_SpeedLimit)
+#. +> trunk6 stable6
+#: conf/dlgnetwork.ui:35
+#, kde-format
+msgid "Speed Limit"
+msgstr "จำกัดความเร็ว"
+
+#. i18n: ectx: property (text), widget (QLabel, dllimitlb)
+#. +> trunk6 stable6
+#: conf/dlgnetwork.ui:44
+#, fuzzy, kde-format
+#| msgid "Global download limit:"
+msgid "Global &download limit:"
+msgstr "จำกัดการดาวน์โหลดทั่วไป:"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_GlobalDownloadLimit)
+#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_GlobalUploadLimit)
+#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_TransferSpeedLimit)
+#. i18n: ectx: property (suffix), widget (QSpinBox, downloadBox)
+#. i18n: ectx: property (suffix), widget (QSpinBox, uploadBox)
+#. i18n: ectx: property (suffix), widget (QSpinBox, uploadSpin)
+#. i18n: ectx: property (suffix), widget (QSpinBox, downloadSpin)
+#. +> trunk6 stable6
+#: conf/dlgnetwork.ui:54 conf/dlgnetwork.ui:80 conf/dlgnetwork.ui:103
+#: ui/groupsettingsdialog.ui:90 ui/groupsettingsdialog.ui:109
+#: ui/transfersettingsdialog.ui:54 ui/transfersettingsdialog.ui:70
+#, kde-format
+msgid " KiB/s"
+msgstr " กิโลไบต์/วินาที"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> trunk6 stable6
+#: conf/dlgnetwork.ui:70
+#, fuzzy, kde-format
+#| msgid "Global upload limit:"
+msgid "Global &upload limit:"
+msgstr "จำกัดการอัปโหลดทั่วไป:"
+
+#. i18n: ectx: property (text), widget (QLabel, lb_per_transfer)
+#. +> trunk6 stable6
+#: conf/dlgnetwork.ui:96
+#, kde-format
+msgid "Per transfer:"
+msgstr "ต่อการถ่ายโอนข้อมูลแต่ละตัว:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, kcfg_ReconnectOnBroken)
+#. +> trunk6 stable6
+#: conf/dlgnetwork.ui:119
+#, fuzzy, kde-format
+#| msgid "Reconnect on Error or Broken Connection"
+msgid "Reconnect on Broken Connection"
+msgstr "ทำการเชื่อมต่อใหม่เมื่อมีข้อผิดพลาดหรือการเชื่อมต่อเสียหาย"
+
+#. i18n: ectx: property (text), widget (QLabel, lb_retries_2)
+#. +> trunk6 stable6
+#: conf/dlgnetwork.ui:128
+#, kde-format
+msgid "Number of retries:"
+msgstr "จำนวนครั้งของการลองใหม่:"
+
+#. i18n: ectx: property (text), widget (QLabel, lb_after_2)
+#. +> trunk6 stable6
+#: conf/dlgnetwork.ui:142
+#, kde-format
+msgid "Retry after:"
+msgstr "ลองใหม่หลังจาก:"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_ReconnectDelay)
+#. +> trunk6 stable6
+#: conf/dlgnetwork.ui:149
+#, kde-format
+msgid " sec"
+msgstr " วินาที"
+
+#. +> trunk6 stable6
+#: conf/dlgwebinterface.cpp:44 conf/dlgwebinterface.cpp:56
+#, kde-format
+msgid "Could not open KWallet"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, kcfg_WebinterfaceEnabled)
+#. +> trunk6 stable6
+#: conf/dlgwebinterface.ui:29
+#, kde-format
+msgid "Enable Web Interface"
+msgstr "เปิดใช้การติดต่อแบบเว็บ"
+
+#. i18n: ectx: property (text), widget (QLabel, portLabel)
+#. +> trunk6 stable6
+#: conf/dlgwebinterface.ui:41
+#: transfer-plugins/bittorrent/btsettingswidget.ui:32
+#, kde-format
+msgid "Port:"
+msgstr "พอร์ต:"
+
+#. i18n: ectx: property (text), widget (QLabel, userLabel)
+#. +> trunk6 stable6
+#: conf/dlgwebinterface.ui:55
+#, kde-format
+msgid "User:"
+msgstr "ผู้ใช้:"
+
+#. i18n: ectx: property (text), widget (QLabel, passwordLabel)
+#. +> trunk6 stable6
+#: conf/dlgwebinterface.ui:69
+#, kde-format
+msgid "Password:"
+msgstr "รหัสผ่าน:"
+
+#. +> trunk6 stable6
+#: conf/integrationpreferences.cpp:35
+#, fuzzy, kde-format
+#| msgid "Excluded:"
+msgid "Include"
+msgstr "ไม่รวม:"
+
+#. +> trunk6 stable6
+#: conf/integrationpreferences.cpp:36
+#, fuzzy, kde-format
+#| msgid "Excluded:"
+msgid "Exclude"
+msgstr "ไม่รวม:"
+
+#. i18n: ectx: label, entry (HistoryColumnWidths), group (Geometry)
+#. +> trunk6 stable6
+#: conf/kget.kcfg:185
+#, kde-format
+msgid "The width of the columns in the history view"
+msgstr "ความกว้างของคอลัมน์ต่าง ๆ ในมุมมองประวัติการถ่ายโอน"
+
+#. +> trunk6 stable6
+#: conf/pluginselector.cpp:23 conf/preferencesdialog.cpp:95
+#, kde-format
+msgid "Plugins"
+msgstr "ส่วนเสริมต่าง ๆ"
+
+#. +> trunk6 stable6
+#: conf/preferencesdialog.cpp:57
+#, kde-format
+msgid "Xml"
+msgstr "Xml"
+
+#. +> trunk6 stable6
+#: conf/preferencesdialog.cpp:59
+#, kde-format
+msgid "Sqlite"
+msgstr "Sqlite"
+
+#. +> trunk6 stable6
+#: conf/preferencesdialog.cpp:62 mainwindow.cpp:365
+#, kde-format
+msgid "Turn Off Computer"
+msgstr "ปิดคอมพิวเตอร์"
+
+#. +> trunk6 stable6
+#: conf/preferencesdialog.cpp:63 mainwindow.cpp:370
+#, kde-format
+msgid "Hibernate Computer"
+msgstr "จำศีล"
+
+#. +> trunk6 stable6
+#: conf/preferencesdialog.cpp:64 mainwindow.cpp:375
+#, kde-format
+msgid "Suspend Computer"
+msgstr "พักเครื่อง"
+
+#. +> trunk6 stable6
+#: conf/preferencesdialog.cpp:70
+#, kde-format
+msgid "Day(s)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: conf/preferencesdialog.cpp:71
+#, kde-format
+msgid "Hour(s)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: conf/preferencesdialog.cpp:72
+#, kde-format
+msgid "Minute(s)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: conf/preferencesdialog.cpp:73
+#, fuzzy, kde-format
+#| msgctxt "@action (Refresh very x )seconds"
+#| msgid "seconds"
+msgid "Second(s)"
+msgstr " วินาที"
+
+#. +> trunk6 stable6
+#: conf/preferencesdialog.cpp:85
+#, kde-format
+msgid "Appearance"
+msgstr "รูปลักษณ์"
+
+#. +> trunk6 stable6
+#: conf/preferencesdialog.cpp:85
+#, kde-format
+msgid "Change appearance settings"
+msgstr "เปลี่ยนการตั้งค่ารูปลักษณ์"
+
+#. +> trunk6 stable6
+#: conf/preferencesdialog.cpp:86
+#, kde-format
+msgid "Groups"
+msgstr "กลุ่มต่าง ๆ"
+
+#. +> trunk6 stable6
+#: conf/preferencesdialog.cpp:86
+#, kde-format
+msgid "Manage the groups"
+msgstr "จัดการกลุ่มต่าง ๆ"
+
+#. i18n: ectx: property (title), widget (QGroupBox, networkGroupBox)
+#. +> trunk6 stable6
+#: conf/preferencesdialog.cpp:87
+#: transfer-plugins/bittorrent/btsettingswidget.ui:23
+#, kde-format
+msgid "Network"
+msgstr "เครือข่าย"
+
+#. +> trunk6 stable6
+#: conf/preferencesdialog.cpp:87
+#, kde-format
+msgid "Network and Downloads"
+msgstr "เครือข่ายและการดาวน์โหลด"
+
+#. +> trunk6 stable6
+#: conf/preferencesdialog.cpp:88
+#, kde-format
+msgid "Web Interface"
+msgstr "ส่วนติดต่อแบบเว็บ"
+
+#. +> trunk6 stable6
+#: conf/preferencesdialog.cpp:88
+#, kde-format
+msgid "Control KGet over a Network or the Internet"
+msgstr "ควบคุม 'ช่วยดาวน์โหลด-K' ผ่านทางเครือข่ายหรืออินเทอร์เน็ต"
+
+#. +> trunk6 stable6
+#: conf/preferencesdialog.cpp:89
+#, kde-format
+msgid "Verification"
+msgstr "การตรวจสอบ"
+
+#. +> trunk6 stable6
+#: conf/preferencesdialog.cpp:91 conf/preferencesdialog.cpp:93
+#, fuzzy, kde-format
+#| msgid "Integration"
+msgctxt "integration of KGet with other applications"
+msgid "Integration"
+msgstr "การใช้งานร่วม"
+
+#. +> trunk6 stable6
+#: conf/preferencesdialog.cpp:94
+#, kde-format
+msgctxt "Advanced Options"
+msgid "Advanced"
+msgstr "ขั้นสูง"
+
+#. +> trunk6 stable6
+#: conf/preferencesdialog.cpp:94
+#, kde-format
+msgid "Advanced Options"
+msgstr "ตัวเลือกขั้นสูง"
+
+#. +> trunk6 stable6
+#: conf/preferencesdialog.cpp:95
+#, kde-format
+msgid "Transfer Plugins"
+msgstr "ส่วนเสริมการถ่ายโอนต่าง ๆ"
+
+#. +> trunk6 stable6
+#: conf/transfersgrouptree.cpp:112 conf/transfersgrouptree.cpp:116
+#, kde-format
+msgid "New Group"
+msgstr "กลุ่มใหม่"
+
+#. i18n: ectx: property (title), widget (QGroupBox, kcfg_ChecksumAutomaticVerification)
+#. +> trunk6 stable6
+#: conf/verificationpreferences.ui:17
+#, fuzzy, kde-format
+#| msgid "Automatic verification"
+msgid "Automatic checksums verification"
+msgstr "ทำการตรวจความถูกต้องอัตโนมัติ"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. +> trunk6 stable6
+#: conf/verificationpreferences.ui:32
+#, kde-format
+msgid "Used checksum:"
+msgstr "ใช้ผลรวมการตรวจสอบแบบ:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioButton_4)
+#. +> trunk6 stable6
+#: conf/verificationpreferences.ui:51
+#, kde-format
+msgid "Weak (fastest)"
+msgstr "ไม่แข็งแรง (เร็วสุด)"
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioButton_5)
+#. +> trunk6 stable6
+#: conf/verificationpreferences.ui:61
+#, kde-format
+msgid "Strong (recommended)"
+msgstr "แข็งแกร่ง (แนะนำให้ใช้)"
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioButton_6)
+#. +> trunk6 stable6
+#: conf/verificationpreferences.ui:71
+#, kde-format
+msgid "Strongest (slowest)"
+msgstr "แข็งแกร่งที่สุด (ช้ามากที่สุด)"
+
+#. i18n: ectx: property (title), widget (QGroupBox, signatureGroup)
+#. i18n: ectx: property (title), widget (QGroupBox, sigGroup)
+#. i18n: ectx: property (text), widget (QPushButton, signature)
+#. +> trunk6 stable6
+#: conf/verificationpreferences.ui:87 ui/signaturedlg.ui:20
+#: ui/transfersettingsdialog.ui:172
+#, kde-format
+msgid "Signature"
+msgstr "ลายเซ็น"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_SignatureAutomaticVerification)
+#. +> trunk6 stable6
+#: conf/verificationpreferences.ui:93
+#, kde-format
+msgid "Automatic verification"
+msgstr "ทำการตรวจความถูกต้องอัตโนมัติ"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_SignatureAutomaticDownloading)
+#. +> trunk6 stable6
+#: conf/verificationpreferences.ui:100
+#, kde-format
+msgid "Automatic downloading of missing keys"
+msgstr "ทำการดาวน์โหลดกุญแจที่หายไปให้โดยอัตโนมัติ"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: conf/verificationpreferences.ui:123
+#, kde-format
+msgid "Keyservers:"
+msgstr "เซิร์ฟเวอร์เก็บกุญแจ:"
+
+#. +> trunk6 stable6
+#: core/datasourcefactory.cpp:269 core/datasourcefactory.cpp:580
+#: core/kget.cpp:1332 transfer-plugins/metalink/metalink.cpp:194
+#: transfer-plugins/metalink/metalinkhttp.cpp:240
+#: transfer-plugins/metalink/metalinkxml.cpp:190
+#: ui/metalinkcreator/metalinkcreator.cpp:145
+#: ui/metalinkcreator/metalinkcreator.cpp:160
+#, kde-format
+msgid "Error"
+msgstr "ข้อผิดพลาด"
+
+#. +> trunk6 stable6
+#: core/datasourcefactory.cpp:269
+#, kde-format
+msgid "Filesize is larger than maximum file size supported by VFAT."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/datasourcefactory.cpp:579
+#, kde-format
+msgctxt "A mirror is removed when the file has the wrong download size"
+msgid "%1 removed as it did report a wrong file size."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/filemodel.cpp:248
+#, kde-format
+msgctxt "file in a filesystem"
+msgid "File"
+msgstr "แฟ้ม"
+
+#. +> trunk6 stable6
+#: core/filemodel.cpp:248
+#, kde-format
+msgctxt "status of the download"
+msgid "Status"
+msgstr "สถานะ"
+
+#. +> trunk6 stable6
+#: core/filemodel.cpp:248
+#, kde-format
+msgctxt "size of the download"
+msgid "Size"
+msgstr "ขนาด"
+
+#. +> trunk6 stable6
+#: core/filemodel.cpp:249
+#, kde-format
+msgctxt "checksum of a file"
+msgid "Checksum"
+msgstr "ผลรวมการตรวจสอบ"
+
+#. +> trunk6 stable6
+#: core/filemodel.cpp:249
+#, kde-format
+msgctxt "signature of a file"
+msgid "Signature"
+msgstr "ลายเซ็น"
+
+#. +> trunk6 stable6
+#: core/keydownloader.cpp:73
+#, kde-format
+msgid "No server for downloading keys is specified in settings. Downloading aborted."
+msgstr "ยังไม่มีการตั้งค่าระบุเซิร์ฟเวอร์เก็บกุญแจใด ๆ ที่จะใช้ในการดาวน์โหลดกุญแจ การดาวน์โหลดถูกยุติ"
+
+#. +> trunk6 stable6
+#: core/keydownloader.cpp:73 core/keydownloader.cpp:93
+#, kde-format
+msgid "No key server"
+msgstr "ไม่มีเซิร์ฟเวอร์เก็บกุญแจ"
+
+#. +> trunk6 stable6
+#: core/keydownloader.cpp:92
+#, kde-format
+msgid "No useful key server found, key not downloaded. Add more servers to the settings or restart KGet and retry downloading."
+msgstr "ไม่พบเซิร์ฟเวอร์เก็บกุญแจที่ใช้งานได้ กุญแจจึงไม่ถูกดาวน์โหลด โปรดทำการเพิ่มเซิร์ฟเวอร์ในส่วนการตั้งค่าก่อน หรือเริ่มการทำงานของ 'ช่วยดาวน์โหลด-K' ใหม่อีกครั้ง จากนั้นลองทำการดาวน์โหลดใหม่"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:114
+#, kde-format
+msgid "Are you sure that you want to remove the group named %1?"
+msgstr "คุณแน่ใจหรือว่าต้องการจะลบกลุ่มที่ชื่อ %1 ออกไป ?"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:115
+#, kde-format
+msgid "Remove Group"
+msgstr "ลบกลุ่มออกไป"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:141
+#, kde-format
+msgid "Are you sure that you want to remove the following groups?"
+msgstr "คุณแน่ใจหรือว่าต้องการจะลบกลุ่มต่อไปนี้ออกไป ?"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:143
+#, kde-format
+msgid "Remove groups"
+msgstr "ลบกลุ่มต่าง ๆ ออกไป"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:248
+#, fuzzy, kde-format
+#| msgid ""
+#| "<p>The following file has finished downloading:</p>"
+#| "<p style=\"font-size: small;\">                      %1</p>"
+msgid ""
+"<p>The following transfer has been added to the download list:</p>"
+"<p style=\"font-size: small;\">%1</p>"
+msgstr ""
+"<p>แฟ้มต่อไปนี้ถูกดาวน์โหลดมาเสร็จสมบูรณ์แล้ว:</p>"
+"<p style=\"font-size: small;\">                      %1</p>"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:250 core/kget.cpp:343
+#, fuzzy, kde-format
+#| msgid "Downloaded"
+msgid "Download added"
+msgstr "ดาวน์โหลดแล้ว"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:338
+#, fuzzy, kde-format
+#| msgid ""
+#| "<p>The following file has finished downloading:</p>"
+#| "<p style=\"font-size: small;\">                      %1</p>"
+msgid "<p>The following transfer has been added to the download list:</p>"
+msgstr ""
+"<p>แฟ้มต่อไปนี้ถูกดาวน์โหลดมาเสร็จสมบูรณ์แล้ว:</p>"
+"<p style=\"font-size: small;\">                      %1</p>"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:340
+#, fuzzy, kde-format
+#| msgid ""
+#| "<p>The following file has finished downloading:</p>"
+#| "<p style=\"font-size: small;\">                      %1</p>"
+msgid "<p>The following transfers have been added to the download list:</p>"
+msgstr ""
+"<p>แฟ้มต่อไปนี้ถูกดาวน์โหลดมาเสร็จสมบูรณ์แล้ว:</p>"
+"<p style=\"font-size: small;\">                      %1</p>"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:502 core/kget.cpp:544
+#, kde-format
+msgid "My Downloads"
+msgstr "การดาวน์โหลดของฉัน"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:553
+#, kde-format
+msgid ""
+"The file %1 already exists.\n"
+"Overwrite?"
+msgstr ""
+"มีแฟ้ม %1 อยู่ก่อนแล้ว\n"
+"ต้องการจะเขียนทับหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:554
+#, kde-format
+msgid "Overwrite existing file?"
+msgstr "ต้องการจะเขียนทับแฟ้มที่มีอยู่ก่อนหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:575 ui/metalinkcreator/metalinkcreator.cpp:160
+#, kde-format
+msgid "Unable to save to: %1"
+msgstr "ไม่สามารถบันทึกลง: %1 ได้"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:870
+#, kde-format
+msgid "<p>The following URL cannot be downloaded, its protocol is not supported by KGet:</p>"
+msgid_plural "<p>The following URLs cannot be downloaded, their protocols are not supported by KGet:</p>"
+msgstr[0] ""
+
+#. +> trunk6 stable6
+#: core/kget.cpp:880
+#, kde-format
+msgid "Protocol unsupported"
+msgstr "โพรโทคอลที่ยังไม่รองรับ"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:933 ui/newtransferdialog.cpp:52
+#, kde-format
+msgid "New Download"
+msgstr "การดาวน์โหลดใหม่"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:933
+#, kde-format
+msgid "Enter URL:"
+msgstr "ป้อนที่อยู่ URL:"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:953
+#, kde-format
+msgctxt "@title:window"
+msgid "Choose Directory"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/kget.cpp:974
+#, fuzzy, kde-format
+#| msgid "Save As"
+msgctxt "@title:window"
+msgid "Save As"
+msgstr "บันทึกเป็น"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:986 core/urlchecker.cpp:366
+#, kde-format
+msgid ""
+"Malformed URL:\n"
+"%1"
+msgstr ""
+"รูปแบบที่อยู่ URL ไม่ถูกต้อง:\n"
+"%1"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:992 core/urlchecker.cpp:368
+#, kde-format
+msgid ""
+"Malformed URL, protocol missing:\n"
+"%1"
+msgstr ""
+"รูปแบบที่อยู่ URL ไม่ถูกต้อง, ไม่มีส่วนโพรโทคอล:\n"
+"%1"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1003 core/urlchecker.cpp:424
+#, kde-format
+msgid ""
+"You have already completed a download from the location: \n"
+"\n"
+"%1\n"
+"\n"
+"Download it again?"
+msgstr ""
+"คุณได้ทำการดาวน์โหลดเสร็จสมบูรณ์แล้วจากตำแหน่งต่อไปนี้: \n"
+"\n"
+"%1\n"
+"\n"
+"ต้องการจะทำการดาวน์โหลดมันอีกครั้งหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1004 core/urlchecker.cpp:639
+#, kde-format
+msgid "Download it again?"
+msgstr "ดาวน์โหลดอีกครั้งหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1005 core/kget.cpp:1018 core/kget.cpp:1073
+#: transfer-plugins/kio/transferKio.cpp:277
+#: transfer-plugins/metalink/metalink.cpp:117
+#: transfer-plugins/metalink/metalinkxml.cpp:113
+#: transfer-plugins/multisegmentkio/transfermultisegkio.cpp:264
+#, fuzzy, kde-format
+#| msgid "Download again"
+msgctxt "@action:button"
+msgid "Download Again"
+msgstr "ดาวน์โหลดอีกครั้ง"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1006 core/kget.cpp:1019 core/kget.cpp:1074
+#, kde-format
+msgctxt "@action:button"
+msgid "Skip"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1016 core/urlchecker.cpp:426
+#, kde-format
+msgid ""
+"You have a download in progress from the location: \n"
+"\n"
+"%1\n"
+"\n"
+"Delete it and download again?"
+msgstr ""
+"คุณอยู่ระหว่างทำการดาวน์โหลดจากตำแหน่งต่อไปนี้อยู่แล้ว: \n"
+"\n"
+"%1\n"
+"\n"
+"ต้องการจะลบมันแล้วดาวน์โหลดมันอีกครั้งหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1017 core/urlchecker.cpp:636
+#, kde-format
+msgid "Delete it and download again?"
+msgstr "ลบมันและดาวน์โหลดอีกครั้งหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1039 core/kget.cpp:1044
+#, kde-format
+msgid "Directory is not writable"
+msgstr "ไม่สามารถเขียนไปยังไดเรกทอรีได้"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1071
+#, kde-format
+msgid ""
+"You have already downloaded that file from another location.\n"
+"\n"
+"Download and delete the previous one?"
+msgstr ""
+"คุณได้ทำการดาวน์โหลดแฟ้มนั้นเสร็จสมบูรณ์แล้วจากตำแหน่งอื่น ๆ\n"
+"\n"
+"ต้องการจะลบตัวก่อนหน้านี้ แล้วทำการดาวน์โหลดหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1072 core/urlchecker.cpp:648
+#, kde-format
+msgid "File already downloaded. Download anyway?"
+msgstr "แฟ้มถูกดาวน์โหลดเรียบร้อยแล้ว จะทำการดาวน์โหลดหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1083
+#, kde-format
+msgid "You are already downloading the same file"
+msgstr "คุณได้ทำการดาวน์โหลดแฟ้มเดียวกัน"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1089 core/kget.cpp:1091 core/urlchecker.cpp:651
+#: core/urlchecker.cpp:733 transfer-plugins/metalink/abstractmetalink.cpp:477
+#: transfer-plugins/metalink/metalink.cpp:663
+#, kde-format
+msgid "File already exists"
+msgstr "มีแฟ้มอยู่ก่อนแล้ว"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1177
+#, kde-format
+msgid "Internet connection established, resuming transfers."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1180
+#, kde-format
+msgid "No internet connection, stopping transfers."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1192
+#, fuzzy, kde-format
+#| msgid ""
+#| "<html>"
+#| "<p>Plugin loader could not load the plugin:<br/>"
+#| "<i>%1</i></p>"
+#| "</html>"
+msgid "Plugin loader could not load the plugin %1: %2."
+msgstr ""
+"<html>"
+"<p>ตัวโหลดส่วนเสริม ไม่สามารถโหลดส่วนเสริมต่อไปนี้ได้:<br/>"
+"<i>%1</i></p>"
+"</html>"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1203
+#, kde-format
+msgid ""
+"Not deleting\n"
+"%1\n"
+"as it is a directory."
+msgstr ""
+"ยังไม่ได้ทำการลบ\n"
+"%1\n"
+"เนื่องจากมันเป็นไดเรกทอรี"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1212
+#, kde-format
+msgid ""
+"Not deleting\n"
+"%1\n"
+"as it is not a local file."
+msgstr ""
+"ยังไม่ได้ทำการลบ\n"
+"%1\n"
+"เนื่องจากมันไม่ได้เป็นแฟ้มในระบบ"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1320
+#, fuzzy, kde-format
+#| msgid ""
+#| "<p>The following file has finished downloading:</p>"
+#| "<p style=\"font-size: small;\">                      %1</p>"
+msgid ""
+"<p>The following file has finished downloading:</p>"
+"<p style=\"font-size: small;\">%1</p>"
+msgstr ""
+"<p>แฟ้มต่อไปนี้ถูกดาวน์โหลดมาเสร็จสมบูรณ์แล้ว:</p>"
+"<p style=\"font-size: small;\">                      %1</p>"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1322
+#, kde-format
+msgid "Download completed"
+msgstr "การดาวน์โหลดเสร็จสมบูรณ์"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1326
+#, fuzzy, kde-format
+#| msgid ""
+#| "<p>The following file has finished downloading:</p>"
+#| "<p style=\"font-size: small;\">                      %1</p>"
+msgid ""
+"<p>The following transfer has been started:</p>"
+"<p style=\"font-size: small;\">%1</p>"
+msgstr ""
+"<p>แฟ้มต่อไปนี้ถูกดาวน์โหลดมาเสร็จสมบูรณ์แล้ว:</p>"
+"<p style=\"font-size: small;\">                      %1</p>"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1328
+#, fuzzy, kde-format
+#| msgid "Download speed"
+msgid "Download started"
+msgstr "ความเร็วการดาวน์โหลด"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1333
+#, fuzzy, kde-format
+#| msgid ""
+#| "<p>The following file has finished downloading:</p>"
+#| "<p style=\"font-size: small;\">                      %1</p>"
+msgid ""
+"<p>There has been an error in the following transfer:</p>"
+"<p style=\"font-size: small;\">%1</p>"
+"<p>The error message is:</p>"
+"<p style=\"font-size: small;\">%2</p>"
+msgstr ""
+"<p>แฟ้มต่อไปนี้ถูกดาวน์โหลดมาเสร็จสมบูรณ์แล้ว:</p>"
+"<p style=\"font-size: small;\">                      %1</p>"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1341
+#, fuzzy, kde-format
+#| msgid "Remove"
+msgctxt "@action:button"
+msgid "Resolve"
+msgstr "เอาออก"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1391
+#, kde-format
+msgid "KGet is now closing, as all downloads have completed."
+msgstr "กำลังจะออกจาก 'ช่วยดาวน์โหลด-K' เดี๋ยวนี้ เนื่องจากการดาวน์โหลดทั้งหมดได้เสร็จสิ้นแล้ว"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1398
+#, kde-format
+msgid "The computer will now turn off, as all downloads have completed."
+msgstr "กำลังจะปิดคอมพิวเตอร์เดี๋ยวนี้ เนื่องจากการดาวน์โหลดทั้งหมดได้เสร็จสิ้นแล้ว"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1400
+#, kde-format
+msgctxt "Shutting down computer"
+msgid "Shutdown"
+msgstr "ปิดเครื่อง"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1405
+#, kde-format
+msgid "The computer will now suspend to disk, as all downloads have completed."
+msgstr "กำลังจะปิดพักเครื่องเดี๋ยวนี้ เนื่องจากการดาวน์โหลดทั้งหมดได้เสร็จสิ้นแล้ว"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1407
+#, kde-format
+msgctxt "Hibernating computer"
+msgid "Hibernating"
+msgstr "กำลังเตรียมการจำศีลเครื่อง"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1412
+#, kde-format
+msgid "The computer will now suspend to RAM, as all downloads have completed."
+msgstr "กำลังจะพักเครื่องโดยเก็บสถานะไว้ใน RAM เดี๋ยวนี้ เนื่องจากการดาวน์โหลดทั้งหมดได้เสร็จสิ้นแล้ว"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1414
+#, kde-format
+msgctxt "Suspending computer"
+msgid "Suspending"
+msgstr "กำลังพักเครื่อง"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1422
+#, kde-format
+msgctxt "abort the proposed action"
+msgid "Abort"
+msgstr "ยุติ"
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1431
+#, kde-format
+msgid "<p>All transfers have been finished.</p>"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/kget.cpp:1431
+#, kde-format
+msgid "Downloads completed"
+msgstr "การดาวน์โหลดเสร็จสมบูรณ์แล้ว"
+
+#. +> trunk6 stable6
+#: core/kget.h:361 main.cpp:99 mainwindow.cpp:95 mainwindow.cpp:517
+#: ui/tray.cpp:44
+#, kde-format
+msgid "KGet"
+msgstr "ช่วยดาวน์โหลด-K"
+
+#. +> trunk6 stable6
+#: core/kgetglobaljob.cpp:56
+#, kde-format
+msgid "KGet is downloading %1 file"
+msgid_plural "KGet is downloading %1 files"
+msgstr[0] "'ช่วยดาวน์โหลด-K' กำลังทำการดาวน์โหลด %1 แฟ้ม"
+
+#. +> trunk6 stable6
+#: core/kgetkjobadapter.cpp:48
+#, kde-format
+msgid "KGet Transfer"
+msgstr "รายการการถ่ายโอนของ 'ช่วยดาวน์โหลด-K'"
+
+#. +> trunk6 stable6
+#: core/linkimporter.cpp:93
+#, kde-format
+msgid "Error trying to get %1"
+msgstr "เกิดข้อผิดพลาดในการรับข้อมูล %1"
+
+#. +> trunk6 stable6
+#: core/signature.cpp:230
+#, kde-format
+msgid "The key to verify the signature is missing, do you want to download it?"
+msgstr "กุญแจสำหรับใช้ในการตรวจความถูกต้องของลายเซ็นหายไป คุณต้องการจะทำการดาวน์โหลดกุญแจหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: core/signature.cpp:232
+#, fuzzy, kde-format
+#| msgid "Download"
+msgctxt "@action:button"
+msgid "Download"
+msgstr "ดาวน์โหลด"
+
+#. +> trunk6 stable6
+#: core/signature.cpp:233
+#, kde-format
+msgctxt "@action:button"
+msgid "Continue Without"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/signature.cpp:256
+#, kde-format
+msgid "The signature could not be verified for %1. See transfer settings for more information."
+msgstr "ไม่สามารถตรวจความถูกต้องของลายเซ็นสำหรับ %1 ได้ โปรดดูที่การตั้งค่าการถ่ายโอน เพื่อดูรายละเอียดเพิ่มเติม"
+
+#. +> trunk6 stable6
+#: core/signature.cpp:257
+#, kde-format
+msgid "Signature not verified"
+msgstr "ลายเซ็นยังไม่ได้ตรวจความถูกต้อง"
+
+#. +> trunk6 stable6
+#: core/transfer.cpp:29
+msgid "Downloading...."
+msgstr "กำลังดาวน์โหลด..."
+
+#. +> trunk6 stable6
+#: core/transfer.cpp:30
+msgctxt "transfer state: delayed"
+msgid "Delayed"
+msgstr "ถูกหน่วงเวลาแล้ว"
+
+#. +> trunk6 stable6
+#: core/transfer.cpp:31 core/transfer.cpp:235 core/transfer.cpp:254
+#: transfer-plugins/bittorrent/bttransfer.cpp:313
+#: transfer-plugins/mmsthreads/mmstransfer.cpp:85
+#, kde-format
+msgctxt "transfer state: stopped"
+msgid "Stopped"
+msgstr "หยุดแล้ว"
+
+#. +> trunk6 stable6
+#: core/transfer.cpp:32
+msgctxt "transfer state: aborted"
+msgid "Aborted"
+msgstr "ยุติแล้ว"
+
+#. +> trunk6 stable6
+#: core/transfer.cpp:33 transfer-plugins/bittorrent/bttransfer.cpp:234
+#: transfer-plugins/bittorrent/bttransfer.cpp:311
+#, kde-format
+msgctxt "transfer state: finished"
+msgid "Finished"
+msgstr "เสร็จสิ้น"
+
+#. +> trunk6 stable6
+#: core/transfer.cpp:35 transfer-plugins/bittorrent/bttransfer.cpp:184
+#, kde-format
+msgctxt "changing the destination of the file"
+msgid "Changing destination"
+msgstr "กำลังเปลี่ยนปลายทาง"
+
+#. +> trunk6 stable6
+#: core/transfergrouphandler.cpp:94
+#, kde-format
+msgid "1 Item"
+msgid_plural "%1 Items"
+msgstr[0] "%1 รายการ"
+
+#. +> trunk6 stable6
+#: core/transfergrouphandler.cpp:108 core/transferhandler.cpp:140
+#: ui/transferdetails.cpp:93
+#, kde-format
+msgid "%1/s"
+msgstr "%1/วินาที"
+
+#. +> trunk6 stable6
+#: core/transfergrouphandler.cpp:163
+#, kde-format
+msgctxt "start transfergroup downloads"
+msgid "Start"
+msgstr "เริ่ม"
+
+#. +> trunk6 stable6
+#: core/transfergrouphandler.cpp:169
+#, kde-format
+msgctxt "stop transfergroup downloads"
+msgid "Stop"
+msgstr "หยุด"
+
+#. +> trunk6 stable6
+#: core/transferhandler.cpp:129
+#: transfer-plugins/bittorrent/btdetailswidget.cpp:28
+#: transfer-plugins/bittorrent/btdetailswidget.cpp:29
+#: transfer-plugins/bittorrent/btdetailswidget.cpp:30
+#: transfer-plugins/bittorrent/btdetailswidget.cpp:31
+#: transfer-plugins/bittorrent/btdetailswidget.cpp:32
+#: transfer-plugins/bittorrent/btdetailswidget.cpp:33
+#: transfer-plugins/bittorrent/btdetailswidget.cpp:34
+#: transfer-plugins/bittorrent/btdetailswidget.cpp:35
+#: transfer-plugins/bittorrent/btdetailswidget.cpp:59
+#: transfer-plugins/bittorrent/btdetailswidget.cpp:60
+#: transfer-plugins/bittorrent/btdetailswidget.cpp:64
+#: transfer-plugins/bittorrent/btdetailswidget.cpp:65
+#: transfer-plugins/bittorrent/btdetailswidget.cpp:69
+#: transfer-plugins/bittorrent/btdetailswidget.cpp:72
+#: transfer-plugins/bittorrent/btdetailswidget.cpp:75
+#: transfer-plugins/bittorrent/btdetailswidget.cpp:78
+#: ui/transfersviewdelegate.cpp:363
+#, kde-format
+msgctxt "not available"
+msgid "n/a"
+msgstr "ไม่มีข้อมูล"
+
+#. +> trunk6 stable6
+#: core/transferhandler.cpp:136 ui/transferdetails.cpp:89
+#, kde-format
+msgid "Stalled"
+msgstr "หยุดกลางคัน"
+
+#. +> trunk6 stable6
+#: core/transfertreemodel.cpp:625
+#, kde-format
+msgctxt "name of download"
+msgid "Name"
+msgstr "ชื่อ"
+
+#. +> trunk6 stable6
+#: core/transfertreemodel.cpp:627
+#, kde-format
+msgctxt "status of download"
+msgid "Status"
+msgstr "สถานะ"
+
+#. +> trunk6 stable6
+#: core/transfertreemodel.cpp:629
+#, kde-format
+msgctxt "size of download"
+msgid "Size"
+msgstr "ขนาด"
+
+#. +> trunk6 stable6
+#: core/transfertreemodel.cpp:631
+#, kde-format
+msgctxt "progress of download"
+msgid "Progress"
+msgstr "ความคืบหน้า"
+
+#. +> trunk6 stable6
+#: core/transfertreemodel.cpp:633
+#, kde-format
+msgctxt "speed of download"
+msgid "Speed"
+msgstr "ความเร็ว"
+
+#. +> trunk6 stable6
+#: core/transfertreemodel.cpp:635
+#, kde-format
+msgctxt "remaining time of download"
+msgid "Remaining Time"
+msgstr "เวลาที่เหลือ"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:50
+#, fuzzy, kde-format
+#| msgid "Description"
+msgid "Question"
+msgstr "คำอธิบาย"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:60
+#, kde-format
+msgid "Appl&y to all"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:300 core/urlchecker.cpp:340
+#, kde-format
+msgid "No download directory specified."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:302
+#, kde-format
+msgid "Invalid download directory specified."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:304
+#, fuzzy, kde-format
+#| msgid "Directory is not writable"
+msgid "Download directory is not writeable."
+msgstr "ไม่สามารถเขียนไปยังไดเรกทอรีได้"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:312 core/urlchecker.cpp:352
+#, fuzzy, kde-format
+#| msgid "Download Destination:"
+msgid "No download destination specified."
+msgstr "ปลายทางการดาวน์โหลด:"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:314
+#, fuzzy, kde-format
+#| msgid "Download Destination:"
+msgid "Invalid download destination specified."
+msgstr "ปลายทางการดาวน์โหลด:"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:316
+#, fuzzy, kde-format
+#| msgid "Download Destination:"
+msgid "Download destination is not writeable."
+msgstr "ปลายทางการดาวน์โหลด:"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:324 core/urlchecker.cpp:364 core/urlchecker.cpp:454
+#: core/urlchecker.cpp:468
+#, fuzzy, kde-format
+#| msgid "not specified"
+msgid "No URL specified."
+msgstr "ยังไม่ระบุ"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:326
+#: transfer-plugins/bittorrent/advanceddetails/trackerview.cpp:91
+#: transfer-plugins/bittorrent/bttransfer.cpp:275
+#, kde-format
+msgid "Malformed URL."
+msgstr "รูปแบบที่อยู่ URL ไม่ถูกต้อง"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:328
+#, fuzzy, kde-format
+#| msgid ""
+#| "Malformed URL, protocol missing:\n"
+#| "%1"
+msgid "Malformed URL, protocol missing."
+msgstr ""
+"รูปแบบที่อยู่ URL ไม่ถูกต้อง, ไม่มีส่วนโพรโทคอล:\n"
+"%1"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:330
+#, fuzzy, kde-format
+#| msgid ""
+#| "Malformed URL, protocol missing:\n"
+#| "%1"
+msgid "Malformed URL, host missing."
+msgstr ""
+"รูปแบบที่อยู่ URL ไม่ถูกต้อง, ไม่มีส่วนโพรโทคอล:\n"
+"%1"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:342
+#, kde-format
+msgid ""
+"Invalid download directory specified:\n"
+"%1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:344
+#, fuzzy, kde-format
+#| msgid "Directory is not writable"
+msgid ""
+"Download directory is not writeable:\n"
+"%1"
+msgstr "ไม่สามารถเขียนไปยังไดเรกทอรีได้"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:354
+#, fuzzy, kde-format
+#| msgid "Download Destination:"
+msgid ""
+"Invalid download destination specified:\n"
+"%1"
+msgstr "ปลายทางการดาวน์โหลด:"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:356
+#, fuzzy, kde-format
+#| msgid "Download Destination:"
+msgid ""
+"Download destination is not writeable:\n"
+"%1"
+msgstr "ปลายทางการดาวน์โหลด:"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:370
+#, fuzzy, kde-format
+#| msgid ""
+#| "Malformed URL, protocol missing:\n"
+#| "%1"
+msgid ""
+"Malformed URL, host missing:\n"
+"%1"
+msgstr ""
+"รูปแบบที่อยู่ URL ไม่ถูกต้อง, ไม่มีส่วนโพรโทคอล:\n"
+"%1"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:386 core/urlchecker.cpp:398
+#, fuzzy, kde-format
+#| msgid ""
+#| "The file %1 already exists.\n"
+#| "Overwrite?"
+msgid "File already exists. Overwrite it?"
+msgstr ""
+"มีแฟ้ม %1 อยู่ก่อนแล้ว\n"
+"ต้องการจะเขียนทับหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:388 core/urlchecker.cpp:414
+#, fuzzy, kde-format
+#| msgid ""
+#| "You have already downloaded that file from another location.\n"
+#| "\n"
+#| "Download and delete the previous one?"
+msgid ""
+"You have already downloaded that file from another location.\n"
+"Download and delete the previous one?"
+msgstr ""
+"คุณได้ทำการดาวน์โหลดแฟ้มนั้นเสร็จสมบูรณ์แล้วจากตำแหน่งอื่น ๆ\n"
+"\n"
+"ต้องการจะลบตัวก่อนหน้านี้ แล้วทำการดาวน์โหลดหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:390 core/urlchecker.cpp:416
+#, fuzzy, kde-format
+#| msgid ""
+#| "You have already downloaded that file from another location.\n"
+#| "\n"
+#| "Download and delete the previous one?"
+msgid ""
+"You are already downloading that file from another location.\n"
+"Download and delete the previous one?"
+msgstr ""
+"คุณได้ทำการดาวน์โหลดแฟ้มนั้นเสร็จสมบูรณ์แล้วจากตำแหน่งอื่น ๆ\n"
+"\n"
+"ต้องการจะลบตัวก่อนหน้านี้ แล้วทำการดาวน์โหลดหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:400
+#, fuzzy, kde-format
+#| msgid ""
+#| "You have already completed a download from the location: \n"
+#| "\n"
+#| "%1\n"
+#| "\n"
+#| "Download it again?"
+msgid "You have already completed a download from that location. Download it again?"
+msgstr ""
+"คุณได้ทำการดาวน์โหลดเสร็จสมบูรณ์แล้วจากตำแหน่งต่อไปนี้: \n"
+"\n"
+"%1\n"
+"\n"
+"ต้องการจะทำการดาวน์โหลดมันอีกครั้งหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:402
+#, fuzzy, kde-format
+#| msgid ""
+#| "You have a download in progress from the location: \n"
+#| "\n"
+#| "%1\n"
+#| "\n"
+#| "Delete it and download again?"
+msgid ""
+"You have a download in progress from that location.\n"
+"Delete it and download again?"
+msgstr ""
+"คุณอยู่ระหว่างทำการดาวน์โหลดจากตำแหน่งต่อไปนี้อยู่แล้ว: \n"
+"\n"
+"%1\n"
+"\n"
+"ต้องการจะลบมันแล้วดาวน์โหลดมันอีกครั้งหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:412
+#, fuzzy, kde-format
+#| msgid ""
+#| "The file %1 already exists.\n"
+#| "Overwrite?"
+msgid ""
+"File already exists:\n"
+"%1\n"
+"Overwrite it?"
+msgstr ""
+"มีแฟ้ม %1 อยู่ก่อนแล้ว\n"
+"ต้องการจะเขียนทับหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:456
+#, fuzzy, kde-format
+#| msgid "Malformed URL."
+msgid "Malformed URLs."
+msgstr "รูปแบบที่อยู่ URL ไม่ถูกต้อง"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:458
+#, fuzzy, kde-format
+#| msgid ""
+#| "Malformed URL, protocol missing:\n"
+#| "%1"
+msgid "Malformed URLs, protocol missing."
+msgstr ""
+"รูปแบบที่อยู่ URL ไม่ถูกต้อง, ไม่มีส่วนโพรโทคอล:\n"
+"%1"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:460
+#, fuzzy, kde-format
+#| msgid ""
+#| "Malformed URL, protocol missing:\n"
+#| "%1"
+msgid "Malformed URLs, host missing."
+msgstr ""
+"รูปแบบที่อยู่ URL ไม่ถูกต้อง, ไม่มีส่วนโพรโทคอล:\n"
+"%1"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:470
+#, fuzzy, kde-format
+#| msgid ""
+#| "Malformed URL:\n"
+#| "%1"
+msgid ""
+"Malformed URLs:\n"
+"%1"
+msgstr ""
+"รูปแบบที่อยู่ URL ไม่ถูกต้อง:\n"
+"%1"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:472
+#, fuzzy, kde-format
+#| msgid ""
+#| "Malformed URL, protocol missing:\n"
+#| "%1"
+msgid ""
+"Malformed URLs, protocol missing:\n"
+"%1"
+msgstr ""
+"รูปแบบที่อยู่ URL ไม่ถูกต้อง, ไม่มีส่วนโพรโทคอล:\n"
+"%1"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:474
+#, fuzzy, kde-format
+#| msgid ""
+#| "Malformed URL, protocol missing:\n"
+#| "%1"
+msgid ""
+"Malformed URLs, host missing:\n"
+"%1"
+msgstr ""
+"รูปแบบที่อยู่ URL ไม่ถูกต้อง, ไม่มีส่วนโพรโทคอล:\n"
+"%1"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:476
+#, fuzzy, kde-format
+#| msgid "Directory is not writable"
+msgid ""
+"Destinations are not writable:\n"
+"%1"
+msgstr "ไม่สามารถเขียนไปยังไดเรกทอรีได้"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:500
+#, fuzzy, kde-format
+#| msgid ""
+#| "The file %1 already exists.\n"
+#| "Overwrite?"
+msgid "Files exist already. Overwrite them?"
+msgstr ""
+"มีแฟ้ม %1 อยู่ก่อนแล้ว\n"
+"ต้องการจะเขียนทับหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:502
+#, fuzzy, kde-format
+#| msgid ""
+#| "You have already completed a download from the location: \n"
+#| "\n"
+#| "%1\n"
+#| "\n"
+#| "Download it again?"
+msgid "You have already completed downloads at those destinations. Download them again?"
+msgstr ""
+"คุณได้ทำการดาวน์โหลดเสร็จสมบูรณ์แล้วจากตำแหน่งต่อไปนี้: \n"
+"\n"
+"%1\n"
+"\n"
+"ต้องการจะทำการดาวน์โหลดมันอีกครั้งหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:504
+#, fuzzy, kde-format
+#| msgid ""
+#| "You have a download in progress from the location: \n"
+#| "\n"
+#| "%1\n"
+#| "\n"
+#| "Delete it and download again?"
+msgid ""
+"You have downloads in progress to these destinations.\n"
+"Delete them and download again?"
+msgstr ""
+"คุณอยู่ระหว่างทำการดาวน์โหลดจากตำแหน่งต่อไปนี้อยู่แล้ว: \n"
+"\n"
+"%1\n"
+"\n"
+"ต้องการจะลบมันแล้วดาวน์โหลดมันอีกครั้งหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:512
+#, fuzzy, kde-format
+#| msgid ""
+#| "You have already completed a download from the location: \n"
+#| "\n"
+#| "%1\n"
+#| "\n"
+#| "Download it again?"
+msgid "You have already completed downloads from these locations. Download them again?"
+msgstr ""
+"คุณได้ทำการดาวน์โหลดเสร็จสมบูรณ์แล้วจากตำแหน่งต่อไปนี้: \n"
+"\n"
+"%1\n"
+"\n"
+"ต้องการจะทำการดาวน์โหลดมันอีกครั้งหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:514
+#, fuzzy, kde-format
+#| msgid ""
+#| "You have a download in progress from the location: \n"
+#| "\n"
+#| "%1\n"
+#| "\n"
+#| "Delete it and download again?"
+msgid ""
+"You have downloads in progress from these locations.\n"
+"Delete them and download again?"
+msgstr ""
+"คุณอยู่ระหว่างทำการดาวน์โหลดจากตำแหน่งต่อไปนี้อยู่แล้ว: \n"
+"\n"
+"%1\n"
+"\n"
+"ต้องการจะลบมันแล้วดาวน์โหลดมันอีกครั้งหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:523
+#, kde-format
+msgid ""
+"Files exist already:\n"
+"%1\n"
+"Overwrite them?"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:525
+#, fuzzy, kde-format
+#| msgid ""
+#| "You have already completed a download from the location: \n"
+#| "\n"
+#| "%1\n"
+#| "\n"
+#| "Download it again?"
+msgid ""
+"You have already completed downloads at those destinations: \n"
+"\n"
+"%1\n"
+"\n"
+" Download them again?"
+msgstr ""
+"คุณได้ทำการดาวน์โหลดเสร็จสมบูรณ์แล้วจากตำแหน่งต่อไปนี้: \n"
+"\n"
+"%1\n"
+"\n"
+"ต้องการจะทำการดาวน์โหลดมันอีกครั้งหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:527
+#, fuzzy, kde-format
+#| msgid ""
+#| "You have a download in progress from the location: \n"
+#| "\n"
+#| "%1\n"
+#| "\n"
+#| "Delete it and download again?"
+msgid ""
+"You have downloads in progress to these destinations: \n"
+"\n"
+"%1\n"
+"\n"
+"Delete them and download again?"
+msgstr ""
+"คุณอยู่ระหว่างทำการดาวน์โหลดจากตำแหน่งต่อไปนี้อยู่แล้ว: \n"
+"\n"
+"%1\n"
+"\n"
+"ต้องการจะลบมันแล้วดาวน์โหลดมันอีกครั้งหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:535
+#, fuzzy, kde-format
+#| msgid ""
+#| "You have already completed a download from the location: \n"
+#| "\n"
+#| "%1\n"
+#| "\n"
+#| "Download it again?"
+msgid ""
+"You have already completed downloads from these locations: \n"
+"\n"
+"%1\n"
+"\n"
+"Download them again?"
+msgstr ""
+"คุณได้ทำการดาวน์โหลดเสร็จสมบูรณ์แล้วจากตำแหน่งต่อไปนี้: \n"
+"\n"
+"%1\n"
+"\n"
+"ต้องการจะทำการดาวน์โหลดมันอีกครั้งหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: core/urlchecker.cpp:537
+#, fuzzy, kde-format
+#| msgid ""
+#| "You have a download in progress from the location: \n"
+#| "\n"
+#| "%1\n"
+#| "\n"
+#| "Delete it and download again?"
+msgid ""
+"You have downloads in progress from these locations: \n"
+"\n"
+"%1\n"
+"\n"
+"Delete them and download again?"
+msgstr ""
+"คุณอยู่ระหว่างทำการดาวน์โหลดจากตำแหน่งต่อไปนี้อยู่แล้ว: \n"
+"\n"
+"%1\n"
+"\n"
+"ต้องการจะลบมันแล้วดาวน์โหลดมันอีกครั้งหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: core/verificationmodel.cpp:148
+#, kde-format
+msgctxt "the type of the hash, e.g. MD5"
+msgid "Type"
+msgstr "ประเภท"
+
+#. +> trunk6 stable6
+#: core/verificationmodel.cpp:150
+#, kde-format
+msgctxt "the used hash for verification"
+msgid "Hash"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/verificationmodel.cpp:152
+#, kde-format
+msgctxt "verification-result of a file, can be true/false"
+msgid "Verified"
+msgstr "ตรวจความถูกต้องแล้ว"
+
+#. +> trunk6 stable6
+#: main.cpp:101
+#, fuzzy, kde-format
+#| msgid "An advanced download manager for KDE"
+msgid "An advanced download manager by KDE"
+msgstr "เครื่องมือจัดการการดาวน์โหลดขั้นก้าวหน้าสำหรับ KDE"
+
+#. +> trunk6 stable6
+#: main.cpp:103
+#, fuzzy, kde-format
+#| msgid ""
+#| "(C) 2005 - 2009, The KGet developers\n"
+#| "(C) 2001 - 2002, Patrick Charbonnier\n"
+#| "(C) 2002, Carsten Pfeiffer\n"
+#| "(C) 1998 - 2000, Matej Koss"
+msgid ""
+"(C) 2005 - 2014, The KGet developers\n"
+"(C) 2001 - 2002, Patrick Charbonnier\n"
+"(C) 2002, Carsten Pfeiffer\n"
+"(C) 1998 - 2000, Matej Koss"
+msgstr ""
+"สงวนลิขสิทธิ์ (C) 2005 - 2009, ทีมพัฒนา 'ช่วยดาวน์โหลด-K' (KGet)\n"
+"สงวนลิขสิทธิ์ (C) 2001 - 2002, Patrick Charbonnier\n"
+"สงวนลิขสิทธิ์ (C) 2002, Carsten Pfeiffer\n"
+"สงวนลิขสิทธิ์ (C) 1998 - 2000, Matej Koss"
+
+#. +> trunk6 stable6
+#: main.cpp:107
+#, kde-format
+msgid "<a href=\"mailto:kget@kde.org\">kget@kde.org</a>"
+msgstr "<a href=\"mailto:kget@kde.org\">kget@kde.org</a>"
+
+#. +> trunk6 stable6
+#: main.cpp:109
+#, kde-format
+msgid "Lukas Appelhans"
+msgstr "Lukas Appelhans"
+
+#. +> trunk6 stable6
+#: main.cpp:109
+#, kde-format
+msgid "Maintainer, Core Developer, Torrent Plugin Author"
+msgstr "ผู้ดูแล, ผู้พัฒนาหลัก, ผู้เขียนส่วนเสริมทอร์เรนต์"
+
+#. +> trunk6 stable6
+#: main.cpp:110
+#, kde-format
+msgid "Dario Massarin"
+msgstr "Dario Massarin"
+
+#. +> trunk6 stable6
+#: main.cpp:110 main.cpp:111 main.cpp:113
+#, kde-format
+msgid "Core Developer"
+msgstr "ผู้พัฒนาหลัก"
+
+#. +> trunk6 stable6
+#: main.cpp:111
+#, kde-format
+msgid "Urs Wolfer"
+msgstr "Urs Wolfer"
+
+#. +> trunk6 stable6
+#: main.cpp:112
+#, kde-format
+msgid "Manolo Valdes"
+msgstr "Manolo Valdes"
+
+#. +> trunk6 stable6
+#: main.cpp:112
+#, kde-format
+msgid "Core Developer, Multithreaded Plugin Author"
+msgstr "ผู้พัฒนาหลัก, ผู้เขียนส่วนเสริมการทำงานแบบหลายเธรด"
+
+#. +> trunk6 stable6
+#: main.cpp:113
+#, kde-format
+msgid "Matthias Fuchs"
+msgstr "Matthias Fuchs"
+
+#. +> trunk6 stable6
+#: main.cpp:114
+#, kde-format
+msgid "Javier Goday"
+msgstr "Javier Goday"
+
+#. +> trunk6 stable6
+#: main.cpp:114
+#, kde-format
+msgid "Developer"
+msgstr "ผู้พัฒนา"
+
+#. +> trunk6 stable6
+#: main.cpp:115
+#, kde-format
+msgid "Aish Raj Dahal"
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:115
+#, kde-format
+msgid "Google Summer of Code Student"
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:116
+#, kde-format
+msgid "Ernesto Rodriguez Ortiz"
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:116
+#, kde-format
+msgid "Mms Plugin Author"
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:117
+#, kde-format
+msgid "Patrick Charbonnier"
+msgstr "Patrick Charbonnier"
+
+#. +> trunk6 stable6
+#: main.cpp:117 main.cpp:118 main.cpp:119
+#, kde-format
+msgid "Former Developer"
+msgstr "อดีตผู้พัฒนา"
+
+#. +> trunk6 stable6
+#: main.cpp:118
+#, kde-format
+msgid "Carsten Pfeiffer"
+msgstr "Carsten Pfeiffer"
+
+#. +> trunk6 stable6
+#: main.cpp:119
+#, kde-format
+msgid "Matej Koss"
+msgstr "Matej Koss"
+
+#. +> trunk6 stable6
+#: main.cpp:120
+#, kde-format
+msgid "Joris Guisson"
+msgstr "Joris Guisson"
+
+#. +> trunk6 stable6
+#: main.cpp:120
+#, kde-format
+msgid "BTCore (KTorrent) Developer"
+msgstr "ผู้พัฒนา BTCore (KTorrent)"
+
+#. +> trunk6 stable6
+#: main.cpp:121
+#, kde-format
+msgid "Mensur Zahirovic (Nookie)"
+msgstr "Mensur Zahirovic (Nookie)"
+
+#. +> trunk6 stable6
+#: main.cpp:121
+#, kde-format
+msgid "Design of Web Interface"
+msgstr "ออกแบบส่วนติดต่อเว็บ"
+
+#. +> trunk6 stable6
+#: main.cpp:123
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ถนอมทรัพย์ นพบูรณ์, สหชาติ อนุกูลกิจ"
+
+#. +> trunk6 stable6
+#: main.cpp:123
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "donga.nb@gmail.com, drrider@gmail.com"
+
+#. +> trunk6 stable6
+#: main.cpp:132
+#, kde-format
+msgid "Start KGet with drop target"
+msgstr "เริ่มงาน KGet พร้อมกับไอคอน หย่อนเพื่อดาวน์โหลด"
+
+#. +> trunk6 stable6
+#: main.cpp:133
+#, kde-format
+msgid "Start KGet with hidden main window"
+msgstr "เริ่มงาน KGet โดยซ่อนหน้าต่างหลัก"
+
+#. +> trunk6 stable6
+#: main.cpp:134
+#, kde-format
+msgid "Start KGet without drop target animation"
+msgstr "เริ่มงาน KGet โดยไม่ต้องมีภาพเคลื่อนไหวของไอคอน หย่อนเพื่อดาวน์โหลด"
+
+#. +> trunk6 stable6
+#: main.cpp:136
+#, kde-format
+msgid "Execute Unit Testing"
+msgstr "ประมวลผลหน่วยการทดสอบ"
+
+#. +> trunk6 stable6
+#: main.cpp:138
+#, kde-format
+msgid "URL(s) to download"
+msgstr "ที่อยู่ URL ที่จะดาวน์โหลด"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:146
+#, kde-format
+msgid "&New Download..."
+msgstr "การดาวน์โหลดใ&หม่..."
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:153
+#, kde-format
+msgid "&Import Transfers..."
+msgstr "&นำเข้ารายการถ่ายโอนข้อมูล..."
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:160
+#, kde-format
+msgid "&Export Transfers List..."
+msgstr "&ส่งออกรายการถ่ายโอนข้อมูล..."
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:167
+#, kde-format
+msgid "&Create a Metalink..."
+msgstr ""
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:173
+#, fuzzy, kde-format
+#| msgid "Priority"
+msgid "Top Priority"
+msgstr "ความสำคัญ"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:180
+#, fuzzy, kde-format
+#| msgid "Priority"
+msgid "Least Priority"
+msgstr "ความสำคัญ"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:187
+#, fuzzy, kde-format
+#| msgid "Priority"
+msgid "Increase Priority"
+msgstr "ความสำคัญ"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:194
+#, fuzzy, kde-format
+#| msgid "Priority"
+msgid "Decrease Priority"
+msgstr "ความสำคัญ"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:202
+#, fuzzy, kde-format
+#| msgid "Delete Group"
+#| msgid_plural "Delete Groups"
+msgctxt "@action"
+msgid "Delete Group"
+msgstr "ลบกลุ่มต่าง ๆ"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:208
+#, fuzzy, kde-format
+#| msgid "Rename Group..."
+#| msgid_plural "Rename Groups..."
+msgctxt "@action"
+msgid "Rename Group..."
+msgstr "เปลี่ยนชื่อกลุ่มต่าง ๆ ..."
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:213
+#, kde-format
+msgid "Set Icon..."
+msgstr "ตั้งค่าไอคอน..."
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:218
+#, kde-format
+msgid "Auto-Paste Mode"
+msgstr "โหมดวางอัตโนมัติ"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:222
+#, kde-format
+msgid ""
+"<b>Auto paste</b> button toggles the auto-paste mode on and off.\n"
+"When set, KGet will periodically scan the clipboard for URLs and paste them automatically."
+msgstr ""
+"ปุ่ม <b>วางอัตโนมัติ</b> ใช้เพื่อเปิดหรือปิดการทำงานของโหมดวางอัตโนมัติ\n"
+"เมื่อเปิดใช้ 'ช่วยดาวน์โหลด-K' จะทำการตรวจหาที่อยู่ URL ในคลิปบอร์ดเป็นระยะและจะวางที่อยู่ URL นั้นให้โดยอัตโนมัติ"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:227
+#, kde-format
+msgid "Use KGet as Konqueror Download Manager"
+msgstr "ใช้ 'ช่วยดาวน์โหลด-K' เป็นตัวจัดการการดาวน์โหลดให้กับคอนเควอร์เรอร์"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:245
+#, kde-format
+msgctxt "delete selected transfer item"
+msgid "Remove Selected"
+msgstr "ลบตัวที่เลือกไว้"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:252
+#, kde-format
+msgctxt "delete all finished transfers"
+msgid "Remove All Finished"
+msgstr "ลบตัวที่เสร็จแล้วทั้งหมด"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:258
+#, fuzzy, kde-format
+#| msgctxt "delete selected transfer item"
+#| msgid "Remove Selected"
+msgctxt "delete selected transfer item and files"
+msgid "Remove Selected and Delete Files"
+msgstr "ลบตัวที่เลือกไว้"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:264
+#, kde-format
+msgctxt "redownload selected transfer item"
+msgid "Redownload Selected"
+msgstr "ดาวน์โหลดที่เลือกใหม่อีกครั้ง"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:269
+#, fuzzy, kde-format
+#| msgctxt "start transfergroup downloads"
+#| msgid "Start"
+msgid "Start All"
+msgstr "เริ่ม"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:276
+#, fuzzy, kde-format
+#| msgid "Stop Selected"
+msgid "Start Selected"
+msgstr "หยุดรายการที่เลือก"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:282
+#, kde-format
+msgid "Pause All"
+msgstr ""
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:289
+#, kde-format
+msgid "Stop Selected"
+msgstr "หยุดรายการที่เลือก"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:294
+#, fuzzy, kde-format
+#| msgctxt "start transfergroup downloads"
+#| msgid "Start"
+msgid "Start"
+msgstr "เริ่ม"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:301
+#, kde-format
+msgid "Pause"
+msgstr ""
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:309
+#, kde-format
+msgid "Open Destination"
+msgstr "เปิดแฟ้มปลายทาง"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:314
+#, kde-format
+msgid "Open File"
+msgstr "เปิดแฟ้ม"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:318
+#, kde-format
+msgid "Show Details"
+msgstr "แสดงรายละเอียดต่าง ๆ"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:323
+#, kde-format
+msgid "Copy URL to Clipboard"
+msgstr "คัดลอกที่อยู่ URL ไปยังคลิปบอร์ด"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:328
+#, kde-format
+msgid "&Transfer History"
+msgstr "ประวัติการ&ถ่ายโอน"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:334
+#, kde-format
+msgid "&Group Settings"
+msgstr "ตั้งค่าต่าง ๆ ของ&กลุ่ม"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:340
+#, kde-format
+msgid "&Transfer Settings"
+msgstr "ตั้งค่าต่าง ๆ ของการ&ส่งถ่ายข้อมูล"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:346
+#, kde-format
+msgid "Import &Links..."
+msgstr "นำเข้าส่วนเ&ชื่อมโยงต่าง ๆ ..."
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:352
+#, kde-format
+msgid "After downloads finished action"
+msgstr ""
+
+#. i18n("Choose an action that is executed after all downloads have been finished."));
+#. +> trunk6 stable6
+#: mainwindow.cpp:356
+#, fuzzy, kde-format
+#| msgctxt "Location = country"
+#| msgid "Location"
+msgid "No Action"
+msgstr "ตำแหน่ง"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:433
+#, kde-format
+msgid ""
+"This is the first time you have run KGet.\n"
+"Would you like to enable KGet as the download manager for Konqueror?"
+msgstr ""
+"นี่เป็นครั้งแรกที่คุณเรียกใช้งาน 'ช่วยดาวน์โหลด-K' \n"
+"คุณต้องการจะเปิดใช้งานเครื่องมือ 'ช่วยดาวน์โหลด-K' นี้ \n"
+"ให้เป็นตัวจัดการการดาวน์โหลดของคอนเควอร์เรอร์หรือไม่ ?"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:435
+#, kde-format
+msgid "Konqueror Integration"
+msgstr "ใช้งานร่วมกับคอนเควอร์เรอร์"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:436
+#, kde-format
+msgid "Enable"
+msgstr "เปิดใช้งาน"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:437
+#, kde-format
+msgid "Do Not Enable"
+msgstr "ไม่เปิดใช้"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:498
+#, fuzzy, kde-format
+#| msgid "Open File"
+msgctxt "@title:window"
+msgid "Open File"
+msgstr "เปิดแฟ้ม"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:500
+#, kde-format
+msgid "All Openable Files"
+msgstr "แฟ้มที่เปิดได้ทั้งหมด"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:515
+#, kde-format
+msgctxt "window title including overall download progress in percent"
+msgid "KGet - %1%"
+msgstr "ช่วยดาวน์โหลด-K :: %1%"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:563
+#, kde-format
+msgid ""
+"Some transfers are still running.\n"
+"Are you sure you want to close KGet?"
+msgstr ""
+"มีบางการถ่ายโอนข้อมูลที่กำลังทำงานอยู่\n"
+"คุณแน่ใจหรือว่าต้องการจะปิด 'ช่วยดาวน์โหลด-K' ?"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:565
+#, kde-format
+msgid "Confirm Quit"
+msgstr "ยืนยันการออก"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:593
+#, fuzzy, kde-format
+#| msgid "Export Transfers"
+msgctxt "@title:window"
+msgid "Export Transfers"
+msgstr "ส่งออกรายการถ่ายโอน"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:595
+#, kde-format
+msgid "KGet Transfer List"
+msgstr "รายการการถ่ายโอนของ KGet"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:595
+#, fuzzy, kde-format
+#| msgid "Move File"
+msgid "Text File"
+msgstr "ย้ายแฟ้ม"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:624
+#, kde-format
+msgid "Enter Group Name"
+msgstr "ป้อนชื่อกลุ่ม"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:624
+#, kde-format
+msgid "Group name:"
+msgstr "ชื่อกลุ่ม:"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:708
+#, kde-format
+msgid "Are you sure you want to delete the selected transfer?"
+msgid_plural "Are you sure you want to delete the selected transfers?"
+msgstr[0] "คุณแน่ใจหรือว่าต้องการจะลบการส่งถ่ายข้อมูลตัวที่เลือกไว้ออกไป ?"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:711 mainwindow.cpp:742
+#, kde-format
+msgid "Confirm transfer delete"
+msgstr "ยืนยันการลบการส่งถ่ายข้อมูล"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:739
+#, fuzzy, kde-format
+#| msgid "Are you sure you want to delete the selected transfer?"
+#| msgid_plural "Are you sure you want to delete the selected transfers?"
+msgid "Are you sure you want to delete the selected transfer including files?"
+msgid_plural "Are you sure you want to delete the selected transfers including files?"
+msgstr[0] "คุณแน่ใจหรือว่าต้องการจะลบการส่งถ่ายข้อมูลตัวที่เลือกไว้ออกไป ?"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:1073
+#, kde-format
+msgid "KGet has been temporarily disabled as download manager for Konqueror. If you want to disable it forever, go to Settings->Advanced and disable \"Use as download manager for Konqueror\"."
+msgstr "'ช่วยดาวน์โหลด-K' ถูกปิดการใช้งานเป็นตัวจัดการการดาวน์โหลดของคอนเควอร์เรอร์ไว้ชั่วคราว ถ้าคุณต้องการปิดความสามารถนี้ตลอดไป ให้ไปที่ การตั้งค่า -> เพิ่มเติม และปิดตัวเลือก \"ใช้เป็นตัวจัดการการดาวน์โหลดของคอนเควอร์เรอร์\""
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:1189 ui/droptarget.cpp:215
+#, kde-format
+msgid "The dropped file is a KGet Transfer List"
+msgstr "แฟ้มที่หย่อนลงมาเป็นแฟ้มรายการถ่ายโอนของ 'ช่วยดาวน์โหลด-K'"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:1191 ui/droptarget.cpp:217
+#, kde-format
+msgid "&Download"
+msgstr "&ดาวน์โหลด"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:1192 ui/droptarget.cpp:218
+#, kde-format
+msgid "&Load transfer list"
+msgstr "เ&รียกรายการการถ่ายโอน"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/btadvanceddetailswidget.cpp:53
+#: transfer-plugins/bittorrent/advanceddetails/btadvanceddetailswidget.cpp:57
+#, kde-format
+msgid "Advanced Details for %1"
+msgstr "รายละเอียดเพิ่มเติมของ %1"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/btadvanceddetailswidget.cpp:65
+#: transfer-plugins/bittorrent/advanceddetails/chunkdownloadmodel.cpp:226
+#, kde-format
+msgid "Files"
+msgstr "แฟ้มต่าง ๆ"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/btadvanceddetailswidget.cpp:73
+#, kde-format
+msgid "Trackers"
+msgstr "แทร็กเกอร์"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/btadvanceddetailswidget.cpp:76
+#, kde-format
+msgid "Webseeds"
+msgstr "เว็บปล่อยข้อมูล"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/chunkdownloadmodel.cpp:218
+#, kde-format
+msgid "Chunk"
+msgstr "ท่อนข้อมูล"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/chunkdownloadmodel.cpp:220
+#, kde-format
+msgid "Progress"
+msgstr "ความคืบหน้า"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/chunkdownloadmodel.cpp:222
+#, kde-format
+msgid "Peer"
+msgstr "เชื่อมต่อตรง"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/chunkdownloadmodel.cpp:224
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:328
+#, kde-format
+msgid "Down Speed"
+msgstr "ความเร็วดาวน์โหลด"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/chunkdownloadmodel.cpp:233
+#, kde-format
+msgid "Number of the chunk"
+msgstr "จำนวนท่อนข้อมูล"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/chunkdownloadmodel.cpp:235
+#, kde-format
+msgid "Download progress of the chunk"
+msgstr "ความคืบหน้าการดาวน์โหลดท่อนข้อมูล"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/chunkdownloadmodel.cpp:237
+#, kde-format
+msgid "Which peer we are downloading it from"
+msgstr "จุดเชื่อมต่อตรงจุดใดที่เราจะใช้ทำการดาวน์โหลดมัน"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/chunkdownloadmodel.cpp:239
+#, kde-format
+msgid "Download speed of the chunk"
+msgstr "ความเร็วของการดาวน์โหลดท่อนข้อมูล"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/chunkdownloadmodel.cpp:241
+#, kde-format
+msgid "Which files the chunk is located in"
+msgstr "แฟ้มใดที่ท่อนข้อมูลอยู่ภายใน"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#. i18n: ectx: property (windowTitle), widget (QWidget, ChunkDownloadView)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/chunkdownloadview.ui:13
+#: transfer-plugins/bittorrent/btdetailswidgetfrm.ui:163
+#, kde-format
+msgid "Chunks"
+msgstr "ท่อน"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/chunkdownloadview.ui:23
+#, kde-format
+msgid "Total:"
+msgstr "รวม:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel5)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/chunkdownloadview.ui:59
+#, kde-format
+msgid "Currently downloading:"
+msgstr "การดาวน์โหลดในปัจจุบัน:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/chunkdownloadview.ui:95
+#: transfer-plugins/bittorrent/btdetailswidgetfrm.ui:172
+#, kde-format
+msgid "Downloaded:"
+msgstr "ดาวน์โหลดแล้ว:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_4)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/chunkdownloadview.ui:131
+#: transfer-plugins/bittorrent/btdetailswidgetfrm.ui:214
+#, kde-format
+msgid "Excluded:"
+msgstr "ไม่รวม:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_4_2)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/chunkdownloadview.ui:167
+#, kde-format
+msgid "Left:"
+msgstr "คงเหลือ:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_8)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/chunkdownloadview.ui:203
+#, kde-format
+msgid "Size:"
+msgstr "ขนาด:"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/fileview.cpp:69
+#, kde-format
+msgctxt "Open file"
+msgid "Open"
+msgstr "เปิด"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/fileview.cpp:71
+#, kde-format
+msgid "Download first"
+msgstr "ดาวน์โหลดรายการแรก"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/fileview.cpp:72
+#, kde-format
+msgid "Download normally"
+msgstr "ดาวน์โหลดปกติ"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/fileview.cpp:73
+#, kde-format
+msgid "Download last"
+msgstr "ดาวน์โหลดรายการสุดท้าย"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/fileview.cpp:75
+#, kde-format
+msgid "Do Not Download"
+msgstr "ไม่ต้องดาวน์โหลด"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/fileview.cpp:76
+#, kde-format
+msgid "Delete File(s)"
+msgstr "ลบแฟ้ม"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/fileview.cpp:78
+#, kde-format
+msgid "Move File"
+msgstr "ย้ายแฟ้ม"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/fileview.cpp:80
+#, kde-format
+msgid "Collapse Folder Tree"
+msgstr "ยุบผังต้นไม้ของโฟลเดอร์"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/fileview.cpp:81
+#, kde-format
+msgid "Expand Folder Tree"
+msgstr "ขยายผังต้นไม้ของโฟลเดอร์"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/fileview.cpp:254
+#, kde-format
+msgid "You will lose all data in this file, are you sure you want to do this?"
+msgid_plural "You will lose all data in these files, are you sure you want to do this?"
+msgstr[0] "คุณจะสูญเสียข้อมูลทั้งหมดที่อยู่ในแฟ้มเหล่านี้ แน่ใจหรือว่าต้องการจะทำเช่นนี้ ?"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/fileview.cpp:268
+#: transfer-plugins/bittorrent/advanceddetails/fileview.cpp:284
+#, fuzzy, kde-format
+#| msgid "Select a directory to move the data to."
+msgid "Select a directory to move the data to"
+msgstr "เลือกไดเรกทอรีที่จะย้ายข้อมูลไปเก็บไว้"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/iwfilelistmodel.cpp:66
+#: transfer-plugins/bittorrent/advanceddetails/iwfiletreemodel.cpp:68
+#, kde-format
+msgid "Priority"
+msgstr "ความสำคัญ"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/iwfilelistmodel.cpp:68
+#: transfer-plugins/bittorrent/advanceddetails/iwfiletreemodel.cpp:70
+#, kde-format
+msgid "Preview"
+msgstr "ตัวอย่าง"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/iwfilelistmodel.cpp:71
+#: transfer-plugins/bittorrent/advanceddetails/iwfiletreemodel.cpp:73
+#, kde-format
+msgctxt "Percent of File Downloaded"
+msgid "% Complete"
+msgstr "คืบหน้า (%)"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/iwfilelistmodel.cpp:82
+#: transfer-plugins/bittorrent/advanceddetails/iwfiletreemodel.cpp:84
+#, kde-format
+msgctxt "Download first"
+msgid "First"
+msgstr "รายการแรก"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/iwfilelistmodel.cpp:85
+#: transfer-plugins/bittorrent/advanceddetails/iwfiletreemodel.cpp:87
+#, kde-format
+msgctxt "Download last"
+msgid "Last"
+msgstr "รายการสุดท้าย"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/iwfilelistmodel.cpp:91
+#, kde-format
+msgctxt "Download Normal (not as first or last)"
+msgid "Normal"
+msgstr "รายการปกติ"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/iwfilelistmodel.cpp:124
+#: transfer-plugins/bittorrent/advanceddetails/iwfilelistmodel.cpp:143
+#: transfer-plugins/bittorrent/advanceddetails/iwfiletreemodel.cpp:147
+#, kde-format
+msgctxt "Preview available"
+msgid "Available"
+msgstr "ที่มีอยู่"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/iwfilelistmodel.cpp:126
+#: transfer-plugins/bittorrent/advanceddetails/iwfilelistmodel.cpp:145
+#: transfer-plugins/bittorrent/advanceddetails/iwfiletreemodel.cpp:129
+#: transfer-plugins/bittorrent/advanceddetails/iwfiletreemodel.cpp:149
+#, kde-format
+msgctxt "Preview pending"
+msgid "Pending"
+msgstr "ยังไม่เสร็จ"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/iwfilelistmodel.cpp:128
+#: transfer-plugins/bittorrent/advanceddetails/iwfilelistmodel.cpp:147
+#: transfer-plugins/bittorrent/advanceddetails/iwfiletreemodel.cpp:131
+#: transfer-plugins/bittorrent/advanceddetails/iwfiletreemodel.cpp:151
+#, kde-format
+msgctxt "No preview available"
+msgid "No"
+msgstr "ไม่"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/iwfilelistmodel.cpp:131
+#: transfer-plugins/bittorrent/advanceddetails/iwfilelistmodel.cpp:150
+#: transfer-plugins/bittorrent/advanceddetails/iwfiletreemodel.cpp:136
+#: transfer-plugins/bittorrent/advanceddetails/iwfiletreemodel.cpp:153
+#: transfer-plugins/bittorrent/advanceddetails/iwfiletreemodel.cpp:158
+#, kde-format
+msgid "%1 %"
+msgstr "%1 %"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/iwfiletreemodel.cpp:93
+#, kde-format
+msgctxt "Download normally(not as first or last)"
+msgid "Normal"
+msgstr "ปกติ"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/iwfiletreemodel.cpp:127
+#, kde-format
+msgctxt "preview available"
+msgid "Available"
+msgstr "มีอยู่"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerview.cpp:52
+#, kde-format
+msgid "Kick Peer"
+msgstr "เตะการเชื่อมต่อตรง"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerview.cpp:53
+#, kde-format
+msgid "Ban Peer"
+msgstr "แบนการเชื่อมต่อตรง"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:146
+#, kde-format
+msgctxt "Choked"
+msgid "Yes"
+msgstr "ใช่"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:146
+#, kde-format
+msgctxt "Not choked"
+msgid "No"
+msgstr "ไม่ใช่"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:148
+#, kde-format
+msgctxt "Snubbed"
+msgid "Yes"
+msgstr "ใช่"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:148
+#, kde-format
+msgctxt "Not snubbed"
+msgid "No"
+msgstr "ไม่ใช่"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:164
+#, kde-format
+msgctxt "Interested"
+msgid "Yes"
+msgstr "ใช่"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:164
+#, kde-format
+msgctxt "Not Interested"
+msgid "No"
+msgstr "ไม่ใช่"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:166
+#, kde-format
+msgctxt "Interesting"
+msgid "Yes"
+msgstr "ใช่"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:166
+#, kde-format
+msgctxt "Not Interesting"
+msgid "No"
+msgstr "ไม่ใช่"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:324
+#, kde-format
+msgid "IP Address"
+msgstr "ที่อยู่ไอพี"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:326
+#, kde-format
+msgid "Client"
+msgstr "ไคลเอนต์"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:330
+#, kde-format
+msgid "Up Speed"
+msgstr "ความเร็วอัปโหลด"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:332
+#, kde-format
+msgid "Choked"
+msgstr ""
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:334
+#, kde-format
+msgid "Snubbed"
+msgstr ""
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:336
+#, kde-format
+msgid "Availability"
+msgstr "ที่มีอยู่"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:338
+#, kde-format
+msgid "DHT"
+msgstr ""
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:340
+#, kde-format
+msgid "Score"
+msgstr "คะแนน"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:342
+#, kde-format
+msgid "Upload Slot"
+msgstr "ช่องอัปโหลด"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:344
+#, kde-format
+msgid "Requests"
+msgstr "การร้องขอ"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:346
+#: transfer-plugins/bittorrent/advanceddetails/webseedsmodel.cpp:124
+#, kde-format
+msgid "Downloaded"
+msgstr "ดาวน์โหลดแล้ว"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:348
+#, kde-format
+msgid "Uploaded"
+msgstr "อัปโหลดแล้ว"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:350
+#, kde-format
+msgid "Interested"
+msgstr ""
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:352
+#, fuzzy, kde-format
+#| msgid "Integration"
+msgid "Interesting"
+msgstr "การใช้งานร่วม"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:359
+#, kde-format
+msgid "IP address of the peer"
+msgstr "เลขไอพีของจุดเชื่อมต่อตรง"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:361
+#, kde-format
+msgid "Which client the peer is using"
+msgstr "โปรแกรมไคลเอนต์ที่จุดเชื่อมต่อตรงใช้งานอยู่"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:363
+#, kde-format
+msgid "Download speed"
+msgstr "ความเร็วการดาวน์โหลด"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:365
+#, kde-format
+msgid "Upload speed"
+msgstr "ความเร็วการอัปโหลด"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:367
+#, kde-format
+msgid "Whether or not the peer has choked us. If we are choked, the peer will not send us any data."
+msgstr ""
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:369
+#, kde-format
+msgid "Snubbed means the peer has not sent us any data in the last 2 minutes"
+msgstr ""
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:371
+#, kde-format
+msgid "How much of the torrent's data the peer has"
+msgstr "จุดเชื่อมต่อตรงมีข้อมูลของทอร์เรนท์อยู่เท่าไร"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:373
+#, kde-format
+msgid "Whether or not the peer has DHT enabled"
+msgstr ""
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:375
+#, kde-format
+msgid "The score of the peer. KTorrent uses this to determine who to upload to."
+msgstr ""
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:377
+#, kde-format
+msgid "Only peers which have an upload slot will get data from us"
+msgstr ""
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:379
+#, kde-format
+msgid "The number of download and upload requests"
+msgstr "จำนวนของการดาวน์โหลดและการอัปโหลดที่ร้องขอ"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:381
+#, kde-format
+msgid "How much data we have downloaded from this peer"
+msgstr "จำนวนของข้อมูลที่เราได้ดาวน์โหลดมาจากจุดเชื่อมต่อตรงนี้มีจำนวนเท่าไร"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:383
+#, kde-format
+msgid "How much data we have uploaded to this peer"
+msgstr "จำนวนของข้อมูลที่เราได้อัปโหลดไปให้จุดเชื่อมต่อตรงนี้มีจำนวนเท่าไร"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:385
+#, kde-format
+msgid "Whether the peer is interested in downloading data from us"
+msgstr ""
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:387
+#, kde-format
+msgid "Whether we are interested in downloading from this peer"
+msgstr ""
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/torrentfilelistmodel.cpp:71
+#: transfer-plugins/bittorrent/advanceddetails/torrentfiletreemodel.cpp:339
+#, kde-format
+msgid "File"
+msgstr "แฟ้ม"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, rangeType)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/torrentfilelistmodel.cpp:73
+#: transfer-plugins/bittorrent/advanceddetails/torrentfiletreemodel.cpp:341
+#: ui/history/transferhistory.ui:90
+#, kde-format
+msgid "Size"
+msgstr "ขนาด"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/trackermodel.cpp:134
+#, kde-format
+msgid "Url"
+msgstr "ที่อยู่ Url"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/trackermodel.cpp:136
+#: transfer-plugins/bittorrent/advanceddetails/webseedsmodel.cpp:126
+#: ui/history/transferhistory.cpp:247
+#, kde-format
+msgid "Status"
+msgstr "สถานะ"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/trackermodel.cpp:138
+#, kde-format
+msgid "Seeders"
+msgstr "ผู้ปล่อยข้อมูล"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/trackermodel.cpp:140
+#, kde-format
+msgid "Leechers"
+msgstr "ผู้ดึงข้อมูล"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/trackermodel.cpp:142
+#, kde-format
+msgid "Times Downloaded"
+msgstr "เวลาที่ใช้ดาวน์โหลดมาแล้ว"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/trackermodel.cpp:144
+#, kde-format
+msgid "Next Update"
+msgstr "ปรับปรุงครั้งต่อไป"
+
+#. i18n: ectx: property (text), widget (QPushButton, m_add_tracker)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/trackerview.cpp:84
+#: transfer-plugins/bittorrent/advanceddetails/trackerview.ui:21
+#, kde-format
+msgid "Add Tracker"
+msgstr "เพิ่มแทร็กเกอร์"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/trackerview.cpp:84
+#, kde-format
+msgid "Enter the URL of the tracker:"
+msgstr "ป้อนที่อยู่ URL ของแทร็กเกอร์:"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/trackerview.cpp:97
+#, kde-format
+msgid "There already is a tracker named <b>%1</b>."
+msgstr "มีแทร็กเกอร์ที่ชื่อ <b>%1</b> อยู่แล้ว"
+
+#. i18n: ectx: property (text), widget (QPushButton, m_remove_tracker)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/trackerview.ui:28
+#, kde-format
+msgid "Remove Tracker"
+msgstr "ลบแทร็กเกอร์"
+
+#. i18n: ectx: property (text), widget (QPushButton, m_change_tracker)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/trackerview.ui:35
+#, kde-format
+msgid "Change Tracker"
+msgstr "เปลี่ยนแทร็กเกอร์"
+
+#. i18n: ectx: property (text), widget (QPushButton, m_scrape)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/trackerview.ui:42
+#, kde-format
+msgid "Update Trackers"
+msgstr "ปรับปรุงแทร็กเกอร์"
+
+#. i18n: ectx: property (text), widget (QPushButton, m_restore_defaults)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/trackerview.ui:62
+#, kde-format
+msgid "Restore Defaults"
+msgstr "กลับไปใช้ค่าปริยาย"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, enginesTreeWidget)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/webseedsmodel.cpp:120
+#: transfer-plugins/mirrorsearch/dlgmirrorsearch.ui:32
+#: ui/linkview/kget_linkview.cpp:91
+#, kde-format
+msgid "URL"
+msgstr "ที่อยู่ URL"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/webseedsmodel.cpp:122
+#, kde-format
+msgid "Speed"
+msgstr "ความเร็ว"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/webseedstab.cpp:94
+#, kde-format
+msgid "Cannot add the webseed %1, it is already part of the list of webseeds."
+msgstr "ไม่สามารถเพิ่มเว็บปล่อยข้อมูล %1 ได้ เนื่องจากมันอยู่เป็นส่วนหนึ่งของรายการเว็บซีดอยู่แล้ว"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/webseedstab.cpp:109
+#, kde-format
+msgid "Cannot remove webseed %1, it is part of the torrent."
+msgstr "ไม่สามารถลบเว็บปล่อยข้อมูล %1 ออกได้ เนื่องจากมันอยู่เป็นส่วนหนึ่งของทอร์เรนต์"
+
+#. i18n: ectx: property (toolTip), widget (KLineEdit, m_webseed)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/webseedstab.ui:21
+#, kde-format
+msgid ""
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Bitstream Vera Sans'; font-size:8pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Webseed to add to the torrent.</p>"
+"\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"></p>"
+"\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-weight:600;\">Note: </span>Only http webseeds are supported.</p>"
+"</body></html>"
+msgstr ""
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Bitstream Vera Sans'; font-size:8pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">เว็บปล่อยข้อมูลที่จะเพิ่มไปยังทอร์เรนต์</p>"
+"\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"></p>"
+"\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-weight:600;\">ข้อควรทราบ: </span>รองรับเฉพาะเว็บปล่อยข้อมูลแบบ http เท่านั้น</p>"
+"</body></html>"
+
+#. i18n: ectx: property (text), widget (QPushButton, m_add)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/webseedstab.ui:28
+#, kde-format
+msgid "Add Webseed"
+msgstr "เพิ่มเว็บปล่อยข้อมูล"
+
+#. i18n: ectx: property (text), widget (QPushButton, m_remove)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/advanceddetails/webseedstab.ui:50
+#, kde-format
+msgid "Remove Webseed"
+msgstr "ลบเว็บปล่อยข้อมูล"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/btdetailswidgetfrm.ui:30
+#, kde-format
+msgid "Stats"
+msgstr "สถิติ"
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/btdetailswidgetfrm.ui:49
+#, kde-format
+msgid "Seeders:"
+msgstr "ผู้ปล่อยข้อมูล:"
+
+#. i18n: ectx: property (text), widget (QLabel, seederLabel)
+#. i18n: ectx: property (text), widget (QLabel, dlSpeedLabel)
+#. i18n: ectx: property (text), widget (QLabel, leecherLabel)
+#. i18n: ectx: property (text), widget (QLabel, ulSpeedLabel)
+#. i18n: ectx: property (text), widget (QLabel, chunksDownloadedLabel)
+#. i18n: ectx: property (text), widget (QLabel, chunksLeftLabel)
+#. i18n: ectx: property (text), widget (QLabel, chunksAllLabel)
+#. i18n: ectx: property (text), widget (QLabel, chunksExcludedLabel)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/btdetailswidgetfrm.ui:63
+#: transfer-plugins/bittorrent/btdetailswidgetfrm.ui:91
+#: transfer-plugins/bittorrent/btdetailswidgetfrm.ui:119
+#: transfer-plugins/bittorrent/btdetailswidgetfrm.ui:147
+#: transfer-plugins/bittorrent/btdetailswidgetfrm.ui:179
+#: transfer-plugins/bittorrent/btdetailswidgetfrm.ui:193
+#: transfer-plugins/bittorrent/btdetailswidgetfrm.ui:207
+#: transfer-plugins/bittorrent/btdetailswidgetfrm.ui:221
+#, kde-format
+msgid "<n>"
+msgstr "<n>"
+
+#. i18n: ectx: property (text), widget (QLabel, label_9)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/btdetailswidgetfrm.ui:77
+#, kde-format
+msgid "Download speed:"
+msgstr "ความเร็วการดาวน์โหลด:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/btdetailswidgetfrm.ui:105
+#, kde-format
+msgid "Leechers:"
+msgstr "ผู้ดึงข้อมูล:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_10)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/btdetailswidgetfrm.ui:133
+#, kde-format
+msgid "Upload speed:"
+msgstr "ความเร็วการอัปโหลด:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/btdetailswidgetfrm.ui:186
+#, kde-format
+msgctxt "chunks left"
+msgid "Left:"
+msgstr "คงเหลือ:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/btdetailswidgetfrm.ui:200
+#, kde-format
+msgctxt "all chunks"
+msgid "All:"
+msgstr "ทั้งหมด:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_11)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/btdetailswidgetfrm.ui:249
+#, kde-format
+msgctxt "source-file"
+msgid "Source:"
+msgstr "ต้นทาง:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. i18n: ectx: property (text), widget (QLabel, destLabel)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/btdetailswidgetfrm.ui:256
+#: ui/transferdetailsfrm.ui:44
+#, kde-format
+msgid "Saving to:"
+msgstr "บันทึกไปยัง:"
+
+#. i18n: ectx: property (format), widget (QProgressBar, progress)
+#. i18n: ectx: property (format), widget (QProgressBar, progressBar)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/btdetailswidgetfrm.ui:268
+#: transfer-plugins/bittorrent/scandlg.ui:155
+#: ui/linkview/importlinkdialog.ui:167 ui/metalinkcreator/files.ui:85
+#: ui/transferdetailsfrm.ui:83 ui/verificationdialog.ui:81
+#, no-c-format, kde-format
+msgid "%p%"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, uploadLimitLabel)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/btsettingswidget.ui:49
+#, kde-format
+msgid "Upload limit per transfer:"
+msgstr "จำกัดการอัปโหลดของแต่ละการถ่ายโอน:"
+
+#. i18n: ectx: property (specialValueText), widget (QSpinBox, uploadBox)
+#. i18n: ectx: property (specialValueText), widget (QSpinBox, downloadBox)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/btsettingswidget.ui:56
+#: transfer-plugins/bittorrent/btsettingswidget.ui:76
+#, kde-format
+msgid "No Limit"
+msgstr "ไม่จำกัด"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, uploadBox)
+#. i18n: ectx: property (suffix), widget (QSpinBox, downloadBox)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/btsettingswidget.ui:59
+#: transfer-plugins/bittorrent/btsettingswidget.ui:79
+#, kde-format
+msgid "KiB"
+msgstr " กิโลไบต์"
+
+#. i18n: ectx: property (text), widget (QLabel, downloadLabel)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/btsettingswidget.ui:69
+#, kde-format
+msgid "Download limit per transfer:"
+msgstr "จำกัดการดาวน์โหลดของแต่ละการถ่ายโอน:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, utpBox)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/btsettingswidget.ui:89
+#, fuzzy, kde-format
+#| msgid "Enable popup tooltip"
+msgid "Enable UTP protocol"
+msgstr "เปิดใช้งานหน้าต่างผุดแสดงทูลทิป"
+
+#. i18n: ectx: property (title), widget (QGroupBox, folderGroupBox)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/btsettingswidget.ui:105
+#, kde-format
+msgid "Folders"
+msgstr "โฟลเดอร์ต่าง ๆ"
+
+#. i18n: ectx: property (text), widget (QLabel, torrentFolderLabel)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/btsettingswidget.ui:117
+#, kde-format
+msgid "Default torrent folder:"
+msgstr "โฟลเดอร์ทอร์เรนต์ปริยาย:"
+
+#. i18n: ectx: property (text), widget (QLabel, tempFolderLabel)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/btsettingswidget.ui:134
+#, fuzzy, kde-format
+#| msgid "Default temporary folder"
+msgid "Default temporary folder:"
+msgstr "โฟลเดอร์ชั่วคราวปริยาย"
+
+#. i18n: ectx: property (text), widget (QCheckBox, preallocBox)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/btsettingswidget.ui:151
+#, kde-format
+msgid "Pre-allocate disk space"
+msgstr "จองเนื้อที่บนดิสก์ไว้ก่อน"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/bttransfer.cpp:126
+#, fuzzy, kde-format
+#| msgid "Select a default torrent folder"
+msgctxt "@title"
+msgid "Select a New Torrent File"
+msgstr "เลือกโฟลเดอร์ทอร์เรนต์ปริยาย"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/bttransfer.cpp:158
+#, kde-format
+msgid "Downloading Torrent File...."
+msgstr "กำลังดาวน์โหลดแฟ้มทอร์เรนต์..."
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/bttransfer.cpp:198
+#: transfer-plugins/bittorrent/bttransfer.cpp:295
+#, kde-format
+msgctxt "transfer state: downloading"
+msgid "Downloading...."
+msgstr "กำลังดาวน์โหลด..."
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/bttransfer.cpp:269
+#, kde-format
+msgid "Cannot add a tracker to a private torrent."
+msgstr "ไม่สามารถเพิ่มแทร็กเกอร์ไปยังทอร์เรนต์ส่วนตัวได้"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/bttransfer.cpp:410
+#, fuzzy, kde-format
+#| msgid "The directory %1 does not exist"
+msgid "Torrent file does not exist"
+msgstr "ยังไม่มีไดเรกทอรี %1 อยู่"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/bttransfer.cpp:417
+#, kde-format
+msgid "Analyzing torrent...."
+msgstr "กำลังวิเคราะห์แฟ้มทอร์เรนต์..."
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/bttransfer.cpp:433
+#, kde-format
+msgid "Cannot initialize port..."
+msgstr ""
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/bttransfer.cpp:503
+#, kde-format
+msgctxt "Transfer status: seeding"
+msgid "Seeding...."
+msgstr "กำลังปล่อยข้อมูล.."
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/bttransferfactory.cpp:32
+#, kde-format
+msgid "Cannot initialize libktorrent. Torrent support might not work."
+msgstr ""
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/bttransferfactory.cpp:75
+#, kde-format
+msgid "&Advanced Details"
+msgstr "รายละเอียดเ&พิ่มเติม"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/bttransferfactory.cpp:81
+#, kde-format
+msgid "&Scan Files"
+msgstr "&สแกนแฟ้มต่าง ๆ"
+
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/scandlg.cpp:107
+#, kde-format
+msgid "Error scanning data: %1"
+msgstr "ผิดพลาดในการสแกนข้อมูล: %1"
+
+#. i18n: ectx: property (text), widget (QLabel, torrent_label)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/scandlg.ui:17
+#, kde-format
+msgid "Scanning data of torrent:"
+msgstr "กำลังตรวจข้อมูลของทอร์เรนต์:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/scandlg.ui:31
+#, kde-format
+msgid "Number of chunks found:"
+msgstr "จำนวนท่อนข้อมูลที่พบ:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/scandlg.ui:41
+#, kde-format
+msgid "Number of chunks failed:"
+msgstr "จำนวนท่อนข้อมูลที่ล้มเหลว:"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/scandlg.ui:51
+#, kde-format
+msgid "Number of chunks not downloaded:"
+msgstr "จำนวนท่อนข้อมูลที่ยังไม่ได้ดาวน์โหลด:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/scandlg.ui:58
+#, kde-format
+msgid "Number of chunks downloaded:"
+msgstr "จำนวนท่อนข้อมูลที่ดาวน์โหลดแล้ว:"
+
+#. i18n: ectx: property (text), widget (QLabel, chunks_found)
+#. i18n: ectx: property (text), widget (QLabel, chunks_failed)
+#. i18n: ectx: property (text), widget (QLabel, chunks_not_downloaded)
+#. i18n: ectx: property (text), widget (QLabel, chunks_downloaded)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/scandlg.ui:78
+#: transfer-plugins/bittorrent/scandlg.ui:103
+#: transfer-plugins/bittorrent/scandlg.ui:125
+#: transfer-plugins/bittorrent/scandlg.ui:138
+#, kde-format
+msgid "0"
+msgstr "0"
+
+#. i18n: ectx: property (text), widget (QPushButton, cancel)
+#. +> trunk6 stable6
+#: transfer-plugins/bittorrent/scandlg.ui:187
+#, kde-format
+msgid "Cancel"
+msgstr "ยกเลิก"
+
+#. +> trunk6 stable6
+#: transfer-plugins/checksumsearch/checksumsearch.cpp:31
+#, kde-format
+msgid "Append"
+msgstr "เขียนต่อท้าย"
+
+#. +> trunk6 stable6
+#: transfer-plugins/checksumsearch/checksumsearch.cpp:31
+#, kde-format
+msgid "Replace file"
+msgstr "เขียนทับแฟ้ม"
+
+#. +> trunk6 stable6
+#: transfer-plugins/checksumsearch/checksumsearch.cpp:31
+#, kde-format
+msgid "Replace file-ending"
+msgstr "เขียนทับส่วนท้ายแฟ้ม"
+
+#. i18n: ectx: property (text), widget (QLabel, label_1)
+#. +> trunk6 stable6
+#: transfer-plugins/checksumsearch/checksumsearchadddlg.ui:19
+#, kde-format
+msgid "Change string:"
+msgstr "เปลี่ยนข้อความ:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> trunk6 stable6
+#: transfer-plugins/checksumsearch/checksumsearchadddlg.ui:33
+#, kde-format
+msgid "Mode:"
+msgstr "โหมด:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. +> trunk6 stable6
+#: transfer-plugins/checksumsearch/checksumsearchadddlg.ui:43
+#, kde-format
+msgid "Checksum type:"
+msgstr "ประเภทของผลรวมการตรวจสอบ:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#. +> trunk6 stable6
+#: transfer-plugins/checksumsearch/checksumsearchadddlg.ui:77
+#, kde-format
+msgid "Result:"
+msgstr "ผลลัพธ์:"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: transfer-plugins/checksumsearch/checksumsearchadddlg.ui:84
+#, kde-format
+msgid "label"
+msgstr "ป้าย"
+
+#. +> trunk6 stable6
+#: transfer-plugins/checksumsearch/dlgchecksumsearch.cpp:44
+#, kde-format
+msgid "Add item"
+msgstr "เพิ่มรายการ"
+
+#. +> trunk6 stable6
+#: transfer-plugins/checksumsearch/dlgchecksumsearch.cpp:70
+#, kde-format
+msgid "%1 would become %2"
+msgstr "%1 จะกลายเป็น %2"
+
+#. +> trunk6 stable6
+#: transfer-plugins/checksumsearch/dlgchecksumsearch.cpp:177
+#, kde-format
+msgctxt "the string that is used to modify an url"
+msgid "Change string"
+msgstr "เปลี่ยนข้อความ"
+
+#. +> trunk6 stable6
+#: transfer-plugins/checksumsearch/dlgchecksumsearch.cpp:178
+#, kde-format
+msgctxt "the mode defines how the url should be changed"
+msgid "Change mode"
+msgstr "เปลี่ยนโหมด"
+
+#. +> trunk6 stable6
+#: transfer-plugins/checksumsearch/dlgchecksumsearch.cpp:179
+#, kde-format
+msgctxt "the type of the checksum e.g. md5"
+msgid "Checksum type"
+msgstr "ประเภทของผลรวมการตรวจสอบ"
+
+#. i18n: ectx: label, entry (SearchStrings), group (ChecksumSearch)
+#. i18n: ectx: label, entry (SearchEnginesNameList), group (SearchEngines)
+#. +> trunk6 stable6
+#: transfer-plugins/checksumsearch/kget_checksumsearchfactory.kcfg:9
+#: transfer-plugins/mirrorsearch/kget_mirrorsearchfactory.kcfg:12
+#, kde-format
+msgid "List of the available search engines"
+msgstr "รายการของบริการค้นหาที่มีให้เลือกใช้"
+
+#. i18n: ectx: label, entry (UrlChangeModeList), group (ChecksumSearch)
+#. i18n: ectx: label, entry (ChecksumTypeList), group (ChecksumSearch)
+#. i18n: ectx: label, entry (SearchEnginesUrlList), group (SearchEngines)
+#. +> trunk6 stable6
+#: transfer-plugins/checksumsearch/kget_checksumsearchfactory.kcfg:13
+#: transfer-plugins/checksumsearch/kget_checksumsearchfactory.kcfg:17
+#: transfer-plugins/mirrorsearch/kget_mirrorsearchfactory.kcfg:16
+#, kde-format
+msgid "List of the available search engine URLs"
+msgstr "รายการของที่อยู่ URL ของบริการค้นที่มีให้เลือกใช้"
+
+#. +> trunk6 stable6
+#: transfer-plugins/kio/transferKio.cpp:101
+#, kde-format
+msgctxt "transfer state: connecting"
+msgid "Connecting...."
+msgstr "กำลังเชื่อมต่อ..."
+
+#. +> trunk6 stable6
+#: transfer-plugins/kio/transferKio.cpp:273
+#: transfer-plugins/multisegmentkio/transfermultisegkio.cpp:260
+#, kde-format
+msgid "The download (%1) could not be verified. Do you want to repair it?"
+msgstr "ไม่สามารถตรวจความถูกต้องของการดาวน์โหลด (%1) ได้ คุณต้องการจะซ่อมแซมมันหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: transfer-plugins/kio/transferKio.cpp:274
+#: transfer-plugins/metalink/abstractmetalink.cpp:218
+#: transfer-plugins/metalink/metalink.cpp:456
+#: transfer-plugins/metalink/metalinkhttp.cpp:159
+#: transfer-plugins/multisegmentkio/transfermultisegkio.cpp:261
+#, kde-format
+msgctxt "@action:button"
+msgid "Repair"
+msgstr ""
+
+#. +> trunk6 stable6
+#: transfer-plugins/kio/transferKio.cpp:276
+#: transfer-plugins/multisegmentkio/transfermultisegkio.cpp:263
+#, kde-format
+msgid "The download (%1) could not be verified. Do you want to redownload it?"
+msgstr "ไม่สามารถตรวจความถูกต้องของการดาวน์โหลด (%1) ได้ คุณต้องการจะดาวน์โหลดมันใหม่หรือไม่ ?"
+
+#. +> trunk6 stable6
+#: transfer-plugins/kio/transferKio.cpp:279
+#: transfer-plugins/multisegmentkio/transfermultisegkio.cpp:266
+#, kde-format
+msgid "Verification failed."
+msgstr "การตรวจความถูกต้องล้มเหลว"
+
+#. +> trunk6 stable6
+#: transfer-plugins/kio/transferKio.cpp:279
+#: transfer-plugins/multisegmentkio/transfermultisegkio.cpp:266
+#, kde-format
+msgid "Ignore"
+msgstr ""
+
+#. +> trunk6 stable6
+#: transfer-plugins/metalink/abstractmetalink.cpp:215
+#: transfer-plugins/metalink/metalink.cpp:453
+#, kde-format
+msgid "The download could not be verified, do you want to repair (if repairing does not work the download would be restarted) it?"
+msgstr "ไม่สามารถตรวจความถูกต้องของการดาวน์โหลดได้ คุณต้องการจะซ่อมแซมมันหรือไม่ (หากการซ่อมแซมยังไม่ได้ผล จะทำการดาวน์โหลดใหม่อีกครั้ง) ?"
+
+#. +> trunk6 stable6
+#: transfer-plugins/metalink/abstractmetalink.cpp:219
+#: transfer-plugins/metalink/metalink.cpp:118
+#: transfer-plugins/metalink/metalink.cpp:457
+#: transfer-plugins/metalink/metalinkhttp.cpp:160
+#: transfer-plugins/metalink/metalinkxml.cpp:114
+#, kde-format
+msgctxt "@action:button"
+msgid "Ignore"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: transfer-plugins/metalink/dlgmetalink.ui:22
+#, kde-format
+msgid "Number of simultaneous file downloads:"
+msgstr "จำนวนของการดาวน์โหลดพร้อม ๆ กัน:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> trunk6 stable6
+#: transfer-plugins/metalink/dlgmetalink.ui:39
+#, kde-format
+msgid "Number of mirrors per file:"
+msgstr "จำนวนของมิเรอร์ต่าง ๆ ต่อหนึ่งแฟ้ม:"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. +> trunk6 stable6
+#: transfer-plugins/metalink/dlgmetalink.ui:56
+#: transfer-plugins/mmsthreads/dlgmms.ui:22
+#: transfer-plugins/multisegmentkio/dlgmultisegkio.ui:22
+#, kde-format
+msgid "Number of connections per URL:"
+msgstr "จำนวนของการเชื่อมต่อต่อหนึ่งที่อยู่ URL:"
+
+#. i18n: ectx: property (text), widget (KTitleWidget, ktitlewidget)
+#. +> trunk6 stable6
+#: transfer-plugins/metalink/fileselection.ui:17
+#, kde-format
+msgid "Select the files you want to be downloaded."
+msgstr "เลือกแฟ้มต่าง ๆ ที่คุณต้องการจะทำการดาวน์โหลด"
+
+#. +> trunk6 stable6
+#: transfer-plugins/metalink/fileselectiondlg.cpp:35
+#, kde-format
+msgid "File Selection"
+msgstr "การเลือกแฟ้ม"
+
+#. +> trunk6 stable6
+#: transfer-plugins/metalink/metalink.cpp:76
+#: transfer-plugins/metalink/metalinkxml.cpp:72
+#, fuzzy, kde-format
+#| msgid "Downloading Torrent-File.."
+msgid "Downloading Metalink File...."
+msgstr "กำลังดาวน์โหลดแฟ้มทอร์เรนต์..."
+
+#. +> trunk6 stable6
+#: transfer-plugins/metalink/metalink.cpp:115
+#: transfer-plugins/metalink/metalinkxml.cpp:111
+#, fuzzy, kde-format
+#| msgid "The key to verify the signature is missing, do you want to download it?"
+msgid "A newer version of this Metalink might exist, do you want to download it?"
+msgstr "กุญแจสำหรับใช้ในการตรวจความถูกต้องของลายเซ็นหายไป คุณต้องการจะทำการดาวน์โหลดกุญแจหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: transfer-plugins/metalink/metalink.cpp:116
+#: transfer-plugins/metalink/metalinkxml.cpp:112
+#, fuzzy, kde-format
+#| msgctxt "redownload selected transfer item"
+#| msgid "Redownload Selected"
+msgid "Redownload Metalink"
+msgstr "ดาวน์โหลดที่เลือกใหม่อีกครั้ง"
+
+#. +> trunk6 stable6
+#: transfer-plugins/metalink/metalink.cpp:194
+#: transfer-plugins/metalink/metalinkhttp.cpp:240
+#: transfer-plugins/metalink/metalinkxml.cpp:190
+#, kde-format
+msgid "Download failed, no working URLs were found."
+msgstr "การดาวน์โหลดล้มเหลว ไม่พบที่อยู่ URL ที่ทำงานได้"
+
+#. +> trunk6 stable6
+#: transfer-plugins/metalink/metalinkhttp.cpp:156
+#, fuzzy, kde-format
+#| msgid "The download (%1) could not be verified. Do you want to repair it?"
+msgid "The download could not be verified, try to repair it?"
+msgstr "ไม่สามารถตรวจความถูกต้องของการดาวน์โหลด (%1) ได้ คุณต้องการจะซ่อมแซมมันหรือไม่ ?"
+
+#. i18n: ectx: property (text), widget (QLabel, engineNameLabel)
+#. +> trunk6 stable6
+#: transfer-plugins/mirrorsearch/dlgengineediting.ui:16
+#: transfer-plugins/mirrorsearch/dlgmirrorsearch.cpp:44
+#, kde-format
+msgid "Engine name:"
+msgstr "ชื่อของบริการค้นหา:"
+
+#. i18n: ectx: property (text), widget (QLabel, urlLabel)
+#. i18n: ectx: property (text), widget (QLabel, label_21)
+#. +> trunk6 stable6
+#: transfer-plugins/mirrorsearch/dlgengineediting.ui:30
+#: transfer-plugins/mirrorsearch/dlgmirrorsearch.cpp:45
+#: ui/metalinkcreator/commondata.ui:170 ui/newtransferwidget.ui:23
+#, kde-format
+msgid "URL:"
+msgstr "ที่อยู่ URL:"
+
+#. +> trunk6 stable6
+#: transfer-plugins/mirrorsearch/dlgmirrorsearch.cpp:34
+#, kde-format
+msgid "Insert Engine"
+msgstr "แทรกบริการค้นหา"
+
+#. i18n: ectx: property (text), widget (KTitleWidget, ktitlewidget)
+#. +> trunk6 stable6
+#: transfer-plugins/mirrorsearch/dlgmirrorsearch.ui:16
+#, kde-format
+msgid "Search Engines"
+msgstr "บริการค้นหา"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, enginesTreeWidget)
+#. +> trunk6 stable6
+#: transfer-plugins/mirrorsearch/dlgmirrorsearch.ui:27
+#, kde-format
+msgid "Engine Name"
+msgstr "ชื่อของบริการค้นหา"
+
+#. i18n: ectx: property (text), widget (QPushButton, newEngineBt)
+#. +> trunk6 stable6
+#: transfer-plugins/mirrorsearch/dlgmirrorsearch.ui:55
+#, kde-format
+msgid "New Engine..."
+msgstr "บริการค้นหาตัวใหม่..."
+
+#. i18n: ectx: property (text), widget (QPushButton, removeEngineBt)
+#. +> trunk6 stable6
+#: transfer-plugins/mirrorsearch/dlgmirrorsearch.ui:62
+#, kde-format
+msgid "Remove"
+msgstr "เอาออก"
+
+#. +> trunk6 stable6
+#: transfer-plugins/mmsthreads/mmstransfer.cpp:57
+#, kde-format
+msgctxt "transfer state: running"
+msgid "Running...."
+msgstr "กำลังทำงานอยู่..."
+
+#. +> trunk6 stable6
+#: transfer-plugins/mmsthreads/mmstransfer.cpp:116
+#, fuzzy, kde-format
+#| msgctxt "transfer state: finished"
+#| msgid "Finished"
+msgctxt "Transfer State:Finished"
+msgid "Finished"
+msgstr "เสร็จสิ้น"
+
+#. +> trunk6 stable6
+#: transfer-plugins/mmsthreads/mmstransfer.cpp:162
+#, kde-format
+msgid "Download failed, could not access this URL."
+msgstr ""
+
+#. +> trunk6 stable6
+#: transfer-plugins/mmsthreads/mmstransfer.cpp:173
+#, kde-format
+msgid ""
+"This URL does not allow multiple connections,\n"
+"the download will take longer."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, enginesCheckBox)
+#. +> trunk6 stable6
+#: transfer-plugins/multisegmentkio/dlgmultisegkio.ui:44
+#, kde-format
+msgid "Use search engines"
+msgstr "ใช้บริการค้นหา"
+
+#. i18n: ectx: property (text), widget (QCheckBox, verificationCheckBox)
+#. +> trunk6 stable6
+#: transfer-plugins/multisegmentkio/dlgmultisegkio.ui:51
+#, kde-format
+msgid "Search for verification information"
+msgstr "ค้นหาข้อมูลการตรวจสอบความถูกต้อง"
+
+#. +> trunk6 stable6
+#: transfer-plugins/multisegmentkio/segment.cpp:287
+#, fuzzy, kde-format
+#| msgid "Failed to write to file %1 : %2"
+msgid "Failed to write to the file."
+msgstr "ล้มเหลวในการเขียนไปยังแฟ้ม %1 : %2"
+
+#. +> trunk6 stable6
+#: ui/contextmenu.cpp:115
+#, kde-format
+msgid "Delete Group"
+msgid_plural "Delete Groups"
+msgstr[0] "ลบกลุ่มต่าง ๆ"
+
+#. +> trunk6 stable6
+#: ui/contextmenu.cpp:119
+#, kde-format
+msgid "Rename Group..."
+msgid_plural "Rename Groups..."
+msgstr[0] "เปลี่ยนชื่อกลุ่มต่าง ๆ ..."
+
+#. +> trunk6 stable6
+#: ui/droptarget.cpp:88
+#, kde-format
+msgctxt "fix position for droptarget"
+msgid "Sticky"
+msgstr "ปักหมุด"
+
+#. +> trunk6 stable6
+#: ui/droptarget.cpp:262
+#, kde-format
+msgid "Show Main Window"
+msgstr "แสดงหน้าต่างหลัก"
+
+#. +> trunk6 stable6
+#: ui/droptarget.cpp:262
+#, kde-format
+msgid "Hide Main Window"
+msgstr "ซ่อนหน้าต่างหลัก"
+
+#. +> trunk6 stable6
+#: ui/droptarget.cpp:343
+#, kde-format
+msgid "Drop Target"
+msgstr "ไอคอน หย่อนเพื่อดาวน์โหลด"
+
+#. +> trunk6 stable6
+#: ui/droptarget.cpp:343
+#, kde-format
+msgid "You can drag download links into the drop target."
+msgstr "คุณสามารถลากที่อยู่เชื่อมโยงที่ต้องการดาวน์โหลดมาหย่อนไว้ที่ไอคอน หย่อนเพื่อดาวน์โหลดได้"
+
+#. +> trunk6 stable6
+#: ui/droptarget.cpp:388
+#, kde-format
+msgctxt "%1 filename, %2 total size, %3 status"
+msgid "%1(%2) %3"
+msgstr "%1(%2) %3"
+
+#. +> trunk6 stable6
+#: ui/droptarget.cpp:395
+#, kde-format
+msgctxt "%1 filename, %2 percent complete, %3 downloaded out of %4 total size"
+msgid "%1(%2% %3/%4) Speed:%5/s"
+msgstr "%1(%2% %3/%4) ความเร็ว:%5/s"
+
+#. +> trunk6 stable6
+#: ui/droptarget.cpp:404
+#, kde-format
+msgctxt "%1 filename, %2 percent complete, %3 downloaded out of %4 total size, %5 status"
+msgid "%1(%2% %3/%4) %5"
+msgstr "%1(%2% %3/%4) %5"
+
+#. +> trunk6 stable6
+#: ui/droptarget.cpp:418
+#, kde-format
+msgid "Ready"
+msgstr "พร้อม"
+
+#. +> trunk6 stable6
+#: ui/groupsettingsdialog.cpp:19
+#, kde-format
+msgid "Group Settings for %1"
+msgstr "การตั้งค่ากลุ่มของ %1"
+
+#. i18n: ectx: property (text), widget (KTitleWidget, ktitlewidget)
+#. +> trunk6 stable6
+#: ui/groupsettingsdialog.ui:32
+#, kde-format
+msgid "Group Settings"
+msgstr "ตั้งค่าต่าง ๆ ของกลุ่ม"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: ui/groupsettingsdialog.ui:44
+#, fuzzy, kde-format
+#| msgid "Default folder:"
+msgid "Defau&lt folder:"
+msgstr "โฟลเดอร์ปริยาย:"
+
+#. i18n: ectx: property (toolTip), widget (QLabel, label_2)
+#. +> trunk6 stable6
+#: ui/groupsettingsdialog.ui:61
+#, kde-format
+msgid "Moves all transfers with the regular expression to this group"
+msgstr "ย้ายการถ่ายโอนทั้งหมดที่เข้าคู่กับเงื่อนไขการค้นหาไปยังกลุ่มนี้"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> trunk6 stable6
+#: ui/groupsettingsdialog.ui:64
+#, fuzzy, kde-format
+#| msgid "Regular expression:"
+msgid "Re&gular expression:"
+msgstr "เงื่อนไขการค้นหา:"
+
+#. i18n: ectx: property (placeholderText), widget (KLineEdit, regExpEdit)
+#. +> trunk6 stable6
+#: ui/groupsettingsdialog.ui:74
+#, kde-format
+msgid "*movies*"
+msgstr "*ภาพยนตร์*"
+
+#. i18n: ectx: property (specialValueText), widget (QSpinBox, downloadBox)
+#. i18n: ectx: property (specialValueText), widget (QSpinBox, uploadBox)
+#. i18n: ectx: property (specialValueText), widget (QSpinBox, uploadSpin)
+#. i18n: ectx: property (specialValueText), widget (QSpinBox, downloadSpin)
+#. i18n: ectx: property (specialValueText), widget (QDoubleSpinBox, ratioSpin)
+#. +> trunk6 stable6
+#: ui/groupsettingsdialog.ui:87 ui/groupsettingsdialog.ui:106
+#: ui/transfersettingsdialog.ui:51 ui/transfersettingsdialog.ui:67
+#: ui/transfersettingsdialog.ui:83
+#, kde-format
+msgctxt "No value has been set"
+msgid "Not set"
+msgstr "ยังไม่ตั้งค่า"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. +> trunk6 stable6
+#: ui/groupsettingsdialog.ui:119
+#, fuzzy, kde-format
+#| msgid "Maximum download speed:"
+msgid "Ma&ximum download speed:"
+msgstr "ความเร็วการดาวน์โหลดสูงสุด:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#. +> trunk6 stable6
+#: ui/groupsettingsdialog.ui:129
+#, fuzzy, kde-format
+#| msgid "Maximum upload speed:"
+msgid "Maximum &upload speed:"
+msgstr "ความเร็วการอัปโหลดสูงสุด:"
+
+#. +> trunk6 stable6
+#: ui/history/transferhistory.cpp:51
+#, kde-format
+msgid "Transfer History"
+msgstr "ประวัติการถ่ายโอน"
+
+#. +> trunk6 stable6
+#: ui/history/transferhistory.cpp:72
+#, kde-format
+msgid "&Open File"
+msgstr "เ&ปิดแฟ้ม"
+
+#. +> trunk6 stable6
+#: ui/history/transferhistory.cpp:74
+#, kde-format
+msgctxt "Progress bar percent value"
+msgid "%p%"
+msgstr ""
+
+#. +> trunk6 stable6
+#: ui/history/transferhistory.cpp:214
+#, kde-format
+msgctxt "The transfer is running"
+msgid "Running"
+msgstr "ทำงานอยู่"
+
+#. +> trunk6 stable6
+#: ui/history/transferhistory.cpp:216
+#, kde-format
+msgctxt "The transfer is stopped"
+msgid "Stopped"
+msgstr "หยุดแล้ว"
+
+#. +> trunk6 stable6
+#: ui/history/transferhistory.cpp:218
+#, kde-format
+msgctxt "The transfer is aborted"
+msgid "Aborted"
+msgstr "ยุติแล้ว"
+
+#. +> trunk6 stable6
+#: ui/history/transferhistory.cpp:220
+#, kde-format
+msgctxt "The transfer is finished"
+msgid "Finished"
+msgstr "เสร็จแล้ว"
+
+#. +> trunk6 stable6
+#: ui/history/transferhistory.cpp:247
+#, kde-format
+msgid "Source File"
+msgstr "แฟ้มต้นทาง"
+
+#. +> trunk6 stable6
+#: ui/history/transferhistory.cpp:247
+#, kde-format
+msgid "Destination"
+msgstr "ปลายทาง"
+
+#. +> trunk6 stable6
+#: ui/history/transferhistory.cpp:247
+#, kde-format
+msgid "Time"
+msgstr "เวลา"
+
+#. +> trunk6 stable6
+#: ui/history/transferhistory.cpp:247
+#, kde-format
+msgid "File Size"
+msgstr "ขนาดแฟ้ม"
+
+#. +> trunk6 stable6
+#: ui/history/transferhistory.cpp:255
+#, kde-format
+msgid "Less than 1MiB"
+msgstr "น้อยกว่า 1 เมกะไบต์"
+
+#. +> trunk6 stable6
+#: ui/history/transferhistory.cpp:256
+#, kde-format
+msgid "Between 1MiB-10MiB"
+msgstr "ระหว่าง 1 - 10 เมกะไบต์"
+
+#. +> trunk6 stable6
+#: ui/history/transferhistory.cpp:257
+#, kde-format
+msgid "Between 10MiB-100MiB"
+msgstr "ระหว่าง 10 - 100 เมกะไบต์"
+
+#. +> trunk6 stable6
+#: ui/history/transferhistory.cpp:258
+#, kde-format
+msgid "Between 100MiB-1GiB"
+msgstr "ระหว่าง 100 เมกะไบต์ - 1 กิกะไบต์"
+
+#. +> trunk6 stable6
+#: ui/history/transferhistory.cpp:259
+#, kde-format
+msgid "More than 1GiB"
+msgstr "มากกว่า 1 กิกะไบต์"
+
+#. +> trunk6 stable6
+#: ui/history/transferhistory.cpp:262
+#: ui/history/transferhistorycategorizeddelegate.cpp:46
+#, kde-format
+msgid "Today"
+msgstr "วันนี้"
+
+#. +> trunk6 stable6
+#: ui/history/transferhistory.cpp:263
+#: ui/history/transferhistorycategorizeddelegate.cpp:49
+#, kde-format
+msgid "Last week"
+msgstr "อาทิตย์ก่อน"
+
+#. +> trunk6 stable6
+#: ui/history/transferhistory.cpp:264
+#, kde-format
+msgid "Last month"
+msgstr "เดือนก่อน"
+
+#. +> trunk6 stable6
+#: ui/history/transferhistory.cpp:265
+#: ui/history/transferhistorycategorizeddelegate.cpp:55
+#, kde-format
+msgid "A long time ago"
+msgstr "ก่อนหน้านั้น"
+
+#. +> trunk6 stable6
+#: ui/history/transferhistory.cpp:281
+#, kde-format
+msgctxt "the transfer has been finished"
+msgid "Finished"
+msgstr "เสร็จแล้ว"
+
+#. i18n: ectx: property (text), widget (QPushButton, clearButton)
+#. +> trunk6 stable6
+#: ui/history/transferhistory.ui:27
+#, kde-format
+msgid "Clear History"
+msgstr "ล้างประวัติการถ่ายโอน"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: ui/history/transferhistory.ui:47
+#, fuzzy, kde-format
+#| msgctxt "View modes"
+#| msgid "View Modes"
+msgid "View Modes:"
+msgstr "โหมดมุมมอง"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> trunk6 stable6
+#: ui/history/transferhistory.ui:77
+#, fuzzy, kde-format
+#| msgid "Select Ranges"
+msgid "Select Ranges:"
+msgstr "เลือกช่วงต่าง ๆ"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, rangeType)
+#. +> trunk6 stable6
+#: ui/history/transferhistory.ui:85
+#, kde-format
+msgid "Date"
+msgstr "วันที่"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, rangeType)
+#. +> trunk6 stable6
+#: ui/history/transferhistory.ui:95
+#, kde-format
+msgid "Host"
+msgstr "โฮสต์"
+
+#. i18n: ectx: property (placeholderText), widget (KLineEdit, searchBar)
+#. +> trunk6 stable6
+#: ui/history/transferhistory.ui:106
+#, fuzzy, kde-format
+#| msgid "Filter History"
+msgid "Filter history"
+msgstr "กรองประวัติการถ่ายโอน"
+
+#. i18n: ectx: property (text), widget (KLineEdit, searchBar)
+#. +> trunk6 stable6
+#: ui/history/transferhistory.ui:120
+#, kde-format
+msgctxt "delete selected transfer"
+msgid "Delete Selected"
+msgstr "ลบที่เลือก"
+
+#. i18n: ectx: property (text), widget (KLineEdit, searchBar)
+#. +> trunk6 stable6
+#: ui/history/transferhistory.ui:125
+#, kde-format
+msgid "Download"
+msgstr "ดาวน์โหลด"
+
+#. +> trunk6 stable6
+#: ui/history/transferhistorycategorizeddelegate.cpp:52
+#, kde-format
+msgid "Last Month"
+msgstr "เดือนก่อน"
+
+#. +> trunk6 stable6
+#: ui/history/transferhistorycategorizeddelegate.cpp:78
+#, kde-format
+msgid "Under 10MiB"
+msgstr "น้อยกว่า 10 เมกะไบต์"
+
+#. +> trunk6 stable6
+#: ui/history/transferhistorycategorizeddelegate.cpp:80
+#, kde-format
+msgid "Between 10MiB and 50MiB"
+msgstr "ระหว่าง 10 เมกะไบต์ถึง 50 เมกะไบต์"
+
+#. +> trunk6 stable6
+#: ui/history/transferhistorycategorizeddelegate.cpp:83
+#, kde-format
+msgid "Between 50MiB and 100MiB"
+msgstr "ระหว่าง 50 เมกะไบต์ - 100 เมกะไบต์"
+
+#. +> trunk6 stable6
+#: ui/history/transferhistorycategorizeddelegate.cpp:87
+#, kde-format
+msgid "More than 100MiB"
+msgstr "มากกว่า 100 เมกะไบต์"
+
+#. +> trunk6 stable6
+#: ui/history/transferhistoryitemdelegate.cpp:41
+#, kde-format
+msgid "Download again"
+msgstr "ดาวน์โหลดอีกครั้ง"
+
+#. +> trunk6 stable6
+#: ui/history/transferhistoryitemdelegate.cpp:46
+#, kde-format
+msgctxt "Delete selected history-item"
+msgid "Delete selected"
+msgstr "ลบรายการที่เลือกไว้"
+
+#. +> trunk6 stable6
+#: ui/history/transferhistoryitemdelegate.cpp:51
+#, kde-format
+msgid "Open file"
+msgstr "เปิดแฟ้ม"
+
+#. i18n: ectx: Menu (file)
+#. +> trunk6 stable6
+#: ui/kgetui.rc:5
+#, kde-format
+msgid "&File"
+msgstr "แ&ฟ้ม"
+
+#. i18n: ectx: Menu (Downloads)
+#. +> trunk6 stable6
+#: ui/kgetui.rc:17
+#, kde-format
+msgid "&Downloads"
+msgstr "&ดาวน์โหลด"
+
+#. i18n: ectx: Menu (settings)
+#. +> trunk6 stable6
+#: ui/kgetui.rc:34
+#, kde-format
+msgid "&Settings"
+msgstr "&ตั้งค่า"
+
+#. i18n: ectx: Menu (help)
+#. +> trunk6 stable6
+#: ui/kgetui.rc:37
+#, kde-format
+msgid "&Help"
+msgstr "&ช่วยเหลือ"
+
+#. i18n: ectx: ToolBar (kget_toolbar)
+#. +> trunk6 stable6
+#: ui/kgetui.rc:40
+#, kde-format
+msgid "Main Toolbar"
+msgstr "แถบเครื่องมือหลัก"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: ui/linkview/importlinkdialog.ui:34
+#, fuzzy, kde-format
+#| msgid "&File with links to import:"
+msgid "File with &links to import:"
+msgstr "แ&ฟ้มที่มีการเชื่อมโยงที่จะนำเข้า:"
+
+#. i18n: ectx: property (text), widget (QPushButton, importLinks)
+#. +> trunk6 stable6
+#: ui/linkview/importlinkdialog.ui:50
+#, kde-format
+msgid "&Import Links"
+msgstr "&นำเข้าที่อยู่เชื่อมโยงต่าง ๆ"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> trunk6 stable6
+#: ui/linkview/importlinkdialog.ui:67
+#, kde-format
+msgid "Show:"
+msgstr "แสดง:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, showWebContent)
+#. +> trunk6 stable6
+#: ui/linkview/importlinkdialog.ui:77
+#, kde-format
+msgid "Show &web content"
+msgstr "แสดงเ&นื้อหาเว็บ"
+
+#. i18n: ectx: property (toolTip), widget (KLineEdit, textFilter)
+#. +> trunk6 stable6
+#: ui/linkview/importlinkdialog.ui:115
+#, kde-format
+msgid "You can use wildcards for filtering."
+msgstr "คุณสามารถใช้ไวลด์การ์ดต่าง ๆ ในการกรองได้"
+
+#. i18n: ectx: property (placeholderText), widget (KLineEdit, textFilter)
+#. +> trunk6 stable6
+#: ui/linkview/importlinkdialog.ui:118
+#, kde-format
+msgid "Filter files here...."
+msgstr "กรองแฟ้มต่าง ๆ ได้ที่นี่..."
+
+#. i18n: ectx: property (text), widget (QPushButton, selectAll)
+#. +> trunk6 stable6
+#: ui/linkview/importlinkdialog.ui:192 ui/linkview/kget_linkview.cpp:321
+#, kde-format
+msgid "&Select All"
+msgstr "เลือก&ทั้งหมด"
+
+#. i18n: ectx: property (text), widget (QPushButton, deselectAll)
+#. +> trunk6 stable6
+#: ui/linkview/importlinkdialog.ui:208 ui/linkview/kget_linkview.cpp:322
+#, kde-format
+msgid "D&eselect All"
+msgstr "ยกเ&ลิกการเลือกทั้งหมด"
+
+#. i18n: ectx: property (text), widget (QPushButton, invertSelection)
+#. +> trunk6 stable6
+#: ui/linkview/importlinkdialog.ui:224
+#, kde-format
+msgid "Inver&t Selection"
+msgstr "ก&ลับค่าการเลือก"
+
+#. +> trunk6 stable6
+#: ui/linkview/kget_linkview.cpp:42
+#, kde-format
+msgid "Import Links"
+msgstr "นำเข้าที่อยู่เชื่อมโยงต่าง ๆ"
+
+#. +> trunk6 stable6
+#: ui/linkview/kget_linkview.cpp:59
+#, kde-format
+msgid "Contains"
+msgstr "บรรจุคำนี้อยู่"
+
+#. +> trunk6 stable6
+#: ui/linkview/kget_linkview.cpp:60
+#, kde-format
+msgid "Does Not Contain"
+msgstr "ไม่ได้บรรจุคำนี้อยู่"
+
+#. +> trunk6 stable6
+#: ui/linkview/kget_linkview.cpp:64
+#, fuzzy, kde-format
+#| msgctxt "all chunks"
+#| msgid "All:"
+msgid "All"
+msgstr "ทั้งหมด:"
+
+#. +> trunk6 stable6
+#: ui/linkview/kget_linkview.cpp:65
+#, fuzzy, kde-format
+#| msgid "&Videos"
+msgid "Videos"
+msgstr "&วีดิทัศน์ต่าง ๆ"
+
+#. +> trunk6 stable6
+#: ui/linkview/kget_linkview.cpp:66
+#, kde-format
+msgid "Images"
+msgstr ""
+
+#. +> trunk6 stable6
+#: ui/linkview/kget_linkview.cpp:67
+#, fuzzy, kde-format
+#| msgid "A&udio"
+msgid "Audio"
+msgstr "เ&สียง"
+
+#. +> trunk6 stable6
+#: ui/linkview/kget_linkview.cpp:68
+#, fuzzy, kde-format
+#| msgid "A&rchives"
+msgid "Archives"
+msgstr "แฟ้ม&บีบอัดต่าง ๆ"
+
+#. +> trunk6 stable6
+#: ui/linkview/kget_linkview.cpp:74
+#, kde-format
+msgctxt "of a filter, e.g. RegExp or Wildcard"
+msgid "Pattern Syntax"
+msgstr ""
+
+#. +> trunk6 stable6
+#: ui/linkview/kget_linkview.cpp:75
+#, kde-format
+msgid "Escape Sequences"
+msgstr ""
+
+#. +> trunk6 stable6
+#: ui/linkview/kget_linkview.cpp:78
+#, fuzzy, kde-format
+#| msgid "Regular expression:"
+msgid "Regular Expression"
+msgstr "เงื่อนไขการค้นหา:"
+
+#. +> trunk6 stable6
+#: ui/linkview/kget_linkview.cpp:88
+#, fuzzy, kde-format
+#| msgid "Name"
+msgctxt "name of a file"
+msgid "Name"
+msgstr "ชื่อ"
+
+#. +> trunk6 stable6
+#: ui/linkview/kget_linkview.cpp:118
+#, fuzzy, kde-format
+#| msgid "&Download"
+msgctxt "Download the items which have been selected"
+msgid "&Download"
+msgstr "&ดาวน์โหลด"
+
+#. +> trunk6 stable6
+#: ui/linkview/kget_linkview.cpp:156
+#, kde-format
+msgid "Auxiliary header"
+msgstr "ส่วนหัวเสริม"
+
+#. +> trunk6 stable6
+#: ui/linkview/kget_linkview.cpp:157
+#, kde-format
+msgid "File Name"
+msgstr "ชื่อแฟ้ม"
+
+#. +> trunk6 stable6
+#: ui/linkview/kget_linkview.cpp:158
+#, kde-format
+msgid "Description"
+msgstr "คำอธิบาย"
+
+#. +> trunk6 stable6
+#: ui/linkview/kget_linkview.cpp:159
+#, kde-format
+msgctxt "list header: type of file"
+msgid "File Type"
+msgstr "ประเภทแฟ้ม"
+
+#. +> trunk6 stable6
+#: ui/linkview/kget_linkview.cpp:160
+#, kde-format
+msgid "Location (URL)"
+msgstr "ที่อยู่ (URL)"
+
+#. +> trunk6 stable6
+#: ui/linkview/kget_linkview.cpp:260
+#, kde-format
+msgid "Links in: %1 - KGet"
+msgstr "ที่อยู่เชื่อมโยงใน: %1 :: ช่วยดาวน์โหลด-K"
+
+#. +> trunk6 stable6
+#: ui/linkview/kget_linkview.cpp:321
+#, kde-format
+msgid "&Select All Filtered"
+msgstr "เลือก&ที่ถูกกรองทั้งหมด"
+
+#. +> trunk6 stable6
+#: ui/linkview/kget_linkview.cpp:322
+#, kde-format
+msgid "D&eselect All Filtered"
+msgstr "ยกเ&ลิกการเลือกที่ถูกกรองทั้งหมด"
+
+#. +> trunk6 stable6
+#: ui/linkview/kget_linkview.cpp:432
+#, kde-format
+msgid "Filter Column"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/commondata.ui:22
+#, kde-format
+msgid "Identity"
+msgstr "การแสดงตัว"
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/commondata.ui:32
+#, kde-format
+msgid "Description:"
+msgstr "คำอธิบาย:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/commondata.ui:46
+#, kde-format
+msgid "Version:"
+msgstr "รุ่น:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_12)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/commondata.ui:56
+#, kde-format
+msgid "Logo:"
+msgstr "โลโก้:"
+
+#. i18n: ectx: property (placeholderText), widget (KLineEdit, logo)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/commondata.ui:63
+#, kde-format
+msgid "URL to the logo"
+msgstr "ที่อยู่ URL ของโลโก้"
+
+#. i18n: ectx: property (toolTip), widget (QLabel, label_13)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/commondata.ui:73
+#, kde-format
+msgid "The language of the file"
+msgstr "ภาษาของแฟ้ม"
+
+#. i18n: ectx: property (text), widget (QLabel, label_13)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/commondata.ui:76
+#, kde-format
+msgid "Language:"
+msgstr "ภาษา:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_14)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/commondata.ui:86
+#, kde-format
+msgid "Operating systems:"
+msgstr "ระบบปฏิบัติการ:"
+
+#. i18n: ectx: property (placeholderText), widget (KLineEdit, os)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/commondata.ui:93
+#, kde-format
+msgid "Supported OSes, separated with commas"
+msgstr "ระบบปฏิบัติการที่รองรับ แยกด้วยเครื่องหมายจุลภาค"
+
+#. i18n: ectx: property (text), widget (QLabel, label_18)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/commondata.ui:103
+#, kde-format
+msgid "Copyright:"
+msgstr "สงวนลิขสิทธิ์:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_20)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/commondata.ui:141
+#, kde-format
+msgid "Publisher:"
+msgstr "ผู้จัดทำ:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/commondata.ui:150
+#, kde-format
+msgid "Name:"
+msgstr "ชื่อ:"
+
+#. i18n: ectx: property (toolTip), widget (KLineEdit, pub_name)
+#. i18n: ectx: property (toolTip), widget (KLineEdit, pub_url)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/commondata.ui:157 ui/metalinkcreator/commondata.ui:177
+#, kde-format
+msgid "publisher"
+msgstr "ผู้จัดทำ"
+
+#. i18n: ectx: property (placeholderText), widget (KLineEdit, pub_name)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/commondata.ui:160
+#, kde-format
+msgid "Name of the publisher"
+msgstr "ชื่อของผู้จัดทำ"
+
+#. i18n: ectx: property (placeholderText), widget (KLineEdit, pub_url)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/commondata.ui:180
+#, kde-format
+msgid "URL to the publisher"
+msgstr "ที่อยู่ URL ของผู้จัดทำ"
+
+#. +> trunk6 stable6
+#: ui/metalinkcreator/dragdlg.cpp:73
+#, kde-format
+msgid "Import dropped files"
+msgstr "นำเข้าแฟ้มที่ถูกหย่อนลงมา"
+
+#. +> trunk6 stable6
+#: ui/metalinkcreator/dragdlg.cpp:94 ui/metalinkcreator/filedlg.cpp:73
+#: ui/metalinkcreator/filedlg.cpp:181
+#, fuzzy, kde-format
+#| msgctxt "comma, to seperate members of a list"
+#| msgid ","
+msgctxt "comma, to separate members of a list"
+msgid ","
+msgstr ","
+
+#. i18n: ectx: attribute (title), widget (QWidget, Seite)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/dragdlg.ui:21
+#, kde-format
+msgctxt "General options."
+msgid "General"
+msgstr "ค่าทั่วไป"
+
+#. i18n: ectx: property (text), widget (QCheckBox, partialChecksums)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/dragdlg.ui:27
+#, kde-format
+msgid "Create partial checksums"
+msgstr "สร้างค่าผลรวมการตรวจสอบ (Checksum) บางส่วน"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/dragdlg.ui:40
+#, kde-format
+msgid "General URL:"
+msgstr "ที่อยู่ URL ทั่วไป:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/dragdlg.ui:66
+#, kde-format
+msgid "Automatically create checksums for the selected types. Keep in mind that this might take a while."
+msgstr "ทำการสร้างค่าผลรวมการตรวจสอบ (Checksum) ให้กับประเภทที่เลือกไว้โดยอัตโนมัติ ซึ่งอาจจะใช้เวลาพอสมควร"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/dragdlg.ui:92
+#, kde-format
+msgid "Enter URLs here if all the dropped files are on that server and in the same directory. For each dropped file the URL would consist of the entered part and the filename."
+msgstr "ป้อนที่อยู่ URL ต่าง ๆ ได้ที่นี่ หากแฟ้มต่าง ๆ ที่ถูกหย่อนลงมาอยู่บนเซิร์ฟเวอร์และอยู่ในไดเรกทอรีเดียวกัน สำหรับแต่ละแฟ้มที่ถูกหย่อนลงมานี้ ที่อยู่ URL จะประกอบไปด้วยส่วนที่ต้องเข้าไปใช้งาน และชื่อแฟ้ม"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/dragdlg.ui:102
+#, kde-format
+msgid "Types of the checksums:"
+msgstr "ประเภทของผลรวมการตรวจสอบ:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/dragdlg.ui:115
+#, kde-format
+msgid "Create checksums:"
+msgstr "สร้างค่าผลรวมการตรวจสอบ:"
+
+#. i18n: ectx: attribute (title), widget (QWidget, Seite_2)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/dragdlg.ui:123
+#, kde-format
+msgctxt "These entries are optional."
+msgid "Optional"
+msgstr "ตัวเลือกเสริม"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/dragdlg.ui:135
+#, kde-format
+msgid "Optional data:"
+msgstr "ข้อมูล (ตัวเลือกเสริม):"
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/dragdlg.ui:160
+#, kde-format
+msgid "Enter information that all chosen files share."
+msgstr "ป้อนข้อมูลรายละเอียดที่จะใช้ร่วมกับกับแฟ้มต่าง ๆ ที่เลือกไว้"
+
+#. +> trunk6 stable6
+#: ui/metalinkcreator/filedlg.cpp:122
+#, kde-format
+msgid "File Properties"
+msgstr "คุณสมบัติของแฟ้ม"
+
+#. +> trunk6 stable6
+#: ui/metalinkcreator/filedlg.cpp:134
+#, kde-format
+msgid "Enter a filename."
+msgstr "ป้อนชื่อแฟ้ม"
+
+#. +> trunk6 stable6
+#: ui/metalinkcreator/filedlg.cpp:137
+#, kde-format
+msgid "The filename exists already, choose a different one."
+msgstr "มีแฟ้มที่มีชื่อนี้อยู่ก่อนแล้ว โปรดเลือกเป็นชื่ออื่น"
+
+#. +> trunk6 stable6
+#: ui/metalinkcreator/filedlg.cpp:140
+#, kde-format
+msgid "Enter at least one URL."
+msgstr "ป้อนที่อยู่ URL อย่างน้อยหนึ่งค่า"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_3)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/filedlg.ui:24
+#, kde-format
+msgid "Required"
+msgstr "จำเป็นต้องใช้"
+
+#. i18n: ectx: property (text), widget (QLabel, label_10)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/filedlg.ui:54
+#, kde-format
+msgid "Filename:"
+msgstr "ชื่อแฟ้ม:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_9)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/filedlg.ui:95
+#, kde-format
+msgid "Used Mirrors:"
+msgstr "มิเรอร์ต่าง ๆ ที่ใช้:"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_4)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/filedlg.ui:103
+#, kde-format
+msgid "Recommended"
+msgstr "แนะนำให้ใช้"
+
+#. i18n: ectx: property (text), widget (QLabel, label_11)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/filedlg.ui:111
+#, kde-format
+msgid "File size (in bytes):"
+msgstr "ขนาดแฟ้ม (เป็นไบต์):"
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/filedlg.ui:149 ui/signaturedlg.ui:34
+#, kde-format
+msgid "Verification:"
+msgstr "การตรวจความถูกต้อง:"
+
+#. i18n: ectx: attribute (title), widget (QWidget, Seite)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/filedlg.ui:196
+#, kde-format
+msgid "Optional"
+msgstr "ตัวเลือกเสริม"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, add_local_file)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/files.ui:26
+#, fuzzy, kde-format
+#| msgid "Add at least one file. Adding local files adds a lot of information automatically."
+msgid "Adds local files adding a lot information automatically."
+msgstr "เพิ่มแฟ้มอย่างน้อยหนึ่งแฟ้ม การเพิ่มแฟ้มต่าง ๆ ภายในระบบ จะมีการเพิ่มข้อมูลรายละเอียดให้มากขึ้นโดยอัตโนมัติ"
+
+#. i18n: ectx: property (text), widget (QPushButton, add_local_file)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/files.ui:29
+#, kde-format
+msgid "Add local files"
+msgstr "เพิ่มแฟ้มต่าง ๆ ภายในระบบ"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/files.ui:75
+#, kde-format
+msgid "Adding local files..."
+msgstr "กำลังเพิ่มแฟ้มต่าง ๆ ภายในระบบ..."
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/generalwidget.ui:23
+#, kde-format
+msgid "General information:"
+msgstr "ข้อมูลทั่วไป:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/generalwidget.ui:30
+#, kde-format
+msgid "Here you can enter optional general information on the metalink."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/generalwidget.ui:61
+#, kde-format
+msgid "Origin:"
+msgstr "ต้นกำเนิด:"
+
+#. i18n: ectx: property (placeholderText), widget (KLineEdit, origin)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/generalwidget.ui:68
+#, kde-format
+msgid "Web URL to the metalink"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QLabel, labelDynamic)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/generalwidget.ui:75
+#, kde-format
+msgid "Dynamic means that updated metalinks can be found at \"Origin\"."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, labelDynamic)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/generalwidget.ui:78
+#, kde-format
+msgid "Dynamic:"
+msgstr "ไม่ตายตัว:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, publishedGroupBox)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/generalwidget.ui:110
+#, fuzzy, kde-format
+#| msgid "Next Update In:"
+msgid "Metalink published"
+msgstr "ปรับปรุงครั้งต่อไปในอีก:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_30)
+#. i18n: ectx: property (text), widget (QLabel, label_29)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/generalwidget.ui:122
+#: ui/metalinkcreator/generalwidget.ui:231
+#, kde-format
+msgid "Date and time:"
+msgstr "วันและเวลา:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, use_publishedtimeoffset)
+#. i18n: ectx: property (text), widget (QCheckBox, use_updatedtimeoffset)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/generalwidget.ui:136
+#: ui/metalinkcreator/generalwidget.ui:217
+#, kde-format
+msgid "Timezone offset:"
+msgstr "ช่วงเหลื่อมเขตเวลา:"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/generalwidget.ui:153
+#: ui/metalinkcreator/generalwidget.ui:210
+#, kde-format
+msgid "Negative offset:"
+msgstr "ช่วงลบค่าเป็นลบ:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, updatedGroupBox)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/generalwidget.ui:182
+#, fuzzy, kde-format
+#| msgid "Next Update In:"
+msgid "Metalink updated"
+msgstr "ปรับปรุงครั้งต่อไปในอีก:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/introduction.ui:17
+#, kde-format
+msgid "This assistant allows you to create metalinks from scratch or base them on existing metalinks. A lot of the fields are optional or recommended, so enter them if desired. The minimum is a save location, at least one file and one URL."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/introduction.ui:48
+#, kde-format
+msgid "Save created Metalink at:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, createButton)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/introduction.ui:78
+#, kde-format
+msgid "Create new Metalink"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, loadButton)
+#. +> trunk6 stable6
+#: ui/metalinkcreator/introduction.ui:88
+#, kde-format
+msgid "Load existing Metalink:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: ui/metalinkcreator/metalinkcreator.cpp:83
+#, kde-format
+msgid "Create a Metalink"
+msgstr ""
+
+#. +> trunk6 stable6
+#: ui/metalinkcreator/metalinkcreator.cpp:101
+#, fuzzy, kde-format
+#| msgctxt "file as in file on hard drive"
+#| msgid "Enter at least one file."
+msgid "Add at least one file."
+msgstr "ป้อนค่าอย่างน้อยหนึ่งแฟ้ม"
+
+#. +> trunk6 stable6
+#: ui/metalinkcreator/metalinkcreator.cpp:103
+#, kde-format
+msgid "You need to set mirrors for the entries with an icon."
+msgstr "คุณต้องทำการตั้งค่ามิเรอร์ต่าง ๆ ของรายการต่าง ๆ ด้วยไอคอน"
+
+#. +> trunk6 stable6
+#: ui/metalinkcreator/metalinkcreator.cpp:116
+#, kde-format
+msgid "General optional information for the metalink."
+msgstr ""
+
+#. +> trunk6 stable6
+#: ui/metalinkcreator/metalinkcreator.cpp:145
+#, kde-format
+msgid "Unable to load: %1"
+msgstr "ไม่สามารถโหลด: %1 ได้"
+
+#. +> trunk6 stable6
+#: ui/metalinkcreator/metalinkcreator.cpp:171
+#, fuzzy, kde-format
+#| msgid "Open file"
+msgid "Metalink Version 4.0 file"
+msgstr "เปิดแฟ้ม"
+
+#. +> trunk6 stable6
+#: ui/metalinkcreator/metalinkcreator.cpp:171
+#, fuzzy, kde-format
+#| msgid "Open file"
+msgid "Metalink Version 3.0 file"
+msgstr "เปิดแฟ้ม"
+
+#. +> trunk6 stable6
+#: ui/metalinkcreator/metalinkcreator.cpp:172
+#, fuzzy, kde-format
+#| msgid "Open file"
+msgid "Metalink file (*.metalink *.meta4)"
+msgstr "เปิดแฟ้ม"
+
+#. +> trunk6 stable6
+#: ui/metalinkcreator/metalinkcreator.cpp:179
+#, kde-format
+msgid "Define the saving location."
+msgstr "กำหนดตำแหน่งที่จะใช้ในการบันทึ"
+
+#. +> trunk6 stable6
+#: ui/metalinkcreator/metalinkcreator.cpp:225
+#, fuzzy, kde-format
+#| msgid "Files"
+msgctxt "file as in file on hard drive"
+msgid "Files"
+msgstr "แฟ้มต่าง ๆ"
+
+#. i18n: ectx: property (text), widget (QLabel, labelMirror)
+#. +> trunk6 stable6
+#: ui/mirror/mirroradddlg.ui:19
+#, kde-format
+msgid "Mirror:"
+msgstr "มิเรอร์:"
+
+#. i18n: ectx: property (text), widget (QLabel, labelConnections)
+#. +> trunk6 stable6
+#: ui/mirror/mirroradddlg.ui:26
+#, kde-format
+msgid "Number of connections:"
+msgstr "จำนวนของการเชื่อมต่อ:"
+
+#. i18n: ectx: property (placeholderText), widget (KLineEdit, url)
+#. +> trunk6 stable6
+#: ui/mirror/mirroradddlg.ui:33
+#, kde-format
+msgid "Enter a URL"
+msgstr "ป้อนที่อยู่ URL"
+
+#. i18n: ectx: property (text), widget (QLabel, labelPriority)
+#. +> trunk6 stable6
+#: ui/mirror/mirroradddlg.ui:53
+#, kde-format
+msgid "Priority:"
+msgstr "ระดับความสำคัญ:"
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, priority)
+#. +> trunk6 stable6
+#: ui/mirror/mirroradddlg.ui:60
+#, kde-format
+msgid "Optional: The priority of the mirror, 1 highest 999999 lowest."
+msgstr "ตัวเลือกเสริม: ระดับความสำคัญของมิเรอร์, 1 มีค่าสูงสุด 999999 มีค่าต่ำสุด"
+
+#. i18n: ectx: property (specialValueText), widget (QSpinBox, priority)
+#. +> trunk6 stable6
+#: ui/mirror/mirroradddlg.ui:72 ui/mirror/mirrormodel.cpp:179
+#: ui/mirror/mirrormodel.cpp:189
+#, kde-format
+msgid "not specified"
+msgstr "ยังไม่ระบุ"
+
+#. i18n: ectx: property (text), widget (QLabel, labelLocation)
+#. +> trunk6 stable6
+#: ui/mirror/mirroradddlg.ui:79
+#, kde-format
+msgid "Location:"
+msgstr "ตำแหน่ง:"
+
+#. +> trunk6 stable6
+#: ui/mirror/mirrormodel.cpp:290
+#, kde-format
+msgctxt "Mirror as in server, in url"
+msgid "Mirror"
+msgstr "มิเรอร์"
+
+#. +> trunk6 stable6
+#: ui/mirror/mirrormodel.cpp:293
+#, kde-format
+msgctxt "The priority of the mirror"
+msgid "Priority"
+msgstr "ลำดับความสำคัญ"
+
+#. +> trunk6 stable6
+#: ui/mirror/mirrormodel.cpp:298
+#, fuzzy, kde-format
+#| msgid "Connections"
+msgctxt "Number of parallel connections to the mirror"
+msgid "Connections"
+msgstr "การเชื่อมต่อต่าง ๆ"
+
+#. +> trunk6 stable6
+#: ui/mirror/mirrormodel.cpp:300
+#, kde-format
+msgctxt "Location = country"
+msgid "Location"
+msgstr "ตำแหน่ง"
+
+#. +> trunk6 stable6
+#: ui/mirror/mirrorsettings.cpp:54
+#, kde-format
+msgid "Add mirror"
+msgstr "เพิ่มมิเรอร์"
+
+#. +> trunk6 stable6
+#: ui/mirror/mirrorsettings.cpp:144
+#, fuzzy, kde-format
+#| msgid "Modify the used mirrors."
+msgid "Modify the used mirrors"
+msgstr "แก้ไขมิเรอร์ต่าง ๆ ที่ใช้งาน"
+
+#. i18n: ectx: property (text), widget (QPushButton, closeButton)
+#. +> trunk6 stable6
+#: ui/mirror/mirrorsettings.ui:36
+#, kde-format
+msgid "PushButton"
+msgstr ""
+
+#. +> trunk6 stable6
+#: ui/newtransferdialog.cpp:315
+#, fuzzy, kde-format
+#| msgctxt "file as in file on hard drive"
+#| msgid "Enter at least one file."
+msgid "Select at least one source url."
+msgstr "ป้อนค่าอย่างน้อยหนึ่งแฟ้ม"
+
+#. +> trunk6 stable6
+#: ui/newtransferdialog.cpp:333
+#, kde-format
+msgid "Files that exist already in the current folder have been marked."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> trunk6 stable6
+#: ui/newtransferwidget.ui:30
+#, kde-format
+msgid "Destination:"
+msgstr "ปลายทาง:"
+
+#. i18n: ectx: property (text), widget (QLabel, groupLabel)
+#. +> trunk6 stable6
+#: ui/newtransferwidget.ui:40
+#, kde-format
+msgid "Transfer group:"
+msgstr "กลุ่มการถ่ายโอน:"
+
+#. +> trunk6 stable6
+#: ui/renamefile.cpp:33
+#, kde-format
+msgid "Rename File"
+msgstr "เปลี่ยนชื่อแฟ้ม"
+
+#. +> trunk6 stable6
+#: ui/renamefile.cpp:39
+#, kde-format
+msgid "Rename %1 to:"
+msgstr "เปลี่ยนชื่อแฟ้ม %1 ไปเป็น:"
+
+#. +> trunk6 stable6
+#: ui/renamefile.cpp:42
+#, kde-format
+msgid "&Rename"
+msgstr "เ&ปลี่ยนชื่อ"
+
+#. +> trunk6 stable6
+#: ui/signaturedlg.cpp:46
+#, kde-format
+msgctxt "Signature here is meant in cryptographic terms, so the signature of a file."
+msgid "Signature of %1."
+msgstr "ลายเซ็นของ %1"
+
+#. +> trunk6 stable6
+#: ui/signaturedlg.cpp:69
+#, kde-format
+msgid "This option is not supported for the current transfer."
+msgstr "ตัวเลือกนี้ยังไม่ได้รับการรองรับจากการถ่ายโอนตัวปัจจุบัน"
+
+#. +> trunk6 stable6
+#: ui/signaturedlg.cpp:97
+#, fuzzy, kde-format
+#| msgid "Signature"
+msgid "Load Signature File"
+msgstr "ลายเซ็น"
+
+#. +> trunk6 stable6
+#: ui/signaturedlg.cpp:99
+#, kde-format
+msgid "Detached OpenPGP ASCII signature (*.asc)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: ui/signaturedlg.cpp:100
+#, kde-format
+msgid "Detached OpenPGP binary signature (*.sig)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: ui/signaturedlg.cpp:153
+#, kde-format
+msgid "You need to define a signature."
+msgstr "คุณต้องทำการกำหนดลายเซ็นก่อน"
+
+#. +> trunk6 stable6
+#: ui/signaturedlg.cpp:157
+#, kde-format
+msgid "No fingerprint could be found, check if the signature is correct or verify the download."
+msgstr "ไม่พบอัตลักษณ์ โปรดตรวจสอบว่าได้ลายเซ็นถูกต้องหรือไม่ หรือทำการตรวจความถูกต้องของการดาวน์โหลด"
+
+#. +> trunk6 stable6
+#: ui/signaturedlg.cpp:191
+#, kde-format
+msgctxt "trust level"
+msgid "Unknown"
+msgstr "ไม่ทราบ"
+
+#. +> trunk6 stable6
+#: ui/signaturedlg.cpp:191
+#, kde-format
+msgctxt "trust level"
+msgid "Undefined"
+msgstr "ยังไม่กำหนด"
+
+#. +> trunk6 stable6
+#: ui/signaturedlg.cpp:191
+#, kde-format
+msgctxt "trust level"
+msgid "Never"
+msgstr "ไม่เลย"
+
+#. +> trunk6 stable6
+#: ui/signaturedlg.cpp:191
+#, kde-format
+msgctxt "trust level"
+msgid "Marginal"
+msgstr "เล็กน้อย"
+
+#. +> trunk6 stable6
+#: ui/signaturedlg.cpp:192
+#, kde-format
+msgctxt "trust level"
+msgid "Full"
+msgstr "เต็มที่"
+
+#. +> trunk6 stable6
+#: ui/signaturedlg.cpp:192
+#, kde-format
+msgctxt "trust level"
+msgid "Ultimate"
+msgstr "ขั้นสูงสุด"
+
+#. +> trunk6 stable6
+#: ui/signaturedlg.cpp:195
+#, kde-format
+msgid "The key has been revoked."
+msgstr "กุญแจถูกเพิกถอนแล้ว"
+
+#. +> trunk6 stable6
+#: ui/signaturedlg.cpp:199
+#, kde-format
+msgid "The key is disabled."
+msgstr "กุญแจถูกปิดการใช้งาน"
+
+#. +> trunk6 stable6
+#: ui/signaturedlg.cpp:203
+#, kde-format
+msgid "The key is invalid."
+msgstr "กุญแจใช้ไม่ได้"
+
+#. +> trunk6 stable6
+#: ui/signaturedlg.cpp:208
+#, kde-format
+msgid "The key is expired."
+msgstr "กุญแจหมดอายุแล้ว"
+
+#. +> trunk6 stable6
+#: ui/signaturedlg.cpp:222
+#, kde-format
+msgid "The key is not to be trusted."
+msgstr "กุญแจยังไม่ได้รับการเชื่อถือ"
+
+#. +> trunk6 stable6
+#: ui/signaturedlg.cpp:227
+#, kde-format
+msgid "The key is to be trusted marginally."
+msgstr "กุญแจยังไม่ได้รับการเชื่อถือเล็กน้อย"
+
+#. +> trunk6 stable6
+#: ui/signaturedlg.cpp:240
+#, kde-format
+msgid "Trust level of the key is unclear."
+msgstr "ระดับความน่าเชื่อถือของกุญแจยังคลุมเครือ"
+
+#. +> trunk6 stable6
+#: ui/signaturedlg.cpp:269
+#, kde-format
+msgid "Unlimited"
+msgstr "ไม่จำกัด"
+
+#. +> trunk6 stable6
+#: ui/signaturedlg.cpp:287
+#, kde-format
+msgctxt "pgp signature is verified"
+msgid "Verified"
+msgstr "ตรวจความถูกต้องแล้ว"
+
+#. +> trunk6 stable6
+#: ui/signaturedlg.cpp:290
+#, kde-format
+msgctxt "pgp signature is not verified"
+msgid "Failed"
+msgstr "ล้มเหลว"
+
+#. +> trunk6 stable6
+#: ui/signaturedlg.cpp:293
+#, kde-format
+msgid "Caution: Verification failed. Either you entered the wrong signature, or the data has been modified."
+msgstr "คำเตือน: การตรวจความถูกต้องล้มเหลว อาจจะเนื่องจากคุณได้ป้อนลายเซ็นที่ไม่ถูกต้องมาให้ หรือข้อมูลอาจจะถูกแก้ไขดัดแปลงไปแล้ว"
+
+#. +> trunk6 stable6
+#: ui/signaturedlg.cpp:299
+#, kde-format
+msgid "Verification not possible. Check the entered data, whether gpg-agent is running, or whether you have an Internet connection (for retrieving keys.)"
+msgstr "การตรวจความถูกต้องเป็นไปไม่ได้ โปรดตรวจสอบข้อมูลที่ป้อนมา, โปรแกรม gpg-agent กำลังทำงานอยู่หรือไม่ หรือคุณได้ทำการเชื่อมต่ออินเทอร์เน็ตแล้วหรือยัง (ใช้ในการรับกุญแจต่าง ๆ)"
+
+#. +> trunk6 stable6
+#: ui/signaturedlg.cpp:317
+#, kde-format
+msgid "Feature is not supported, as KGet is not compiled with QPGME support."
+msgstr "ยังไม่รองรับคุณสมบัตินี้ เนื่องจากโปรแกรม 'ช่วยดาวน์โหลด-K' (KGet) ไม่ได้ถูกคอมไพล์ให้รองรับ QPGME ด้วย"
+
+#. i18n: ectx: property (text), widget (QLabel, binaryLabel)
+#. +> trunk6 stable6
+#: ui/signaturedlg.ui:80
+#, fuzzy, kde-format
+#| msgid "PGP signature:"
+msgid "Has binary PGP signature."
+msgstr "ลายเซ็น PGP:"
+
+#. i18n: ectx: property (text), widget (QLabel, asciiLabel)
+#. +> trunk6 stable6
+#: ui/signaturedlg.ui:87
+#, fuzzy, kde-format
+#| msgid "PGP signature:"
+msgid "Ascii PGP signature:"
+msgstr "ลายเซ็น PGP:"
+
+#. i18n: ectx: property (text), widget (QPushButton, loadSignature)
+#. +> trunk6 stable6
+#: ui/signaturedlg.ui:112
+#, fuzzy, kde-format
+#| msgid "Signature"
+msgid "Load Signature"
+msgstr "ลายเซ็น"
+
+#. i18n: ectx: property (text), widget (QPushButton, verify)
+#. +> trunk6 stable6
+#: ui/signaturedlg.ui:119
+#, kde-format
+msgid "Verify"
+msgstr "ตรวจสอบ"
+
+#. i18n: ectx: property (title), widget (QGroupBox, keyGroup)
+#. +> trunk6 stable6
+#: ui/signaturedlg.ui:131
+#, kde-format
+msgid "Key"
+msgstr "กุญแจ"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: ui/signaturedlg.ui:143
+#, kde-format
+msgid "Issuer:"
+msgstr "ผู้ออกให้:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> trunk6 stable6
+#: ui/signaturedlg.ui:166
+#, kde-format
+msgid "E-Mail:"
+msgstr "อีเมล:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_9)
+#. +> trunk6 stable6
+#: ui/signaturedlg.ui:183
+#, kde-format
+msgid "Comment:"
+msgstr "หมายเหตุ:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. +> trunk6 stable6
+#: ui/signaturedlg.ui:197
+#, kde-format
+msgid "Creation:"
+msgstr "การสร้าง:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#. +> trunk6 stable6
+#: ui/signaturedlg.ui:214
+#, kde-format
+msgid "Expiration:"
+msgstr "การหมดอายุ:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#. +> trunk6 stable6
+#: ui/signaturedlg.ui:255
+#, kde-format
+msgid "Trust:"
+msgstr "ความน่าเชื่อถือ:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#. +> trunk6 stable6
+#: ui/signaturedlg.ui:296
+#, kde-format
+msgid "Fingerprint:"
+msgstr "อัตลักษณ์:"
+
+#. +> trunk6 stable6
+#: ui/transferdetails.cpp:72
+#, kde-format
+msgid "Average speed: %1/s"
+msgstr "ความเร็วเฉลี่ย: %1/วินาที"
+
+#. +> trunk6 stable6
+#: ui/transferdetails.cpp:77
+#, kde-format
+msgid "%1 of %2"
+msgstr "%1 จากทั้งหมด %2"
+
+#. i18n: ectx: property (text), widget (QLabel, sourceLabel)
+#. +> trunk6 stable6
+#: ui/transferdetailsfrm.ui:51
+#, kde-format
+msgctxt "@label transfer source"
+msgid "Source:"
+msgstr "ต้นทาง:"
+
+#. i18n: ectx: property (text), widget (QLabel, statusLabel)
+#. +> trunk6 stable6
+#: ui/transferdetailsfrm.ui:118
+#, kde-format
+msgid "Status:"
+msgstr "สถานะ:"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: ui/transferdetailsfrm.ui:169
+#, kde-format
+msgid "Remaining Time:"
+msgstr "เวลาที่เหลือ:"
+
+#. +> trunk6 stable6
+#: ui/transfersettingsdialog.cpp:33
+#, kde-format
+msgid "Transfer Settings for %1"
+msgstr "การตั้งค่าการส่งถ่ายข้อมูลของ %1"
+
+#. +> trunk6 stable6
+#: ui/transfersettingsdialog.cpp:164
+#, kde-format
+msgid "Changing the destination did not work, the destination stays unmodified."
+msgstr "การเปลี่ยนแปลงปลายทางทำงานไม่ได้ ปลายทางจะยังคงไม่ถูกแก้ไข"
+
+#. +> trunk6 stable6
+#: ui/transfersettingsdialog.cpp:164
+#, kde-format
+msgid "Destination unmodified"
+msgstr "ไม่มีการแก้ไขปลายทาง"
+
+#. i18n: ectx: property (text), widget (KTitleWidget, ktitlewidget)
+#. +> trunk6 stable6
+#: ui/transfersettingsdialog.ui:23
+#, kde-format
+msgid "Transfer Settings"
+msgstr "ตั้งค่าการส่งถ่ายข้อมูล"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: ui/transfersettingsdialog.ui:35
+#, fuzzy, kde-format
+#| msgid "Download Destination:"
+msgid "Download des&tination:"
+msgstr "ปลายทางการดาวน์โหลด:"
+
+#. i18n: ectx: property (text), widget (QLabel, labelUpload)
+#. +> trunk6 stable6
+#: ui/transfersettingsdialog.ui:90
+#, fuzzy, kde-format
+#| msgid "Upload Limit:"
+msgid "&Upload limit:"
+msgstr "จำกัดการอัปโหลด:"
+
+#. i18n: ectx: property (text), widget (QLabel, labelDownload)
+#. +> trunk6 stable6
+#: ui/transfersettingsdialog.ui:100
+#, fuzzy, kde-format
+#| msgid "Download Limit:"
+msgid "Download &limit:"
+msgstr "จำกัดการดาวน์โหลด:"
+
+#. i18n: ectx: property (text), widget (QLabel, labelShareRatio)
+#. +> trunk6 stable6
+#: ui/transfersettingsdialog.ui:110
+#, fuzzy, kde-format
+#| msgid "Maximum Share Ratio:"
+msgid "Ma&ximum share ratio:"
+msgstr "อัตราส่วนการแบ่งปันสูงสุด:"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, mirrors)
+#. +> trunk6 stable6
+#: ui/transfersettingsdialog.ui:139
+#, kde-format
+msgid "Modify the mirrors used for downloading."
+msgstr "แก้ไขมิเรอร์ต่าง ๆ ที่จะใช้ในการดาวน์โหลด"
+
+#. i18n: ectx: property (text), widget (QPushButton, mirrors)
+#. +> trunk6 stable6
+#: ui/transfersettingsdialog.ui:142
+#, kde-format
+msgctxt "The available mirrors (servers) for downloading"
+msgid "Mirrors"
+msgstr "มิเรอร์ต่าง ๆ"
+
+#. i18n: ectx: property (text), widget (QPushButton, verification)
+#. +> trunk6 stable6
+#: ui/transfersettingsdialog.ui:162
+#, kde-format
+msgctxt "verification of the download (e.g. by using MD5)"
+msgid "Verification"
+msgstr "การตรวจความถูกต้อง"
+
+#. +> trunk6 stable6
+#: ui/transfersview.cpp:124
+#, kde-format
+msgid "Select columns"
+msgstr "เลือกคอลัมน์ต่าง ๆ"
+
+#. +> trunk6 stable6
+#: ui/transfersview.cpp:312
+#, kde-format
+msgid "Transfer Details"
+msgstr "รายละเอียดการส่งถ่ายข้อมูล"
+
+#. +> trunk6 stable6
+#: ui/transfersviewdelegate.cpp:361
+#, fuzzy, kde-format
+#| msgid "%1 %"
+msgctxt "Progress bar percent value"
+msgid "%1%"
+msgstr "%1 %"
+
+#. +> trunk6 stable6
+#: ui/tray.cpp:48
+#, kde-format
+msgid "Download Manager"
+msgstr "จัดการการดาวน์โหลด"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: ui/verificationadddlg.ui:19
+#, kde-format
+msgctxt "hash type as in md5t, sha1 etc."
+msgid "Hash type:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> trunk6 stable6
+#: ui/verificationadddlg.ui:26
+#, fuzzy, kde-format
+#| msgid "Port:"
+msgctxt "hash as a hash of type md5, sha1 etc."
+msgid "Hash:"
+msgstr "พอร์ต:"
+
+#. i18n: ectx: property (placeholderText), widget (KLineEdit, newHash)
+#. +> trunk6 stable6
+#: ui/verificationadddlg.ui:33
+#, kde-format
+msgid "Enter a hash key"
+msgstr ""
+
+#. +> trunk6 stable6
+#: ui/verificationdialog.cpp:38
+#, kde-format
+msgid "Add checksum"
+msgstr "เพิ่มผลรวมการตรวจสอบ"
+
+#. +> trunk6 stable6
+#: ui/verificationdialog.cpp:94
+#, kde-format
+msgid "Transfer Verification for %1"
+msgstr "การตรวจความถูกต้องของการส่งถ่ายข้อมูลของ %1"
+
+#. +> trunk6 stable6
+#: ui/verificationdialog.cpp:205
+#, kde-format
+msgid "%1 was successfully verified."
+msgstr "ทำการตรวจความถูกต้องของ %1 เรียบร้อยแล้ว"
+
+#. +> trunk6 stable6
+#: ui/verificationdialog.cpp:205
+#, kde-format
+msgid "Verification successful"
+msgstr "การตรวจความถูกต้องเสร็จเรียบร้อยแล้ว"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#. +> trunk6 stable6
+#: ui/verificationdialog.ui:65
+#, kde-format
+msgid "Verifying:"
+msgstr "การตรวจสอบความถูกต้อง:"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, verify)
+#. +> trunk6 stable6
+#: ui/verificationdialog.ui:121
+#, kde-format
+msgid "Verify the finished download with the selected checksum."
+msgstr "ตรวจสอบความถูกต้องของการดาวน์โหลดที่เสร็จสิ้นแล้ว ด้วยค่าผลรวมการตรวจสอบ (checksum) ที่เลือกไว้"
+
+#. i18n: ectx: property (text), widget (QPushButton, verify)
+#. +> trunk6 stable6
+#: ui/verificationdialog.ui:124
+#, kde-format
+msgid "&Verify"
+msgstr "&ตรวจสอบความถูกต้อง"
+
+#. i18n: ectx: property (text), widget (QPushButton, closeButton)
+#. +> trunk6 stable6
+#: ui/verificationdialog.ui:150
+#, kde-format
+msgid "Close"
+msgstr ""

@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-03-04 10:08+0100\n"
+"PO-Revision-Date: 2025-03-17 14:55+0700\n"
+"Last-Translator: Thai Translator <none>\n"
+"Language-Team: Thai <kde-i18n-docs@kde.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#: src/data/org.kde.ruqola.desktop:2 src/data/ruqola.notifyrc:3
+msgctxt "Name"
+msgid "Ruqola"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/data/org.kde.ruqola.desktop:40
+msgctxt "GenericName"
+msgid "Rocket.Chat client"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/data/ruqola.notifyrc:39
+msgctxt "Comment"
+msgid "Notification"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/data/ruqola.notifyrc:75
+msgctxt "Name"
+msgid "Off the record ended"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/data/ruqola.notifyrc:108
+msgctxt "Name"
+msgid "Off the record denied"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/data/ruqola.notifyrc:140
+msgctxt "Name"
+msgid "Ask to create Otr"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/data/ruqola.notifyrc:172
+msgctxt "Name"
+msgid "Messages Exported"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/data/ruqola.notifyrc:207
+msgctxt "Name"
+msgid "A Notification Arrived"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/data/ruqola.notifyrc:244
+msgctxt "Name"
+msgid "Incoming Video Conference Call"
+msgstr ""
+
+#. +> trunk6
+#: src/data/ruqola.notifyrc:275
+msgctxt "Name"
+msgid "Invalid invite token"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/data/ruqola.notifyrc:298
+msgctxt "Name"
+msgid "New Account Added"
+msgstr ""

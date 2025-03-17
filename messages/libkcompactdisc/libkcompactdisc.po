@@ -1,0 +1,80 @@
+# translation of libkcompactdisc.po to Thai
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Sahachart Anukulkitch <drrider@gmail.com>, 2007.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: libkcompactdisc\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-02-16 00:17+0100\n"
+"PO-Revision-Date: 2010-03-04 23:09+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#: src/kcompactdisc_p.cpp:224
+#, kde-format
+msgid "Playing"
+msgstr "กำลังเล่น"
+
+#. +> trunk6 stable6
+#: src/kcompactdisc_p.cpp:226
+#, kde-format
+msgid "Paused"
+msgstr "หยุดชั่วคราว"
+
+#. +> trunk6 stable6
+#: src/kcompactdisc_p.cpp:228
+#, kde-format
+msgid "Stopped"
+msgstr "หยุด"
+
+#. +> trunk6 stable6
+#: src/kcompactdisc_p.cpp:230
+#, kde-format
+msgid "Ejected"
+msgstr "เอาแผ่นออก"
+
+#. +> trunk6 stable6
+#: src/kcompactdisc_p.cpp:232
+#, kde-format
+msgid "No Disc"
+msgstr "ไม่มีแผ่น"
+
+#. +> trunk6 stable6
+#: src/kcompactdisc_p.cpp:234
+#, kde-format
+msgid "Not Ready"
+msgstr "ไม่พร้อม"
+
+#. +> trunk6 stable6
+#: src/kcompactdisc_p.cpp:237
+#, kde-format
+msgid "Error"
+msgstr "ผิดพลาด"
+
+#. +> trunk6 stable6
+#: src/phonon_interface.cpp:334 src/phonon_interface.cpp:337
+#: src/wmlib_interface.cpp:237 src/wmlib_interface.cpp:240
+#, kde-format
+msgid "Unknown Artist"
+msgstr "ศิลปินที่ไม่รู้จัก"
+
+#. +> trunk6 stable6
+#: src/phonon_interface.cpp:335 src/wmlib_interface.cpp:238
+#, kde-format
+msgid "Unknown Title"
+msgstr "ไม่ทราบชื่อแทร็ก"
+
+#. +> trunk6 stable6
+#: src/phonon_interface.cpp:338 src/wmlib_interface.cpp:241
+#, kde-format
+msgid "Track %1"
+msgstr "แทร็กที่ %1"

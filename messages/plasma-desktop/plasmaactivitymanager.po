@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-09-05 10:17+0200\n"
+"PO-Revision-Date: 2025-03-17 14:55+0700\n"
+"Last-Translator: Thai Translator <none>\n"
+"Language-Team: Thai <kde-i18n-docs@kde.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6 stable5
+#: sortedactivitiesmodel.cpp:301
+#, kde-format
+msgid "Used some time ago"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: sortedactivitiesmodel.cpp:317
+#, kde-format
+msgid "Used more than a year ago"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: sortedactivitiesmodel.cpp:318
+#, kde-format
+msgctxt "amount in months"
+msgid "Used a month ago"
+msgid_plural "Used %1 months ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#. +> trunk6 stable6 stable5
+#: sortedactivitiesmodel.cpp:319
+#, kde-format
+msgctxt "amount in days"
+msgid "Used a day ago"
+msgid_plural "Used %1 days ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#. +> trunk6 stable6 stable5
+#: sortedactivitiesmodel.cpp:320
+#, kde-format
+msgctxt "amount in hours"
+msgid "Used an hour ago"
+msgid_plural "Used %1 hours ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#. +> trunk6 stable6 stable5
+#: sortedactivitiesmodel.cpp:321
+#, kde-format
+msgctxt "amount in minutes"
+msgid "Used a minute ago"
+msgid_plural "Used %1 minutes ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#. +> trunk6 stable6 stable5
+#: sortedactivitiesmodel.cpp:322
+#, kde-format
+msgid "Used a moment ago"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: switcherbackend.cpp:169
+#, kde-format
+msgid "Walk through activities"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: switcherbackend.cpp:174
+#, kde-format
+msgid "Walk through activities (Reverse)"
+msgstr ""

@@ -1,0 +1,297 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-bigscreen\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-12-05 08:21+0100\n"
+"PO-Revision-Date: 2025-03-17 14:55+0700\n"
+"Last-Translator: Thai Translator <none>\n"
+"Language-Team: Thai <kde-i18n-docs@kde.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable5
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#. +> trunk6 stable5
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#. +> trunk6
+#: ui/delegates/DatePicker.qml:38
+#, kde-format
+msgid "Year"
+msgstr ""
+
+#. +> trunk6
+#: ui/delegates/DatePicker.qml:54
+#, kde-format
+msgid "Month"
+msgstr ""
+
+#. +> trunk6
+#: ui/delegates/DatePicker.qml:70
+#, kde-format
+msgid "Day"
+msgstr ""
+
+#. +> trunk6 stable5
+#: ui/delegates/DeviceTimeSettings.qml:136
+#, kde-format
+msgid "Time Display"
+msgstr ""
+
+#. +> trunk6 stable5
+#: ui/delegates/DeviceTimeSettings.qml:145
+#, kde-format
+msgid "Timezone:"
+msgstr ""
+
+#. +> trunk6
+#: ui/delegates/DeviceTimeSettings.qml:187
+#, kde-format
+msgid "Set time automatically"
+msgstr ""
+
+#. +> stable5
+#: package/contents/ui/DeviceTimeSettings.qml:175
+#, kde-format
+msgid "Set time automatically:"
+msgstr ""
+
+#. +> trunk6 stable5
+#: ui/delegates/DeviceTimeSettings.qml:256
+#, kde-format
+msgid "Time"
+msgstr ""
+
+#. +> trunk6 stable5
+#: ui/delegates/DeviceTimeSettings.qml:318
+#, kde-format
+msgid "Date"
+msgstr ""
+
+#. +> trunk6 stable5
+#: ui/delegates/DeviceTimeSettings.qml:399 ui/delegates/ShortcutsPicker.qml:191
+#, kde-format
+msgid "Press the [←] Back button to return to appearance settings"
+msgstr ""
+
+#. +> trunk6 stable5
+#: ui/delegates/DeviceTimeSettings.qml:460
+#: ui/delegates/DeviceTimeSettings.qml:583
+#: ui/delegates/DeviceTimeSettings.qml:678
+#, kde-format
+msgid "Press the [←] Back button to save configuration and return to settings"
+msgstr ""
+
+#. +> trunk6
+#: ui/delegates/DeviceTimeSettings.qml:482
+#, kde-format
+msgid "Search City / Region"
+msgstr ""
+
+#. +> trunk6 stable5
+#: ui/delegates/DeviceTimeSettings.qml:501
+#, kde-format
+msgid "Your local timezone is %1"
+msgstr ""
+
+#. +> trunk6 stable5
+#: ui/delegates/DeviceTimeSettings.qml:501
+#, kde-format
+msgid "%1, %2"
+msgstr ""
+
+#. +> trunk6
+#: ui/delegates/ShortcutsPicker.qml:67
+#, kde-format
+msgid "Update Shortcut Keys"
+msgstr ""
+
+#. +> trunk6
+#: ui/delegates/ShortcutsPicker.qml:106
+#, kde-format
+msgid "Reset Default"
+msgstr ""
+
+#. +> trunk6
+#: ui/delegates/ShortcutsPicker.qml:120
+#, kde-format
+msgid "Set Shortcut"
+msgstr ""
+
+#. +> trunk6
+#: ui/delegates/TimePicker.qml:40
+#, kde-format
+msgid "Hour"
+msgstr ""
+
+#. +> trunk6
+#: ui/delegates/TimePicker.qml:56
+#, kde-format
+msgid "Minute"
+msgstr ""
+
+#. +> trunk6
+#: ui/delegates/TimePicker.qml:72
+#, kde-format
+msgid "Second"
+msgstr ""
+
+#. +> trunk6
+#: ui/delegates/TimePicker.qml:89
+#, kde-format
+msgid "AM/PM"
+msgstr ""
+
+#. +> trunk6 stable5
+#: ui/main.qml:21
+#, kde-format
+msgid "Appearance"
+msgstr ""
+
+#. +> trunk6
+#: ui/main.qml:77
+#, kde-format
+msgid "Launcher Appearance"
+msgstr ""
+
+#. +> trunk6
+#: ui/main.qml:86
+#, kde-format
+msgid "Power Inhibition"
+msgstr ""
+
+#. +> trunk6
+#: ui/main.qml:97
+#, kde-format
+msgid "Colored Tiles"
+msgstr ""
+
+#. +> trunk6
+#: ui/main.qml:109
+#, kde-format
+msgid "Expanding Tiles"
+msgstr ""
+
+#. +> trunk6
+#: ui/main.qml:120
+#, kde-format
+msgid "Adjust Date & Time"
+msgstr ""
+
+#. +> trunk6
+#: ui/main.qml:128
+#, kde-format
+msgid "Bigscreen Shortcuts"
+msgstr ""
+
+#. +> trunk6
+#: ui/main.qml:136
+#, kde-format
+msgid "Bigscreen Settings Shortcut"
+msgstr ""
+
+#. +> trunk6
+#: ui/main.qml:148
+#, kde-format
+msgid "Bigscreen Tasks Shortcut"
+msgstr ""
+
+#. +> trunk6
+#: ui/main.qml:160
+#, kde-format
+msgid "Bigscreen Display Homescreen Shortcut"
+msgstr ""
+
+#. +> trunk6
+#: ui/main.qml:181
+#, kde-format
+msgid "General Appearance"
+msgstr ""
+
+#. +> stable5
+#: package/contents/ui/delegates/DatePicker.qml:110
+#, kde-format
+msgid "Jan"
+msgstr ""
+
+#. +> stable5
+#: package/contents/ui/delegates/DatePicker.qml:110
+#, kde-format
+msgid "Feb"
+msgstr ""
+
+#. +> stable5
+#: package/contents/ui/delegates/DatePicker.qml:110
+#, kde-format
+msgid "Mar"
+msgstr ""
+
+#. +> stable5
+#: package/contents/ui/delegates/DatePicker.qml:110
+#, kde-format
+msgid "Apr"
+msgstr ""
+
+#. +> stable5
+#: package/contents/ui/delegates/DatePicker.qml:110
+#, kde-format
+msgid "May"
+msgstr ""
+
+#. +> stable5
+#: package/contents/ui/delegates/DatePicker.qml:110
+#, kde-format
+msgid "Jun"
+msgstr ""
+
+#. +> stable5
+#: package/contents/ui/delegates/DatePicker.qml:110
+#, kde-format
+msgid "Jul"
+msgstr ""
+
+#. +> stable5
+#: package/contents/ui/delegates/DatePicker.qml:110
+#, kde-format
+msgid "Aug"
+msgstr ""
+
+#. +> stable5
+#: package/contents/ui/delegates/DatePicker.qml:110
+#, kde-format
+msgid "Sep"
+msgstr ""
+
+#. +> stable5
+#: package/contents/ui/delegates/DatePicker.qml:110
+#, kde-format
+msgid "Oct"
+msgstr ""
+
+#. +> stable5
+#: package/contents/ui/delegates/DatePicker.qml:110
+#, kde-format
+msgid "Nov"
+msgstr ""
+
+#. +> stable5
+#: package/contents/ui/delegates/DatePicker.qml:110
+#, kde-format
+msgid "Dec"
+msgstr ""
+
+#. +> stable5
+#: package/contents/ui/main.qml:106
+#, kde-format
+msgid "Exit"
+msgstr ""

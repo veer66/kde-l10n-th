@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mauikit-imagetools\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-03-12 07:47+0100\n"
+"PO-Revision-Date: 2025-03-17 14:55+0700\n"
+"Last-Translator: Thai Translator <none>\n"
+"Language-Team: Thai <kde-i18n-docs@kde.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6
+#: src/code/moduleinfo.cpp:20
+#, kde-format
+msgid "Image tools components for editing, viewing and navigating."
+msgstr ""
+
+#. +> trunk6
+#: src/controls.6/image2text/OCRPage.qml:35
+#, kde-format
+msgid "Read Area"
+msgstr ""
+
+#. +> trunk6
+#: src/controls.6/image2text/OCRPage.qml:47
+#, kde-format
+msgid "Read All"
+msgstr ""
+
+#. +> trunk6
+#: src/controls.6/image2text/OCRPage.qml:59
+#, kde-format
+msgid "Configure"
+msgstr ""
+
+#. +> trunk6
+#: src/controls.6/ImageInfoDialog.qml:119
+#, kde-format
+msgid "Edit"
+msgstr ""
+
+#. +> trunk6
+#: src/controls.6/ImageInfoDialog.qml:120
+#, kde-format
+msgid "Editing Exif tag"
+msgstr ""
+
+#. +> trunk6
+#: src/controls.6/ImageInfoDialog.qml:128
+#, kde-format
+msgid "Tag key"
+msgstr ""
+
+#. +> trunk6
+#: src/controls.6/ImageInfoDialog.qml:135
+#, kde-format
+msgid "Tag value"
+msgstr ""
+
+#. +> trunk6
+#: src/controls.6/ImageInfoDialog.qml:146
+#, kde-format
+msgid "Could not edit the tag"
+msgstr ""
+
+#. +> trunk6
+#: src/controls.6/ImageInfoDialog.qml:169
+#, kde-format
+msgid "Remove"
+msgstr ""
+
+#. +> trunk6
+#: src/controls.6/ImageInfoDialog.qml:170
+#, kde-format
+msgid "Are you sure you want to remove the Exif tag %1?"
+msgstr ""
+
+#. +> trunk6
+#: src/controls.6/ImageInfoDialog.qml:181
+#, kde-format
+msgid "Could not remove the tag"
+msgstr ""
+
+#. +> trunk6
+#: src/controls.6/ImageInfoDialog.qml:202
+#, kde-format
+msgid "Details"
+msgstr ""
+
+#. +> trunk6
+#: src/controls.6/ImageInfoDialog.qml:203
+#, kde-format
+msgid "File information"
+msgstr ""
+
+#. +> trunk6
+#: src/controls.6/linux/ImageEditor.qml:47
+#, kde-format
+msgid "Color"
+msgstr ""
+
+#. +> trunk6
+#: src/controls.6/linux/ImageEditor.qml:54
+#, kde-format
+msgid "Transform"
+msgstr ""
+
+#. +> trunk6
+#: src/controls.6/linux/ImageEditor.qml:61
+#, kde-format
+msgid "Layer"
+msgstr ""
+
+#. +> trunk6
+#: src/controls.6/private/ColourBar.qml:57
+#, kde-format
+msgctxt "@action:button Crop an image"
+msgid "Saturation"
+msgstr ""
+
+#. +> trunk6
+#: src/controls.6/private/ColourBar.qml:66
+#, kde-format
+msgctxt "@action:button Rotate an image"
+msgid "Contrast"
+msgstr ""
+
+#. +> trunk6
+#: src/controls.6/private/ColourBar.qml:75
+#, kde-format
+msgctxt "@action:button Rotate an image"
+msgid "Exposure"
+msgstr ""
+
+#. +> trunk6
+#: src/controls.6/private/ColourBar.qml:84
+#, kde-format
+msgctxt "@action:button Rotate an image"
+msgid "Highlights"
+msgstr ""
+
+#. +> trunk6
+#: src/controls.6/private/ColourBar.qml:93
+#, kde-format
+msgctxt "@action:button Rotate an image"
+msgid "Shadows"
+msgstr ""
+
+#. +> trunk6
+#: src/controls.6/private/ColourBar.qml:103
+#, kde-format
+msgctxt "@action:button Rotate an image"
+msgid "Brightness"
+msgstr ""
+
+#. +> trunk6
+#: src/controls.6/private/TransformationBar.qml:32
+#, kde-format
+msgctxt "@action:button Mirror an image vertically"
+msgid "Flip"
+msgstr ""
+
+#. +> trunk6
+#: src/controls.6/private/TransformationBar.qml:40
+#, kde-format
+msgctxt "@action:button Mirror an image horizontally"
+msgid "Mirror"
+msgstr ""
+
+#. +> trunk6
+#: src/controls.6/private/TransformationBar.qml:52
+#, kde-format
+msgctxt "@action:button Rotate an image 90°"
+msgid "Rotate 90°"
+msgstr ""
+
+#. +> trunk6
+#: src/controls.6/private/TransformationBar.qml:109
+#, kde-format
+msgctxt "@action:button Crop an image"
+msgid "Crop"
+msgstr ""
+
+#. +> trunk6
+#: src/controls.6/private/TransformationBar.qml:117
+#, kde-format
+msgctxt "@action:button Rotate an image"
+msgid "Rotate"
+msgstr ""

@@ -1,0 +1,1771 @@
+# translation of kaddressbook.po to Thai
+# Copyright (C) 2005 Free Software Foundation, Inc.
+# ถนอมทรัพย์ นพบูรณ์ <donga_n@yahoo.com>, 2005.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kaddressbook\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-03-13 10:24+0100\n"
+"PO-Revision-Date: 2010-03-25 14:22+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ถนอมทรัพย์ นพบูรณ์"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "donga.nb@gmail.com"
+
+#. +> trunk6 stable6
+#: kontactplugin/kaddressbook_plugin.cpp:31 src/aboutdata.cpp:17
+#: src/kaddressbookpart.cpp:26
+#, kde-format
+msgid "KAddressBook"
+msgstr "สมุดที่อยู่-K"
+
+#. +> trunk6 stable6
+#: kontactplugin/kaddressbook_plugin.cpp:33
+#, fuzzy, kde-format
+#| msgid "New &Contact..."
+msgctxt "@action:inmenu"
+msgid "New Contact..."
+msgstr "ที่อยู่&ติดต่อใหม่..."
+
+#. i18nc( "@info:status", "Create a new contact" ) );
+#. +> trunk6 stable6
+#: kontactplugin/kaddressbook_plugin.cpp:39
+#, fuzzy, kde-format
+#| msgid "You will be presented with a dialog, where you can configure the application wide shortcuts."
+msgctxt "@info:whatsthis"
+msgid "You will be presented with a dialog where you can create a new contact."
+msgstr "คุณจะพบกล่องโต้ตอบ ที่จะให้คุณได้ทำการปรับแต่งค่าแป้นพิมพ์ลัดของโปรแกรม"
+
+#. +> trunk6 stable6
+#: kontactplugin/kaddressbook_plugin.cpp:42
+#, fuzzy, kde-format
+#| msgid "New Contact"
+#| msgid_plural "New %1 Contacts"
+msgctxt "@action:inmenu"
+msgid "New Contact Group..."
+msgstr "ที่อยู่ติดต่อใหม่ %1 รายการ"
+
+#. i18nc( "@info:status", "Create a new contact group" ) );
+#. +> trunk6 stable6
+#: kontactplugin/kaddressbook_plugin.cpp:48
+#, fuzzy, kde-format
+#| msgid "You will be presented with a dialog, where you can configure the application wide shortcuts."
+msgctxt "@info:whatsthis"
+msgid "You will be presented with a dialog where you can create a new contact group."
+msgstr "คุณจะพบกล่องโต้ตอบ ที่จะให้คุณได้ทำการปรับแต่งค่าแป้นพิมพ์ลัดของโปรแกรม"
+
+#. +> trunk6 stable6
+#: src/aboutdata.cpp:19
+#, kde-format
+msgid "The KDE Address Book Application"
+msgstr "โปรแกรมสมุดที่อยู่สำหรับ KDE"
+
+#. +> trunk6 stable6
+#: src/aboutdata.cpp:21
+#, fuzzy, kde-format
+#| msgid "Copyright © 2007–2010 KAddressBook authors"
+msgid "Copyright © 2007–%1 KAddressBook authors"
+msgstr "สงวนลิขสิทธิ์ © 2007–2010 กลุ่มผู้เขียน KAddressBook"
+
+#. +> trunk6 stable6
+#: src/aboutdata.cpp:23
+#, fuzzy, kde-format
+#| msgid "Laurent Montel"
+msgctxt "@info:credit"
+msgid "Laurent Montel"
+msgstr "Laurent Montel"
+
+#. +> trunk6 stable6
+#: src/aboutdata.cpp:23
+#, kde-format
+msgid "Current maintainer"
+msgstr "ผู้ดูแลปัจจุบัน"
+
+#. +> trunk6 stable6
+#: src/aboutdata.cpp:24
+#, fuzzy, kde-format
+#| msgid "Tobias Koenig"
+msgctxt "@info:credit"
+msgid "Tobias König"
+msgstr "Tobias Koenig"
+
+#. +> trunk6 stable6
+#: src/aboutdata.cpp:24
+#, fuzzy, kde-format
+#| msgid "Current maintainer"
+msgid "Previous maintainer"
+msgstr "ผู้ดูแลปัจจุบัน"
+
+#. +> trunk6 stable6
+#: src/aboutdata.cpp:25
+#, fuzzy, kde-format
+#| msgid "Steffen Hansen"
+msgctxt "@info:credit"
+msgid "Stefan Taferner"
+msgstr "Steffen Hansen"
+
+#. +> trunk6 stable6
+#: src/aboutdata.cpp:25
+#, fuzzy, kde-format
+#| msgid "Original author"
+msgid "Original Author (1998)"
+msgstr "ผู้เขียนแรกเริ่ม"
+
+#. +> trunk6 stable6
+#: src/aboutdata.cpp:26
+#, kde-format
+msgctxt "@info:credit"
+msgid "David Bryant"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/aboutdata.cpp:27
+#, kde-format
+msgid "Documentation (2019)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/categoryselectwidget.cpp:94
+#, fuzzy, kde-format
+#| msgid "Use last active filter"
+msgctxt "@action:button"
+msgid "Reset category filter"
+msgstr "ใช้ตัวกรองล่าสุดที่ใช้มา"
+
+#. +> trunk6 stable6
+#: src/categoryselectwidget.cpp:101
+#, fuzzy, kde-format
+#| msgid "Use last active filter"
+msgctxt "@action:button"
+msgid "Clear category filter"
+msgstr "ใช้ตัวกรองล่าสุดที่ใช้มา"
+
+#. +> trunk6 stable6
+#: src/categoryselectwidget.cpp:105
+#, kde-format
+msgid "(Untagged)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/categoryselectwidget.cpp:110
+#, kde-format
+msgid "(Groups)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/categoryselectwidget.cpp:116 src/categoryselectwidget.cpp:221
+#, kde-format
+msgid "(All)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/categoryselectwidget.cpp:224
+#, fuzzy, kde-format
+#| msgid "None"
+msgid "(None)"
+msgstr "ไม่มี"
+
+#. +> trunk6 stable6
+#: src/categoryselectwidget.cpp:229
+#, kde-format
+msgid ", "
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/categoryselectwidget.cpp:229
+#, fuzzy, kde-format
+#| msgid "Category"
+msgctxt "@info:tooltip"
+msgid "<qt>Category filter: %1"
+msgstr "หมวดหมู่"
+
+#. +> trunk6 stable6
+#: src/configuration/kaddressbook_config_activities.cpp:20
+#, fuzzy, kde-format
+#| msgid "Table"
+msgid "Enabled"
+msgstr "ตาราง"
+
+#. +> trunk6 stable6
+#: src/configuration/kaddressbookconfigpluginlistwidget.cpp:66
+#, kde-format
+msgid "Tools Plugins"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/configuration/kaddressbookconfigpluginlistwidget.cpp:73
+#, kde-format
+msgid "Import/Export Plugins"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/contactinfoproxymodel.cpp:67
+#, fuzzy, kde-format
+#| msgid "Add..."
+msgid "..."
+msgstr "เพิ่ม..."
+
+#. +> trunk6 stable6
+#: src/contactinfoproxymodel.cpp:69
+#, kde-format
+msgid "Loading contacts details ..."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/contactinfoproxymodel.cpp:122
+#, fuzzy, kde-format
+#| msgid "Email:"
+msgid "Email: %1"
+msgstr "อีเมล:"
+
+#. +> trunk6 stable6
+#: src/contactinfoproxymodel.cpp:130
+#, fuzzy, kde-format
+#| msgid "Phone"
+msgid "Phone: %1"
+msgstr "โทรศัพท์"
+
+#. +> trunk6 stable6
+#: src/contactinfoproxymodel.cpp:136
+#, kde-format
+msgid "%1%2 %3"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/contactinfoproxymodel.cpp:149 src/contactinfoproxymodel.cpp:166
+#, kde-format
+msgid "%1 %2 %3"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/contactswitcher.cpp:18
+#, fuzzy, kde-format
+#| msgid "Next"
+msgctxt "@action:button Next contact"
+msgid "Next"
+msgstr "ถัดไป"
+
+#. +> trunk6 stable6
+#: src/contactswitcher.cpp:19
+#, fuzzy, kde-format
+#| msgid "Previous"
+msgctxt "@action:button Previous contact"
+msgid "Previous"
+msgstr "ก่อนหน้า"
+
+#. +> trunk6 stable6
+#: src/contactswitcher.cpp:24
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Move to the previous contact in the list"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/contactswitcher.cpp:25
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Press this button to move to the previous contact in the list."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/contactswitcher.cpp:27
+#, fuzzy, kde-format
+#| msgid "Copy the currently selected contact(s) to system clipboard in vCard format."
+msgctxt "@info:tooltip"
+msgid "Move to the next contact in the list"
+msgstr "คัดลอกที่อยู่ติดต่อที่เลือกไว้ในปัจจุบันไปยังคลิปบอร์ดของระบบในรูปแบบของนามบัตรเสมือน"
+
+#. +> trunk6 stable6
+#: src/contactswitcher.cpp:28
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Press this button to move to the next contact in the list."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/contactswitcher.cpp:106
+#, fuzzy, kde-format
+#| msgctxt "<nickname> on <server>"
+#| msgid "%1 on %2"
+msgctxt "@info:status"
+msgid "%1 out of %2"
+msgstr "%1 บน %2"
+
+#. +> trunk6 stable6
+#: src/importexport/contactfields.cpp:20
+#, fuzzy, kde-format
+#| msgid "Undefined"
+msgctxt "@item Undefined import field type"
+msgid "Undefined"
+msgstr "ยังไม่ระบุ"
+
+#. +> trunk6 stable6
+#: src/importexport/contactfields.cpp:39
+#, fuzzy, kde-format
+#| msgid "Anniversary"
+msgctxt "The wedding anniversary of a contact"
+msgid "Anniversary"
+msgstr "วันครบรอบ"
+
+#. +> trunk6 stable6
+#: src/importexport/contactfields.cpp:85
+#, fuzzy, kde-format
+#| msgid "EMail (preferred)"
+msgctxt "Preferred email address"
+msgid "EMail (preferred)"
+msgstr "อีเมล (ที่ควรใช้)"
+
+#. +> trunk6 stable6
+#: src/importexport/contactfields.cpp:87
+#, fuzzy, kde-format
+#| msgid "EMail (2)"
+msgctxt "Second email address"
+msgid "EMail (2)"
+msgstr "อีเมล (2)"
+
+#. +> trunk6 stable6
+#: src/importexport/contactfields.cpp:89
+#, fuzzy, kde-format
+#| msgid "EMail (3)"
+msgctxt "Third email address"
+msgid "EMail (3)"
+msgstr "อีเมล (3)"
+
+#. +> trunk6 stable6
+#: src/importexport/contactfields.cpp:91
+#, fuzzy, kde-format
+#| msgid "EMail (4)"
+msgctxt "Fourth email address"
+msgid "EMail (4)"
+msgstr "อีเมล (4)"
+
+#. +> trunk6 stable6
+#: src/importexport/contactfields.cpp:105
+#: src/viewertemplates/contact_embedded.html:75
+#, fuzzy, kde-format
+#| msgid "Blog feed:"
+msgid "Blog Feed"
+msgstr "แหล่งป้อนบล็อก:"
+
+#. +> trunk6 stable6
+#: src/importexport/contactfields.cpp:107
+#, kde-format
+msgid "Profession"
+msgstr "อาชีพ"
+
+#. +> trunk6 stable6
+#: src/importexport/contactfields.cpp:109
+#, kde-format
+msgid "Office"
+msgstr "สำนักงาน"
+
+#. +> trunk6 stable6
+#: src/importexport/contactfields.cpp:111
+#, fuzzy, kde-format
+#| msgid "Myanmar"
+msgid "Manager"
+msgstr "พม่า"
+
+#. +> trunk6 stable6
+#: src/importexport/contactfields.cpp:113
+#, fuzzy, kde-format
+#| msgid "Assistant's Name"
+msgid "Assistant"
+msgstr "ชื่อที่ปรึกษา"
+
+#. +> trunk6 stable6
+#: src/importexport/contactfields.cpp:115
+#, kde-format
+msgid "Spouse"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/importexport/contactselectiondialog.cpp:22
+#, fuzzy, kde-format
+#| msgid "&Selected contacts"
+msgctxt "@title:window"
+msgid "Select Contacts"
+msgstr "ที่อยู่ติดต่อที่เลือกไว้"
+
+#. +> trunk6 stable6
+#: src/importexport/contactselectionwidget.cpp:115
+#, fuzzy, kde-format
+#| msgid "All contacts"
+msgctxt "@option:radio"
+msgid "All contacts"
+msgstr "ที่อยู่ติดต่อทั้งหมด"
+
+#. +> trunk6 stable6
+#: src/importexport/contactselectionwidget.cpp:116
+#, fuzzy, kde-format
+#| msgid "%1 is not a GMX address book file."
+msgctxt "@info:tooltip"
+msgid "All contacts from all your address books"
+msgstr "แฟ้ม %1 ไม่ใช่แฟ้มสมุดที่อยู่แบบ GMX"
+
+#. +> trunk6 stable6
+#: src/importexport/contactselectionwidget.cpp:118
+#, fuzzy, kde-format
+#| msgid "Please select type of the new address book:"
+msgctxt "@info:whatsthis"
+msgid "Choose this option you want to select all your contacts from all your address books."
+msgstr "โปรดเลือกประเภทของสมุดที่อยู่ใหม่:"
+
+#. +> trunk6 stable6
+#: src/importexport/contactselectionwidget.cpp:121
+#, fuzzy, kde-format
+#| msgid "&Selected contacts"
+msgctxt "@option:radio"
+msgid "Selected contacts"
+msgstr "ที่อยู่ติดต่อที่เลือกไว้"
+
+#. +> trunk6 stable6
+#: src/importexport/contactselectionwidget.cpp:122
+#, fuzzy, kde-format
+#| msgid "No Contacts Selected"
+msgctxt "@info:tooltip"
+msgid "Only the contacts currently selected"
+msgstr "ยังไม่มีที่อยู่ติดต่อที่เลือกไว้"
+
+#. +> trunk6 stable6
+#: src/importexport/contactselectionwidget.cpp:124
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Choose this option if you want only the contacts you have already selected in the graphical interface."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/importexport/contactselectionwidget.cpp:127
+#, fuzzy, kde-format
+#| msgid "&All contacts"
+msgctxt "@option:radio"
+msgid "All contacts from:"
+msgstr "ที่อยู่ติดต่อทั้งหมด"
+
+#. +> trunk6 stable6
+#: src/importexport/contactselectionwidget.cpp:128
+#, fuzzy, kde-format
+#| msgid "%1 is not a GMX address book file."
+msgctxt "@info:tooltip"
+msgid "All contacts from a chosen address book"
+msgstr "แฟ้ม %1 ไม่ใช่แฟ้มสมุดที่อยู่แบบ GMX"
+
+#. +> trunk6 stable6
+#: src/importexport/contactselectionwidget.cpp:130
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Choose this option if you want to select all the contacts from only one of your address books.  Once this option is clicked you will be provided a drop down box listing all those address books and permitted to select the one you want."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/importexport/contactselectionwidget.cpp:139
+#, kde-format
+msgctxt "@option:check"
+msgid "Include Subfolders"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/importexport/contactselectionwidget.cpp:140
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Select all subfolders including the top-level folder"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/importexport/contactselectionwidget.cpp:142
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Check this box if you want to select all contacts from this folder, including all subfolders.  If you only want the contacts from the top-level folder then leave this box unchecked."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/importexport/contactselectionwidget.cpp:170
+#, fuzzy, kde-format
+#| msgid "&Selected contacts"
+msgctxt "@title:window"
+msgid "Collect Contacts"
+msgstr "ที่อยู่ติดต่อที่เลือกไว้"
+
+#. +> trunk6 stable6
+#: src/importexport/contactselectionwidget.cpp:173
+#, fuzzy, kde-format
+#| msgid "&Selected contacts"
+msgid "Fetch Contacts"
+msgstr "ที่อยู่ติดต่อที่เลือกไว้"
+
+#. +> trunk6 stable6
+#: src/importexport/importexportengine.cpp:58
+#, fuzzy, kde-format
+#| msgid "Address Book"
+msgctxt "@title:window"
+msgid "Select Address Book"
+msgstr "สมุดที่อยู่"
+
+#. +> trunk6 stable6
+#: src/importexport/importexportengine.cpp:59
+#, fuzzy, kde-format
+#| msgid "Set the categories for all selected contacts."
+msgid "Select the address book the imported contact(s) shall be saved in:"
+msgstr "ตั้งหมวดหมู่ให้ที่อยู่ติดต่อที่เลือกไว้ทั้งหมด"
+
+#. +> trunk6 stable6
+#: src/importexport/importexportengine.cpp:74
+#, fuzzy, kde-format
+#| msgid "Importing contacts"
+msgctxt "@title:window"
+msgid "Import Contacts"
+msgstr "กำลังนำเข้าที่อยู่ติดต่อ"
+
+#. +> trunk6 stable6
+#: src/importexport/importexportengine.cpp:75
+#, fuzzy, kde-format
+#| msgid "Importing contacts"
+msgid "Importing one contact to %2"
+msgid_plural "Importing %1 contacts to %2"
+msgstr[0] "กำลังนำเข้าที่อยู่ติดต่อ"
+
+#. +> trunk6 stable6
+#: src/kaddressbook_options.h:15
+#, fuzzy, kde-format
+#| msgid "Import the given vCard"
+msgctxt "@info:shell"
+msgid "Import the given file"
+msgstr "นำเข้าจากนามบัตรเสมือนที่ให้"
+
+#. +> trunk6 stable6
+#: src/kaddressbook_options.h:17
+#, kde-format
+msgctxt "@info:shell"
+msgid "Open the 'New Contact' dialog"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/kaddressbook_options.h:19
+#, kde-format
+msgctxt "@info:shell"
+msgid "Display the specified contact (by URL)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/kaddressbook_options.h:22
+#, kde-format
+msgctxt "@info:shell"
+msgid "Files or URLs. The user will be asked whether to import."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/kaddressbook_options.h:26
+#, kde-format
+msgctxt "@info:shell"
+msgid "Lists the available options for user feedback"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/kaddressbookpart.cpp:49
+#, fuzzy, kde-format
+#| msgid "Import KDE 2 Addressbook..."
+msgid "&Configure KAddressBook…"
+msgstr "นำเข้าจากสมุดที่อยู่ของ KDE 2..."
+
+#. i18n: ectx: Menu (file)
+#. +> trunk6 stable6
+#: src/kaddressbookui.rc:5 src/kaddressbookui_part.rc:5
+#, kde-format
+msgid "&File"
+msgstr "แ&ฟ้ม"
+
+#. i18n: ectx: Menu (file_new)
+#. +> trunk6 stable6
+#: src/kaddressbookui.rc:7 src/kaddressbookui_part.rc:7
+#, kde-format
+msgid "&New"
+msgstr "สร้างใ&หม่"
+
+#. i18n: ectx: Menu (edit)
+#. +> trunk6 stable6
+#: src/kaddressbookui.rc:25 src/kaddressbookui_part.rc:25
+#, kde-format
+msgid "&Edit"
+msgstr "แ&ก้ไข"
+
+#. i18n: ectx: Menu (view)
+#. +> trunk6 stable6
+#: src/kaddressbookui.rc:41 src/kaddressbookui_part.rc:41
+#, kde-format
+msgid "&View"
+msgstr "มุมมอง"
+
+#. i18n: ectx: Menu (action)
+#. +> trunk6 stable6
+#: src/kaddressbookui.rc:54 src/kaddressbookui_part.rc:54
+#, fuzzy, kde-format
+#| msgid "Latin1"
+msgid "&Action"
+msgstr "ละติน1"
+
+#. i18n: ectx: Menu (tools)
+#. +> trunk6 stable6
+#: src/kaddressbookui.rc:58 src/kaddressbookui_part.rc:58
+#, kde-format
+msgid "&Tools"
+msgstr "เครื่องมือ"
+
+#. i18n: ectx: Menu (settings)
+#. +> trunk6 stable6
+#: src/kaddressbookui.rc:62 src/kaddressbookui_part.rc:62
+#, kde-format
+msgid "&Settings"
+msgstr "&ตั้งค่า"
+
+#. i18n: ectx: Menu (file_export)
+#. +> trunk6 stable6
+#: src/kaddressbookui.rc:92 src/kaddressbookui_part.rc:90
+#, kde-format
+msgid "&Export"
+msgstr "&ส่งออก"
+
+#. i18n: ectx: Menu (help)
+#. +> trunk6 stable6
+#: src/kaddressbookui.rc:116 src/kaddressbookui_part.rc:114
+#, kde-format
+msgid "&Help"
+msgstr ""
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#. +> trunk6 stable6
+#: src/kaddressbookui.rc:121 src/kaddressbookui_part.rc:119
+#, kde-format
+msgid "Main Toolbar"
+msgstr "แถบเครื่องมือหลัก"
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:375
+#, kde-format
+msgid "Import"
+msgstr "นำเข้า"
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:382
+#, fuzzy, kde-format
+#| msgid "&Export"
+msgid "Export"
+msgstr "&ส่งออก"
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:434
+#, fuzzy, kde-format
+#| msgid "Search"
+msgctxt "@label Search contacts in list"
+msgid "Search… <%1>"
+msgstr "ค้นหา"
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:670
+#, fuzzy, kde-format
+#| msgid "Set the categories for all selected contacts."
+msgctxt "@info:whatsthis"
+msgid "Print the complete address book or a selected number of contacts."
+msgstr "ตั้งหมวดหมู่ให้ที่อยู่ติดต่อที่เลือกไว้ทั้งหมด"
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:675
+#, fuzzy, kde-format
+#| msgid "Recursive search"
+msgid "Quick search"
+msgstr "ค้นหาในรายการย่อยด้วย"
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:680
+#, fuzzy, kde-format
+#| msgid "Category"
+msgid "Category filter"
+msgstr "หมวดหมู่"
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:685
+#, kde-format
+msgid "Select All"
+msgstr "เลือกทั้งหมด"
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:687
+#, fuzzy, kde-format
+#| msgid "Selects all visible contacts from current view."
+msgid "Select all contacts in the current address book view."
+msgstr "เลือกที่อยู่ติดต่อทั้งหมดที่ปรากฏอยู่ในมุมมองปัจจุบัน"
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:691
+#, kde-format
+msgid "Show QR Codes"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:692
+#, kde-format
+msgid "Show QR Codes in the contact."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:697
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Simple (one column)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:701
+#, fuzzy, kde-format
+#| msgid "Please select type of the new address book:"
+msgid "Show a simple mode of the address book view."
+msgstr "โปรดเลือกประเภทของสมุดที่อยู่ใหม่:"
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:704
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Two Columns"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:710
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Three Columns"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:723
+#, kde-format
+msgctxt "@action"
+msgid "Set Focus to Quick Search"
+msgstr ""
+
+#. +> stable6
+#: src/mainwidget.cpp:723
+#, kde-format
+msgid "Serverside Subscription…"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:740
+#, kde-format
+msgid "What's new"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:756 src/mainwidget.cpp:783
+#: src/printing/grantlee/themes/big-theme-example/theme.html:3
+#, kde-format
+msgid "Address Book"
+msgstr "สมุดที่อยู่"
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:789 src/printing/printingwizard.cpp:44
+#, fuzzy, kde-format
+#| msgid "Edit Contact"
+msgctxt "@title:window"
+msgid "Print Contacts"
+msgstr "แก้ไขที่อยู่ติดต่อ"
+
+#. +> trunk6 stable6
+#: src/mainwindow.cpp:128
+#, fuzzy, kde-format
+#| msgid "You will be presented with a dialog, where you can configure the application wide shortcuts."
+msgctxt "@info:whatsthis"
+msgid "You will be presented with a dialog where you can configure the application-wide shortcuts."
+msgstr "คุณจะพบกล่องโต้ตอบ ที่จะให้คุณได้ทำการปรับแต่งค่าแป้นพิมพ์ลัดของโปรแกรม"
+
+#. +> trunk6 stable6
+#: src/mainwindow.cpp:227
+#, kde-format
+msgid "<qt>This will hide the menu bar completely. You can show it again by typing %1.</qt>"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/mainwindow.cpp:230
+#, fuzzy, kde-format
+#| msgid "Hide Jump Bar"
+msgctxt "@title:window"
+msgid "Hide menu bar"
+msgstr "ซ่อนแถบกระโดด"
+
+#. +> trunk6 stable6
+#: src/manageshowcollectionproperties.cpp:83
+#, fuzzy, kde-format
+#| msgid "Edit Address Book Filter"
+msgctxt "@title:window"
+msgid "Properties of Address Book Folder %1"
+msgstr "แก้ไขตัวกรองสมุดที่อยู่"
+
+#. +> trunk6 stable6
+#: src/modelcolumnmanager.cpp:69
+#, kde-format
+msgid "Full Name"
+msgstr "ชื่อเต็ม"
+
+#. +> trunk6 stable6
+#: src/modelcolumnmanager.cpp:74
+#, kde-format
+msgid "Family Name"
+msgstr "นามสกุล"
+
+#. +> trunk6 stable6
+#: src/modelcolumnmanager.cpp:78
+#, kde-format
+msgid "Given Name"
+msgstr "ชื่อจริง"
+
+#. +> trunk6 stable6
+#: src/modelcolumnmanager.cpp:86 src/printing/detailled/detailledstyle.cpp:130
+#, kde-format
+msgid "Home Address"
+msgstr "ที่อยู่ที่บ้าน"
+
+#. +> trunk6 stable6
+#: src/modelcolumnmanager.cpp:90
+#, kde-format
+msgid "Business Address"
+msgstr "ที่อยู่ภาคธุรกิจ"
+
+#. +> trunk6 stable6
+#: src/modelcolumnmanager.cpp:94
+#, kde-format
+msgid "Phone Numbers"
+msgstr "หมายเลขโทรศัพท์"
+
+#. +> trunk6 stable6
+#: src/modelcolumnmanager.cpp:98
+#, kde-format
+msgid "Preferred EMail"
+msgstr "อีเมลที่ควรใช้"
+
+#. +> trunk6 stable6
+#: src/modelcolumnmanager.cpp:102
+#, kde-format
+msgid "All EMails"
+msgstr "อีเมลทั้งหมด"
+
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.cpp:113
+#, fuzzy, kde-format
+#| msgid "Company"
+msgid "Compact Style"
+msgstr "บริษัท"
+
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.cpp:167
+#: src/printing/detailled/detailledstyle.cpp:262
+#: src/printing/grantlee/grantleeprintstyle.cpp:41
+#: src/printing/mike/mikesstyle.cpp:116
+#: src/printing/ringbinder/ringbinderstyle.cpp:168
+#, fuzzy, kde-format
+#| msgid "Setting up fonts and colors"
+msgid "Setting up document"
+msgstr "กำลังตั้งค่าแบบอักษรและชุดสี"
+
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.cpp:174
+#: src/printing/detailled/detailledstyle.cpp:269
+#: src/printing/grantlee/grantleeprintstyle.cpp:50
+#: src/printing/mike/mikesstyle.cpp:123
+#: src/printing/ringbinder/ringbinderstyle.cpp:201
+#, kde-format
+msgid "Printing"
+msgstr "การพิมพ์"
+
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.cpp:178
+#: src/printing/detailled/detailledstyle.cpp:273
+#: src/printing/grantlee/grantleeprintstyle.cpp:54
+#: src/printing/mike/mikesstyle.cpp:127
+#: src/printing/ringbinder/ringbinderstyle.cpp:205
+#, fuzzy, kde-format
+#| msgid "Done"
+msgctxt "Finished printing"
+msgid "Done"
+msgstr "เรียบร้อยแล้ว"
+
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.cpp:201
+#, fuzzy, kde-format
+#| msgid "Choose Printing Style"
+msgid "Compact Printing Style"
+msgstr "เลือกรูปลักษณะการพิมพ์"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, CompactStyleForm_Base)
+#. i18n: ectx: property (windowTitle), widget (QWidget, RingBinderStyleAppearanceForm_Base)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:14
+#: src/printing/ringbinder/rbs_appearance.ui:14
+#, kde-format
+msgid "Appearance"
+msgstr "รูปลักษณ์"
+
+#. i18n: ectx: property (title), widget (QGroupBox, gbFields)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:35
+#, kde-format
+msgid "Fields"
+msgstr "ช่องข้อมูล"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbWithHomeAddress)
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbWithHomeAddress)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:43
+#: src/printing/compact/compactstyle.ui:46
+#, kde-format
+msgid "Print the home address, with home phone number and mobile phone number"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbWithHomeAddress)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:49
+#, fuzzy, kde-format
+#| msgid "Home Address"
+msgid "with home address"
+msgstr "ที่อยู่ที่บ้าน"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbWithBusinessAddress)
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbWithBusinessAddress)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:56
+#: src/printing/compact/compactstyle.ui:59
+#, kde-format
+msgid "print the business address, with business phone number"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbWithBusinessAddress)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:62
+#, fuzzy, kde-format
+#| msgid "Business Address"
+msgid "with business address"
+msgstr "ที่อยู่ภาคธุรกิจ"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbWithBirthday)
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbWithBirthday)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:69
+#: src/printing/compact/compactstyle.ui:72
+#, fuzzy, kde-format
+#| msgid "Edit Contact"
+msgid "Print the birthday"
+msgstr "แก้ไขที่อยู่ติดต่อ"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbWithBirthday)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:75
+#, fuzzy, kde-format
+#| msgid "Birthday"
+msgid "with birthday"
+msgstr "วันเกิด"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbWithEMail)
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbWithEMail)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:82
+#: src/printing/compact/compactstyle.ui:85
+#, kde-format
+msgid "Print the preferred and the secondary e-mail fields"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbWithEMail)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:88
+#, fuzzy, kde-format
+#| msgid "Edit Email"
+msgid "with e-mail"
+msgstr "แก้ไขอีเมล"
+
+#. i18n: ectx: property (toolTip), widget (QLabel, lbCbFirst)
+#. i18n: ectx: property (whatsThis), widget (QLabel, lbCbFirst)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:112
+#: src/printing/compact/compactstyle.ui:115
+#, kde-format
+msgid "the first color, if alternating color is checked"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, lbCbFirst)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:118
+#, kde-format
+msgid "first color"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QLabel, lbCbSecond)
+#. i18n: ectx: property (whatsThis), widget (QLabel, lbCbSecond)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:125
+#: src/printing/compact/compactstyle.ui:128
+#, kde-format
+msgid "the second color, if alternating color is checked"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, lbCbSecond)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:131
+#, fuzzy, kde-format
+#| msgid "Background Color"
+msgid "second color"
+msgstr "สีพื้นหลัง"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbAlternating)
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbAlternating)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:138
+#: src/printing/compact/compactstyle.ui:141
+#, fuzzy, kde-format
+#| msgid "Headline background color:"
+msgid "Change the background color of every row"
+msgstr "สีพื้นหลังบรรทัดส่วนหัว:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbAlternating)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:144
+#, fuzzy, kde-format
+#| msgid "Alternating backgrounds"
+msgid "Alternating the background color"
+msgstr "พื้นหลังแบบอื่น"
+
+#. +> trunk6 stable6
+#: src/printing/detailled/detailledstyle.cpp:74
+#, fuzzy, kde-format
+#| msgid "Organization"
+msgid "Organization:"
+msgstr "องค์กร"
+
+#. +> trunk6 stable6
+#: src/printing/detailled/detailledstyle.cpp:82
+#, kde-format
+msgid "Email address:"
+msgstr "ที่อยู่อีเมล:"
+
+#. +> trunk6 stable6
+#: src/printing/detailled/detailledstyle.cpp:82
+#, kde-format
+msgid "Email addresses:"
+msgstr "ที่อยู่อีเมล:"
+
+#. +> trunk6 stable6
+#: src/printing/detailled/detailledstyle.cpp:92
+#, kde-format
+msgid "Telephone:"
+msgstr "โทรศัพท์:"
+
+#. +> trunk6 stable6
+#: src/printing/detailled/detailledstyle.cpp:92
+#, kde-format
+msgid "Telephones:"
+msgstr "โทรศัพท์:"
+
+#. +> trunk6 stable6
+#: src/printing/detailled/detailledstyle.cpp:104
+#, kde-format
+msgid "Web page:"
+msgstr "หน้าเว็บ:"
+
+#. +> trunk6 stable6
+#: src/printing/detailled/detailledstyle.cpp:118
+#, kde-format
+msgid "Domestic Address"
+msgstr "ที่อยู่ในประเทศ"
+
+#. +> trunk6 stable6
+#: src/printing/detailled/detailledstyle.cpp:121
+#, kde-format
+msgid "International Address"
+msgstr "ที่อยู่ต่างประเทศ"
+
+#. +> trunk6 stable6
+#: src/printing/detailled/detailledstyle.cpp:124
+#, kde-format
+msgid "Postal Address"
+msgstr "ที่อยู่ทางไปรษณีย์"
+
+#. +> trunk6 stable6
+#: src/printing/detailled/detailledstyle.cpp:127
+#, kde-format
+msgid "Parcel Address"
+msgstr "ที่อยู่จัดส่ง"
+
+#. +> trunk6 stable6
+#: src/printing/detailled/detailledstyle.cpp:133
+#, kde-format
+msgid "Work Address"
+msgstr "ที่อยู่ที่ทำงาน"
+
+#. +> trunk6 stable6
+#: src/printing/detailled/detailledstyle.cpp:137
+#, kde-format
+msgid "Preferred Address"
+msgstr "ที่อยู่ที่กำหนด"
+
+#. +> trunk6 stable6
+#: src/printing/detailled/detailledstyle.cpp:148
+#, fuzzy, kde-format
+#| msgid "Note:"
+msgid "Notes:"
+msgstr "บันทึกย่อ:"
+
+#. i18n: ectx: property (text), widget (QLabel, labelHeader)
+#. +> trunk6 stable6
+#: src/printing/detailled/detailledstyle.cpp:232
+#: src/printing/detailled/ds_appearance.ui:58
+#, kde-format
+msgid "Detailed Print Style - Appearance"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/printing/detailled/detailledstyle.cpp:245
+#, fuzzy, kde-format
+#| msgid "Setting up fonts and colors"
+msgid "Setting up colors"
+msgstr "กำลังตั้งค่าแบบอักษรและชุดสี"
+
+#. +> trunk6 stable6
+#: src/printing/detailled/detailledstyle.cpp:288
+#, kde-format
+msgid "Detailed Style"
+msgstr "ลักษณะรายละเอียด"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, AppearancePage_Base)
+#. +> trunk6 stable6
+#: src/printing/detailled/ds_appearance.ui:14
+#, kde-format
+msgid "Appearance Page"
+msgstr "หน้ารูปลักษณ์"
+
+#. i18n: ectx: property (title), widget (QGroupBox, gbHeadline)
+#. +> trunk6 stable6
+#: src/printing/detailled/ds_appearance.ui:77
+#, kde-format
+msgid "Contact Headers"
+msgstr "หัวที่อยู่ติดต่อ"
+
+#. i18n: ectx: property (toolTip), widget (KColorButton, kcbHeaderBGColor)
+#. +> trunk6 stable6
+#: src/printing/detailled/ds_appearance.ui:119
+#, fuzzy, kde-format
+#| msgid "Headline background color:"
+msgid "Select the headline text background color"
+msgstr "สีพื้นหลังบรรทัดส่วนหัว:"
+
+#. i18n: ectx: property (whatsThis), widget (KColorButton, kcbHeaderBGColor)
+#. +> trunk6 stable6
+#: src/printing/detailled/ds_appearance.ui:122
+#, kde-format
+msgid "Click this button to start a color chooser that will allow you set to the color for the headline background color."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, tlBackgroundColor)
+#. +> trunk6 stable6
+#: src/printing/detailled/ds_appearance.ui:139
+#, kde-format
+msgid "Headline background color:"
+msgstr "สีพื้นหลังบรรทัดส่วนหัว:"
+
+#. i18n: ectx: property (text), widget (QLabel, tlHeaderColor)
+#. +> trunk6 stable6
+#: src/printing/detailled/ds_appearance.ui:149
+#, kde-format
+msgid "Headline text color:"
+msgstr "สีข้อความบรรทัดส่วนหัว:"
+
+#. i18n: ectx: property (toolTip), widget (KColorButton, kcbHeaderTextColor)
+#. +> trunk6 stable6
+#: src/printing/detailled/ds_appearance.ui:162
+#, fuzzy, kde-format
+#| msgid "Headline text color:"
+msgid "Select the headline text color"
+msgstr "สีข้อความบรรทัดส่วนหัว:"
+
+#. i18n: ectx: property (whatsThis), widget (KColorButton, kcbHeaderTextColor)
+#. +> trunk6 stable6
+#: src/printing/detailled/ds_appearance.ui:165
+#, kde-format
+msgid "Click this button to start a color chooser that will allow you set to the color for the headline text."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/printing/grantlee/themes/default/theme.html:35
+#, fuzzy
+#| msgid "Contacts"
+msgid "Contact"
+msgstr "ที่อยู่ติดต่อ"
+
+#. +> trunk6 stable6
+#: src/printing/grantlee/themes/default/theme.html:42
+#: src/printing/grantlee/themes/full/theme.html:42
+#, fuzzy
+#| msgctxt "@item LDAP search key"
+#| msgid "Email"
+msgid "Emails"
+msgstr "อีเมล"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbOrganization)
+#. +> trunk6 stable6
+#: src/printing/grantlee/themes/default/theme.html:52
+#: src/printing/grantlee/themes/full/theme.html:52
+#: src/printing/ringbinder/rbs_appearance.ui:95
+#, kde-format
+msgid "Organization"
+msgstr "องค์กร"
+
+#. +> trunk6 stable6
+#: src/printing/grantlee/themes/default/theme.html:58
+#: src/printing/grantlee/themes/full/theme.html:58
+#: src/viewertemplates/contact_embedded.html:62
+msgid "Website"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbBirthday)
+#. +> trunk6 stable6
+#: src/printing/grantlee/themes/default/theme.html:64
+#: src/printing/grantlee/themes/full/theme.html:64
+#: src/printing/ringbinder/rbs_appearance.ui:108
+#: src/viewertemplates/contact_embedded.html:26
+#, kde-format
+msgid "Birthday"
+msgstr "วันเกิด"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbNote)
+#. +> trunk6 stable6
+#: src/printing/grantlee/themes/default/theme.html:70
+#: src/printing/grantlee/themes/full/theme.html:70
+#: src/printing/ringbinder/rbs_appearance.ui:121
+#, kde-format
+msgid "Note"
+msgstr "บันทึกย่อ"
+
+#. +> trunk6 stable6
+#: src/printing/grantlee/themes/full/theme.html:76
+#, fuzzy
+#| msgctxt "@item LDAP search key"
+#| msgid "Title"
+msgid "Title"
+msgstr "ตำแหน่ง"
+
+#. +> trunk6 stable6
+#: src/printing/mike/mikesstyle.cpp:142
+#, kde-format
+msgid "Mike's Printing Style"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/printing/printingwizard.cpp:47
+#, kde-format
+msgid "Which contacts do you want to print?"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/printing/printingwizard.cpp:49
+#, kde-format
+msgid "Choose Contacts to Print"
+msgstr "เลือกที่อยู่ติดต่อที่จะพิมพ์ก"
+
+#. +> trunk6 stable6
+#: src/printing/printingwizard.cpp:55
+#, kde-format
+msgid "Choose Printing Style"
+msgstr "เลือกรูปลักษณะการพิมพ์"
+
+#. +> trunk6 stable6
+#: src/printing/printingwizard.cpp:202
+#, kde-format
+msgid "Print Progress"
+msgstr "ความคืบหน้าการพิมพ์"
+
+#. +> trunk6 stable6
+#: src/printing/printprogress.cpp:24
+#, fuzzy, kde-format
+#| msgid "Printing: Progress"
+msgctxt "@title:window"
+msgid "Printing: Progress"
+msgstr "การพิมพ์: กำลังดำเนินการ"
+
+#. +> trunk6 stable6
+#: src/printing/printprogress.cpp:31
+#, kde-format
+msgctxt "Percent value; %p is the value, % is the percent sign"
+msgid "%p%"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/printing/printprogress.cpp:43
+#, kde-format
+msgid "Progress"
+msgstr "ความคืบหน้า"
+
+#. i18n: ectx: property (title), widget (QGroupBox, GroupBox2)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:35
+#, kde-format
+msgid "Print Contact's Information"
+msgstr "พิมพ์ข้อมูลของที่อยู่ติดต่อด้วย"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbPhoneNumbers)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:41
+#, fuzzy, kde-format
+#| msgid "Phone numbers"
+msgid "Print contact phone numbers"
+msgstr "หมายเลขโทรศัพท์"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbPhoneNumbers)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:44
+#, kde-format
+msgid "Check this box if you want contact phone numbers to be printed."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbPhoneNumbers)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:47
+#, kde-format
+msgid "Phone numbers"
+msgstr "หมายเลขโทรศัพท์"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbEmails)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:57
+#, fuzzy, kde-format
+#| msgid "Postal addresses"
+msgid "Print contact email addresses"
+msgstr "ที่อยู่ทางไปรษณีย์"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbEmails)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:60
+#, kde-format
+msgid "Check this box if you want contact email addresses to be printed."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbEmails)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:63
+#, kde-format
+msgid "Email addresses"
+msgstr "ที่อยู่อีเมล"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbStreetAddresses)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:73
+#, fuzzy, kde-format
+#| msgid "Street addresses"
+msgid "Print contact street addresses"
+msgstr "ที่อยู่"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbStreetAddresses)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:76
+#, kde-format
+msgid "Check this box if you want contact street addresses to be printed."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbStreetAddresses)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:79
+#, kde-format
+msgid "Postal addresses"
+msgstr "ที่อยู่ทางไปรษณีย์"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbOrganization)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:89
+#, fuzzy, kde-format
+#| msgid "Print Contact's Information"
+msgid "Print contact organizations"
+msgstr "พิมพ์ข้อมูลของที่อยู่ติดต่อด้วย"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbOrganization)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:92
+#, kde-format
+msgid "Check this box if you want contact organizations to be printed."
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbBirthday)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:102
+#, fuzzy, kde-format
+#| msgid "Edit Contact"
+msgid "Print contact birthdays"
+msgstr "แก้ไขที่อยู่ติดต่อ"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbBirthday)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:105
+#, kde-format
+msgid "Check this box if you want contact birthdays to be printed."
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbNote)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:115
+#, fuzzy, kde-format
+#| msgid "Edit Contact"
+msgid "Print contact notes"
+msgstr "แก้ไขที่อยู่ติดต่อ"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbNote)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:118
+#, kde-format
+msgid "Check this box if you want contact notes to be printed."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/printing/ringbinder/ringbinderstyle.cpp:80
+#, fuzzy, kde-format
+#| msgid "Note:"
+msgid "Note: "
+msgstr "บันทึกย่อ:"
+
+#. +> trunk6 stable6
+#: src/printing/ringbinder/ringbinderstyle.cpp:136
+#, kde-format
+msgid "Ring Binder Printing Style - Appearance"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/printing/ringbinder/ringbinderstyle.cpp:152
+#, fuzzy, kde-format
+#| msgid "Setting up fonts and colors"
+msgid "Setting up fields"
+msgstr "กำลังตั้งค่าแบบอักษรและชุดสี"
+
+#. +> trunk6 stable6
+#: src/printing/ringbinder/ringbinderstyle.cpp:220
+#, kde-format
+msgid "Printout for Ring Binders"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/printing/stylepage.cpp:36
+#, fuzzy, kde-format
+#| msgid "Ascending"
+msgctxt "@item:inlistbox Ascending sort order"
+msgid "Ascending"
+msgstr "จากน้อยไปมาก"
+
+#. +> trunk6 stable6
+#: src/printing/stylepage.cpp:37
+#, fuzzy, kde-format
+#| msgid "Descending"
+msgctxt "@item:inlistbox Descending sort order"
+msgid "Descending"
+msgstr "จากมากไปน้อย"
+
+#. +> trunk6 stable6
+#: src/printing/stylepage.cpp:47
+#, fuzzy, kde-format
+#| msgid "(No preview available.)"
+msgctxt "@label"
+msgid "(No preview available.)"
+msgstr "(ไม่มีส่วนแสดงตัวอย่าง)"
+
+#. +> trunk6 stable6
+#: src/printing/stylepage.cpp:109
+#, fuzzy, kde-format
+#| msgid "Choose Printing Style"
+msgctxt "@title:window"
+msgid "Choose Printing Style"
+msgstr "เลือกรูปลักษณะการพิมพ์"
+
+#. +> trunk6 stable6
+#: src/printing/stylepage.cpp:114
+#, kde-format
+msgctxt "@label:textbox"
+msgid ""
+"What should the print look like?\n"
+"KAddressBook has several printing styles, designed for different purposes.\n"
+"Choose the style that suits your needs below."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/printing/stylepage.cpp:121
+#, fuzzy, kde-format
+#| msgid "Sorting"
+msgctxt "@title:group"
+msgid "Sorting"
+msgstr "การเรียงลำดับ"
+
+#. +> trunk6 stable6
+#: src/printing/stylepage.cpp:126
+#, fuzzy, kde-format
+#| msgid "Criterion:"
+msgctxt "@label:listbox"
+msgid "Criterion:"
+msgstr "เกณฑ์:"
+
+#. +> trunk6 stable6
+#: src/printing/stylepage.cpp:130
+#, fuzzy, kde-format
+#| msgid "Select the key type:"
+msgctxt "@info:tooltip"
+msgid "Select the primary sort field"
+msgstr "เลือกชนิดของปุ่มพิมพ์:"
+
+#. +> trunk6 stable6
+#: src/printing/stylepage.cpp:132
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "From this list you can select the field on which your contacts are sorted in the print output.  Use the sorting order option to determine if the sort will be in ascending or descending order."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/printing/stylepage.cpp:137
+#, fuzzy, kde-format
+#| msgid "Order:"
+msgctxt "@label:listbox"
+msgid "Order:"
+msgstr "ลำดับ:"
+
+#. +> trunk6 stable6
+#: src/printing/stylepage.cpp:141
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Select the sorting order"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/printing/stylepage.cpp:143
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Choose if you want to sort your contacts in ascending or descending order. Use the sorting criterion option to specify on which contact field the sorting will be performed."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/printing/stylepage.cpp:150
+#, fuzzy, kde-format
+#| msgid "Print Style"
+msgctxt "@title:group"
+msgid "Print Style"
+msgstr "รูปแบบการพิมพ์"
+
+#. +> trunk6 stable6
+#: src/printing/stylepage.cpp:155
+#, fuzzy, kde-format
+#| msgid "Select the key type:"
+msgctxt "@info:tooltip"
+msgid "Select the print style"
+msgstr "เลือกชนิดของปุ่มพิมพ์:"
+
+#. +> trunk6 stable6
+#: src/printing/stylepage.cpp:156
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Choose your desired printing style. See the preview image to help you decide."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/viewertemplates/contact_embedded.html:28
+#, kde-format
+msgid "(One year old)"
+msgid_plural "(%1 years old)"
+msgstr[0] ""
+
+#. +> trunk6 stable6
+#: src/viewertemplates/contact_embedded.html:47
+#, fuzzy
+#| msgctxt "@title:column Column containing email addresses"
+#| msgid "Email"
+msgid "Email"
+msgstr "อีเมล"
+
+#. +> trunk6 stable6
+#: src/whatsnew/whatsnewtranslations.cpp:16
+msgid "Add new whatsnew widget."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/whatsnew/whatsnewtranslations.cpp:30
+#, kde-format
+msgid "Restore configure dialog size."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/widgets/quicksearchwidget.cpp:31
+#, fuzzy, kde-format
+#| msgid "&Selected contacts"
+msgctxt "@info:tooltip"
+msgid "Search contacts in list"
+msgstr "ที่อยู่ติดต่อที่เลือกไว้"
+
+#. +> trunk6 stable6
+#: src/widgets/quicksearchwidget.cpp:33
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Start typing a search string in this box and the list of contacts matching that string will be displayed.  This is a quick way of searching for contacts of interest."
+msgstr ""
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:21
+#, fuzzy, kde-format
+#| msgid "Private fields"
+msgctxt "@option:check"
+msgid "Private fields"
+msgstr "ช่องข้อมูลส่วนตัว"
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:22
+#, fuzzy, kde-format
+#| msgid "Business fields"
+msgctxt "@option:check"
+msgid "Business fields"
+msgstr "ช่องข้อมูลธุรกิจ"
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:23
+#, fuzzy, kde-format
+#| msgid "Other fields"
+msgctxt "@option:check"
+msgid "Other fields"
+msgstr "ช่องข้อมูลอื่น ๆ"
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:24
+#, fuzzy, kde-format
+#| msgid "Encryption keys"
+msgctxt "@option:check"
+msgid "Encryption keys"
+msgstr "กุญแจสำหรับใช้เข้ารหัส"
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:25
+#, fuzzy, kde-format
+#| msgid "Pictures"
+msgctxt "@option:check"
+msgid "Pictures"
+msgstr "รูปภาพต่าง ๆ"
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:26
+#, kde-format
+msgctxt "@option:check"
+msgid "Display name as full name"
+msgstr ""
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:30
+#, fuzzy, kde-format
+#| msgid "File to import:"
+msgctxt "@title:group"
+msgid "Fields to be exported"
+msgstr "แฟ้มที่จะนำเข้า:"
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:36
+#, fuzzy, kde-format
+#| msgid "Private fields"
+msgctxt "@info:tooltip"
+msgid "Export private fields"
+msgstr "ช่องข้อมูลส่วนตัว"
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:38
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Check this box if you want to export the contact's private fields to the vCard output file."
+msgstr ""
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:42
+#, fuzzy, kde-format
+#| msgid "Business fields"
+msgctxt "@info:tooltip"
+msgid "Export business fields"
+msgstr "ช่องข้อมูลธุรกิจ"
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:44
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Check this box if you want to export the contact's business fields to the vCard output file."
+msgstr ""
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:48
+#, fuzzy, kde-format
+#| msgid "Other fields"
+msgctxt "@info:tooltip"
+msgid "Export other fields"
+msgstr "ช่องข้อมูลอื่น ๆ"
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:50
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Check this box if you want to export the contact's other fields to the vCard output file."
+msgstr ""
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:54
+#, fuzzy, kde-format
+#| msgid "Encryption keys"
+msgctxt "@info:tooltip"
+msgid "Export encryption keys"
+msgstr "กุญแจสำหรับใช้เข้ารหัส"
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:56
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Check this box if you want to export the contact's encryption keys to the vCard output file."
+msgstr ""
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:60
+#, fuzzy, kde-format
+#| msgid "Pictures"
+msgctxt "@info:tooltip"
+msgid "Export pictures"
+msgstr "รูปภาพต่าง ๆ"
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:62
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Check this box if you want to export the contact's picture to the vCard output file."
+msgstr ""
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:66
+#, fuzzy, kde-format
+#| msgid "Export to One File"
+msgctxt "@title:group"
+msgid "Export options"
+msgstr "ส่งออกเป็นแฟ้มเดียว"
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:72
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Export display name as full name"
+msgstr ""
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:74
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Check this box if you want to export the contact's display name in the vCard's full name field.  This may be required to get the name shown correctly in GMail or Android."
+msgstr ""

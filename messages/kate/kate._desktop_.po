@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdesdk\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-12-16 09:44+0100\n"
+"PO-Revision-Date: 2002-07-09 11:56+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga_n@yahoo.com>\n"
+"Language-Team: Thai "
+"<th@li.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#: addons/snippets/ktexteditor_codesnippets_core.knsrc:2
+#, fuzzy
+msgctxt "Name"
+msgid "Text Editor Snippets"
+msgstr "Name=แก้ไขข้อความ - K"
+
+#. +> trunk6 stable6
+#: apps/kate/data/org.kde.kate.desktop:2
+#, fuzzy
+msgctxt "GenericName"
+msgid "Advanced Text Editor"
+msgstr "Name=คอมโปเนนท์แก้ไขข้อความขั้นก้าวหน้าที่ฝังได้ของ KDE"
+
+#. +> trunk6 stable6
+#: apps/kate/data/org.kde.kate.desktop:68
+#, fuzzy
+msgctxt "Name"
+msgid "Kate"
+msgstr "Name=KBabel"
+
+#. +> trunk6 stable6
+#: apps/kate/data/org.kde.kate.desktop:136
+#, fuzzy
+msgctxt "Comment"
+msgid "KDE Advanced Text Editor"
+msgstr "Name=คอมโปเนนท์แก้ไขข้อความขั้นก้าวหน้าที่ฝังได้ของ KDE"
+
+#. +> trunk6 stable6
+#: apps/kate/data/org.kde.kate.desktop:200
+msgctxt "Keywords"
+msgid "text;txt;editor;programming;programmer;development;developer;code;"
+msgstr ""
+
+#. +> trunk6 stable6
+#: apps/kwrite/data/org.kde.kwrite.desktop:2
+#, fuzzy
+msgctxt "GenericName"
+msgid "Text Editor"
+msgstr "Name=แก้ไขข้อความ - K"
+
+#. +> trunk6 stable6
+#: apps/kwrite/data/org.kde.kwrite.desktop:68
+msgctxt "Name"
+msgid "KWrite"
+msgstr ""
+
+#. +> trunk6 stable6
+#: apps/kwrite/data/org.kde.kwrite.desktop:133
+#, fuzzy
+msgctxt "Comment"
+msgid "KDE Text Editor"
+msgstr "Name=แก้ไขข้อความ - K"
+
+#. +> trunk6 stable6
+#: apps/kwrite/data/org.kde.kwrite.desktop:195
+msgctxt "Keywords"
+msgid "text;txt;editor;note;notepad;"
+msgstr ""

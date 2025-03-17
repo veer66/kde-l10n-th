@@ -1,0 +1,224 @@
+# translation of kcm_desktopthemedetails.po to Thai
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008, 2010.
+# Narachai Sakorn <narachai@gmail.com>, 2008.
+# SPDX-FileCopyrightText: 2025 Pongsakorn S. <kde@xerusion.me>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kcm_desktopthemedetails\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-09-20 11:50+0200\n"
+"PO-Revision-Date: 2025-03-03 20:07+0700\n"
+"Last-Translator: Pongsakorn S. <kde@xerusion.me>\n"
+"Language-Team: Thai\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. i18n: ectx: label, entry (name), group (Theme)
+#. +> trunk6 stable6 stable5
+#: desktopthemesettings.kcfg:9
+#, fuzzy, kde-format
+#| msgid "Get New Themes..."
+msgid "Name of the current Plasma Style"
+msgstr "หาชุดตกแต่งใหม่ ๆ..."
+
+#. +> trunk6 stable6 stable5
+#: kcm.cpp:112
+#, fuzzy, kde-format
+#| msgid "Unable to save theme."
+msgid "Unable to create a temporary file."
+msgstr "ไม่สามารถจัดเก็บชุดตกแต่งได้"
+
+#. +> trunk6 stable6 stable5
+#: kcm.cpp:123
+#, fuzzy, kde-format
+#| msgid "Unable to save theme."
+msgid "Unable to download the theme: %1"
+msgstr "ไม่สามารถจัดเก็บชุดตกแต่งได้"
+
+#. +> trunk6 stable6 stable5
+#: kcm.cpp:148
+#, kde-format
+msgid "Theme installed successfully."
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcm.cpp:151 kcm.cpp:157
+#, kde-format
+msgid "Theme installation failed."
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcm.cpp:251
+#, kde-format
+msgid "Removing theme failed: %1"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: plasma-apply-desktoptheme.cpp:33
+#, kde-format
+msgid "This tool allows you to set the theme of the current Plasma session, without accidentally setting it to one that is either not available, or which is already set."
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: plasma-apply-desktoptheme.cpp:37
+#, kde-format
+msgid "The name of the theme you wish to set for your current Plasma session (passing a full path will only use the last part of the path)"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: plasma-apply-desktoptheme.cpp:38
+#, kde-format
+msgid "Show all the themes available on the system (and which is the current theme)"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: plasma-apply-desktoptheme.cpp:51
+#, kde-format
+msgid "The requested theme \"%1\" is already set as the theme for the current Plasma session."
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: plasma-apply-desktoptheme.cpp:67
+#, kde-format
+msgid "The current Plasma session's theme has been set to %1"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: plasma-apply-desktoptheme.cpp:69
+#, kde-format
+msgid "Could not find theme \"%1\". The theme should be one of the following options: %2"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: plasma-apply-desktoptheme.cpp:77
+#, kde-format
+msgid "You have the following Plasma themes on your system:"
+msgstr ""
+
+#. +> stable5
+#: package/contents/ui/main.qml:24
+#, kde-format
+msgid "This module lets you choose the Plasma style."
+msgstr ""
+
+#. +> trunk6 stable6
+#: ui/main.qml:101
+#, fuzzy, kde-format
+#| msgid "Available themes"
+msgctxt "@item:inlistbox filters displayed themes"
+msgid "All themes"
+msgstr "ชุดตกแต่งต่าง ๆ ที่มีให้ใช้"
+
+#. +> trunk6 stable6
+#: ui/main.qml:102
+#, fuzzy, kde-format
+#| msgid "Theme"
+msgctxt "@item:inlistbox filters displayed themes"
+msgid "Light themes"
+msgstr "ชุดตกแต่ง"
+
+#. +> trunk6 stable6
+#: ui/main.qml:103
+#, kde-format
+msgctxt "@item:inlistbox filters displayed themes"
+msgid "Dark themes"
+msgstr ""
+
+#. +> trunk6 stable6
+#: ui/main.qml:104
+#, kde-format
+msgctxt "@item:inlistbox filters displayed themes"
+msgid "Color scheme compatible"
+msgstr ""
+
+#. +> stable5
+#: package/contents/ui/main.qml:72
+#, kde-format
+msgid "Color scheme compatible"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: ui/main.qml:130
+#, kde-format
+msgid "Install from File…"
+msgstr ""
+
+#. +> trunk6 stable6
+#: ui/main.qml:135
+#, kde-format
+msgid "Get New…"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: ui/main.qml:148
+#, fuzzy, kde-format
+#| msgctxt "plasma name"
+#| msgid "Color Scheme"
+msgid "Follows color scheme"
+msgstr "ชุดสี"
+
+#. +> trunk6 stable6 stable5
+#: ui/main.qml:166
+#, fuzzy, kde-format
+#| msgid "Theme"
+msgid "Edit Theme…"
+msgstr "ชุดตกแต่ง"
+
+#. +> stable5
+#: package/contents/ui/main.qml:70
+#, fuzzy, kde-format
+#| msgid "Theme"
+msgid "Light Themes"
+msgstr "ชุดตกแต่ง"
+
+#. +> trunk6 stable6 stable5
+#: ui/main.qml:173
+#, kde-format
+msgid "Remove Theme"
+msgstr "ลบชุดตกแต่งออก"
+
+#. +> stable5
+#: package/contents/ui/main.qml:179
+#, fuzzy, kde-format
+#| msgid "Get New Themes..."
+msgid "Get New Plasma Styles…"
+msgstr "หาชุดตกแต่งใหม่ ๆ..."
+
+#. +> trunk6 stable6 stable5
+#: ui/main.qml:180
+#, fuzzy, kde-format
+#| msgid "Remove Theme"
+msgid "Restore Theme"
+msgstr "ลบชุดตกแต่งออก"
+
+#. +> stable5
+#: package/contents/ui/main.qml:71
+#, kde-format
+msgid "Dark Themes"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: ui/main.qml:199
+#, fuzzy, kde-format
+#| msgid "Theme"
+msgid "Open Theme"
+msgstr "ชุดตกแต่ง"
+
+#. +> stable5
+#: package/contents/ui/main.qml:69
+#, fuzzy, kde-format
+#| msgid "Available themes"
+msgid "All Themes"
+msgstr "ชุดตกแต่งต่าง ๆ ที่มีให้ใช้"
+
+#. +> trunk6 stable6 stable5
+#: ui/main.qml:201
+#, kde-format
+msgid "Theme Files (*.zip *.tar.gz *.tar.bz2)"
+msgstr ""

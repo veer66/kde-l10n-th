@@ -1,0 +1,489 @@
+# translation of fsview.po to Thai
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008, 2010.
+# Narachai Sakorn <narachai@gmail.com>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: fsview\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-03 09:26+0200\n"
+"PO-Revision-Date: 2010-03-06 09:48+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ถนอมทรัพย์ นพบูรณ์"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "donga.nb@gmail.com"
+
+#. +> trunk6 stable6
+#: fsview.cpp:35 fsview.cpp:413
+#, kde-format
+msgid "Name"
+msgstr "ชื่อ"
+
+#. +> trunk6 stable6
+#: fsview.cpp:36
+#, kde-format
+msgid "Size"
+msgstr "ขนาด"
+
+#. +> trunk6 stable6
+#: fsview.cpp:37
+#, kde-format
+msgid "File Count"
+msgstr "จำนวนแฟ้ม"
+
+#. +> trunk6 stable6
+#: fsview.cpp:38
+#, kde-format
+msgid "Directory Count"
+msgstr "จำนวนไดเรกทอรี"
+
+#. +> trunk6 stable6
+#: fsview.cpp:39
+#, kde-format
+msgid "Last Modified"
+msgstr "แก้ไขล่าสุด"
+
+#. +> trunk6 stable6
+#: fsview.cpp:40 fsview.cpp:414
+#, kde-format
+msgid "Owner"
+msgstr "เจ้าของ"
+
+#. +> trunk6 stable6
+#: fsview.cpp:41 fsview.cpp:415
+#, kde-format
+msgid "Group"
+msgstr "กลุ่ม"
+
+#. +> trunk6 stable6
+#: fsview.cpp:42 fsview.cpp:416
+#, kde-format
+msgid "Mime Type"
+msgstr "ประเภท Mime"
+
+#. +> trunk6 stable6
+#: fsview.cpp:283
+#, kde-format
+msgid "Go To"
+msgstr "ไปยัง"
+
+#. +> trunk6 stable6
+#: fsview.cpp:284 fsview_part.cpp:106
+#, kde-format
+msgid "Stop at Depth"
+msgstr "หยุดที่ความลึก"
+
+#. +> trunk6 stable6
+#: fsview.cpp:285 fsview_part.cpp:103
+#, kde-format
+msgid "Stop at Area"
+msgstr "หยุดที่พื้นที่"
+
+#. +> trunk6 stable6
+#: fsview.cpp:286
+#, kde-format
+msgid "Stop at Name"
+msgstr "หยุดที่ชื่อ"
+
+#. +> trunk6 stable6
+#: fsview.cpp:292
+#, kde-format
+msgid "Go Up"
+msgstr "ขึ้นหนึ่งระดับ"
+
+#. +> trunk6 stable6
+#: fsview.cpp:294
+#, kde-format
+msgid "Stop Refresh"
+msgstr "หยุดการปรับปรุงใหม่"
+
+#. +> trunk6 stable6
+#: fsview.cpp:296
+#, kde-format
+msgid "Refresh"
+msgstr "เรียกปรับปรุงใหม่"
+
+#. +> trunk6 stable6
+#: fsview.cpp:301
+#, kde-format
+msgid "Refresh '%1'"
+msgstr "เรียกปรับปรุง '%1' ใหม่"
+
+#. +> trunk6 stable6
+#: fsview.cpp:313 fsview_part.cpp:113
+#, kde-format
+msgid "Color Mode"
+msgstr "โหมดสี"
+
+#. +> trunk6 stable6
+#: fsview.cpp:316 fsview_part.cpp:109
+#, kde-format
+msgid "Visualization"
+msgstr "การแสดงผล"
+
+#. +> trunk6 stable6
+#: fsview.cpp:411
+#, kde-format
+msgid "None"
+msgstr "ไม่ต้อง"
+
+#. +> trunk6 stable6
+#: fsview.cpp:412
+#, kde-format
+msgid "Depth"
+msgstr "ความลึก"
+
+#. +> trunk6 stable6
+#: fsview_part.cpp:70
+#, kde-format
+msgid "Read 1 folder, in %2"
+msgid_plural "Read %1 folders, in %2"
+msgstr[0] "อ่านข้อมูล %1 โฟลเดอร์, ใน %2"
+
+#. +> trunk6 stable6
+#: fsview_part.cpp:74
+#, kde-format
+msgid "1 folder"
+msgid_plural "%1 folders"
+msgstr[0] "%1 โฟลเดอร์"
+
+#. +> trunk6 stable6
+#: fsview_part.cpp:87
+#, kde-format
+msgid ""
+"<p>This is the FSView plugin, a graphical browsing mode showing filesystem utilization by using a tree map visualization.</p>"
+"<p>Note that in this mode, automatic updating when filesystem changes are made is intentionally <b>not</b> done.</p>"
+"<p>For details on usage and options available, see the online help under menu 'Help/FSView Manual'.</p>"
+msgstr ""
+"<p>นี่คือส่วนต่อขยายของ FSView ที่เป็นโปรแกรมจัดการระบบแฟ้มที่แสดงผลแบบรายการต้นไม้แบบกราฟิก</p>"
+"<p> และในรูปแบบการทำงานนี้การปรับปรุงอัตโนมัติเมื่อระบบแฟ้มเปลี่ยนแปลงไปยัง<b>ไม่</b>สมบูรณ์</p>"
+"<p>สามารถดูข้อมูลการใช้งานและตัวเลือกเพิ่มเติมได้ที่ การช่วยเหลือออนไลน์ ในเมนู ช่วยเหลือ/คู่มือ FSView</p>"
+
+#. +> trunk6 stable6
+#: fsview_part.cpp:119
+#, kde-format
+msgid "&FSView Manual"
+msgstr "คู่มื&อ FSView"
+
+#. +> trunk6 stable6
+#: fsview_part.cpp:121
+#, kde-format
+msgid "Show FSView manual"
+msgstr "แสดงคู่มือ FSView"
+
+#. +> trunk6 stable6
+#: fsview_part.cpp:122
+#, kde-format
+msgid "Opens the help browser with the FSView documentation"
+msgstr "เปิดเบราว์เซอร์ความช่วยเหลือด้วยเอกสารคู่มือของ FSView"
+
+#. +> trunk6 stable6
+#: fsview_part.cpp:154
+#, kde-format
+msgctxt "@action:inmenu File"
+msgid "Move to Trash"
+msgstr "ทิ้งลงถังขยะ"
+
+#. +> trunk6 stable6
+#: fsview_part.cpp:161
+#, kde-format
+msgctxt "@action:inmenu File"
+msgid "Delete"
+msgstr "ลบทิ้ง"
+
+#. +> trunk6 stable6
+#: fsview_part.cpp:166
+#, kde-format
+msgctxt "@action:inmenu Edit"
+msgid "&Edit File Type..."
+msgstr "แก้ไ&ขประเภทแฟ้ม..."
+
+#. +> trunk6 stable6
+#: fsview_part.cpp:170
+#, kde-format
+msgctxt "@action:inmenu File"
+msgid "Properties"
+msgstr "คุณสมบัติ"
+
+#. +> trunk6 stable6
+#: fsview_part.cpp:203
+#, kde-format
+msgid ""
+"FSView intentionally does not support automatic updates when changes are made to files or directories, currently visible in FSView, from the outside.\n"
+"For details, see the 'Help/FSView Manual'."
+msgstr ""
+"FSView ไม่สนับสนุนการปรับปรุงอัตโนมัติเมื่อแฟ้มและไดเรกทอรีมีการปลี่ยนแปลง\n"
+"สำหรับข้อมูลเพิ่มเติม กรุณาดูที่ ช่วยเหลือ/คู่มือ FSView"
+
+#. i18n: ectx: Menu (edit)
+#. +> trunk6 stable6
+#: fsview_part.rc:4
+#, kde-format
+msgid "&Edit"
+msgstr "แ&ก้ไข"
+
+#. i18n: ectx: Menu (view)
+#. +> trunk6 stable6
+#: fsview_part.rc:13
+#, kde-format
+msgid "&View"
+msgstr "&มุมมอง"
+
+#. i18n: ectx: Menu (help)
+#. +> trunk6 stable6
+#: fsview_part.rc:20
+#, kde-format
+msgid "&Help"
+msgstr "&ช่วยเหลือ"
+
+#. +> trunk6 stable6
+#: main.cpp:23
+#, kde-format
+msgid "FSView"
+msgstr "FSView"
+
+#. +> trunk6 stable6
+#: main.cpp:24
+#, kde-format
+msgid "Filesystem Viewer"
+msgstr "เครื่องมือดูระบบแฟ้ม"
+
+#. +> trunk6 stable6
+#: main.cpp:26
+#, kde-format
+msgid "(c) 2002, Josef Weidendorfer"
+msgstr "สงวนลิขสิทธิ์ (c) 2002, Josef Weidendorfer"
+
+#. +> trunk6 stable6
+#: main.cpp:33
+#, kde-format
+msgid "View filesystem starting from this folder"
+msgstr "ดูระบบแฟ้มโดยเริ่มจากโฟลเดอร์นี้"
+
+#. +> trunk6 stable6
+#: treemap.cpp:1435
+#, kde-format
+msgid "Text %1"
+msgstr "ข้อความ %1"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3168
+#, kde-format
+msgid "Recursive Bisection"
+msgstr "การแบ่งสองด้านแบบย้อนกลับ"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3170
+#, kde-format
+msgid "Columns"
+msgstr "คอลัมน์"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3172
+#, kde-format
+msgid "Rows"
+msgstr "แถว"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3174
+#, kde-format
+msgid "Always Best"
+msgstr "ดีที่สุดเสมอ"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3176
+#, kde-format
+msgid "Best"
+msgstr "ดีที่สุด"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3178
+#, kde-format
+msgid "Alternate (V)"
+msgstr "ตัวเลือก (V)"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3180
+#, kde-format
+msgid "Alternate (H)"
+msgstr "ตัวเลือก (H)"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3182
+#, kde-format
+msgid "Horizontal"
+msgstr "ทางแนวนอน"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3184
+#, kde-format
+msgid "Vertical"
+msgstr "ทางแนวตั้ง"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3236
+#, kde-format
+msgid "Nesting"
+msgstr "การซ้อนใน"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3240
+#, kde-format
+msgid "Border"
+msgstr "กรอบ"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3243
+#, kde-format
+msgid "Correct Borders Only"
+msgstr "กรอบที่ถูกต้องเท่านั้น"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3246
+#, kde-format
+msgid "Width %1"
+msgstr "กว้าง %1"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3249
+#, kde-format
+msgid "Allow Rotation"
+msgstr "อนุญาตการหมุน"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3250
+#, kde-format
+msgid "Shading"
+msgstr "การไล่สี"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3261
+#, kde-format
+msgid "Visible"
+msgstr "มองเห็นได้"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3262
+#, kde-format
+msgid "Take Space From Children"
+msgstr "ห่างจากเด็ก ๆ"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3266
+#, kde-format
+msgid "Top Left"
+msgstr "ด้านบนซ้าย"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3269
+#, kde-format
+msgid "Top Center"
+msgstr "ด้านบนตรงกลาง"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3272
+#, kde-format
+msgid "Top Right"
+msgstr "ด้านบนขวา"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3275
+#, kde-format
+msgid "Bottom Left"
+msgstr "ด้านล่างซ้าย"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3278
+#, kde-format
+msgid "Bottom Center"
+msgstr "ด้านล่างตรงกลาง"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3281
+#, kde-format
+msgid "Bottom Right"
+msgstr "ด้านล่างขวา"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3348
+#, kde-format
+msgid "No %1 Limit"
+msgstr "ไม่มีการจำกัด %1"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3407
+#, kde-format
+msgid "No Area Limit"
+msgstr "ไม่จำกัดพื้นที่"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3413
+#, kde-format
+msgid "Area of '%1' (%2)"
+msgstr "พื้นที่ของ %1 (%2)"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3425 treemap.cpp:3438
+#, kde-format
+msgid "1 Pixel"
+msgid_plural "%1 Pixels"
+msgstr[0] "%1 พิกเซล"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3442
+#, kde-format
+msgid "Double Area Limit (to %1)"
+msgstr "การจำกัดพื้นที่สองเท่า (กับ %1)"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3444
+#, kde-format
+msgid "Halve Area Limit (to %1)"
+msgstr "การจำกัดพื้นที่ครึ่งหนึ่ง (กับ %1)"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3480
+#, kde-format
+msgid "No Depth Limit"
+msgstr "ไม่จำกัดความลึก"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3486
+#, kde-format
+msgid "Depth of '%1' (%2)"
+msgstr "ความลึกของ %1 (%2)"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3498 treemap.cpp:3511
+#, kde-format
+msgid "Depth %1"
+msgstr "ลึก %1"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3515
+#, kde-format
+msgid "Decrement (to %1)"
+msgstr "ลด (กับ %1)"
+
+#. +> trunk6 stable6
+#: treemap.cpp:3517
+#, kde-format
+msgid "Increment (to %1)"
+msgstr "เพิ่ม (กับ %1)"

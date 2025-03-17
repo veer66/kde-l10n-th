@@ -1,0 +1,240 @@
+# translation of kmousetool.po to Thai
+# Thanomsub Noppaburana <donga_n@yahoo.com>, 2004.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2005, 2008, 2010.
+# Sahachart Anukulkitch <drrider@gmail.com>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: kmousetool\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-16 10:45+0200\n"
+"PO-Revision-Date: 2010-12-18 08:42+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ถนอมทรัพย์ นพบูรณ์"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "donga.nb@gmail.com"
+
+#. +> trunk6 stable6
+#: kmousetool.cpp:394
+#, kde-format
+msgid "The drag time must be less than or equal to the dwell time."
+msgstr "เวลาลากต้องน้อยกว่าหรือเท่ากับค่าเวลาหน่วง"
+
+#. +> trunk6 stable6
+#: kmousetool.cpp:394
+#, kde-format
+msgid "Invalid Value"
+msgstr "ค่าไม่ถูกต้อง"
+
+#. +> trunk6 stable6
+#: kmousetool.cpp:463 kmousetool.cpp:604
+#, kde-format
+msgid "&Stop"
+msgstr "หยุด"
+
+#. +> trunk6 stable6
+#: kmousetool.cpp:465 kmousetool.cpp:584 kmousetool.cpp:607
+#, kde-format
+msgctxt "Start tracking the mouse"
+msgid "&Start"
+msgstr "เ&ริ่ม"
+
+#. +> trunk6 stable6
+#: kmousetool.cpp:526
+#, kde-format
+msgid ""
+"There are unsaved changes in the active module.\n"
+"Do you want to apply the changes before closing the configuration window or discard the changes?"
+msgstr ""
+"มีการเปลี่ยนแปลงที่ยังไม่ได้บันทึกในโมดูลที่ทำงานอยู่\n"
+"คุณต้องการจะบันทึกการเปลี่ยนแปลงและให้มีผลทันทีก่อนปิดหน้าต่างปรับแต่ง หรือต้องการยกเลิกการเปลี่ยนแปลง ?"
+
+#. +> trunk6 stable6
+#: kmousetool.cpp:528
+#, kde-format
+msgid "Closing Configuration Window"
+msgstr "กำลังปิดหน้าต่างการปรับแต่ง"
+
+#. +> trunk6 stable6
+#: kmousetool.cpp:549
+#, kde-format
+msgid ""
+"There are unsaved changes in the active module.\n"
+"Do you want to apply the changes before quitting KMousetool or discard the changes?"
+msgstr ""
+"มีการเปลี่ยนแปลงที่ยังไม่ได้บันทึกในมอดูลที่ทำงานอยู่\n"
+"คุณต้องการจะบันทึกการเปลี่ยนแปลงและให้มีผลทันทีก่อนออกจาก ปรับแต่งเม้าส์-K หรือต้องการยกเลิกการเปลี่ยนแปลง ?"
+
+#. +> trunk6 stable6
+#: kmousetool.cpp:550
+#, kde-format
+msgid "Quitting KMousetool"
+msgstr "ออกจาก ปรับแต่งเม้าส์-K"
+
+#. +> trunk6 stable6
+#: kmousetool.cpp:586
+#, kde-format
+msgid "&Configure KMouseTool..."
+msgstr "ปรับแต่ง ปรับแต่งเม้าส์-K..."
+
+#. +> trunk6 stable6
+#: kmousetool.cpp:589
+#, kde-format
+msgid "KMousetool &Handbook"
+msgstr "คู่มือ ปรับแต่งเม้าส์-K"
+
+#. +> trunk6 stable6
+#: kmousetool.cpp:591
+#, kde-format
+msgid "&About KMouseTool"
+msgstr "เกี่ยวกับ ปรับแต่งเม้าส์-K"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, KMouseToolUI)
+#. +> trunk6 stable6
+#: kmousetoolui.ui:14 main.cpp:23 main.cpp:25
+#, kde-format
+msgid "KMouseTool"
+msgstr "ปรับแต่งเม้าส์-K"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox1)
+#. +> trunk6 stable6
+#: kmousetoolui.ui:20
+#, kde-format
+msgid "Settings"
+msgstr "ตั้งค่า"
+
+#. i18n: ectx: property (text), widget (QLabel, dragTimeLabel)
+#. +> trunk6 stable6
+#: kmousetoolui.ui:62
+#, fuzzy, kde-format
+#| msgid "Drag t&ime (1/10 sec):"
+msgid "&Drag time (1/10 sec):"
+msgstr "เ&วลาลาก (1/10 วินาที):"
+
+#. i18n: ectx: property (text), widget (QLabel, movementLabel)
+#. +> trunk6 stable6
+#: kmousetoolui.ui:97
+#, kde-format
+msgid "&Minimum movement:"
+msgstr "การเคลื่อนที่&น้อยที่สุด:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbStart)
+#. +> trunk6 stable6
+#: kmousetoolui.ui:107
+#, kde-format
+msgid "Start with &desktop session"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbDrag)
+#. +> trunk6 stable6
+#: kmousetoolui.ui:114
+#, kde-format
+msgid "Smar&t drag"
+msgstr "ลากแบบฉ&ลาด"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbStroke)
+#. +> trunk6 stable6
+#: kmousetoolui.ui:124
+#, kde-format
+msgid "&Enable strokes"
+msgstr "เปิดใช้&จังหวะ"
+
+#. i18n: ectx: property (text), widget (QLabel, dwellTimeLabel)
+#. +> trunk6 stable6
+#: kmousetoolui.ui:131
+#, fuzzy, kde-format
+#| msgid "D&well time (1/10 sec):"
+msgid "Dwell &time (1/10 sec):"
+msgstr "เวลาหน่ว&ง (1/10 วินาที):"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbClick)
+#. +> trunk6 stable6
+#: kmousetoolui.ui:154
+#, kde-format
+msgid "A&udible click"
+msgstr "เสี&ยงคลิก"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#. +> trunk6 stable6
+#: kmousetoolui.ui:191
+#, fuzzy, kde-format
+#| msgid "KMouseTool will run as a background application after you close this dialog. To change the settings again, restart KMouseTool or use the KDE system tray."
+msgid "KMouseTool will run as a background application after you close this dialog. To change the settings again, restart KMouseTool or use the system tray."
+msgstr "ปรับแต่งเม้าส์-K จะทำงานเป็นโปรแกรมเบื้องหลังหลังจากที่คุณปิดกล่องโต้ตอบนี้แล้ว หากต้องการแก้ไขการตั้งค่าอีกครั้ง ให้เริ่มการทำงานของปรับแต่งเม้าส์-K ใหม่ หรือใช้ถาดระบบของ KDE"
+
+#. i18n: ectx: property (text), widget (QPushButton, buttonStartStop)
+#. +> trunk6 stable6
+#: kmousetoolui.ui:223
+#, kde-format
+msgid "&Start"
+msgstr "เ&ริ่ม"
+
+#. +> trunk6 stable6
+#: main.cpp:27
+#, fuzzy, kde-format
+#| msgid ""
+#| "(c) 2002-2003, Jeff Roush\n"
+#| "(c) 2003, Gunnar Schmi Dt"
+msgid ""
+"(c) 2002-2003, Jeff Roush\n"
+"(c) 2003 Gunnar Schmidt "
+msgstr ""
+"สงวนลิขสิทธิ์ (c) 2002-2003, Jeff Roush\n"
+"สงวนลิขสิทธิ์ (c) 2003, Gunnar Schmi Dt"
+
+#. +> trunk6 stable6
+#: main.cpp:32
+#, fuzzy, kde-format
+#| msgid "Gunnar Schmi Dt"
+msgid "Gunnar Schmidt"
+msgstr "Gunnar Schmi Dt"
+
+#. +> trunk6 stable6
+#: main.cpp:32
+#, kde-format
+msgid "Current maintainer"
+msgstr "ผู้ดูแลปัจจุบัน"
+
+#. +> trunk6 stable6
+#: main.cpp:33
+#, kde-format
+msgid "Olaf Schmidt"
+msgstr "Olaf Schmidt"
+
+#. +> trunk6 stable6
+#: main.cpp:33
+#, kde-format
+msgid "Usability improvements"
+msgstr "ปรับความง่ายในการใช้"
+
+#. +> trunk6 stable6
+#: main.cpp:34
+#, kde-format
+msgid "Jeff Roush"
+msgstr "Jeff Roush"
+
+#. +> trunk6 stable6
+#: main.cpp:34
+#, kde-format
+msgid "Original author"
+msgstr "ผู้เขียนเดิม"
+
+#. +> trunk6 stable6
+#: main.cpp:36
+#, kde-format
+msgid "Joe Betts"
+msgstr "Joe Betts"

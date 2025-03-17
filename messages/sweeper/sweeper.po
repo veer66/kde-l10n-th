@@ -1,0 +1,327 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: sweeper\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-03-05 10:21+0100\n"
+"PO-Revision-Date: 2010-05-01 10:12+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ถนอมทรัพย์ นพบูรณ์"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "donga.nb@gmail.com"
+
+#. +> trunk6 stable6
+#: main.cpp:25
+#, kde-format
+msgid "Sweeper"
+msgstr "เครื่องปัดกวาด"
+
+#. +> trunk6 stable6
+#: main.cpp:27
+#, kde-format
+msgid "Helps clean unwanted traces the user leaves on the system."
+msgstr "ช่วยกำจัดสิ่งต่าง ๆ ที่ไม่จำเป็นต้องใช้ที่เกิดหลังจากผู้ใช้ออกจากระบบแล้ว"
+
+#. +> trunk6 stable6
+#: main.cpp:29
+#, fuzzy, kde-format
+#| msgid "(c) 2003-2005, Ralf Hoelzer"
+msgid "© 2003-2005, Ralf Hoelzer"
+msgstr "สงวนลิขสิทธิ์ (c) 2003-2005, Ralf Hoelzer"
+
+#. +> trunk6 stable6
+#: main.cpp:33
+#, kde-format
+msgid "Ralf Hoelzer"
+msgstr "Ralf Hoelzer"
+
+#. +> trunk6 stable6
+#: main.cpp:33
+#, kde-format
+msgid "Original author"
+msgstr "ผู้เขียนเดิม"
+
+#. +> trunk6 stable6
+#: main.cpp:34
+#, kde-format
+msgid "Brian S. Stephan"
+msgstr "Brian S. Stephan"
+
+#. +> trunk6 stable6
+#: main.cpp:34
+#, kde-format
+msgid "Maintainer"
+msgstr "ผู้ดูแล"
+
+#. +> trunk6 stable6
+#: main.cpp:35
+#, kde-format
+msgid "Benjamin Meyer"
+msgstr "Benjamin Meyer"
+
+#. +> trunk6 stable6
+#: main.cpp:35 privacyfunctions.h:65
+#, kde-format
+msgid "Thumbnail Cache"
+msgstr "แคชเก็บภาพตัวอย่าง"
+
+#. +> trunk6 stable6
+#: main.cpp:43
+#, kde-format
+msgid "Sweeps without user interaction"
+msgstr ""
+
+#. +> trunk6 stable6
+#: privacyfunctions.cpp:44 privacyfunctions.cpp:53 privacyfunctions.cpp:62
+#, kde-format
+msgid "A thumbnail could not be removed."
+msgstr "ภาพตัวอย่างไม่สามารถที่จะลบออกได้"
+
+#. +> trunk6 stable6
+#: privacyfunctions.cpp:131
+#, kde-format
+msgid "The file exists but could not be removed."
+msgstr "มีแฟ้มอยู่แต่ไม่สามารถลบออกไปได้"
+
+#. +> trunk6 stable6
+#: privacyfunctions.cpp:210
+#, kde-format
+msgid "A favicon could not be removed."
+msgstr "ไอคอนของหน้าเว็บ (favicon) ไม่สามารถจะถูกลบออกได้"
+
+#. +> trunk6 stable6
+#: privacyfunctions.h:22
+#, kde-format
+msgid "Cookies"
+msgstr "คุกกี้ต่าง ๆ"
+
+#. +> trunk6 stable6
+#: privacyfunctions.h:22
+#, kde-format
+msgid "Clears all stored cookies set by websites"
+msgstr "ล้างคุกกี้ทั้งหมดที่ถูกจัดเก็บไว้ซึ่งถูกตั้งค่ามาจากเว็บไซต์ต่าง ๆ"
+
+#. +> trunk6 stable6
+#: privacyfunctions.h:37
+#, kde-format
+msgid "Cookie Policies"
+msgstr "นโยบายการจัดการคุกกี้"
+
+#. +> trunk6 stable6
+#: privacyfunctions.h:37
+#, kde-format
+msgid "Clears the cookie policies for all visited websites"
+msgstr "ล้างนโยบายการจัดการคุกกี้ของเว็บไซต์ทั้งหมดที่ไปเยี่ยมชมมาแล้ว"
+
+#. +> trunk6 stable6
+#: privacyfunctions.h:51
+#, kde-format
+msgid "Saved Clipboard Contents"
+msgstr "เนื้อหาที่ถูกบันทึกไว้ในคลิปบอร์ด"
+
+#. +> trunk6 stable6
+#: privacyfunctions.h:51
+#, kde-format
+msgid "Clears the clipboard contents stored by Klipper"
+msgstr "ล้างเนื้อหาในคลิปบอร์ดที่ถูกจัดเก็บไว้โดยคลิปเปอร์-K"
+
+#. +> trunk6 stable6
+#: privacyfunctions.h:65
+#, kde-format
+msgid "Clears all cached thumbnails"
+msgstr "ล้างแคชข้อมูลเก็บภาพตัวอย่างทั้งหมด"
+
+#. +> trunk6 stable6
+#: privacyfunctions.h:79
+#, kde-format
+msgid "Run Command History"
+msgstr "ประวัติการเรียกใช้คำสั่ง"
+
+#. +> trunk6 stable6
+#: privacyfunctions.h:79
+#, kde-format
+msgid "Clears the history of commands run through the Run Command tool on the desktop"
+msgstr "ล้างประวัติของคำสั่งที่เคยเรียกใช้ผ่านทางเครื่องมือประมวลผลคำสั่งบนพื้นที่ทำงาน"
+
+#. +> trunk6 stable6
+#: privacyfunctions.h:93
+#, kde-format
+msgid "Form Completion Entries"
+msgstr "รายการเติมแบบฟอร์มให้สมบูรณ์"
+
+#. +> trunk6 stable6
+#: privacyfunctions.h:93
+#, kde-format
+msgid "Clears values which were entered into forms on websites"
+msgstr "ล้างค่าต่าง ๆ ที่ถูกป้อนไปยังแบบฟอร์มบนหน้าเว็บต่าง ๆ"
+
+#. +> trunk6 stable6
+#: privacyfunctions.h:107
+#, kde-format
+msgid "Web History"
+msgstr "ประวัติการท่องเว็บ"
+
+#. +> trunk6 stable6
+#: privacyfunctions.h:107
+#, kde-format
+msgid "Clears the history of visited websites"
+msgstr "ล้างประวัติการดูเว็บไซต์ที่ไปเยี่ยมชมมา"
+
+#. +> trunk6 stable6
+#: privacyfunctions.h:121
+#, kde-format
+msgid "Web Cache"
+msgstr "แคชของหน้าเว็บ"
+
+#. +> trunk6 stable6
+#: privacyfunctions.h:121
+#, kde-format
+msgid "Clears the temporary cache of websites visited"
+msgstr "ล้างแคชชั่วคราวของเว็บไซต์ต่าง ๆ ที่ไปเยี่ยมชมมา"
+
+#. +> trunk6 stable6
+#: privacyfunctions.h:135
+#, kde-format
+msgid "Recent Documents"
+msgstr "เอกสารต่าง ๆ ที่เพิ่งใช้งาน"
+
+#. +> trunk6 stable6
+#: privacyfunctions.h:135
+#, kde-format
+msgid "Clears the list of recently used documents from the KDE applications menu"
+msgstr "ล้างรายการของเอกสารที่เพิ่งใช้งานไปออกจากเมนูโปรแกรมของ KDE"
+
+#. +> trunk6 stable6
+#: privacyfunctions.h:149
+#, kde-format
+msgid "Favorite Icons"
+msgstr "ไอคอนของหน้าเว็บ (FavIcons)"
+
+#. +> trunk6 stable6
+#: privacyfunctions.h:149
+#, kde-format
+msgid "Clears the FavIcons cached from visited websites"
+msgstr "ล้างแคชไอคอนของหน้าเว็บของเว็บไซต์ที่ไปเยี่ยมชมมาแล้ว"
+
+#. +> trunk6 stable6
+#: privacyfunctions.h:163
+#, kde-format
+msgid "Recent Applications"
+msgstr "รายการโปรแกรมต่าง ๆ ที่เพิ่งใช้งาน"
+
+#. +> trunk6 stable6
+#: privacyfunctions.h:163
+#, kde-format
+msgid "Clears the list of recently used applications from KDE menu"
+msgstr "ล้างรายการโปรแกรมต่าง ๆ ที่เพิ่งใช้งาน ออกจากเมนูของ KDE"
+
+#. +> trunk6 stable6
+#: sweeper.cpp:22
+#, kde-format
+msgctxt "General system content"
+msgid "General"
+msgstr "ค่าทั่วไป"
+
+#. +> trunk6 stable6
+#: sweeper.cpp:23
+#, kde-format
+msgctxt "Web browsing content"
+msgid "Web Browsing"
+msgstr "การท่องเว็บ"
+
+#. +> trunk6 stable6
+#: sweeper.cpp:100
+#, kde-format
+msgid "You are deleting data that is potentially valuable to you. Are you sure?"
+msgstr "คุณกำลังจะทำการลบข้อมูลที่อาจจะมีคุณค่าสำหรับคุณ คุณแน่ใจหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: sweeper.cpp:107
+#, kde-format
+msgid "Starting cleanup..."
+msgstr "เริ่มการทำความสะอาด..."
+
+#. +> trunk6 stable6
+#: sweeper.cpp:111
+#, kde-format
+msgid "Clearing %1..."
+msgstr "กำลังล้างข้อมูล %1..."
+
+#. +> trunk6 stable6
+#: sweeper.cpp:116
+#, kde-format
+msgid "Clearing of %1 failed: %2"
+msgstr "การล้างข้อมูล %1 ล้มเหลว: %2"
+
+#. +> trunk6 stable6
+#: sweeper.cpp:122
+#, kde-format
+msgid "Clean up finished."
+msgstr "ทำความสะอาดเรียบร้อยแล้ว"
+
+#. i18n: ectx: property (whatsThis), widget (QTreeWidget, privacyListView)
+#. +> trunk6 stable6
+#: sweeperdialog.ui:27
+#, kde-format
+msgid "Check all cleanup actions you would like to perform. These will be executed by pressing the button below."
+msgstr "กาเลือกบนการกระทำการล้างข้อมูลต่าง ๆ ที่คุณต้องการ ซึ่งจะทำการล้างข้อมูลเมื่อกดที่ปุ่มด้านล่างนี้"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, privacyListView)
+#. +> trunk6 stable6
+#: sweeperdialog.ui:37
+#, kde-format
+msgid "Privacy Settings"
+msgstr "ตั้งค่าความเป็นส่วนตัว"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, privacyListView)
+#. +> trunk6 stable6
+#: sweeperdialog.ui:42
+#, kde-format
+msgid "Description"
+msgstr "คำอธิบาย"
+
+#. i18n: ectx: property (text), widget (QPushButton, selectAllButton)
+#. +> trunk6 stable6
+#: sweeperdialog.ui:58
+#, kde-format
+msgid "Select &All"
+msgstr "เลือกทั้ง&หมด"
+
+#. i18n: ectx: property (text), widget (QPushButton, selectNoneButton)
+#. +> trunk6 stable6
+#: sweeperdialog.ui:65
+#, kde-format
+msgid "Select &None"
+msgstr "ไ&ม่เลือกเลย"
+
+#. i18n: ectx: property (whatsThis), widget (QPushButton, cleanupButton)
+#. +> trunk6 stable6
+#: sweeperdialog.ui:88
+#, kde-format
+msgid "Immediately performs the cleanup actions selected above"
+msgstr "ปฏิบัติการการล้างข้อมูลต่าง ๆ ที่เลือกไว้ทางด้านบนในทันที"
+
+#. i18n: ectx: property (text), widget (QPushButton, cleanupButton)
+#. +> trunk6 stable6
+#: sweeperdialog.ui:91
+#, kde-format
+msgid "&Clean Up"
+msgstr "ทำความ&สะอาด"

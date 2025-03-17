@@ -1,0 +1,888 @@
+# translation of kfindpart.po to Thai
+# Copyright (C) 2003, 2005, 2008 Free Software Foundation, Inc.
+# Thanomsub Noppaburana <donga_n@yahoo.com>, 2003.
+# Sahachart Anukulkitch <drrider@gmail.com>, 2005.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kfindpart\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-11-25 08:25+0100\n"
+"PO-Revision-Date: 2010-03-27 23:10+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#: kfinddlg.cpp:31
+#, fuzzy, kde-format
+#| msgid "Find Files/Folders"
+msgctxt "@title:window"
+msgid "Find Files/Folders"
+msgstr "ค้นหาแฟ้ม/โฟลเดอร์"
+
+#. +> trunk6 stable6
+#: kfinddlg.cpp:48 kfinddlg.cpp:202
+#, kde-format
+msgctxt "the application is currently idle, there is no active search"
+msgid "Idle."
+msgstr "ว่าง"
+
+#. i18n as below
+#. +> trunk6 stable6
+#: kfinddlg.cpp:138
+#, fuzzy, kde-format
+#| msgid "one file found"
+#| msgid_plural "%1 files found"
+msgid "0 items found"
+msgstr "ค้นพบ %1 แฟ้ม"
+
+#. +> trunk6 stable6
+#: kfinddlg.cpp:177
+#, kde-format
+msgid "Searching..."
+msgstr "กำลังค้นหา..."
+
+#. +> trunk6 stable6
+#: kfinddlg.cpp:204
+#, kde-format
+msgid "Canceled."
+msgstr "ถูกยกเลิก"
+
+#. +> trunk6 stable6
+#: kfinddlg.cpp:206 kfinddlg.cpp:209 kfinddlg.cpp:212
+#, kde-format
+msgid "Error."
+msgstr "ผิดพลาด"
+
+#. +> trunk6 stable6
+#: kfinddlg.cpp:207
+#, kde-format
+msgid "Please specify an absolute path in the \"Look in\" box."
+msgstr "กรุณาระบุพาธแบบสัมบูรณ์ในช่องข้อมูล \"ค้นหาใน\""
+
+#. +> trunk6 stable6
+#: kfinddlg.cpp:210
+#, kde-format
+msgid "Could not find the specified folder."
+msgstr "ไม่สามารถค้นหาโฟลเดอร์ที่ระบุได้"
+
+#. +> trunk6 stable6
+#: kfinddlg.cpp:233 kfinddlg.cpp:257
+#, fuzzy, kde-format
+#| msgid "one file found"
+#| msgid_plural "%1 files found"
+msgid "one item found"
+msgid_plural "%1 items found"
+msgstr[0] "ค้นพบ %1 แฟ้ม"
+
+#. +> trunk6 stable6
+#: kfindtreeview.cpp:43
+msgid "Read-write"
+msgstr "อ่านได้-เขียนได้"
+
+#. +> trunk6 stable6
+#: kfindtreeview.cpp:44
+msgid "Read-only"
+msgstr "อ่านได้อย่างเดียว"
+
+#. +> trunk6 stable6
+#: kfindtreeview.cpp:45
+msgid "Write-only"
+msgstr "เขียนได้อย่างเดียว"
+
+#. +> trunk6 stable6
+#: kfindtreeview.cpp:46
+msgid "Inaccessible"
+msgstr "เข้าใช้งานไม่ได้"
+
+#. +> trunk6 stable6
+#: kfindtreeview.cpp:66
+#, kde-format
+msgctxt "file name column"
+msgid "Name"
+msgstr "ชื่อ"
+
+#. +> trunk6 stable6
+#: kfindtreeview.cpp:68
+#, kde-format
+msgctxt "name of the containing folder"
+msgid "In Subfolder"
+msgstr "ในโฟลเดอร์ย่อย"
+
+#. +> trunk6 stable6
+#: kfindtreeview.cpp:70
+#, kde-format
+msgctxt "file size column"
+msgid "Size"
+msgstr "ขนาด"
+
+#. +> trunk6 stable6
+#: kfindtreeview.cpp:72
+#, kde-format
+msgctxt "modified date column"
+msgid "Modified"
+msgstr "แก้ไขเมื่อ"
+
+#. +> trunk6 stable6
+#: kfindtreeview.cpp:74
+#, kde-format
+msgctxt "file permissions column"
+msgid "Permissions"
+msgstr "สิทธิ์ที่อนุญาต"
+
+#. +> trunk6 stable6
+#: kfindtreeview.cpp:76
+#, kde-format
+msgctxt "first matching line of the query string in this file"
+msgid "First Matching Line"
+msgstr "บรรทัดแรกที่เข้าเงื่อนไข"
+
+#. +> trunk6 stable6
+#: kfindtreeview.cpp:359
+#, kde-format
+msgctxt "@action:incontextmenu"
+msgid "Copy Location"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kfindtreeview.cpp:360
+#, kde-format
+msgctxt "@info:whatsthis copy_location"
+msgid "This will copy the path of the first selected item into the clipboard."
+msgstr ""
+
+#. +> trunk6 stable6
+#: kfindtreeview.cpp:365
+#, kde-format
+msgid "&Open containing folder(s)"
+msgstr "เ&ปิดโฟลเดอร์ที่เก็บ"
+
+#. +> trunk6 stable6
+#: kfindtreeview.cpp:369
+#, kde-format
+msgid "&Delete"
+msgstr "&ลบ"
+
+#. +> trunk6 stable6
+#: kfindtreeview.cpp:373
+#, kde-format
+msgid "&Move to Trash"
+msgstr "&ทิ้งลงถังขยะ"
+
+#. +> trunk6 stable6
+#: kfindtreeview.cpp:513
+#, fuzzy, kde-format
+#| msgid "Save Results As"
+msgctxt "@title:window"
+msgid "Save Results As"
+msgstr "บันทึกผลการค้นหาเป็น"
+
+#. +> trunk6 stable6
+#: kfindtreeview.cpp:538
+#, kde-format
+msgid "Unable to save results."
+msgstr "ไม่สามารถบันทึกผลการค้นหาได้"
+
+#. +> trunk6 stable6
+#: kfindtreeview.cpp:552
+#, kde-format
+msgid "KFind Results File"
+msgstr "แฟ้มผลการค้นหาของ KFind"
+
+#. +> trunk6 stable6
+#: kfindtreeview.cpp:567
+#, kde-format
+msgctxt "%1=filename"
+msgid "Results were saved to: %1"
+msgstr "ผลการค้นหาถูกบันทึกไปยัง: %1"
+
+#. +> trunk6 stable6
+#: kfindtreeview.cpp:663 kftabdlg.cpp:395
+#, kde-format
+msgid "&Properties"
+msgstr "&คุณสมบัติ"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:65
+#, kde-format
+msgctxt "this is the label for the name textfield"
+msgid "&Named:"
+msgstr "&ชื่อ:"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:68
+#, fuzzy, kde-format
+#| msgid "You can use wildcard matching and \";\" for separating multiple names"
+msgctxt "@info:tooltip"
+msgid "You can use wildcard matching and \";\" for separating multiple names"
+msgstr "คุณสามารถใช้ไวล์การ์ด และเครื่องหมาย \";\" เพื่อแยกการค้นหาชื่อหลาย ๆ แบบได้"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:74
+#, fuzzy, kde-format
+#| msgid "Look &in:"
+msgctxt "@label:textbox"
+msgid "Look &in:"
+msgstr "ค้นหาใน:"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:77
+#, fuzzy, kde-format
+#| msgid "Include &subfolders"
+msgctxt "@option:check"
+msgid "Include &subfolders"
+msgstr "ค้นหาในโฟลเดอร์ย่อยด้วย"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:78
+#, fuzzy, kde-format
+#| msgid "Case s&ensitive search"
+msgctxt "@option:check"
+msgid "Case s&ensitive search"
+msgstr "ค้นหาโดยแยกแยะตัวพิมพ์เล็ก-ใหญ่"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:79
+#, kde-format
+msgid "&Browse..."
+msgstr "เ&ลือก..."
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:80
+#, fuzzy, kde-format
+#| msgid "&Use files index"
+msgctxt "@option:check"
+msgid "&Use files index"
+msgstr "ใ&ช้ดัชนีของแฟ้ม"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:81
+#, fuzzy, kde-format
+#| msgid "Show &hidden files"
+msgctxt "@option:check"
+msgid "Show &hidden files"
+msgstr "แสดงแฟ้ม&ที่ซ่อนไว้"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:100
+#, kde-format
+msgid ""
+"<qt>Enter the filename you are looking for. <br />"
+"Alternatives may be separated by a semicolon \";\".<br />"
+"<br />"
+"The filename may contain the following special characters:"
+"<ul>"
+"<li><b>?</b> matches any single character</li>"
+"<li><b>*</b> matches zero or more of any characters</li>"
+"<li><b>[...]</b> matches any of the characters between the braces</li>"
+"</ul>"
+"<br />"
+"Example searches:"
+"<ul>"
+"<li><b>*.kwd;*.txt</b> finds all files ending with .kwd or .txt</li>"
+"<li><b>go[dt]</b> finds god and got</li>"
+"<li><b>Hel?o</b> finds all files that start with \"Hel\" and end with \"o\", having one character in between</li>"
+"<li><b>My Document.kwd</b> finds a file of exactly that name</li>"
+"</ul>"
+"</qt>"
+msgstr ""
+"<qt>เติมชื่อแฟ้มที่คุณต้องการค้นหา <br />"
+"โดยสามารถหาชื่ออื่นร่วมได้ด้วย โดยแยกด้วยเครื่องหมายอัฒภาค \";\"<br />"
+"<br />"
+"ชื่อแฟ้มอาจจะใช้อักขระพิเศษเหล่านี้ได้: "
+"<ul>"
+"<li><b>?</b>เท่ากับตัวอักษรใดก็ได้หนึ่งตัว</li>"
+" "
+"<li><b>*</b> เท่ากับตัวอักษรใด ๆ กี่ตัวก็ได้</li>"
+"<li><b>[...]</b> มีอักขระบางตัวที่อยู่ในวงเล็บเหลี่ยม</li>"
+"</ul>"
+" <br />"
+"ตัวอย่างการค้นหา:"
+"<ul> "
+"<li><b>*.kwd;*.txt</b> ค้นหาทุกแฟ้มที่ลงท้ายชื่อด้วย .kwd หรือ .txt</li>"
+"<li><b>โด[ดน]</b> ค้นหาคำว่า โดด และ โดน</li>"
+"<li><b>เอก?าร</b> ค้นหาทุกแฟ้มที่ขึ้นต้นด้วยคำว่า \"เอก\" และลงท้ายด้วย \"าร\" โดยมีตัวอักษรใดก็ได้หนึ่งตัว อยู่ระหว่าง 'เอก' กับ 'าร'</li>"
+"<li><b>เอกสารของฉัน.kwd</b> ค้นหาแฟ้มที่ชื่อเหมือนกับที่กำหนดทุกตัว</li>"
+"</ul>"
+"</qt>"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:121
+#, kde-format
+msgid "<qt>This lets you use the files' index created by the <i>slocate</i> package to speed-up the search; remember to update the index from time to time (using <i>updatedb</i>).</qt>"
+msgstr "<qt>สิ่งนี้จะอนุญาตให้คุณใช้ดัชนีแฟ้มซึ่งสร้างขึ้นมาโดยแพกเกจ <i>slocate</i> เพื่อเพิ่มความเร็วในการค้นหา อย่าลืมทำการปรับปรุงดัชนีให้ทันสมัยเป็นระยะ ๆ (โดยใช่้ <i>updatedb</i>) </qt>"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:165
+#, fuzzy, kde-format
+#| msgid "Find all files created or &modified:"
+msgctxt "@option:check"
+msgid "Find all files created or &modified:"
+msgstr "ค้นหาทุกแฟ้มที่ถูกสร้างหรือถูกแ&ก้ไข:"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:167
+#, fuzzy, kde-format
+#| msgid "&between"
+msgctxt "@option:radio"
+msgid "&between"
+msgstr "ในช่วง&ระหว่าง"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:169
+#, fuzzy, kde-format
+#| msgid "and"
+msgctxt "@label:textbox"
+msgid "and"
+msgstr "ถึง"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:191
+#, fuzzy, kde-format
+#| msgid "File &size is:"
+msgctxt "@label:textbox"
+msgid "File &size is:"
+msgstr "แฟ้มมีข&นาด:"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:204
+#, fuzzy, kde-format
+#| msgid "Files owned by &user:"
+msgctxt "@label:textbox"
+msgid "Files owned by &user:"
+msgstr "แฟ้มเป็นของ&ผู้ใช้:"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:209
+#, fuzzy, kde-format
+#| msgid "Owned by &group:"
+msgctxt "@label:textbox"
+msgid "Owned by &group:"
+msgstr "เป็นของ&กลุ่ม:"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:212
+#, kde-format
+msgctxt "file size isn't considered in the search"
+msgid "(none)"
+msgstr "(ไม่ระบุ)"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:213
+#, kde-format
+msgid "At Least"
+msgstr "อย่างน้อย"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:214
+#, kde-format
+msgid "At Most"
+msgstr "อย่างมาก"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:215
+#, kde-format
+msgid "Equal To"
+msgstr "เท่ากับ"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:217 kftabdlg.cpp:828
+#, kde-format
+msgid "Byte"
+msgid_plural "Bytes"
+msgstr[0] "ไบต์"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:218
+#, kde-format
+msgid "KiB"
+msgstr "กิโลไบต์"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:219
+#, kde-format
+msgid "MiB"
+msgstr "เมกะไบต์"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:220
+#, kde-format
+msgid "GiB"
+msgstr "กิกะไบต์"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:283
+#, kde-format
+msgctxt "label for the file type combobox"
+msgid "File &type:"
+msgstr "ประเ&ภทแฟ้ม:"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:288
+#, fuzzy, kde-format
+#| msgid "C&ontaining text:"
+msgctxt "@label:textbox"
+msgid "C&ontaining text:"
+msgstr "บรร&จุข้อความ:"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:294
+#, kde-format
+msgid "<qt>If specified, only files that contain this text are found. Note that not all file types from the list above are supported. Please refer to the documentation for a list of supported file types.</qt>"
+msgstr "<qt>หากมีการระบุ จะทำการค้นหาแฟ้มที่มีข้อความที่ระบุในช่องนี้เท่านั้น โปรดสังเกตว่า ไม่ได้มีการรองรับชนิดของแฟ้มในช่องรายการด้านบนทั้งหมด โปรดอ้างอิงเอกสารคู่มือ เพื่อดูรายการชนิดของแฟ้มที่รองรับ</qt>"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:302
+#, fuzzy, kde-format
+#| msgid "Case s&ensitive"
+msgctxt "@option:check"
+msgid "Case s&ensitive"
+msgstr "แยกแยะตัว&พิมพ์เล็ก-ใหญ่"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:303
+#, fuzzy, kde-format
+#| msgid "Include &binary files"
+msgctxt "@option:check"
+msgid "Include &binary files"
+msgstr "รวมแฟ้มภาษาเ&ครื่องด้วย"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:306
+#, kde-format
+msgid "<qt>This lets you search in any type of file, even those that usually do not contain text (for example program files and images).</qt>"
+msgstr "<qt>ตัวเลือกนี้ จะอนุญาตให้คุณค้นหาภายในแฟ้มชนิดใดก็ได้ แม้ว่าจะเป็นแฟ้มที่ไม่ได้บรรจุข้อความเอาไว้ (ตัวอย่างเช่น แฟ้มเรียกโปรแกรม หรือแฟ้มรูปภาพ)</qt>"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:313
+#, fuzzy, kde-format
+#| msgid "fo&r:"
+msgctxt "as in search for"
+msgid "fo&r:"
+msgstr "สำ&หรับ:"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:315
+#, fuzzy, kde-format
+#| msgid "Search &metainfo sections:"
+msgctxt "@label:textbox"
+msgid "Search &metainfo sections:"
+msgstr "ค้นหาในส่วนข้อมูล&กำกับ:"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:319
+#, kde-format
+msgid "All Files & Folders"
+msgstr "แฟ้มและโฟลเดอร์ทั้งหมด"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:320
+#, kde-format
+msgid "Files"
+msgstr "แฟ้มทั้งหมด"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:321
+#, kde-format
+msgid "Folders"
+msgstr "โฟลเดอร์ทั้งหมด"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:322
+#, kde-format
+msgid "Symbolic Links"
+msgstr "แฟ้มเชื่อมโยงแบบสัญลักษณ์"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:323
+#, kde-format
+msgid "Special Files (Sockets, Device Files, ...)"
+msgstr "แฟ้มพิเศษ (ซ็อกเกต, แฟ้มอุปกรณ์...) ทั้งหมด"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:324
+#, kde-format
+msgid "Executable Files"
+msgstr "แฟ้มประมวลผลได้ทั้งหมด"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:325
+#, kde-format
+msgid "SUID Executable Files"
+msgstr "แฟ้มประมวลผลได้แบบ SUID ทั้งหมด"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:326
+#, kde-format
+msgid "All Images"
+msgstr "แฟ้มรูปภาพทั้งหมด"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:327
+#, kde-format
+msgid "All Video"
+msgstr "แฟ้มวิดีโอทั้งหมด"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:328
+#, kde-format
+msgid "All Sounds"
+msgstr "แฟ้มเสียงทั้งหมด"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:393
+#, kde-format
+msgid "Name/&Location"
+msgstr "ชื่อ/ตำแหน่ง"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:394
+#, kde-format
+msgctxt "tab name: search by contents"
+msgid "C&ontents"
+msgstr "เ&นื้อหา"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:399
+#, kde-format
+msgid ""
+"<qt>Search within files' specific comments/metainfo<br />"
+"These are some examples:<br />"
+"<ul>"
+"<li><b>Audio files (mp3...)</b> Search in id3 tag for a title, an album</li>"
+"<li><b>Images (png...)</b> Search images with a special resolution, comment...</li>"
+"</ul>"
+"</qt>"
+msgstr ""
+"<qt>ค้นหาภายในส่วนหมายเหตุ/ข้อมูลกำกับของแฟ้ม<br />"
+"ตัวอย่างเช่น:<br />"
+"<ul>"
+"<li><b>แฟ้มเสียง (mp3...)</b> จะค้นหาในส่วนแท็ก id3 สำหรับชื่อเพลง, ชื่ออัลบั้ม</li>"
+"<li><b>แฟ้มภาพ (png...)</b> ค้นหาภาพที่มีความละเอียดที่กำหนด, หมายเหตุ...</li>"
+"</ul>"
+"</qt>"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:407
+#, kde-format
+msgid ""
+"<qt>If specified, search only in this field<br />"
+"<ul>"
+"<li><b>Audio files (mp3...)</b> This can be Title, Album...</li>"
+"<li><b>Images (png...)</b> Search only in Resolution, Bitdepth...</li>"
+"</ul>"
+"</qt>"
+msgstr ""
+"<qt>หากมีการระบุไว้ จะมีการค้นหาเฉพาะในช่องข้อมูลนี้<br />"
+"<ul>"
+"<li><b>แฟ้มเสียง (mp3...)</b> อาจเป็นชื่อเพลง, ชื่ออัลบั้ม</li>"
+"<li><b>แฟ้มภาพ (png...)</b> ค้นหาความละเอียดที่กำหนด, ความลึกสี...</li>"
+"</ul>"
+"</qt>"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:548
+#, kde-format
+msgid "Unable to search within a period which is less than a minute."
+msgstr "ไม่สามารถหาในช่วงที่น้อยกว่าหนึ่งนาทีได้"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:559
+#, kde-format
+msgid "The date is not valid."
+msgstr "วันที่ใช้งานไม่ได้"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:561
+#, kde-format
+msgid "Invalid date range."
+msgstr "ช่วงวันที่ใช้งานไม่ได้"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:563
+#, kde-format
+msgid "Unable to search dates in the future."
+msgstr "ไม่สามารถค้นหาช่วงวันที่ในอนาคตได้ !"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:635
+#, kde-format
+msgid "Size is too big. Set maximum size value?"
+msgstr "มีขนาดใหญ่เกินไป... จะตั้งค่าขนาดสูงสุดหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:635
+#, kde-format
+msgid "Error"
+msgstr "ผิดพลาด"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:635
+#, kde-format
+msgid "Set"
+msgstr "ตั้งค่า"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:635
+#, kde-format
+msgid "Do Not Set"
+msgstr "ไม่ต้องตั้งค่า"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:818
+#, kde-format
+msgctxt "during the previous minute(s)/hour(s)/...; dynamic context 'type': 'i' minutes, 'h' hours, 'd' days, 'm' months, 'y' years"
+msgid "&during the previous"
+msgid_plural "&during the previous"
+msgstr[0] "ใน&ช่วง"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:819
+#, kde-format
+msgctxt "use date ranges to search files by modified time"
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "นาที"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:820
+#, kde-format
+msgctxt "use date ranges to search files by modified time"
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "ชั่วโมง"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:821
+#, kde-format
+msgctxt "use date ranges to search files by modified time"
+msgid "day"
+msgid_plural "days"
+msgstr[0] "วัน"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:822
+#, kde-format
+msgctxt "use date ranges to search files by modified time"
+msgid "month"
+msgid_plural "months"
+msgstr[0] "เดือน"
+
+#. +> trunk6 stable6
+#: kftabdlg.cpp:823
+#, kde-format
+msgctxt "use date ranges to search files by modified time"
+msgid "year"
+msgid_plural "years"
+msgstr[0] "ปี"
+
+#. +> trunk6 stable6
+#: kquery.cpp:556
+#, fuzzy, kde-format
+#| msgid "Error while using locate"
+msgctxt "@title:window"
+msgid "Error while using locate"
+msgstr "เกิดข้อผิดพลาดขณะใช้คำสั่ง locate"
+
+#. +> trunk6 stable6
+#: main.cpp:27
+#, kde-format
+msgid "KFind"
+msgstr "KFind"
+
+#. +> trunk6 stable6
+#: main.cpp:28
+#, kde-format
+msgid "KDE file find utility"
+msgstr "เครื่องมือค้นหาแฟ้มของ KDE"
+
+#. +> trunk6 stable6
+#: main.cpp:29
+#, fuzzy, kde-format
+#| msgid "(c) 1998-2003, The KDE Developers"
+msgid "(c) 1998-2021, The KDE Developers"
+msgstr "สงวนลิขสิทธิ์ (c) 1998-2003, กลุ่มผู้พัฒนา KDE"
+
+#. +> trunk6 stable6
+#: main.cpp:31
+#, kde-format
+msgctxt "@info:credit"
+msgid "Kai Uwe Broulik"
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:31
+#, kde-format
+msgid "Current Maintainer"
+msgstr "ผู้ดูแลในปัจจุบัน"
+
+#. +> trunk6 stable6
+#: main.cpp:32
+#, fuzzy, kde-format
+#| msgid "Eric Coquelle"
+msgctxt "@info:credit"
+msgid "Eric Coquelle"
+msgstr "Eric Coquelle"
+
+#. +> trunk6 stable6
+#: main.cpp:32
+#, fuzzy, kde-format
+#| msgid "Current Maintainer"
+msgid "Former Maintainer"
+msgstr "ผู้ดูแลในปัจจุบัน"
+
+#. +> trunk6 stable6
+#: main.cpp:33
+#, fuzzy, kde-format
+#| msgid "Mark W. Webb"
+msgctxt "@info:credit"
+msgid "Mark W. Webb"
+msgstr "Mark W. Webb"
+
+#. +> trunk6 stable6
+#: main.cpp:33
+#, kde-format
+msgid "Developer"
+msgstr "ผู้พัฒนา"
+
+#. +> trunk6 stable6
+#: main.cpp:34
+#, fuzzy, kde-format
+#| msgid "Beppe Grimaldi"
+msgctxt "@info:credit"
+msgid "Beppe Grimaldi"
+msgstr "Beppe Grimaldi"
+
+#. +> trunk6 stable6
+#: main.cpp:34
+#, kde-format
+msgid "UI Design & more search options"
+msgstr "ออกแบบส่วนติดต่อผู้ใช้และตัวเลือกการค้นหาเพิ่มเติม"
+
+#. +> trunk6 stable6
+#: main.cpp:35
+#, fuzzy, kde-format
+#| msgid "Martin Hartig"
+msgctxt "@info:credit"
+msgid "Martin Hartig"
+msgstr "Martin Hartig"
+
+#. +> trunk6 stable6
+#: main.cpp:36
+#, fuzzy, kde-format
+#| msgid "Stephan Kulow"
+msgctxt "@info:credit"
+msgid "Stephan Kulow"
+msgstr "Stephan Kulow"
+
+#. +> trunk6 stable6
+#: main.cpp:37
+#, fuzzy, kde-format
+#| msgid "Mario Weilguni"
+msgctxt "@info:credit"
+msgid "Mario Weilguni"
+msgstr "Mario Weilguni"
+
+#. +> trunk6 stable6
+#: main.cpp:38
+#, fuzzy, kde-format
+#| msgid "Alex Zepeda"
+msgctxt "@info:credit"
+msgid "Alex Zepeda"
+msgstr "Alex Zepeda"
+
+#. +> trunk6 stable6
+#: main.cpp:39
+#, fuzzy, kde-format
+#| msgid "Miroslav Flídr"
+msgctxt "@info:credit"
+msgid "Miroslav Flídr"
+msgstr "Miroslav Flídr"
+
+#. +> trunk6 stable6
+#: main.cpp:40
+#, fuzzy, kde-format
+#| msgid "Harri Porten"
+msgctxt "@info:credit"
+msgid "Harri Porten"
+msgstr "Harri Porten"
+
+#. +> trunk6 stable6
+#: main.cpp:41
+#, fuzzy, kde-format
+#| msgid "Dima Rogozin"
+msgctxt "@info:credit"
+msgid "Dima Rogozin"
+msgstr "Dima Rogozin"
+
+#. +> trunk6 stable6
+#: main.cpp:42
+#, fuzzy, kde-format
+#| msgid "Carsten Pfeiffer"
+msgctxt "@info:credit"
+msgid "Carsten Pfeiffer"
+msgstr "Carsten Pfeiffer"
+
+#. +> trunk6 stable6
+#: main.cpp:43
+#, fuzzy, kde-format
+#| msgid "Hans Petter Bieker"
+msgctxt "@info:credit"
+msgid "Hans Petter Bieker"
+msgstr "Hans Petter Bieker"
+
+#. +> trunk6 stable6
+#: main.cpp:44
+#, fuzzy, kde-format
+#| msgid "Waldo Bastian"
+msgctxt "@info:credit"
+msgid "Waldo Bastian"
+msgstr "Waldo Bastian"
+
+#. +> trunk6 stable6
+#: main.cpp:44
+#, kde-format
+msgid "UI Design"
+msgstr "ออกแบบส่วนติดต่อผู้ใช้"
+
+#. +> trunk6 stable6
+#: main.cpp:45
+#, fuzzy, kde-format
+#| msgid "Alexander Neundorf"
+msgctxt "@info:credit"
+msgid "Alexander Neundorf"
+msgstr "Alexander Neundorf"
+
+#. +> trunk6 stable6
+#: main.cpp:46
+#, fuzzy, kde-format
+#| msgid "Clarence Dang"
+msgctxt "@info:credit"
+msgid "Clarence Dang"
+msgstr "Clarence Dang"
+
+#. +> trunk6 stable6
+#: main.cpp:47
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ถนอมทรัพย์ นพบูรณ์, สหชาติ อนุกูลกิจ"
+
+#. +> trunk6 stable6
+#: main.cpp:47
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "donga.nb@gmail.com, drrider@gmail.com"
+
+#. +> trunk6 stable6
+#: main.cpp:50
+#, kde-format
+msgid "Path(s) to search"
+msgstr "พาธที่จะใช้ในการค้นหา"

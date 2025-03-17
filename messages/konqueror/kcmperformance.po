@@ -1,0 +1,114 @@
+# translation of kcmperformance.po to Thai
+#
+# Thanomsub Noppaburana <donga_n@yahoo.com>, 2005.
+# Sahachart Anukulkitch <drrider@gmail.com>, 2006, 2007.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmperformance\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-04-22 09:35+0200\n"
+"PO-Revision-Date: 2008-04-26 12:10+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#: kcmperformance.cpp:32
+#, kde-format
+msgid "Konqueror"
+msgstr "Konqueror"
+
+#. +> trunk6 stable6
+#: kcmperformance.cpp:35
+#, kde-format
+msgid "System"
+msgstr "ระบบ"
+
+#. +> trunk6 stable6
+#: konqueror.cpp:24
+#, fuzzy, kde-format
+#| msgid ""
+#| "<p>If enabled, an instance of Konqueror will be preloaded after the ordinary KDE startup sequence.</p>"
+#| "<p>This will make the first Konqueror window open faster, but at the expense of longer KDE startup times (but you will be able to work while it is loading, so you may not even notice that it is taking longer).</p>"
+msgid ""
+"<p>If enabled, an instance of Konqueror will be preloaded after the ordinary Plasma startup sequence.</p>"
+"<p>This will make the first Konqueror window open faster, but at the expense of longer Plasma startup times (but you will be able to work while it is loading, so you may not even notice that it is taking longer).</p>"
+msgstr ""
+"<p>หากเปิดใช้ตัวเลือกนี้ จะมีการโหลดโปรแกรม Konqueror ล่วงหน้าในช่วงการเริ่มการทำงานของ KDE </p>"
+"<p>ตัวเลือกนี้จะช่วยให้การเปิดใช้หน้าต่างโปรแกรม Konqueror มีความรวดเร็วมากขึ้น แต่จะทำให้ใช้เวลาเริ่มการทำงานของ KDE มากขึ้นเช่นกัน (แต่คุณยังคงสามารถทำงานอื่น ๆ ได้ ระหว่างที่ทำการโหลดอยู่)</p>"
+
+#. +> trunk6 stable6
+#: konqueror.cpp:30
+#, fuzzy, kde-format
+#| msgid ""
+#| "<p>If enabled, KDE will always try to have one preloaded Konqueror instance ready; preloading a new instance in the background whenever there is not one available, so that windows will always open quickly.</p>"
+#| "<p><b>Warning:</b> In some cases, it is actually possible that this will reduce perceived performance.</p>"
+msgid ""
+"<p>If enabled, Konqueror will always try to have one preloaded instance ready; preloading a new instance in the background whenever there is not one available, so that windows will always open quickly.</p>"
+"<p><b>Warning:</b> In some cases, it is actually possible that this will reduce perceived performance.</p>"
+msgstr ""
+"<p>หากเปิดใช้ตัวเลือกนี้ KDE จะพยายามโหลดโปรแกรม Konqueror ล่วงหน้าไว้ในหน่วยความจำเสมอ โดยจะเป็นการโหลดแบบเบื้องหลังหากยังไม่มีการโหลดมาก่อน ซึ่งจะทำให้การเปิดหน้าต่างโปรแกรม Konqueror รวดเร็วมากขึ้น</p>"
+"<p><b>คำเตือน:</b> ในบางกรณีอาจจะเป็นการลดประสิทธิภาพได้เช่นกัน</p>"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox1)
+#. +> trunk6 stable6
+#: konqueror_ui.ui:17
+#, kde-format
+msgid "Preloading"
+msgstr "โหลดโปรแกรมล่วงหน้า (preloading)"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cb_preload_on_startup)
+#. +> trunk6 stable6
+#: konqueror_ui.ui:23
+#, fuzzy, kde-format
+#| msgid "Preload an instance after KDE startup"
+msgid "Preload an instance after desktop startup"
+msgstr "ทำการโหลดโปรแกรมล่วงหน้า หลังจากที่เริ่มการทำงาน KDE แล้ว"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cb_always_have_preloaded)
+#. +> trunk6 stable6
+#: konqueror_ui.ui:30
+#, fuzzy, kde-format
+#| msgid "Always try to have at least one preloaded instance"
+msgid "Always try to have one preloaded instance"
+msgstr "ให้พยายามโหลดโปรแกรมล่วงหน้าอย่างน้อยหนึ่งตัวเสมอ"
+
+#. +> trunk6 stable6
+#: system.cpp:22
+#, kde-format
+msgid ""
+"<p>During startup KDE needs to perform a check of its system configuration (mimetypes, installed applications, etc.), and in case the configuration has changed since the last time, the system configuration cache (KSyCoCa) needs to be updated.</p>"
+"<p>This option delays the check, which avoid scanning all directories containing files describing the system during KDE startup, thus making KDE startup faster. However, in the rare case the system configuration has changed since the last time, and the change is needed before this delayed check takes place, this option may lead to various problems (missing applications in the K Menu, reports from applications about missing required mimetypes, etc.).</p>"
+"<p>Changes of system configuration mostly happen by (un)installing applications. It is therefore recommended to turn this option temporarily off while (un)installing applications.</p>"
+msgstr ""
+"<p>ในระหว่างที่มีการเริ่มการทำงาน KDE จะต้องการตรวจสอบแฟ้มการปรับแต่งระบบของตัวเอง (เช่น ชนิดแฟ้ม mime, โปรแกรมที่มีการติดตั้งไว้ เป็นต้น) และในกรณีที่การปรับแต่งระบบมีการเปลี่ยนแปลง ไปจากครั้งก่อน ตัวแคชเก็บค่าการปรับแต่งระบบ (KSyCoCa) จะต้องการการปรับปรุงข้อมูลเช่นกัน</p>"
+"<p>ตัวเลือกนี้จะทำให้เกิดการหน่วงเวลาในการตรวจสอบค่าปรับแต่งระบบดังกล่าว และจะทำให้ไม่มีการค้นหาในไดเรกทอรีที่เก็บค่าการปรับแต่งของระบบ KDE ในระหว่างที่เริ่มการทำงานของ KDE ซึ่งจะทำให้การเริ่มการทำงานของ KDE รวดเร็วมากขึ้น แต่อย่างไรก็ตาม แม้จะเป็นกรณีที่เกิดได้ยาก แต่เมื่อค่าต่าง ๆ ของระบบถูกเปลี่ยนแปลงจากครั้งก่อน และการเปลี่ยนแปลงนั้นเป็นที่ต้องการก่อนที่การหน่วงการตรวจสอบนี้จะเกิดขึ้น ตัวเลือกนี้อาจจะทำให้เกิดปัญหาหลายอย่างขึ้นได้ (โปรแกรมหายไปจากเมนู K, มีรายงานจากโปรแกรมในเรื่อง ชนิดแฟ้ม mime ที่จำเป็นหายไป, ฯลฯ)</p>"
+" "
+"<p>การเปลี่ยนแปลงค่าปรับแต่งของระบบจะเกิดขึ้นส่วนมากโดยการติดตั้งหรือถอนการติดตั้งโปรแกรม ดังนั้นขอแนะนำให้ปิดการใช้งานตัวเลือกนี้ชั่วคราวในกรณีที่มีการติดตั้งหรือถอนการติดตั้งโปรแกรม</p>"
+" "
+
+#. i18n: ectx: property (title), widget (QGroupBox, gb_)
+#. +> trunk6 stable6
+#: system_ui.ui:8
+#, kde-format
+msgid "System Configuration"
+msgstr "ปรับแต่งระบบ"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cb_disable_kbuildsycoca)
+#. +> trunk6 stable6
+#: system_ui.ui:14
+#, kde-format
+msgid "Disable &system configuration startup check"
+msgstr "ปิดการตรวจสอบค่าการปรับแต่งของระบบในขณะที่ KDE เริ่มทำงาน"
+
+#. i18n: ectx: property (text), widget (QLabel, label_kbuildsycoca)
+#. +> trunk6 stable6
+#: system_ui.ui:21
+#, kde-format
+msgid "This option may in rare cases lead to various problems. Consult the What's This (Shift+F1) help for details."
+msgstr "ตัวเลือกนี้อาจก่อปัญหาได้หลายประการ แม้ว่าจะเกิดได้ยากมาก โปรดดูที่ 'นี่คืออะไร?' (Shift+F1) สำหรับรายละเอียด"

@@ -1,0 +1,2695 @@
+# translation of ark.po to Thai
+# Copyright (C) 2003, 2005, 2006, 2008 Free Software Foundation, Inc.
+# Thanomsub Noppaburana <donga_n@yahoo.com>, 2003, 2005.
+# Sahachart Anukulkitch <drrider@gmail.com>, 2005, 2006.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ark\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-03-06 10:31+0100\n"
+"PO-Revision-Date: 2010-12-18 15:47+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ถนอมทรัพย์ นพบูรณ์"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "donga.nb@gmail.com"
+
+#. i18n: ectx: Menu (archive)
+#. +> trunk6 stable6
+#: app/arkui.rc:5
+#, fuzzy, kde-format
+#| msgid "Open an archive"
+msgctxt "Noun, not a verb. Top level menu item, i.e. like File"
+msgid "&Archive"
+msgstr "เปิดแฟ้มจัดเก็บ"
+
+#. +> trunk6 stable6
+#: app/batchextract.cpp:103 app/batchextract.cpp:174
+#, fuzzy, kde-format
+#| msgid "Extracting all files"
+msgid "Extracting Files"
+msgstr "คลายแฟ้มทั้งหมด"
+
+#. +> trunk6 stable6
+#: app/batchextract.cpp:104 app/batchextract.cpp:175
+#, kde-format
+msgid "Source archive"
+msgstr "แฟ้มจัดเก็บต้นทาง"
+
+#. +> trunk6 stable6
+#: app/batchextract.cpp:105 app/batchextract.cpp:176
+#, kde-format
+msgid "Destination"
+msgstr "ปลายทาง"
+
+#. +> trunk6 stable6
+#: app/batchextract.cpp:117
+#, kde-format
+msgid "The following files could not be extracted:"
+msgstr "ไม่สามารถทำการคลายแฟ้มต่าง ๆ ต่อไปนี้ได้:"
+
+#. +> trunk6 stable6
+#: app/batchextract.cpp:137
+#, fuzzy, kde-kuit-format
+#| msgid "There was an error while reading <filename>%1</filename> during extraction."
+msgctxt "@info"
+msgid "There was an error while extracting <filename>%1</filename>. Any further archive will not be extracted."
+msgstr "เกิดข้อผิดพลาดระหว่างทำการอ่าน <filename>%1</filename> ในระหว่างทำการคลายแฟ้ม"
+
+#. +> trunk6 stable6
+#: app/batchextract.cpp:139
+#, fuzzy, kde-kuit-format
+#| msgid "There was an error while reading <filename>%1</filename> during extraction."
+msgctxt "@info"
+msgid ""
+"There was an error while extracting <filename>%1</filename>:<nl/>"
+"<message>%2</message><nl/>"
+"Any further archive will not be extracted."
+msgstr "เกิดข้อผิดพลาดระหว่างทำการอ่าน <filename>%1</filename> ในระหว่างทำการคลายแฟ้ม"
+
+#. +> trunk6 stable6
+#: app/batchextract.cpp:146
+#, fuzzy, kde-kuit-format
+#| msgid "There was an error while reading <filename>%1</filename> during extraction."
+msgctxt "@info"
+msgid "There was an error while extracting <filename>%1</filename>."
+msgstr "เกิดข้อผิดพลาดระหว่างทำการอ่าน <filename>%1</filename> ในระหว่างทำการคลายแฟ้ม"
+
+#. +> trunk6 stable6
+#: app/batchextract.cpp:148
+#, fuzzy, kde-kuit-format
+#| msgid "There was an error while reading <filename>%1</filename> during extraction."
+msgctxt "@info"
+msgid ""
+"There was an error while extracting <filename>%1</filename>:<nl/>"
+"<message>%2</message>"
+msgstr "เกิดข้อผิดพลาดระหว่างทำการอ่าน <filename>%1</filename> ในระหว่างทำการคลายแฟ้ม"
+
+#. +> trunk6 stable6
+#: app/batchextract.cpp:300
+#, fuzzy, kde-kuit-format
+#| msgid "The archive could not be saved as <filename>%1</filename>. Try saving it to another location."
+msgctxt "@info"
+msgid "The archive could not be extracted to <filename>%1</filename> because Ark can only extract to local destinations."
+msgstr "ไม่สามารถบันทึกแฟ้มจัดเก็บแบบบีบอัด <filename>%1</filename> ได้ โปรดลองทำการบันทึกไปยังตำแหน่งอื่น"
+
+#. +> trunk6 stable6
+#: app/compressfileitemaction.cpp:71
+#, fuzzy, kde-format
+#| msgctxt "Compressed size of a file inside an archive"
+#| msgid "Compressed"
+msgctxt "@action:inmenu Compress submenu in Dolphin context menu"
+msgid "Compress"
+msgstr "ขนาดเมื่อบีบอัด"
+
+#. +> trunk6 stable6
+#: app/compressfileitemaction.cpp:97
+#, fuzzy, kde-format
+#| msgctxt "Compressed size of a file inside an archive"
+#| msgid "Compressed"
+msgctxt "@action:inmenu Part of Compress submenu in Dolphin context menu"
+msgid "Compress to..."
+msgstr "ขนาดเมื่อบีบอัด"
+
+#. +> trunk6 stable6
+#: app/compressfileitemaction.cpp:105
+#, fuzzy, kde-format
+#| msgctxt "Compressed size of a file inside an archive"
+#| msgid "Compressed"
+msgctxt "@action:inmenu Part of Compress submenu in Dolphin context menu, %1 filename"
+msgid "Compress to \"%1\""
+msgstr "ขนาดเมื่อบีบอัด"
+
+#. +> trunk6 stable6
+#: app/extractfileitemaction.cpp:66
+#, fuzzy, kde-format
+#| msgctxt "@title:window"
+#| msgid "Extract"
+msgctxt "@action:inmenu Part of Extract submenu in Dolphin context menu"
+msgid "Extract to…"
+msgstr "คลายแฟ้ม"
+
+#. +> trunk6 stable6
+#: app/extractfileitemaction.cpp:78
+#, fuzzy, kde-format
+#| msgid "Extract here"
+msgctxt "@action:inmenu Part of Extract submenu in Dolphin context menu"
+msgid "Extract here"
+msgstr "คลายแฟ้มไว้ที่นี่"
+
+#. +> trunk6 stable6
+#: app/extractfileitemaction.cpp:84
+#, fuzzy, kde-format
+#| msgid "Extract multiple archives"
+msgctxt "@action:inmenu Part of Extract submenu in Dolphin context menu"
+msgid "Extract here and delete archive"
+msgstr "คลายแฟ้มจัดเก็บหลายแฟ้ม"
+
+#. +> trunk6 stable6
+#: app/extractfileitemaction.cpp:91
+#, fuzzy, kde-format
+#| msgctxt "@title:window"
+#| msgid "Extract"
+msgctxt "@action:inmenu Extract submenu in Dolphin context menu"
+msgid "Extract"
+msgstr "คลายแฟ้ม"
+
+#. +> trunk6 stable6
+#: app/extractHereDndPlugin.cpp:54
+#, kde-format
+msgctxt "@action:inmenu Context menu shown when an archive is being drag'n'dropped"
+msgid "Extract here"
+msgstr "คลายแฟ้มไว้ที่นี่"
+
+#. +> trunk6 stable6
+#: app/main.cpp:76
+#, kde-format
+msgid "Ark"
+msgstr "อาร์ก"
+
+#. +> trunk6 stable6
+#: app/main.cpp:78
+#, kde-format
+msgid "KDE Archiving tool"
+msgstr "เครื่องมือจัดการแฟ้มจัดเก็บของ KDE"
+
+#. +> trunk6 stable6
+#: app/main.cpp:80
+#, fuzzy, kde-format
+#| msgid "(c) 1997-2010, The Various Ark Developers"
+msgid "(c) 1997-2019, The Ark Developers"
+msgstr "สงวนลิขสิทธิ์ (c) 1997-2010, กลุ่มผู้พัฒนาอาร์ก"
+
+#. +> trunk6 stable6
+#: app/main.cpp:86
+#, kde-format
+msgid "Elvis Angelaccio"
+msgstr ""
+
+#. +> trunk6 stable6
+#: app/main.cpp:86
+#, kde-format
+msgid "Maintainer"
+msgstr "ผู้ดูแล"
+
+#. +> trunk6 stable6
+#: app/main.cpp:87
+#, kde-format
+msgid "Ragnar Thomsen"
+msgstr ""
+
+#. +> trunk6 stable6
+#: app/main.cpp:87
+#, fuzzy, kde-format
+#| msgid "Maintainer"
+msgid "Maintainer, KF5 port"
+msgstr "ผู้ดูแล"
+
+#. +> trunk6 stable6
+#: app/main.cpp:88
+#, kde-format
+msgid "Raphael Kubo da Costa"
+msgstr "Raphael Kubo da Costa"
+
+#. +> trunk6 stable6
+#: app/main.cpp:88 app/main.cpp:89 app/main.cpp:90
+#, kde-format
+msgid "Former Maintainer"
+msgstr "ผู้ดูแลก่อนหน้านี้"
+
+#. +> trunk6 stable6
+#: app/main.cpp:89
+#, kde-format
+msgid "Harald Hvaal"
+msgstr "Harald Hvaal"
+
+#. +> trunk6 stable6
+#: app/main.cpp:90
+#, kde-format
+msgid "Henrique Pinto"
+msgstr "Henrique Pinto"
+
+#. +> trunk6 stable6
+#: app/main.cpp:91
+#, kde-format
+msgid "Helio Chissini de Castro"
+msgstr "Helio Chissini de Castro"
+
+#. +> trunk6 stable6
+#: app/main.cpp:91
+#, kde-format
+msgid "Former maintainer"
+msgstr "ผู้ดูแลก่อนหน้านี้"
+
+#. +> trunk6 stable6
+#: app/main.cpp:92
+#, kde-format
+msgid "Georg Robbers"
+msgstr "Georg Robbers"
+
+#. +> trunk6 stable6
+#: app/main.cpp:93
+#, kde-format
+msgid "Roberto Selbach Teixeira"
+msgstr "Roberto Selbach Teixeira"
+
+#. +> trunk6 stable6
+#: app/main.cpp:94
+#, kde-format
+msgid "Francois-Xavier Duranceau"
+msgstr "Francois-Xavier Duranceau"
+
+#. +> trunk6 stable6
+#: app/main.cpp:95
+#, kde-format
+msgid "Emily Ezust (Corel Corporation)"
+msgstr "Emily Ezust (Corel Corporation)"
+
+#. +> trunk6 stable6
+#: app/main.cpp:96
+#, kde-format
+msgid "Michael Jarrett (Corel Corporation)"
+msgstr "Michael Jarrett (Corel Corporation)"
+
+#. +> trunk6 stable6
+#: app/main.cpp:97
+#, kde-format
+msgid "Robert Palmbos"
+msgstr "Robert Palmbos"
+
+#. +> trunk6 stable6
+#: app/main.cpp:99
+#, kde-format
+msgid "Vladyslav Batyrenko"
+msgstr ""
+
+#. +> trunk6 stable6
+#: app/main.cpp:100
+#, kde-format
+msgid "Advanced editing functionalities"
+msgstr ""
+
+#. +> trunk6 stable6
+#: app/main.cpp:103
+#, kde-format
+msgid "Bryce Corkins"
+msgstr "Bryce Corkins"
+
+#. +> trunk6 stable6
+#: app/main.cpp:103
+#, kde-format
+msgid "Icons"
+msgstr "ไอคอน"
+
+#. +> trunk6 stable6
+#: app/main.cpp:104
+#, kde-format
+msgid "Liam Smit"
+msgstr "Liam Smit"
+
+#. +> trunk6 stable6
+#: app/main.cpp:104
+#, kde-format
+msgid "Ideas, help with the icons"
+msgstr "แนวคิด, ความช่วยเหลือกับไอคอนชุดนี้"
+
+#. +> trunk6 stable6
+#: app/main.cpp:105
+#, kde-format
+msgid "Andrew Smith"
+msgstr "Andrew Smith"
+
+#. +> trunk6 stable6
+#: app/main.cpp:105
+#, kde-format
+msgid "bkisofs code"
+msgstr "โค้ดส่วน bkisofs"
+
+#. +> trunk6 stable6
+#: app/main.cpp:114
+#, kde-format
+msgid "URLs to open."
+msgstr ""
+
+#. +> trunk6 stable6
+#: app/main.cpp:117
+#, kde-format
+msgid "Show a dialog for specifying the options for the operation (extract/add)"
+msgstr "แสดงกล่องระบุค่าตัวเลือกของปฏิบัติการนี้ (คลายแฟ้ม/เพิ่มแฟ้ม)"
+
+#. +> trunk6 stable6
+#: app/main.cpp:120
+#, kde-format
+msgid "Destination folder to extract to. Defaults to current path if not specified."
+msgstr "โฟลเดอร์ปลายทางที่จะทำการคลายแฟ้มไปเก็บไว้ หากไม่มีการระบุจะใช้ค่าพาธที่ใช้งานอยู่ในปัจจุบัน"
+
+#. i18n: ectx: label, entry (openDestinationFolderAfterExtraction), group (Extraction)
+#. +> trunk6 stable6
+#: app/main.cpp:124 kerfuffle/ark.kcfg:23
+#, fuzzy, kde-format
+#| msgid "Open destination folder after extraction"
+msgid "Open destination folder after extraction."
+msgstr "เปิดโฟลเดอร์ปลายทางหลังจากทำการคลายแฟ้มแล้ว"
+
+#. +> trunk6 stable6
+#: app/main.cpp:127
+#, kde-format
+msgid "Query the user for an archive filename and add specified files to it. Quit when finished."
+msgstr "ให้ผู้ใช้ค้นหาชื่อแฟ้มของแฟ้มจัดเก็บ และเพิ่มแฟ้มที่ระบุไปยังแฟ้มที่พบ แล้วออกเมื่อเสร็จสิ้นแล้ว"
+
+#. +> trunk6 stable6
+#: app/main.cpp:130
+#, kde-format
+msgid "Add the specified files to 'filename'. Create archive if it does not exist. Quit when finished."
+msgstr "เพิ่มแฟ้มต่าง ๆ ที่ระบุไปยัง 'ชื่อแฟ้ม' โดยสร้างแฟ้มจัดเก็บให้หากมันยังไม่มีอยู่ และออกเมื่อเสร็จสิ้นแล้ว"
+
+#. +> trunk6 stable6
+#: app/main.cpp:134
+#, kde-format
+msgid "Change the current dir to the first entry and add all other entries relative to this one."
+msgstr "เปลี่ยนไดเรกทอรีปัจจุบันไปยังรายการแรกแล้วเพิ่มรายการอื่นทั้งหมดที่เหลือ ให้สัมพันธ์กับตัวดังกล่าว"
+
+#. +> trunk6 stable6
+#: app/main.cpp:138
+#, kde-format
+msgid "Automatically choose a filename, with the selected suffix (for example rar, tar.gz, zip or any other supported types)"
+msgstr "เลือกชื่อแฟ้มให้โดยอัตโนมัติ และใช้ส่วนต่อท้ายตามที่เลือกไว้ (ตัวอย่างเช่น rar, tar.gz, zip หรือชนิดแฟ้มใด ๆ ที่รองรับ)"
+
+#. +> trunk6 stable6
+#: app/main.cpp:143
+#, kde-format
+msgid "Use the batch interface instead of the usual dialog. This option is implied if more than one url is specified."
+msgstr "ใช้ส่วนติดต่อแบบกลุ่มแทนกล่องโต้ตอบปกติ ตัวเลือกนี้จะมีผลปรับใช้ หากมีการระบุค่าที่อยู่ url มาให้มากกว่าหนึ่งที่อยู่"
+
+#. +> trunk6 stable6
+#: app/main.cpp:146
+#, kde-format
+msgid "The destination argument will be set to the path of the first file supplied."
+msgstr "อาร์กิวเมนต์ของปลายทางจะถูกตั้งค่าเป็นพาธของแฟ้มตัวแรกที่จัดหามาให้"
+
+#. +> trunk6 stable6
+#: app/main.cpp:149
+#, fuzzy, kde-format
+#| msgid "Archive contents will be read, and if detected to not be a single folder archive, a subfolder with the name of the archive will be created."
+msgid "Archive contents will be read, and if detected to not be a single folder or a single file archive, a subfolder with the name of the archive will be created."
+msgstr "เนื้อหาต่าง ๆ ในแฟ้มจัดเก็บจะถูกอ่านขึ้นมา และหากตรวจสอบพบว่า มันไม่ได้เป็นแฟ้มจัดเก็บแบบโฟลเดอร์เดี่ยว ก็จะมีการสร้างโฟลเดอร์ย่อยให้ โดยใช้ชื่อของแฟ้มจัดเก็บมาใช้เป็นชื่อโฟลเดอร์ย่อย"
+
+#. +> trunk6 stable6
+#: app/main.cpp:152
+#, kde-format
+msgid "List supported MIME types."
+msgstr ""
+
+#. +> trunk6 stable6
+#: app/mainwindow.cpp:167
+#, kde-format
+msgid "Unable to find Ark's KPart component, please check your installation."
+msgstr "ไม่สามารถค้นพบคอมโพเนนต์ KPart ของ Ark โปรดตรวจสอบการติดตั้งของคุณ"
+
+#. +> trunk6 stable6
+#: app/mainwindow.cpp:182
+#, kde-format
+msgid "Sidebar"
+msgstr ""
+
+#. +> trunk6 stable6
+#: app/mainwindow.cpp:285
+#, kde-format
+msgid "Welcome Page"
+msgstr ""
+
+#. +> trunk6 stable6
+#: app/mainwindow.cpp:287
+#, kde-format
+msgid "Show the welcome page"
+msgstr ""
+
+#. +> trunk6 stable6
+#: app/mainwindow.cpp:295
+#, kde-kuit-format
+msgctxt "@info:whatsthis"
+msgid "This switches between having a <emphasis>Menubar</emphasis> and having a <interface>Hamburger Menu</interface> button. Both contain mostly the same commands and configuration options."
+msgstr ""
+
+#. +> trunk6 stable6
+#: app/mainwindow.cpp:315
+#, kde-format
+msgid "Lock Sidebar"
+msgstr ""
+
+#. +> trunk6 stable6
+#: app/mainwindow.cpp:371
+#, fuzzy, kde-format
+#| msgid "Open an archive"
+msgctxt "to open an archive"
+msgid "Open Archive"
+msgstr "เปิดแฟ้มจัดเก็บ"
+
+#. +> trunk6 stable6
+#: app/mainwindow.cpp:484
+#, fuzzy, kde-format
+#| msgid "Open an archive"
+msgid "Create New Archive"
+msgstr "เปิดแฟ้มจัดเก็บ"
+
+#. +> trunk6 stable6
+#: app/welcomeview/welcomeview.cpp:50
+#, kde-format
+msgid "Welcome to %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: app/welcomeview/welcomeview.cpp:55
+#, fuzzy, kde-format
+#| msgid "Recent folders"
+msgid "No recent files"
+msgstr "โฟลเดอร์ที่ใช้ล่าสุด"
+
+#. +> trunk6 stable6
+#: app/welcomeview/welcomeview.cpp:143
+#, kde-format
+msgid "Copy &Location"
+msgstr ""
+
+#. +> trunk6 stable6
+#: app/welcomeview/welcomeview.cpp:149
+#, kde-format
+msgid "&Open Containing Folder"
+msgstr ""
+
+#. +> trunk6 stable6
+#: app/welcomeview/welcomeview.cpp:156
+#, kde-format
+msgid "&Remove"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QScrollArea, WelcomeView)
+#. +> trunk6 stable6
+#: app/welcomeview/welcomeview.ui:17
+#, kde-format
+msgid "Welcome"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, buttonOpenArchive)
+#. +> trunk6 stable6
+#: app/welcomeview/welcomeview.ui:179
+#, fuzzy, kde-format
+#| msgid "Open an archive"
+msgid "Open Archive..."
+msgstr "เปิดแฟ้มจัดเก็บ"
+
+#. i18n: ectx: property (text), widget (QPushButton, buttonNewArchive)
+#. +> trunk6 stable6
+#: app/welcomeview/welcomeview.ui:186
+#, fuzzy, kde-format
+#| msgid "Open an archive"
+msgid "New Archive"
+msgstr "เปิดแฟ้มจัดเก็บ"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, buttonClearRecentFiles)
+#. +> trunk6 stable6
+#: app/welcomeview/welcomeview.ui:193
+#, fuzzy, kde-format
+#| msgid "Recent folders"
+msgid "Clear Recent Files"
+msgstr "โฟลเดอร์ที่ใช้ล่าสุด"
+
+#. i18n: ectx: property (text), widget (QLabel, labelRecentFiles)
+#. +> trunk6 stable6
+#: app/welcomeview/welcomeview.ui:222
+#, fuzzy, kde-format
+#| msgid "Recent folders"
+msgid "Recent Files"
+msgstr "โฟลเดอร์ที่ใช้ล่าสุด"
+
+#. i18n: ectx: property (text), widget (QLabel, labelHelp)
+#. +> trunk6 stable6
+#: app/welcomeview/welcomeview.ui:263
+#, kde-format
+msgid "Help"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (KUrlLabel, labelHomepage)
+#. +> trunk6 stable6
+#: app/welcomeview/welcomeview.ui:273
+#, kde-format
+msgid "Visit homepage"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (KUrlLabel, labelHandbook)
+#. +> trunk6 stable6
+#: app/welcomeview/welcomeview.ui:286
+#, kde-format
+msgid "Read handbook"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkBoxShowOnStartup)
+#. +> trunk6 stable6
+#: app/welcomeview/welcomeview.ui:345
+#, kde-format
+msgid "Show on startup"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, buttonClose)
+#. +> trunk6 stable6
+#: app/welcomeview/welcomeview.ui:400
+#, kde-format
+msgid "Close Welcome Page"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kerfuffle/adddialog.cpp:32 kerfuffle/adddialog.cpp:70
+#, fuzzy, kde-format
+#| msgid "Options"
+msgid "Advanced Options"
+msgstr "ตัวเลือกต่าง ๆ"
+
+#. +> trunk6 stable6
+#: kerfuffle/adddialog.cpp:41
+#, kde-format
+msgctxt "@action:button"
+msgid "Add"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupCompressFiles)
+#. +> trunk6 stable6
+#: kerfuffle/adddialog.ui:35
+#, kde-format
+msgid "Files/Folders to Compress"
+msgstr "แฟ้ม/โฟลเดอร์ต่าง ๆ ที่จะทำการบีบอัด"
+
+#. +> trunk6 stable6
+#: kerfuffle/addtoarchive.cpp:78
+#, kde-format
+msgid "Compress to Archive"
+msgstr "บีบข้อมูลไปยังแฟ้มจัดเก็บ"
+
+#. +> trunk6 stable6
+#: kerfuffle/addtoarchive.cpp:132
+#, kde-format
+msgid "No input files were given."
+msgstr "ยังไม่ได้ให้แฟ้มข้อมูลเข้ามา"
+
+#. +> trunk6 stable6
+#: kerfuffle/addtoarchive.cpp:140
+#, kde-kuit-format
+msgid "You need to either supply a filename for the archive or a suffix (such as rar, tar.gz) with the <command>--autofilename</command> argument."
+msgstr "คุณต้องกำหนดชื่อแฟ้มของแฟ้มจัดเก็บหรือส่วนขยายต่อท้ายแฟ้ม (เช่น  rar, tar.tz) ร่วมกับอาร์กิวเมนต์ <command>--autofilename</command> ด้วย"
+
+#. +> trunk6 stable6
+#: kerfuffle/addtoarchive.cpp:244
+#, fuzzy, kde-format
+#| msgid "Open an archive"
+msgctxt "Default name of a newly-created multi-file archive"
+msgid "Archive"
+msgstr "เปิดแฟ้มจัดเก็บ"
+
+#. i18n: ectx: label, entry (showEncryptionWarning), group (General)
+#. +> trunk6 stable6
+#: kerfuffle/ark.kcfg:9
+#, kde-format
+msgid "Whether to show a warning when creating zip archives with AES encryption."
+msgstr ""
+
+#. i18n: ectx: label, entry (defaultOpenAction), group (General)
+#. +> trunk6 stable6
+#: kerfuffle/ark.kcfg:13
+#, kde-format
+msgid "Default action when opening archive entries."
+msgstr ""
+
+#. i18n: ectx: label, entry (closeAfterExtraction), group (Extraction)
+#. +> trunk6 stable6
+#: kerfuffle/ark.kcfg:27
+#, fuzzy, kde-format
+#| msgid "Close Ark after extraction"
+msgid "Close Ark after extraction."
+msgstr "ปิดโปรแกรมอาร์กหลังจากทำการคลายแฟ้มแล้ว"
+
+#. i18n: ectx: label, entry (preservePaths), group (Extraction)
+#. +> trunk6 stable6
+#: kerfuffle/ark.kcfg:31
+#, fuzzy, kde-format
+#| msgid "Preserve paths when extracting"
+msgid "Preserve paths when extracting."
+msgstr "คงค่าพาธไว้เมื่อทำการคลายแฟ้ม"
+
+#. i18n: ectx: label, entry (extractToSubfolder), group (Extraction)
+#. +> trunk6 stable6
+#: kerfuffle/ark.kcfg:35
+#, kde-format
+msgid "Extract to a subfolder if the archive has more than one top-level entry."
+msgstr ""
+
+#. i18n: ectx: label, entry (splitterSizes), group (MainWindow)
+#. +> trunk6 stable6
+#: kerfuffle/ark.kcfg:41
+#, kde-format
+msgid "How the main window is divided."
+msgstr ""
+
+#. i18n: ectx: label, entry (showInfoPanel), group (MainWindow)
+#. +> trunk6 stable6
+#: kerfuffle/ark.kcfg:45
+#, fuzzy, kde-format
+#| msgctxt "@action:inmenu"
+#| msgid "Show information panel"
+msgid "Whether to show the information panel."
+msgstr "แสดงแถบข้อมูลรายละเอียด"
+
+#. i18n: ectx: label, entry (limitPreviewFileSize), group (Preview)
+#. +> trunk6 stable6
+#: kerfuffle/ark.kcfg:55
+#, kde-format
+msgid "Whether to limit the preview according to file size."
+msgstr ""
+
+#. i18n: ectx: label, entry (previewFileSizeLimit), group (Preview)
+#. +> trunk6 stable6
+#: kerfuffle/ark.kcfg:59
+#, kde-format
+msgid "Preview file size limit in megabytes."
+msgstr ""
+
+#. +> trunk6 stable6
+#: kerfuffle/cliinterface.cpp:233
+#, fuzzy, kde-kuit-format
+#| msgid "Failed to locate program <filename>%1</filename> in PATH."
+msgctxt "@info"
+msgid "Failed to locate program <filename>%1</filename> on disk."
+msgstr "ล้มเหลวในการค้นหาโปรแกรม <filename>%1</filename> ในพาธตามค่าตัวแปร PATH"
+
+#. +> trunk6 stable6
+#: kerfuffle/cliinterface.cpp:343
+#, fuzzy, kde-format
+#| msgid "Incorrect password."
+msgid "Extraction failed. Make sure that enough space is available."
+msgstr "รหัสผ่านไม่ถูกต้อง"
+
+#. +> trunk6 stable6
+#: kerfuffle/cliinterface.cpp:346
+#, kde-format
+msgid "Extraction failed. Make sure you provided the correct password and that enough space is available."
+msgstr ""
+
+#. +> trunk6 stable6
+#: kerfuffle/cliinterface.cpp:357 kerfuffle/cliinterface.cpp:478
+#, fuzzy, kde-format
+#| msgid "Could not write to the destination file %1, path %2"
+msgctxt "@info"
+msgid "Could not move the extracted file to the destination directory."
+msgid_plural "Could not move the extracted files to the destination directory."
+msgstr[0] "ไม่สามารถเขียนไปยังแฟ้มปลายทาง %1, พาธ %2 ได้"
+
+#. +> trunk6 stable6
+#: kerfuffle/cliinterface.cpp:833
+#, fuzzy, kde-format
+#| msgid "Extraction failed because of an unexpected error."
+msgctxt "@info"
+msgid "Extraction failed because the disk is full."
+msgstr "การคลายแฟ้มล้มเหลว เนื่องจากเกิดข้อผิดพลาดที่ไม่คาดคิดขึ้น"
+
+#. +> trunk6 stable6
+#: kerfuffle/cliinterface.cpp:840 plugins/cliarjplugin/cliplugin.cpp:145
+#, fuzzy, kde-format
+#| msgid "Incorrect password."
+msgctxt "@info"
+msgid "Extraction failed: Incorrect password"
+msgstr "รหัสผ่านไม่ถูกต้อง"
+
+#. +> trunk6 stable6
+#: kerfuffle/cliinterface.cpp:874
+#, kde-format
+msgid "Incorrect password."
+msgstr "รหัสผ่านไม่ถูกต้อง"
+
+#. +> trunk6 stable6
+#: kerfuffle/cliinterface.cpp:896
+#, kde-format
+msgid "Ark does not currently support testing this archive."
+msgstr ""
+
+#. +> trunk6 stable6
+#: kerfuffle/compressionoptionswidget.cpp:133
+#, kde-format
+msgid "Protection of the list of files is not possible with the %1 format."
+msgstr ""
+
+#. +> trunk6 stable6
+#: kerfuffle/compressionoptionswidget.cpp:141
+#, kde-format
+msgid "Protection of the archive with password is not possible with the %1 format."
+msgstr ""
+
+#. +> trunk6 stable6
+#: kerfuffle/compressionoptionswidget.cpp:155
+#, fuzzy, kde-format
+#| msgid "It is not possible to create archives of this type."
+msgid "It is not possible to set compression level for the %1 format."
+msgstr "เป็นไปไม่ได้ที่จะทำการสร้างแฟ้มจัดเก็บที่เป็นประเภทนี้"
+
+#. +> trunk6 stable6
+#: kerfuffle/compressionoptionswidget.cpp:174
+#, fuzzy, kde-format
+#| msgid "It is not possible to create archives of this type."
+msgid "It is not possible to set compression method for the %1 format."
+msgstr "เป็นไปไม่ได้ที่จะทำการสร้างแฟ้มจัดเก็บที่เป็นประเภทนี้"
+
+#. +> trunk6 stable6
+#: kerfuffle/compressionoptionswidget.cpp:195
+#, kde-format
+msgid "The %1 format does not support multi-volume archives."
+msgstr ""
+
+#. i18n: ectx: property (title), widget (KCollapsibleGroupBox, collapsibleCompression)
+#. +> trunk6 stable6
+#: kerfuffle/compressionoptionswidget.ui:20
+#, fuzzy, kde-format
+#| msgctxt "Compressed size of a file inside an archive"
+#| msgid "Compressed"
+msgid "Compression"
+msgstr "ขนาดเมื่อบีบอัด"
+
+#. i18n: ectx: property (text), widget (QLabel, lblCompLevel1)
+#. +> trunk6 stable6
+#: kerfuffle/compressionoptionswidget.ui:35
+#, kde-format
+msgid "Level:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, lblCompLevel2)
+#. +> trunk6 stable6
+#: kerfuffle/compressionoptionswidget.ui:45
+#, kde-format
+msgid "Min"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, lblCompMethod)
+#. +> trunk6 stable6
+#: kerfuffle/compressionoptionswidget.ui:83
+#, fuzzy, kde-format
+#| msgctxt "Compression method"
+#| msgid "Method"
+msgid "Method:"
+msgstr "วิธีการ"
+
+#. i18n: ectx: property (text), widget (QLabel, lblCompLevel3)
+#. +> trunk6 stable6
+#: kerfuffle/compressionoptionswidget.ui:93
+#, kde-format
+msgid "Max"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (KCollapsibleGroupBox, collapsibleEncryption)
+#. +> trunk6 stable6
+#: kerfuffle/compressionoptionswidget.ui:118
+#, fuzzy, kde-format
+#| msgid "<b>Password protected:</b> Yes<br/>"
+msgid "Password Protection"
+msgstr "<b>มีการป้องกันด้วยรหัสผ่าน:</b> ใช่<br/>"
+
+#. i18n: ectx: property (text), widget (QLabel, lblEncMethod)
+#. +> trunk6 stable6
+#: kerfuffle/compressionoptionswidget.ui:130
+#, fuzzy, kde-format
+#| msgid "Extra Compression Options"
+msgid "Encryption method:"
+msgstr "ตัวเลือกการบีบอัดข้อมูลแบบพิเศษ"
+
+#. i18n: ectx: property (text), widget (QCheckBox, encryptHeaderCheckBox)
+#. +> trunk6 stable6
+#: kerfuffle/compressionoptionswidget.ui:160
+#, kde-format
+msgid "Ask for password before showing the list of files in the archive"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (KMessageWidget, warningMsgWidget)
+#. +> trunk6 stable6
+#: kerfuffle/compressionoptionswidget.ui:170
+#, kde-format
+msgid "This encryption method may not be supported by older archiving software."
+msgstr ""
+
+#. i18n: ectx: property (title), widget (KCollapsibleGroupBox, collapsibleMultiVolume)
+#. +> trunk6 stable6
+#: kerfuffle/compressionoptionswidget.ui:183
+#, kde-format
+msgid "Multi-volume Archive"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, multiVolumeCheckbox)
+#. +> trunk6 stable6
+#: kerfuffle/compressionoptionswidget.ui:192
+#, fuzzy, kde-format
+#| msgid "Extract multiple archives"
+msgid "Create multi-volume archive"
+msgstr "คลายแฟ้มจัดเก็บหลายแฟ้ม"
+
+#. i18n: ectx: property (text), widget (QLabel, lblVolumeSize)
+#. +> trunk6 stable6
+#: kerfuffle/compressionoptionswidget.ui:210
+#, kde-format
+msgid "Volume size:"
+msgstr ""
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_previewFileSizeLimit)
+#. i18n: ectx: property (suffix), widget (QDoubleSpinBox, volumeSizeSpinbox)
+#. +> trunk6 stable6
+#: kerfuffle/compressionoptionswidget.ui:223
+#: kerfuffle/previewsettingspage.ui:32
+#, kde-format
+msgid " megabytes"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kerfuffle/createdialog.cpp:111
+#, fuzzy, kde-format
+#| msgid "&Automatically create subfolders"
+msgctxt "the argument is a file extension (the period is not a typo)"
+msgid "Automatically add .%1"
+msgstr "ทำการสร้างโฟลเดอร์ย่อยให้โดย&อัตโนมัติ"
+
+#. +> trunk6 stable6
+#: kerfuffle/createdialog.cpp:198
+#, kde-format
+msgid "The chosen password does not match the given verification password."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: kerfuffle/createdialog.ui:30
+#, fuzzy, kde-format
+#| msgctxt "@title:window"
+#| msgid "Add Folder"
+msgid "Folder:"
+msgstr "เพิ่มโฟลเดอร์"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. +> trunk6 stable6
+#: kerfuffle/createdialog.ui:47
+#, fuzzy, kde-format
+#| msgid "Open an archive"
+msgid "Filename:"
+msgstr "เปิดแฟ้มจัดเก็บ"
+
+#. i18n: ectx: property (placeholderText), widget (QLineEdit, filenameLineEdit)
+#. +> trunk6 stable6
+#: kerfuffle/createdialog.ui:54
+#, fuzzy, kde-format
+#| msgid "Open an archive"
+msgid "Type archive name..."
+msgstr "เปิดแฟ้มจัดเก็บ"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. i18n: ectx: property (text), widget (QLabel, m_typeLabel)
+#. +> trunk6 stable6
+#: kerfuffle/createdialog.ui:61 part/infopanel.ui:93
+#, kde-format
+msgid "Type:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#. +> trunk6 stable6
+#: kerfuffle/createdialog.ui:78
+#, kde-format
+msgid "Extension:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kerfuffle/extractiondialog.cpp:40
+#, kde-format
+msgctxt "@title:window"
+msgid "Extract"
+msgstr "คลายแฟ้ม"
+
+#. +> trunk6 stable6
+#: kerfuffle/extractiondialog.cpp:56
+#, fuzzy, kde-format
+#| msgctxt "@title:window"
+#| msgid "Extract"
+msgid "Extract"
+msgstr "คลายแฟ้ม"
+
+#. +> trunk6 stable6
+#: kerfuffle/extractiondialog.cpp:103
+#, kde-format
+msgid "The subfolder name may not contain the character '/'."
+msgstr "ชื่อของโฟลเดอร์ย่อยจะต้องไม่มีตัวอักษร '/' อยู่ด้วย"
+
+#. +> trunk6 stable6
+#: kerfuffle/extractiondialog.cpp:114
+#, fuzzy, kde-kuit-format
+#| msgid "The folder <filename>%1</filename> already exists. Are you sure you want to extract here?"
+msgctxt "@info"
+msgid "The folder <filename>%1</filename> already exists. Are you sure you want to extract here?"
+msgstr "มีโฟลเดอร์ <filename>%1</filename> อยู่ก่อนแล้ว คุณแน่ใจหรือไม่ว่า จะทำการคลายแฟ้มไปไว้ที่นี่ ?"
+
+#. +> trunk6 stable6
+#: kerfuffle/extractiondialog.cpp:115
+#, kde-format
+msgid "Folder exists"
+msgstr "มีโฟลเดอร์อยู่ก่อนแล้ว"
+
+#. +> trunk6 stable6
+#: kerfuffle/extractiondialog.cpp:116
+#, kde-format
+msgid "Extract here"
+msgstr "คลายแฟ้มไว้ที่นี่"
+
+#. +> trunk6 stable6
+#: kerfuffle/extractiondialog.cpp:117
+#, kde-format
+msgid "Retry"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kerfuffle/extractiondialog.cpp:127 kerfuffle/extractiondialog.cpp:133
+#, fuzzy, kde-kuit-format
+#| msgid "The folder <filename>%1</filename> could not be created."
+msgctxt "@info"
+msgid "The folder <filename>%1</filename> could not be created."
+msgstr "ไม่สามารถสร้างโฟลเดอร์ <filename>%1</filename> ได้"
+
+#. +> trunk6 stable6
+#: kerfuffle/extractiondialog.cpp:128
+#, fuzzy, kde-kuit-format
+#| msgid "<filename>%1</filename> already exists, but is not a folder."
+msgctxt "@info"
+msgid "<filename>%1</filename> already exists, but is not a folder."
+msgstr "มี <filename>%1</filename> อยู่ก่อนแล้ว แต่มันไม่ใช่โฟลเดอร์"
+
+#. +> trunk6 stable6
+#: kerfuffle/extractiondialog.cpp:134
+#, kde-format
+msgid "Please check your permissions to create it."
+msgstr "โปรดตรวจสอบสิทธ์ที่อนุญาตของคุณว่ามีสิทธิ์สร้างมันหรือไม่"
+
+#. +> trunk6 stable6
+#: kerfuffle/extractiondialog.cpp:172
+#, kde-format
+msgid "Extract multiple archives"
+msgstr "คลายแฟ้มจัดเก็บหลายแฟ้ม"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, ExtractionDialog)
+#. +> trunk6 stable6
+#: kerfuffle/extractiondialog.ui:21
+#, kde-format
+msgid "Extraction Dialog"
+msgstr "กล่องการคลายแฟ้ม"
+
+#. i18n: ectx: property (text), widget (QLabel, extractAllLabel)
+#. +> trunk6 stable6
+#: kerfuffle/extractiondialog.ui:70
+#, kde-format
+msgid "Extract All Files"
+msgstr "คลายแฟ้มทั้งหมด"
+
+#. i18n: ectx: property (title), widget (QGroupBox, singleFolderGroup)
+#. +> trunk6 stable6
+#: kerfuffle/extractiondialog.ui:79
+#, fuzzy, kde-format
+#| msgid "&Extraction into subfolder:"
+msgid "E&xtraction into subfolder:"
+msgstr "ทำการ&คลายแฟ้มไปยังโฟลเดอร์ย่อย:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#. +> trunk6 stable6
+#: kerfuffle/extractiondialog.ui:116
+#, kde-format
+msgid "Options"
+msgstr "ตัวเลือกต่าง ๆ"
+
+#. i18n: ectx: property (text), widget (QCheckBox, openFolderCheckBox)
+#. +> trunk6 stable6
+#: kerfuffle/extractiondialog.ui:125
+#, kde-format
+msgid "Open &destination folder after extraction"
+msgstr "เปิดโฟลเดอร์&ปลายทางหลังจากทำการคลายแฟ้มแล้ว"
+
+#. i18n: ectx: property (text), widget (QCheckBox, closeAfterExtraction)
+#. +> trunk6 stable6
+#: kerfuffle/extractiondialog.ui:132
+#, kde-format
+msgid "Close &Ark after extraction"
+msgstr "ปิดโปรแกรม&อาร์กหลังจากทำการคลายแฟ้มแล้ว"
+
+#. i18n: ectx: property (text), widget (QCheckBox, preservePaths)
+#. +> trunk6 stable6
+#: kerfuffle/extractiondialog.ui:139
+#, kde-format
+msgid "&Preserve paths when extracting"
+msgstr "&คงค่าพาธไว้เมื่อทำการคลายแฟ้ม"
+
+#. i18n: ectx: property (text), widget (QCheckBox, autoSubfolders)
+#. +> trunk6 stable6
+#: kerfuffle/extractiondialog.ui:146
+#, kde-format
+msgid "&Automatically create subfolders"
+msgstr "ทำการสร้างโฟลเดอร์ย่อยให้โดย&อัตโนมัติ"
+
+#. i18n: ectx: property (title), widget (QGroupBox, filesToExtractGroupBox)
+#. +> trunk6 stable6
+#: kerfuffle/extractiondialog.ui:175
+#, kde-format
+msgctxt "@title:group"
+msgid "Extract"
+msgstr "คลายแฟ้ม"
+
+#. i18n: ectx: property (text), widget (QRadioButton, selectedFilesButton)
+#. +> trunk6 stable6
+#: kerfuffle/extractiondialog.ui:193
+#, fuzzy, kde-format
+#| msgid "&Selected files only"
+msgid "Sele&cted files only"
+msgstr "แฟ้มที่เ&ลือกไว้เท่านั้น"
+
+#. i18n: ectx: property (text), widget (QRadioButton, allFilesButton)
+#. +> trunk6 stable6
+#: kerfuffle/extractiondialog.ui:209
+#, kde-format
+msgid "All &files"
+msgstr "แ&ฟ้มทั้งหมด"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_openDestinationFolderAfterExtraction)
+#. +> trunk6 stable6
+#: kerfuffle/extractionsettingspage.ui:17
+#, fuzzy, kde-format
+#| msgid "Open destination folder after extraction"
+msgid "Open destination folder after extraction"
+msgstr "เปิดโฟลเดอร์ปลายทางหลังจากทำการคลายแฟ้มแล้ว"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_closeAfterExtraction)
+#. +> trunk6 stable6
+#: kerfuffle/extractionsettingspage.ui:24
+#, fuzzy, kde-format
+#| msgid "Close Ark after extraction"
+msgid "Close Ark after extraction"
+msgstr "ปิดโปรแกรมอาร์กหลังจากทำการคลายแฟ้มแล้ว"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_preservePaths)
+#. +> trunk6 stable6
+#: kerfuffle/extractionsettingspage.ui:31
+#, fuzzy, kde-format
+#| msgid "Preserve paths when extracting"
+msgid "Preserve paths when extracting"
+msgstr "คงค่าพาธไว้เมื่อทำการคลายแฟ้ม"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_extractToSubfolder)
+#. +> trunk6 stable6
+#: kerfuffle/extractionsettingspage.ui:41
+#, kde-format
+msgid "Whether to check by default the extraction into subfolder checkbox in the Extraction Dialog, when the archive has more than one top-level entry."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_extractToSubfolder)
+#. +> trunk6 stable6
+#: kerfuffle/extractionsettingspage.ui:44
+#, kde-format
+msgid "Extract to a subfolder if the archive has more than one top-level entry"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: kerfuffle/generalsettingspage.ui:17
+#, kde-format
+msgid "When clicking a file in an archive or pressing the Return key:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioButton)
+#. +> trunk6 stable6
+#: kerfuffle/generalsettingspage.ui:33
+#, kde-format
+msgid "Pre&view the file with internal previewer"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioButton_2)
+#. +> trunk6 stable6
+#: kerfuffle/generalsettingspage.ui:43
+#, fuzzy, kde-format
+#| msgid "Click to preview the selected file"
+msgid "Open the fi&le with associated application"
+msgstr "คลิกเพื่อแสดงตัวอย่างของแฟ้มที่เลือก"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_showEncryptionWarning)
+#. +> trunk6 stable6
+#: kerfuffle/generalsettingspage.ui:60
+#, kde-format
+msgid "Show a warning when creating zip archives with AES encryption"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kerfuffle/jobs.cpp:100
+#, fuzzy, kde-format
+#| msgid "Ark was not able to open the archive <filename>%1</filename>. No plugin capable of handling the file was found."
+msgid "No suitable plugin found. Ark does not seem to support this file type."
+msgstr "อาร์กไม่สามารถเปิดแฟ้มจัดเก็บ <filename>%1</filename> ได้ เนื่องจากไม่พบว่ามีส่วนเสริมใดที่สามารถจัดการแฟ้มดังกล่าวได้"
+
+#. +> trunk6 stable6
+#: kerfuffle/jobs.cpp:104
+#, fuzzy, kde-format
+#| msgid "Ark was not able to open the archive <filename>%1</filename>. No plugin capable of handling the file was found."
+msgid "Failed to load a suitable plugin. Make sure any executables needed to handle the archive type are installed."
+msgstr "อาร์กไม่สามารถเปิดแฟ้มจัดเก็บ <filename>%1</filename> ได้ เนื่องจากไม่พบว่ามีส่วนเสริมใดที่สามารถจัดการแฟ้มดังกล่าวได้"
+
+#. +> trunk6 stable6
+#: kerfuffle/jobs.cpp:169
+#, kde-format
+msgid "Could not load the archive because it contains ill-formed entries and might be a malicious archive."
+msgstr ""
+
+#. +> trunk6 stable6
+#: kerfuffle/jobs.cpp:258
+#, fuzzy, kde-format
+#| msgid "Loading archive..."
+msgid "Loading archive"
+msgstr "ทำการโหลดแฟ้มจัดเก็บ..."
+
+#. +> trunk6 stable6
+#: kerfuffle/jobs.cpp:258 kerfuffle/jobs.cpp:551 kerfuffle/jobs.cpp:733
+#: kerfuffle/jobs.cpp:785 kerfuffle/jobs.cpp:822 kerfuffle/jobs.cpp:853
+#: kerfuffle/jobs.cpp:899
+#, fuzzy, kde-format
+#| msgid "Open an archive"
+msgid "Archive"
+msgstr "เปิดแฟ้มจัดเก็บ"
+
+#. +> trunk6 stable6
+#: kerfuffle/jobs.cpp:410 kerfuffle/jobs.cpp:582
+#, fuzzy, kde-kuit-format
+#| msgid "Ark could not extract <filename>%1</filename>."
+msgid "No space available on device <filename>%1</filename>"
+msgstr "อาร์กไม่สามารถคลายแฟ้ม <filename>%1</filename> ได้"
+
+#. +> trunk6 stable6
+#: kerfuffle/jobs.cpp:545
+#, kde-format
+msgid "Extracting all files"
+msgstr "คลายแฟ้มทั้งหมด"
+
+#. i18np on purpose so this translation may properly be reused.
+#. +> trunk6 stable6
+#: kerfuffle/jobs.cpp:547 kerfuffle/jobs.cpp:656
+#, kde-format
+msgid "Extracting one file"
+msgid_plural "Extracting %1 files"
+msgstr[0] "คลาย %1 แฟ้ม"
+
+#. +> trunk6 stable6
+#: kerfuffle/jobs.cpp:552
+#, fuzzy, kde-format
+#| msgid "Destination"
+msgctxt "extraction folder"
+msgid "Destination"
+msgstr "ปลายทาง"
+
+#. +> trunk6 stable6
+#: kerfuffle/jobs.cpp:556
+#, kde-kuit-format
+msgid ""
+"Could not write to destination <filename>%1</filename>.<nl/>"
+"Check whether you have sufficient permissions."
+msgstr ""
+
+#. +> trunk6 stable6
+#: kerfuffle/jobs.cpp:732
+#, fuzzy, kde-format
+#| msgid "Adding a file"
+#| msgid_plural "Adding %1 files"
+msgid "Compressing a file"
+msgid_plural "Compressing %1 files"
+msgstr[0] "ทำการเพิ่มแฟ้ม %1 แฟ้ม"
+
+#. +> trunk6 stable6
+#: kerfuffle/jobs.cpp:784
+#, fuzzy, kde-format
+#| msgid "Adding a file"
+#| msgid_plural "Adding %1 files"
+msgid "Moving a file"
+msgid_plural "Moving %1 files"
+msgstr[0] "ทำการเพิ่มแฟ้ม %1 แฟ้ม"
+
+#. +> trunk6 stable6
+#: kerfuffle/jobs.cpp:821
+#, fuzzy, kde-format
+#| msgid "Adding a file"
+#| msgid_plural "Adding %1 files"
+msgid "Copying a file"
+msgid_plural "Copying %1 files"
+msgstr[0] "ทำการเพิ่มแฟ้ม %1 แฟ้ม"
+
+#. +> trunk6 stable6
+#: kerfuffle/jobs.cpp:852
+#, kde-format
+msgid "Deleting a file from the archive"
+msgid_plural "Deleting %1 files"
+msgstr[0] "ทำการลบแฟ้ม %1 แฟ้มออกจากแฟ้มจัดเก็บ"
+
+#. +> trunk6 stable6
+#: kerfuffle/jobs.cpp:875
+#, fuzzy, kde-format
+#| msgctxt "File comment"
+#| msgid "Comment"
+msgid "Adding comment"
+msgstr "หมายเหตุ"
+
+#. +> trunk6 stable6
+#: kerfuffle/jobs.cpp:899
+#, fuzzy, kde-format
+#| msgid "Loading archive..."
+msgid "Testing archive"
+msgstr "ทำการโหลดแฟ้มจัดเก็บ..."
+
+#. +> trunk6 stable6
+#: kerfuffle/pluginsettingspage.cpp:33
+#, kde-format
+msgid "The plugin cannot be used because one or more required executables are missing. Check your installation."
+msgstr ""
+
+#. i18n: @title:column
+#. i18n: ectx: property (text), widget (QTreeWidget, kcfg_disabledPlugins)
+#. +> trunk6 stable6
+#: kerfuffle/pluginsettingspage.ui:36
+#, fuzzy, kde-format
+#| msgctxt "Name of a file inside an archive"
+#| msgid "Name"
+msgid "Name"
+msgstr " ชื่อ "
+
+#. i18n: @title:column
+#. i18n: ectx: property (text), widget (QTreeWidget, kcfg_disabledPlugins)
+#. +> trunk6 stable6
+#: kerfuffle/pluginsettingspage.ui:41
+#, fuzzy, kde-format
+#| msgid "Destination"
+msgid "Description"
+msgstr "ปลายทาง"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_limitPreviewFileSize)
+#. +> trunk6 stable6
+#: kerfuffle/previewsettingspage.ui:22
+#, kde-format
+msgid "Disable preview for files larger than:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kerfuffle/propertiesdialog.cpp:41
+#, fuzzy, kde-format
+#| msgid "Create folder %1?"
+msgctxt "@title:window"
+msgid "Properties for %1"
+msgstr "จะสร้างโฟลเดอร์ %1 หรือไม่ ?"
+
+#. i18n: ectx: property (text), widget (KSqueezedTextLabel, m_passwordValueLabel)
+#. +> trunk6 stable6
+#: kerfuffle/propertiesdialog.cpp:49 kerfuffle/propertiesdialog.cpp:51
+#: part/infopanel.ui:195
+#, kde-format
+msgid "yes"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kerfuffle/propertiesdialog.cpp:49 kerfuffle/propertiesdialog.cpp:50
+#: kerfuffle/propertiesdialog.cpp:51 kerfuffle/propertiesdialog.cpp:63
+#, kde-format
+msgid "no"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kerfuffle/propertiesdialog.cpp:50
+#, kde-format
+msgid "yes (%1 volumes)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kerfuffle/propertiesdialog.cpp:52
+#, kde-format
+msgid "%1 file"
+msgid_plural "%1 files"
+msgstr[0] ""
+
+#. +> trunk6 stable6
+#: kerfuffle/propertiesdialog.cpp:52
+#, kde-format
+msgid ", %1 folder"
+msgid_plural ", %1 folders"
+msgstr[0] ""
+
+#. +> trunk6 stable6
+#: kerfuffle/propertiesdialog.cpp:66
+#, kde-format
+msgid "only file contents (%1)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kerfuffle/propertiesdialog.cpp:69
+#, kde-format
+msgid "yes (%1)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kerfuffle/propertiesdialog.cpp:86 kerfuffle/propertiesdialog.cpp:87
+#: kerfuffle/propertiesdialog.cpp:88
+#, kde-format
+msgid "Calculating..."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: kerfuffle/propertiesdialog.ui:37
+#, fuzzy, kde-format
+#| msgid "Open an archive"
+msgid "Archive name:"
+msgstr "เปิดแฟ้มจัดเก็บ"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#. +> trunk6 stable6
+#: kerfuffle/propertiesdialog.ui:54
+#, fuzzy, kde-format
+#| msgid "Open an archive"
+msgid "Archive type:"
+msgstr "เปิดแฟ้มจัดเก็บ"
+
+#. i18n: ectx: property (text), widget (QLabel, label_11)
+#. +> trunk6 stable6
+#: kerfuffle/propertiesdialog.ui:71
+#, fuzzy, kde-format
+#| msgid "Open an archive"
+msgid "Mime-type:"
+msgstr "เปิดแฟ้มจัดเก็บ"
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#. +> trunk6 stable6
+#: kerfuffle/propertiesdialog.ui:88
+#, kde-format
+msgid "Opened read-only:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. i18n: ectx: property (text), widget (QLabel, m_passwordLabel)
+#. +> trunk6 stable6
+#: kerfuffle/propertiesdialog.ui:105 part/infopanel.ui:179
+#, fuzzy, kde-format
+#| msgid "<b>Password protected:</b> Yes<br/>"
+msgid "Password-protected:"
+msgstr "<b>มีการป้องกันด้วยรหัสผ่าน:</b> ใช่<br/>"
+
+#. i18n: ectx: property (text), widget (QLabel, label_10)
+#. +> trunk6 stable6
+#: kerfuffle/propertiesdialog.ui:122
+#, fuzzy, kde-format
+#| msgctxt "File comment"
+#| msgid "Comment"
+msgid "Has comment:"
+msgstr "หมายเหตุ"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. +> trunk6 stable6
+#: kerfuffle/propertiesdialog.ui:139
+#, kde-format
+msgid "Number of entries:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#. +> trunk6 stable6
+#: kerfuffle/propertiesdialog.ui:156
+#, fuzzy, kde-format
+#| msgid "Unknown size"
+msgid "Unpacked size:"
+msgstr "ไม่ทราบขนาด"
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#. +> trunk6 stable6
+#: kerfuffle/propertiesdialog.ui:173
+#, kde-format
+msgid "Packed size:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_9)
+#. +> trunk6 stable6
+#: kerfuffle/propertiesdialog.ui:190
+#, fuzzy, kde-format
+#| msgid "Compress to Archive"
+msgid "Compression ratio:"
+msgstr "บีบข้อมูลไปยังแฟ้มจัดเก็บ"
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#. +> trunk6 stable6
+#: kerfuffle/propertiesdialog.ui:207
+#, kde-format
+msgid "Last modified:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_12)
+#. +> trunk6 stable6
+#: kerfuffle/propertiesdialog.ui:224
+#, kde-format
+msgid "MD5 hash:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_13)
+#. +> trunk6 stable6
+#: kerfuffle/propertiesdialog.ui:244
+#, kde-format
+msgid "SHA-1 hash:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_14)
+#. +> trunk6 stable6
+#: kerfuffle/propertiesdialog.ui:261
+#, kde-format
+msgid "SHA-256 hash:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_15)
+#. +> trunk6 stable6
+#: kerfuffle/propertiesdialog.ui:278
+#, kde-format
+msgid "Multi-volume:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_16)
+#. +> trunk6 stable6
+#: kerfuffle/propertiesdialog.ui:295
+#, fuzzy, kde-format
+#| msgid "Compress to Archive"
+msgid "Compression method(s):"
+msgstr "บีบข้อมูลไปยังแฟ้มจัดเก็บ"
+
+#. +> trunk6 stable6
+#: kerfuffle/queries.cpp:73
+#, fuzzy, kde-format
+#| msgid "File already exists"
+msgctxt "@title:window"
+msgid "File Already Exists"
+msgstr "มีแฟ้มอยู่ก่อนแล้ว"
+
+#. +> trunk6 stable6
+#: kerfuffle/queries.cpp:169
+#, fuzzy, kde-kuit-format
+#| msgid "The archive <filename>%1</filename> is password protected. Please enter the password to extract the file."
+msgctxt "@info"
+msgid "The archive <filename>%1</filename> is password protected. Please enter the password."
+msgstr "แฟ้มจัดเก็บแบบบีบอัด <filename>%1</filename> มีการป้องกันการใช้งานด้วยรหัสผ่าน โปรดป้อนรหัสผ่านเพื่อทำการคลายแฟ้ม"
+
+#. +> trunk6 stable6
+#: kerfuffle/queries.cpp:173
+#, kde-format
+msgid "Incorrect password, please try again."
+msgstr "รหัสผ่านไม่ถูกต้อง โปรดลองใหม่อีกครั้ง"
+
+#. +> trunk6 stable6
+#: kerfuffle/queries.cpp:209
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The archive you're trying to open is corrupt.<nl/>"
+"Some files may be missing or damaged."
+msgstr ""
+
+#. +> trunk6 stable6
+#: kerfuffle/queries.cpp:211
+#, fuzzy, kde-format
+#| msgid "Source archive"
+msgctxt "@title:window"
+msgid "Corrupt archive"
+msgstr "แฟ้มจัดเก็บต้นทาง"
+
+#. +> trunk6 stable6
+#: kerfuffle/queries.cpp:212
+#, kde-format
+msgctxt "@action:button"
+msgid "Open as Read-Only"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kerfuffle/queries.cpp:213
+#, kde-format
+msgctxt "@action:button"
+msgid "Don't Open"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kerfuffle/queries.cpp:223
+#, kde-format
+msgid "Don't ask again."
+msgstr ""
+
+#. +> trunk6 stable6
+#: kerfuffle/queries.cpp:235
+#, fuzzy, kde-format
+#| msgid "There was an error during extraction."
+msgid "Error during extraction"
+msgstr "เกิดข้อผิดพลาดระหว่างปฏิบัติการคลายแฟ้ม"
+
+#. +> trunk6 stable6
+#: kerfuffle/queries.cpp:236
+#, kde-kuit-format
+msgid ""
+"Extraction of the entry:<nl/>"
+"    <filename>%1</filename><nl/>"
+"failed with the error message:<nl/>"
+"    %2<nl/>"
+"<nl/>"
+"Do you want to continue extraction?<nl/>"
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/archivemodel.cpp:154
+#, kde-format
+msgctxt "Name of a file inside an archive"
+msgid "Name"
+msgstr " ชื่อ "
+
+#. +> trunk6 stable6
+#: part/archivemodel.cpp:156
+#, kde-format
+msgctxt "Uncompressed size of a file inside an archive"
+msgid "Original Size"
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/archivemodel.cpp:158
+#, fuzzy, kde-format
+#| msgctxt "Compressed size of a file inside an archive"
+#| msgid "Compressed"
+msgctxt "Compressed size of a file inside an archive"
+msgid "Compressed Size"
+msgstr "ขนาดเมื่อบีบอัด"
+
+#. +> trunk6 stable6
+#: part/archivemodel.cpp:160
+#, kde-format
+msgctxt "Compression rate of file"
+msgid "Rate"
+msgstr "อัตราการบีบอัด"
+
+#. +> trunk6 stable6
+#: part/archivemodel.cpp:162
+#, kde-format
+msgctxt "File's owner username"
+msgid "Owner"
+msgstr "เจ้าของ"
+
+#. +> trunk6 stable6
+#: part/archivemodel.cpp:164
+#, kde-format
+msgctxt "File's group"
+msgid "Group"
+msgstr "กลุ่ม"
+
+#. +> trunk6 stable6
+#: part/archivemodel.cpp:166
+#, kde-format
+msgctxt "File permissions"
+msgid "Mode"
+msgstr "โหมด"
+
+#. +> trunk6 stable6
+#: part/archivemodel.cpp:168
+#, kde-format
+msgctxt "CRC hash code"
+msgid "CRC checksum"
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/archivemodel.cpp:170
+#, kde-format
+msgctxt "BLAKE2 hash code"
+msgid "BLAKE2 checksum"
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/archivemodel.cpp:172
+#, kde-format
+msgctxt "Compression method"
+msgid "Method"
+msgstr "วิธีการ"
+
+#. +> trunk6 stable6
+#: part/archivemodel.cpp:175
+#, kde-format
+msgctxt "File version"
+msgid "Version"
+msgstr "รุ่น"
+
+#. +> trunk6 stable6
+#: part/archivemodel.cpp:177
+#, kde-format
+msgctxt "Timestamp"
+msgid "Date"
+msgstr "วันที่"
+
+#. +> trunk6 stable6
+#: part/archivemodel.cpp:179
+#, kde-format
+msgctxt "Unnamed column"
+msgid "??"
+msgstr "??"
+
+#. +> trunk6 stable6
+#: part/archivemodel.cpp:279
+#, fuzzy, kde-format
+#| msgid "Sorry, deleting files is not supported yet with this type of archive."
+msgid "Adding files is not supported for this archive."
+msgstr "ขออภัย ยังไม่รองรับการลบแฟ้มกับชนิดของแฟ้มจัดเก็บชนิดนี้"
+
+#. +> trunk6 stable6
+#: part/archivemodel.cpp:287
+#, fuzzy, kde-format
+#| msgid "Click to add files to the archive"
+msgid "You can only add local files to an archive."
+msgstr "คลิกเพื่อเพิ่มแฟ้มเข้าไปยังแฟ้มจัดเก็บ"
+
+#. i18n: ectx: Menu (archive)
+#. +> trunk6 stable6
+#: part/ark_part.rc:5
+#, fuzzy, kde-format
+#| msgid "Open an archive"
+msgid "&Archive"
+msgstr "เปิดแฟ้มจัดเก็บ"
+
+#. i18n: ectx: Menu (ark_file)
+#. +> trunk6 stable6
+#: part/ark_part.rc:15
+#, kde-format
+msgid "&File"
+msgstr "แ&ฟ้ม"
+
+#. i18n: ectx: Menu (settings)
+#. +> trunk6 stable6
+#: part/ark_part.rc:29
+#, kde-format
+msgid "&Settings"
+msgstr "&ตั้งค่า"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#. +> trunk6 stable6
+#: part/ark_part.rc:34
+#, kde-format
+msgid "Main Toolbar"
+msgstr "แถบเครื่องมือหลัก"
+
+#. i18n: ectx: Menu (help)
+#. +> trunk6 stable6
+#: part/ark_viewer.rc:5
+#, kde-format
+msgid "&Help"
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/arkviewer.cpp:52
+#, kde-format
+msgid "Closing preview"
+msgstr "ทำการปิดการแสดงตัวอย่าง"
+
+#. +> trunk6 stable6
+#: part/arkviewer.cpp:53
+#, kde-format
+msgid "Please wait while the preview is being closed..."
+msgstr "โปรดรอสักครู่ในระหว่างการปิดการแสดงตัวอย่าง..."
+
+#. +> trunk6 stable6
+#: part/arkviewer.cpp:99
+#, kde-format
+msgid "The internal viewer cannot preview this file."
+msgstr "ตัวแสดงตัวอย่างภายใน ไม่สามารถแสดงตัวอย่างแฟ้มนี้ได้"
+
+#. +> trunk6 stable6
+#: part/arkviewer.cpp:116
+#, kde-kuit-format
+msgid ""
+"The internal viewer cannot preview this type of file<nl/>"
+"(%1).<nl/>"
+"<nl/>"
+"Do you want to try to view it as plain text?"
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/arkviewer.cpp:117 part/arkviewer.cpp:129
+#, kde-format
+msgctxt "@title:window"
+msgid "Cannot Preview File"
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/arkviewer.cpp:118 part/arkviewer.cpp:130
+#, fuzzy, kde-format
+#| msgctxt "to preview a file inside an archive"
+#| msgid "Pre&view"
+msgctxt "@action:button"
+msgid "Preview as Text"
+msgstr "แสดง&ตัวอย่าง"
+
+#. +> trunk6 stable6
+#: part/arkviewer.cpp:128
+#, kde-kuit-format
+msgid ""
+"The internal viewer cannot preview this unknown type of file.<nl/>"
+"<nl/>"
+"Do you want to try to view it as plain text?"
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/arkviewer.cpp:201
+#, kde-format
+msgctxt "@action"
+msgid "About Viewer Component"
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/infopanel.cpp:53
+#, kde-format
+msgid "No archive loaded"
+msgstr "ยังไม่มีการโหลดแฟ้มจัดเก็บใด ๆ"
+
+#. +> trunk6 stable6
+#: part/infopanel.cpp:104
+#, kde-format
+msgid "Symbolic Link"
+msgstr "แฟ้มเชื่อมโยงแบบสัญลักษณ์"
+
+#. +> trunk6 stable6
+#: part/infopanel.cpp:109
+#, kde-format
+msgid "Unknown size"
+msgstr "ไม่ทราบขนาด"
+
+#. +> trunk6 stable6
+#: part/infopanel.cpp:126
+#, kde-format
+msgid "One file selected"
+msgid_plural "%1 files selected"
+msgstr[0] "เลือกไว้ %1 แฟ้ม"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, InformationPanel)
+#. +> trunk6 stable6
+#: part/infopanel.ui:20
+#, kde-format
+msgid "Information Panel"
+msgstr "แถบข้อมูลรายละเอียด"
+
+#. i18n: ectx: property (text), widget (QLabel, additionalInfo)
+#. +> trunk6 stable6
+#: part/infopanel.ui:64
+#, kde-format
+msgid "Unknown file type"
+msgstr "ประเภทแฟ้มที่ไม่รู้จัก"
+
+#. i18n: ectx: property (text), widget (QLabel, m_ownerLabel)
+#. +> trunk6 stable6
+#: part/infopanel.ui:113
+#, fuzzy, kde-format
+#| msgctxt "File's owner username"
+#| msgid "Owner"
+msgid "Owner:"
+msgstr "เจ้าของ"
+
+#. i18n: ectx: property (text), widget (QLabel, m_groupLabel)
+#. +> trunk6 stable6
+#: part/infopanel.ui:133
+#, fuzzy, kde-format
+#| msgctxt "File's group"
+#| msgid "Group"
+msgid "Group:"
+msgstr "กลุ่ม"
+
+#. i18n: ectx: property (text), widget (QLabel, m_targetLabel)
+#. +> trunk6 stable6
+#: part/infopanel.ui:153
+#, kde-format
+msgid "Target:"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, JobTrackerWidget)
+#. +> trunk6 stable6
+#: part/jobtracker.ui:14
+#, kde-format
+msgid "Job Tracker"
+msgstr "ตัวติดตามงาน"
+
+#. i18n: ectx: property (text), widget (QLabel, descriptionLabel)
+#. +> trunk6 stable6
+#: part/jobtracker.ui:44
+#, kde-format
+msgid "<b>Job Description</b>"
+msgstr "<b>รายละเอียดงาน</b>"
+
+#. i18n: ectx: property (text), widget (QLabel, informationLabel)
+#. +> trunk6 stable6
+#: part/jobtracker.ui:63
+#, kde-format
+msgid "Some Information about the job"
+msgstr "ข้อมูลรายละเอียดบางอย่างเกี่ยวกับงาน"
+
+#. i18n: ectx: property (format), widget (QProgressBar, progressBar)
+#. +> trunk6 stable6
+#: part/jobtracker.ui:88
+#, no-c-format, kde-format
+msgid "%p%"
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/overwritedialog.cpp:26
+#, kde-format
+msgid "Files with the following paths already exist. Remove them if you really want to overwrite."
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/overwritedialog.cpp:28
+#, kde-format
+msgid "Files with the following paths already exist. Do you want to continue overwriting them?"
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/part.cpp:112
+#, fuzzy, kde-format
+#| msgctxt "File comment"
+#| msgid "Comment"
+msgid "Comment"
+msgstr "หมายเหตุ"
+
+#. +> trunk6 stable6
+#: part/part.cpp:125
+#, kde-format
+msgid "Comment has been modified."
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/part.cpp:130
+#, kde-format
+msgid "Save"
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/part.cpp:153
+#, fuzzy, kde-format
+#| msgid "Open an archive"
+msgid "Type to search..."
+msgstr "เปิดแฟ้มจัดเก็บ"
+
+#. +> trunk6 stable6
+#: part/part.cpp:303
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Ark can extract archives to local destinations only."
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/part.cpp:355
+#, fuzzy, kde-format
+#| msgctxt "@action:inmenu"
+#| msgid "Show information panel"
+msgctxt "@action:inmenu"
+msgid "Show Information Panel"
+msgstr "แสดงแถบข้อมูลรายละเอียด"
+
+#. +> trunk6 stable6
+#: part/part.cpp:361
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Save Copy As..."
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/part.cpp:365
+#, kde-format
+msgctxt "open a file with external program"
+msgid "&Open in External Application"
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/part.cpp:372
+#, fuzzy, kde-format
+#| msgid "Open File"
+msgctxt "open a file with external program"
+msgid "Open &With..."
+msgstr "เปิดแฟ้ม"
+
+#. +> trunk6 stable6
+#: part/part.cpp:374
+#, fuzzy, kde-format
+#| msgid "Click to preview the selected file"
+msgctxt "@info:tooltip"
+msgid "Click to open the selected file with an external program"
+msgstr "คลิกเพื่อแสดงตัวอย่างของแฟ้มที่เลือก"
+
+#. +> trunk6 stable6
+#: part/part.cpp:380
+#, kde-format
+msgctxt "to preview a file inside an archive"
+msgid "Pre&view"
+msgstr "แสดง&ตัวอย่าง"
+
+#. +> trunk6 stable6
+#: part/part.cpp:382
+#, fuzzy, kde-format
+#| msgid "Click to preview the selected file"
+msgctxt "@info:tooltip"
+msgid "Click to preview the selected file"
+msgstr "คลิกเพื่อแสดงตัวอย่างของแฟ้มที่เลือก"
+
+#. +> trunk6 stable6
+#: part/part.cpp:389
+#, fuzzy, kde-format
+#| msgid "E&xtract"
+msgctxt "@action:inmenu"
+msgid "E&xtract All"
+msgstr "ค&ลายแฟ้ม"
+
+#. +> trunk6 stable6
+#: part/part.cpp:391
+#, fuzzy, kde-format
+#| msgid "Click to open an extraction dialog, where you can choose to extract either all files or just the selected ones"
+msgid "Click to open an extraction dialog, where you can choose how to extract all the files in the archive"
+msgstr "คลิกเพื่อเปิดกล่องการคลายแฟ้ม ซึ่งคุณจะสามารถเลือกได้ว่า จะทำการคลายแฟ้มทั้งหมด หรือคลายเฉพาะแฟ้มที่เลือก"
+
+#. +> trunk6 stable6
+#: part/part.cpp:396
+#, fuzzy, kde-format
+#| msgctxt "@title:window"
+#| msgid "Extract"
+msgctxt "@action:inmenu"
+msgid "&Extract"
+msgstr "คลายแฟ้ม"
+
+#. +> trunk6 stable6
+#: part/part.cpp:399
+#, kde-format
+msgid "Click to open an extraction dialog, where you can choose to extract either all files or just the selected ones"
+msgstr "คลิกเพื่อเปิดกล่องการคลายแฟ้ม ซึ่งคุณจะสามารถเลือกได้ว่า จะทำการคลายแฟ้มทั้งหมด หรือคลายเฉพาะแฟ้มที่เลือก"
+
+#. +> trunk6 stable6
+#: part/part.cpp:404
+#, fuzzy, kde-format
+#| msgid "Add &File..."
+msgid "Add &Files..."
+msgstr "เพิ่มแ&ฟ้ม..."
+
+#. +> trunk6 stable6
+#: part/part.cpp:405 part/part.cpp:466
+#, fuzzy, kde-format
+#| msgid "Click to add files to the archive"
+msgctxt "@info:tooltip"
+msgid "Click to add files to the archive"
+msgstr "คลิกเพื่อเพิ่มแฟ้มเข้าไปยังแฟ้มจัดเก็บ"
+
+#. +> trunk6 stable6
+#: part/part.cpp:412
+#, fuzzy, kde-format
+#| msgid "Compress to Archive"
+msgctxt "@action"
+msgid "Remove from Archive"
+msgstr "บีบข้อมูลไปยังแฟ้มจัดเก็บ"
+
+#. +> trunk6 stable6
+#: part/part.cpp:422
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "&Properties"
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/part.cpp:424
+#, fuzzy, kde-format
+#| msgid "Click to add files to the archive"
+msgctxt "@info:tooltip"
+msgid "Click to see properties for archive"
+msgstr "คลิกเพื่อเพิ่มแฟ้มเข้าไปยังแฟ้มจัดเก็บ"
+
+#. +> trunk6 stable6
+#: part/part.cpp:430
+#, fuzzy, kde-format
+#| msgid "Click to add a folder to the archive"
+msgctxt "@info:tooltip"
+msgid "Click to add or edit comment"
+msgstr "คลิกเพื่อเพิ่มโฟลเดอร์เข้าไปยังแฟ้มจัดเก็บ"
+
+#. +> trunk6 stable6
+#: part/part.cpp:435
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "&Test Integrity"
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/part.cpp:437 part/part.cpp:467
+#, fuzzy, kde-format
+#| msgid "Click to add files to the archive"
+msgctxt "@info:tooltip"
+msgid "Click to test the archive for integrity"
+msgstr "คลิกเพื่อเพิ่มแฟ้มเข้าไปยังแฟ้มจัดเก็บ"
+
+#. +> trunk6 stable6
+#: part/part.cpp:462
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid ""
+"Adding files to existing password-protected archives with no header-encryption is currently not supported.<nl/>"
+"<nl/>"
+"Extract the files and create a new archive if you want to add files."
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/part.cpp:464
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Testing password-protected archives with no header-encryption is currently not supported."
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/part.cpp:505
+#, fuzzy, kde-format
+#| msgctxt "File comment"
+#| msgid "Comment"
+msgctxt "@action:inmenu mutually exclusive with Add &Comment"
+msgid "Edit &Comment"
+msgstr "หมายเหตุ"
+
+#. +> trunk6 stable6
+#: part/part.cpp:506 part/part.cpp:512
+#, fuzzy, kde-format
+#| msgctxt "File comment"
+#| msgid "Comment"
+msgctxt "@action:inmenu mutually exclusive with Edit &Comment"
+msgid "Add &Comment"
+msgstr "หมายเหตุ"
+
+#. +> trunk6 stable6
+#: part/part.cpp:612
+#, fuzzy, kde-format
+#| msgid "The archive reader could not be initialized."
+msgid "The archive passed the integrity test."
+msgstr "ไม่สามารถเตรียมการทำงานของตัวอ่านแฟ้มจัดเก็บได้"
+
+#. +> trunk6 stable6
+#: part/part.cpp:612 part/part.cpp:614
+#, kde-format
+msgid "Test Results"
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/part.cpp:614
+#, fuzzy, kde-format
+#| msgid "The archive reader could not be initialized."
+msgid "The archive failed the integrity test."
+msgstr "ไม่สามารถเตรียมการทำงานของตัวอ่านแฟ้มจัดเก็บได้"
+
+#. +> trunk6 stable6
+#: part/part.cpp:634
+#, kde-format
+msgid "Extract To..."
+msgstr "คลายแฟ้มไปยัง..."
+
+#. +> trunk6 stable6
+#: part/part.cpp:646
+#, kde-format
+msgid "Quick Extract To..."
+msgstr "คลายแฟ้มอย่างรวดเร็วไปยัง..."
+
+#. +> trunk6 stable6
+#: part/part.cpp:775
+#, fuzzy, kde-format
+#| msgctxt "to preview a file inside an archive"
+#| msgid "Pre&view"
+msgctxt "@title:tab"
+msgid "General"
+msgstr "แสดง&ตัวอย่าง"
+
+#. +> trunk6 stable6
+#: part/part.cpp:776
+#, fuzzy, kde-format
+#| msgctxt "@title:window"
+#| msgid "Extract"
+msgctxt "@title:tab"
+msgid "Extraction"
+msgstr "คลายแฟ้ม"
+
+#. +> trunk6 stable6
+#: part/part.cpp:777
+#, fuzzy, kde-format
+#| msgctxt "to preview a file inside an archive"
+#| msgid "Pre&view"
+msgctxt "@title:tab"
+msgid "Plugins"
+msgstr "แสดง&ตัวอย่าง"
+
+#. +> trunk6 stable6
+#: part/part.cpp:778
+#, fuzzy, kde-format
+#| msgctxt "to preview a file inside an archive"
+#| msgid "Pre&view"
+msgctxt "@title:tab"
+msgid "Previews"
+msgstr "แสดง&ตัวอย่าง"
+
+#. +> trunk6 stable6
+#: part/part.cpp:794
+#, kde-kuit-format
+msgctxt "@info"
+msgid "<filename>%1</filename> is a directory."
+msgstr "<filename>%1</filename> เป็นไดเรกทอรี"
+
+#. +> trunk6 stable6
+#: part/part.cpp:802
+#, fuzzy, kde-kuit-format
+#| msgid "Could not open the archive <filename>%1</filename> for reading"
+msgctxt "@info"
+msgid "Could not overwrite <filename>%1</filename>. Check whether you have write permission."
+msgstr "ไม่สามารถเปิดแฟ้มจัดเก็บแบบบีบอัด <filename>%1</filename> เพื่อทำการอ่านได้"
+
+#. +> trunk6 stable6
+#: part/part.cpp:808
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info"
+#| msgid "The archive <filename>%1</filename> was not found."
+msgctxt "@info"
+msgid "The archive <filename>%1</filename> will be created as soon as you add a file."
+msgstr "ไม่พบแฟ้มจัดเก็บ <filename>%1</filename>"
+
+#. +> trunk6 stable6
+#: part/part.cpp:811
+#, kde-kuit-format
+msgctxt "@info"
+msgid "The archive <filename>%1</filename> was not found."
+msgstr "ไม่พบแฟ้มจัดเก็บ <filename>%1</filename>"
+
+#. +> trunk6 stable6
+#: part/part.cpp:817
+#, fuzzy, kde-kuit-format
+#| msgid "The archive <filename>%1</filename> already exists. Would you like to open it instead?"
+msgctxt "@info"
+msgid "The archive <filename>%1</filename> could not be loaded, as it was not possible to read from it."
+msgstr "มีแฟ้มจัดเก็บ <filename>%1</filename> อยู่ก่อนแล้ว คุณต้องการจะทำการเปิดมันแทนหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: part/part.cpp:830
+#, fuzzy, kde-kuit-format
+#| msgid "The archive <filename>%1</filename> already exists. Would you like to open it instead?"
+msgctxt "@info"
+msgid "The archive <filename>%1</filename> already exists. Do you wish to overwrite it?"
+msgstr "มีแฟ้มจัดเก็บ <filename>%1</filename> อยู่ก่อนแล้ว คุณต้องการจะทำการเปิดมันแทนหรือไม่ ?"
+
+#. +> trunk6 stable6
+#: part/part.cpp:831
+#, kde-format
+msgctxt "@title:window"
+msgid "File Exists"
+msgstr "มีแฟ้มอยู่ก่อนแล้ว"
+
+#. +> trunk6 stable6
+#: part/part.cpp:868
+#, fuzzy, kde-kuit-format
+#| msgid "The archive writer could not be initialized."
+msgctxt "@info"
+msgid "The archive is empty or Ark could not open its content."
+msgstr "ไม่สามารถเตรียมการทำงานของตัวเขียนแฟ้มจัดเก็บได้"
+
+#. +> trunk6 stable6
+#: part/part.cpp:875
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Ark does not currently support ISO files with UDF filesystem."
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/part.cpp:907
+#, fuzzy, kde-kuit-format
+#| msgid "Loading the archive <filename>%1</filename> failed with the following error: <message>%2</message>"
+msgctxt "@info"
+msgid ""
+"Loading the archive <filename>%1</filename> failed with the following error:<nl/>"
+"<message>%2</message>"
+msgstr "การโหลดแฟ้มจัดเก็บแบบบีบอัด <filename>%1</filename> ล้มเหลว โดยมีข้อผิดพลาดคือ: <message>%2</message>"
+
+#. +> trunk6 stable6
+#: part/part.cpp:967
+#, kde-format
+msgid "Ark cannot open symlinks."
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/part.cpp:1094
+#, fuzzy, kde-kuit-format
+#| msgid "The folder <filename>%1</filename> already exists. Are you sure you want to extract here?"
+msgid "The file <filename>%1</filename> was modified. Do you want to update the archive?"
+msgstr "มีโฟลเดอร์ <filename>%1</filename> อยู่ก่อนแล้ว คุณแน่ใจหรือไม่ว่า จะทำการคลายแฟ้มไปไว้ที่นี่ ?"
+
+#. +> trunk6 stable6
+#: part/part.cpp:1095
+#, kde-format
+msgctxt "@title:window"
+msgid "File Modified"
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/part.cpp:1096
+#, kde-format
+msgctxt "@action:button"
+msgid "Update"
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/part.cpp:1097
+#, kde-format
+msgctxt "@action:button"
+msgid "Ignore"
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/part.cpp:1370
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Files"
+msgstr "เพิ่มแฟ้มต่างๆ"
+
+#. +> trunk6 stable6
+#: part/part.cpp:1375
+#, fuzzy, kde-format
+#| msgctxt "@title:window"
+#| msgid "Add Files"
+msgctxt "@title:window"
+msgid "Add Files to %1"
+msgstr "เพิ่มแฟ้มต่างๆ"
+
+#. +> trunk6 stable6
+#: part/part.cpp:1435
+#, kde-format
+msgid "Filename can't contain slashes and can't be equal to \".\" or \"..\""
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/part.cpp:1479
+#, kde-format
+msgid "Folders can't be moved into themselves."
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/part.cpp:1479
+#, kde-format
+msgid "Moving a folder into itself"
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/part.cpp:1507
+#, kde-format
+msgid "Entries with the same names can't be pasted to the same destination."
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/part.cpp:1606
+#, fuzzy, kde-format
+#| msgid "Deleting these files is not undoable. Are you sure you want to do this?"
+msgctxt "@info"
+msgid "Deleting this file is not undoable. Are you sure you want to do this?"
+msgid_plural "Deleting these files is not undoable. Are you sure you want to do this?"
+msgstr[0] ""
+"การลบแฟ้มต่าง ๆ เหล่านี้จะไม่สามารถเรียกคืนการกระทำได้\n"
+"คุณแน่ใจหรือไม่ว่าต้องการจะทำเช่นนี้ ?"
+
+#. +> trunk6 stable6
+#: part/part.cpp:1609
+#, fuzzy, kde-format
+#| msgctxt "@title:window"
+#| msgid "Delete files"
+msgctxt "@title:window"
+msgid "Delete File"
+msgid_plural "Delete Files"
+msgstr[0] "ลบแฟ้มต่างๆ"
+
+#. +> trunk6 stable6
+#: part/part.cpp:1648
+#, kde-format
+msgctxt "@title:window"
+msgid "Save Copy As"
+msgstr ""
+
+#. +> trunk6 stable6
+#: part/part.cpp:1663
+#, fuzzy, kde-kuit-format
+#| msgid "The archive could not be saved as <filename>%1</filename>. Try saving it to another location."
+msgctxt "@info"
+msgid "The archive could not be saved as <filename>%1</filename>. Try saving it to another location."
+msgstr "ไม่สามารถบันทึกแฟ้มจัดเก็บแบบบีบอัด <filename>%1</filename> ได้ โปรดลองทำการบันทึกไปยังตำแหน่งอื่น"
+
+#. +> trunk6 stable6
+#: part/part.cpp:1668
+#, fuzzy, kde-kuit-format
+#| msgid "The archive <filename>%1</filename> cannot be copied to the specified location. The archive does not exist anymore."
+msgctxt "@info"
+msgid "The archive <filename>%1</filename> does not exist anymore, therefore it cannot be copied to the specified location."
+msgstr "ไม่สามารถคัดลอกแฟ้มจัดเก็บแบบบีบอัด <filename>%1</filename> ไปยังตำแหน่งที่ระบุได้ จะไม่มีแฟ้มจัดเก็บแบบบีบอัดอยู่อีกต่อไป"
+
+#. +> trunk6 stable6
+#: plugins/cli7zplugin/cliplugin.cpp:132
+#: plugins/cliunarchiverplugin/cliplugin.cpp:88
+#, fuzzy, kde-format
+#| msgid "Loading archive..."
+msgid "Listing the archive failed."
+msgstr "ทำการโหลดแฟ้มจัดเก็บ..."
+
+#. +> trunk6 stable6
+#: plugins/cli7zplugin/cliplugin.cpp:304
+#, fuzzy, kde-format
+#| msgid "Extraction failed because of an unexpected error."
+msgid "Extraction failed due to an unknown error."
+msgstr "การคลายแฟ้มล้มเหลว เนื่องจากเกิดข้อผิดพลาดที่ไม่คาดคิดขึ้น"
+
+#. +> trunk6 stable6
+#: plugins/cli7zplugin/cliplugin.cpp:309 plugins/clizipplugin/cliplugin.cpp:191
+#, kde-format
+msgid "Extraction failed due to one or more corrupt files. Any extracted files may be damaged."
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/cli7zplugin/cliplugin.cpp:319
+#, kde-format
+msgid "Delete operation failed. Try upgrading 7z or disabling the 7z plugin in the configuration dialog."
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/cliarjplugin/cliplugin.cpp:321
+#, kde-format
+msgid "ARJ old"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/cliarjplugin/cliplugin.cpp:322
+#, kde-format
+msgid "ARJ"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/cliarjplugin/cliplugin.cpp:323
+#, kde-format
+msgid "GOST256"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/cliarjplugin/cliplugin.cpp:324
+#, kde-format
+msgid "GOST256L"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/cliarjplugin/cliplugin.cpp:325
+#, kde-format
+msgid "GOST 40-bit"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/cliarjplugin/cliplugin.cpp:327
+#, fuzzy, kde-format
+#| msgid "Unknown size"
+msgid "unknown"
+msgstr "ไม่ทราบขนาด"
+
+#. +> trunk6 stable6
+#: plugins/clirarplugin/cliplugin.cpp:153
+#: plugins/clirarplugin/cliplugin.cpp:293
+#: plugins/clirarplugin/cliplugin.cpp:540
+#, kde-format
+msgid "Failed to find all archive volumes."
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/clirarplugin/cliplugin.cpp:314
+#, kde-format
+msgid "Your unrar executable is version %1, which is too old to handle this archive. Please update to a more recent version."
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/clirarplugin/cliplugin.cpp:320
+#, kde-format
+msgid "Unrar reported a non-RAR archive. The installed unrar version (%1) is old. Try updating your unrar."
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/clirarplugin/cliplugin.cpp:535
+#, kde-format
+msgid "One or more wrong checksums"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/cliunarchiverplugin/cliplugin.cpp:100
+#, fuzzy, kde-format
+#| msgid "Extracting file..."
+msgid "Extraction failed."
+msgstr "ทำการคลายแฟ้ม..."
+
+#. +> trunk6 stable6
+#: plugins/cliunarchiverplugin/cliplugin.cpp:134
+#, kde-format
+msgid "Not enough memory for loading the archive."
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/cliunarchiverplugin/cliplugin.cpp:185
+#, fuzzy, kde-format
+#| msgid "Incorrect password."
+msgid "Wrong password."
+msgstr "รหัสผ่านไม่ถูกต้อง"
+
+#. +> trunk6 stable6
+#: plugins/clizipplugin/cliplugin.cpp:181
+#, fuzzy, kde-format
+#| msgid "Extraction failed because of an unexpected error."
+msgid "Extraction failed due to unsupported compression method (%1)."
+msgstr "การคลายแฟ้มล้มเหลว เนื่องจากเกิดข้อผิดพลาดที่ไม่คาดคิดขึ้น"
+
+#. +> trunk6 stable6
+#: plugins/clizipplugin/cliplugin.cpp:186
+#, fuzzy, kde-format
+#| msgid "Extraction failed because of an unexpected error."
+msgid "Extraction failed due to unsupported encryption method."
+msgstr "การคลายแฟ้มล้มเหลว เนื่องจากเกิดข้อผิดพลาดที่ไม่คาดคิดขึ้น"
+
+#. +> trunk6 stable6
+#: plugins/clizipplugin/cliplugin.cpp:315
+#, fuzzy, kde-format
+#| msgid "Unknown size"
+msgctxt "referred to compression method"
+msgid "unknown"
+msgstr "ไม่ทราบขนาด"
+
+#. +> trunk6 stable6
+#: plugins/libarchive/libarchiveplugin.cpp:123
+#, kde-format
+msgctxt "@info"
+msgid "The archive may be corrupt or has header-encryption, which is currently not supported."
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/libarchive/libarchiveplugin.cpp:482
+#, kde-format
+msgctxt "@info"
+msgid "Fatal error, extraction aborted."
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/libarchive/libarchiveplugin.cpp:508
+#, kde-format
+msgctxt "@info"
+msgid "Extraction of encrypted 7-zip entries is currently not supported."
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/libarchive/libarchiveplugin.cpp:522
+#, kde-format
+msgid "The archive reader could not be initialized."
+msgstr "ไม่สามารถเตรียมการทำงานของตัวอ่านแฟ้มจัดเก็บได้"
+
+#. +> trunk6 stable6
+#: plugins/libarchive/libarchiveplugin.cpp:544
+#, kde-format
+msgctxt "@info"
+msgid "Archive corrupted or insufficient permissions."
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/libarchive/readwritelibarchiveplugin.cpp:217
+#, fuzzy, kde-format
+#| msgid "Failed to locate program <filename>%1</filename> in PATH."
+msgctxt "@info"
+msgid "Failed to create a temporary file for writing data."
+msgstr "ล้มเหลวในการค้นหาโปรแกรม <filename>%1</filename> ในพาธตามค่าตัวแปร PATH"
+
+#. +> trunk6 stable6
+#: plugins/libarchive/readwritelibarchiveplugin.cpp:223
+#, kde-format
+msgid "The archive writer could not be initialized."
+msgstr "ไม่สามารถเตรียมการทำงานของตัวเขียนแฟ้มจัดเก็บได้"
+
+#. +> trunk6 stable6
+#: plugins/libarchive/readwritelibarchiveplugin.cpp:240
+#, fuzzy, kde-format
+#| msgid "Could not locate file #%1 in the archive"
+msgctxt "@info"
+msgid "Could not open the archive for writing entries."
+msgstr "ไม่สามารถหาตำแหน่งของแฟ้ม #%1 ในแฟ้มจัดเก็บได้"
+
+#. +> trunk6 stable6
+#: plugins/libarchive/readwritelibarchiveplugin.cpp:287
+#, kde-format
+msgid "The compression type '%1' is not supported by Ark."
+msgstr "อาร์กยังไม่รองรับการบีบอัดข้อมูลประเภท '%1'"
+
+#. +> trunk6 stable6
+#: plugins/libarchive/readwritelibarchiveplugin.cpp:294
+#: plugins/libarchive/readwritelibarchiveplugin.cpp:364
+#: plugins/libarchive/readwritelibarchiveplugin.cpp:376
+#, fuzzy, kde-format
+#| msgid "Could not locate file #%1 in the archive"
+msgctxt "@info"
+msgid "Could not set the compression method."
+msgstr "ไม่สามารถหาตำแหน่งของแฟ้ม #%1 ในแฟ้มจัดเก็บได้"
+
+#. +> trunk6 stable6
+#: plugins/libarchive/readwritelibarchiveplugin.cpp:399
+#, fuzzy, kde-format
+#| msgid "Could not locate file #%1 in the archive"
+msgctxt "@info"
+msgid "Could not set the compression level."
+msgstr "ไม่สามารถหาตำแหน่งของแฟ้ม #%1 ในแฟ้มจัดเก็บได้"
+
+#. +> trunk6 stable6
+#: plugins/libarchive/readwritelibarchiveplugin.cpp:516
+#, kde-format
+msgctxt "@info"
+msgid "Could not compress entry, operation aborted."
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/libarchive/readwritelibarchiveplugin.cpp:559
+#, fuzzy, kde-format
+#| msgid "Could not locate file #%1 in the archive"
+msgctxt "@info Error in a message box"
+msgid "Could not compress entry."
+msgstr "ไม่สามารถหาตำแหน่งของแฟ้ม #%1 ในแฟ้มจัดเก็บได้"
+
+#. +> trunk6 stable6
+#: plugins/libzipplugin/libzipplugin.cpp:198
+#: plugins/libzipplugin/libzipplugin.cpp:297
+#: plugins/libzipplugin/libzipplugin.cpp:589
+#: plugins/libzipplugin/libzipplugin.cpp:637
+#: plugins/libzipplugin/libzipplugin.cpp:1001
+#: plugins/libzipplugin/libzipplugin.cpp:1055
+#, kde-kuit-format
+msgid "Failed to open archive: %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/libzipplugin/libzipplugin.cpp:350
+#: plugins/libzipplugin/libzipplugin.cpp:621
+#: plugins/libzipplugin/libzipplugin.cpp:653
+#: plugins/libzipplugin/libzipplugin.cpp:1035
+#: plugins/libzipplugin/libzipplugin.cpp:1124
+#, fuzzy, kde-kuit-format
+#| msgid "Click to add files to the archive"
+msgid "Failed to write archive."
+msgstr "คลิกเพื่อเพิ่มแฟ้มเข้าไปยังแฟ้มจัดเก็บ"
+
+#. +> trunk6 stable6
+#: plugins/libzipplugin/libzipplugin.cpp:399
+#: plugins/libzipplugin/libzipplugin.cpp:1091
+#, kde-kuit-format
+msgid "Failed to add entry: %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/libzipplugin/libzipplugin.cpp:454
+#, fuzzy, kde-kuit-format
+#| msgid "Failed to locate program <filename>%1</filename> in PATH."
+msgid "Failed to set compression options for entry: %1"
+msgstr "ล้มเหลวในการค้นหาโปรแกรม <filename>%1</filename> ในพาธตามค่าตัวแปร PATH"
+
+#. +> trunk6 stable6
+#: plugins/libzipplugin/libzipplugin.cpp:559
+#: plugins/libzipplugin/libzipplugin.cpp:935
+#: plugins/libzipplugin/libzipplugin.cpp:1100
+#, fuzzy, kde-kuit-format
+#| msgid "Failed to locate program <filename>%1</filename> in PATH."
+msgid "Failed to read metadata for entry: %1"
+msgstr "ล้มเหลวในการค้นหาโปรแกรม <filename>%1</filename> ในพาธตามค่าตัวแปร PATH"
+
+#. +> trunk6 stable6
+#: plugins/libzipplugin/libzipplugin.cpp:602
+#: plugins/libzipplugin/libzipplugin.cpp:607
+#, kde-kuit-format
+msgid "Failed to delete entry: %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/libzipplugin/libzipplugin.cpp:820
+#, kde-kuit-format
+msgid "Failed to create directory: %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/libzipplugin/libzipplugin.cpp:891
+#, kde-kuit-format
+msgid ""
+"Failed to open '%1':<nl/>"
+"%2"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/libzipplugin/libzipplugin.cpp:899
+#, fuzzy, kde-kuit-format
+#| msgid "Failed to locate program <filename>%1</filename> in PATH."
+msgid "Failed to open file for writing: %1"
+msgstr "ล้มเหลวในการค้นหาโปรแกรม <filename>%1</filename> ในพาธตามค่าตัวแปร PATH"
+
+#. +> trunk6 stable6
+#: plugins/libzipplugin/libzipplugin.cpp:912
+#, kde-kuit-format
+msgid "Failed to read data for entry: %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/libzipplugin/libzipplugin.cpp:917
+#, kde-kuit-format
+msgid "Failed to write data for entry: %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/libzipplugin/libzipplugin.cpp:927
+#, fuzzy, kde-kuit-format
+#| msgid "Failed to locate program <filename>%1</filename> in PATH."
+msgid "Failed to locate entry: %1"
+msgstr "ล้มเหลวในการค้นหาโปรแกรม <filename>%1</filename> ในพาธตามค่าตัวแปร PATH"
+
+#. +> trunk6 stable6
+#: plugins/libzipplugin/libzipplugin.cpp:1014
+#: plugins/libzipplugin/libzipplugin.cpp:1020
+#, kde-kuit-format
+msgid "Failed to move entry: %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/libzipplugin/libzipplugin.cpp:1077
+#, kde-kuit-format
+msgid "Failed to copy entry: %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/libzipplugin/libzipplugin.cpp:1107
+#, fuzzy, kde-kuit-format
+#| msgid "Failed to locate program <filename>%1</filename> in PATH."
+msgid "Failed to set metadata for entry: %1"
+msgstr "ล้มเหลวในการค้นหาโปรแกรม <filename>%1</filename> ในพาธตามค่าตัวแปร PATH"

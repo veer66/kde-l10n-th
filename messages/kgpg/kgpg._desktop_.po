@@ -1,0 +1,52 @@
+# translation of desktop_kdeutils.po to Thai
+# Thanomsub Noppaburana <donga_n@yahoo.com>, 2003.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdeutils\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-12-16 09:45+0100\n"
+"PO-Revision-Date: 2010-12-18 15:49+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#: kgpg_encryptfile.desktop:8
+msgctxt "Name"
+msgid "Encrypt File"
+msgstr "เข้ารหัสแฟ้ม"
+
+#. +> trunk6 stable6
+#: kgpg_encryptfolder.desktop:7
+msgctxt "Name"
+msgid "Archive & Encrypt Folder"
+msgstr "ทำแฟ้มจัดเก็บและเข้ารหัสโฟลเดอร์"
+
+#. +> trunk6 stable6
+#: kgpg_viewdecrypted.desktop:7
+msgctxt "Name"
+msgid "View file decrypted"
+msgstr "ดูแฟ้มที่ถูกเข้ารหัส"
+
+#. +> trunk6 stable6
+#: org.kde.kgpg.desktop:8
+msgctxt "GenericName"
+msgid "Encryption Tool"
+msgstr "เครื่องมือการเข้ารหัส"
+
+#. +> trunk6 stable6
+#: org.kde.kgpg.desktop:79
+msgctxt "Comment"
+msgid "A GnuPG frontend"
+msgstr "ฟร้อนเอนด์ของ GnuPG"
+
+#. +> trunk6 stable6
+#: org.kde.kgpg.desktop:150
+msgctxt "Name"
+msgid "KGpg"
+msgstr "KGpg"

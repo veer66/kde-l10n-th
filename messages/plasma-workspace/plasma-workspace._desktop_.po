@@ -1,0 +1,926 @@
+# translation of desktop_kdebase.po to Thai
+#
+# SPDX-FileCopyrightText: 2025 Pongsakorn S. <kde@xerusion.me>
+# Thanomsub Noppaburana <donga_n@yahoo.com>, 2003, 2005.
+# Narachai Sakorn <narachai@opentle.org>, 2005.
+# Sahachart Anukulkitch <drrider@gmail.com>, 2005, 2006, 2007, 2008.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008, 2010.
+# Narachai Sakorn <narachai@gmail.com>, 2008.
+# Phuwanat Sakornsakolpat <narachai@gmail.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdebase\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-03-11 09:04+0100\n"
+"PO-Revision-Date: 2025-03-04 15:02+0700\n"
+"Last-Translator: Pongsakorn S. <kde@xerusion.me>\n"
+"Language-Team: Thai\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6 stable5
+#: applets/devicenotifier/openWithFileManager.desktop:7
+msgctxt "Name"
+msgid "Open with File Manager"
+msgstr "เปิดใช้งานผ่านเครื่องมือจัดการแฟ้ม"
+
+#. +> trunk6 stable6 stable5
+#: applets/devicenotifier/plugin/devicenotifications.notifyrc:2
+msgctxt "Name"
+msgid "Device Notifier"
+msgstr "แจ้งให้ทราบถึงอุปกรณ์"
+
+#. +> trunk6 stable6 stable5
+#: applets/devicenotifier/plugin/devicenotifications.notifyrc:84
+msgctxt "Name"
+msgid "Device Status"
+msgstr "สถานะอุปกรณ์"
+
+#. +> trunk6 stable6 stable5
+#: components/shellprivate/plasmoids.knsrc:2
+msgctxt "Name"
+msgid "Plasma Widgets"
+msgstr "วิดเจ็ต Plasma"
+
+#. +> trunk6 stable6 stable5
+#: components/shellprivate/wallpaperplugin.knsrc:2
+msgctxt "Name"
+msgid "Wallpaper Plugins"
+msgstr "ปลั๊กอินวอลเปเปอร์"
+
+#. +> trunk6 stable6
+#: donationmessage/donationmessage.notifyrc:6
+#: donationmessage/donationmessage.notifyrc:160
+msgctxt "Name"
+msgid "Request for Donation"
+msgstr "ขอรับบริจาค"
+
+#. +> trunk6 stable6
+#: donationmessage/donationmessage.notifyrc:51
+#: donationmessage/donationmessage.notifyrc:206
+msgctxt "Comment"
+msgid "Shows a yearly request to donate to KDE"
+msgstr "แสดงคําขอบริจาครายปีให้กับ KDE"
+
+#. +> trunk6 stable6 stable5
+#: donationmessage/donationmessage.notifyrc:95
+#: phonon/platform_kde/phonon.notifyrc:79
+msgctxt "Name"
+msgid "Application"
+msgstr "แอปพลิเคชัน"
+
+#. +> trunk6 stable6 stable5
+#: freespacenotifier/freespacenotifier.notifyrc:3
+msgctxt "Comment"
+msgid "KDE Free Space Notifier Daemon"
+msgstr "ดีมอนการแจ้งพื้นที่ว่างของ KDE"
+
+#. +> trunk6 stable6 stable5
+#: freespacenotifier/freespacenotifier.notifyrc:73
+msgctxt "Name"
+msgid "Low Disk Space"
+msgstr "พื้นที่ดิสก์เหลือน้อย"
+
+#. +> trunk6 stable6 stable5
+#: freespacenotifier/freespacenotifier.notifyrc:146
+msgctxt "Name"
+msgid "Warning"
+msgstr "คำเตือน"
+
+#. +> trunk6 stable6 stable5
+#: freespacenotifier/freespacenotifier.notifyrc:235
+msgctxt "Comment"
+msgid "Used for warning notifications"
+msgstr "ใช้สำหรับการแจ้งเตือนให้ทราบ"
+
+#. +> trunk6 stable6 stable5
+#: freespacenotifier/freespacenotifier.notifyrc:313
+msgctxt "Name"
+msgid "Running low on disk space"
+msgstr "พื้นที่ดิสก์กำลังเหลือน้อย"
+
+#. +> trunk6 stable6 stable5
+#: freespacenotifier/freespacenotifier.notifyrc:383
+msgctxt "Comment"
+msgid "You are running low on disk space"
+msgstr "คุณกำลังทำงานด้วยพื้นที่ดิสก์ที่เหลือน้อย"
+
+#. +> trunk6 stable6 stable5
+#: gmenu-dbusmenu-proxy/gmenudbusmenuproxy.desktop:3
+msgctxt "Name"
+msgid "GMenuDBusMenuProxy"
+msgstr "GMenuDBusMenuProxy"
+
+#. +> trunk6 stable6 stable5
+#: kcms/colors/colorschemes.knsrc:2
+msgctxt "Name"
+msgid "Color Schemes"
+msgstr "ชุดสี"
+
+#. +> trunk6 stable6 stable5
+#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:2
+msgctxt "GenericName"
+msgid "Color scheme editor"
+msgstr "ตัวแก้ไขชุดสี"
+
+#. +> trunk6 stable6 stable5
+#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:56
+msgctxt "Name"
+msgid "KColorSchemeEditor"
+msgstr "KColorSchemeEditor"
+
+#. +> trunk6 stable6 stable5
+#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:110
+msgctxt "Comment"
+msgid "Plasma color scheme editor"
+msgstr "ตัวแก้ไขชุดสี Plasma"
+
+#. +> trunk6 stable6 stable5
+#: kcms/cursortheme/xcursor/xcursor.knsrc:2
+msgctxt "Name"
+msgid "Cursors"
+msgstr "Cursor"
+
+#. +> trunk6 stable6 stable5
+#: kcms/desktoptheme/plasma-themes.knsrc:2
+msgctxt "Name"
+msgid "Plasma Styles"
+msgstr "สไตล์ Plasma"
+
+#. +> trunk6 stable6 stable5
+#: kcms/icons/icons.knsrc:2
+msgctxt "Name"
+msgid "Icons"
+msgstr "ไอคอน"
+
+#. +> trunk6 stable6 stable5
+#: kcms/kfontinst/apps/installfont.desktop:7
+msgctxt "Name"
+msgid "Install..."
+msgstr "ติดตั้ง..."
+
+#. +> trunk6 stable6
+#: kcms/kfontinst/apps/org.kde.kfontinst.desktop:2
+msgctxt "Name"
+msgid "KFontInst"
+msgstr "KFontInst"
+
+#. +> trunk6 stable6
+#: kcms/kfontinst/apps/org.kde.kfontinst.desktop:53
+msgctxt "GenericName"
+msgid "Font Installer"
+msgstr "ตัวติดตั้งฟอนต์"
+
+#. +> trunk6 stable6 stable5
+#: kcms/kfontinst/apps/org.kde.kfontview.desktop:2
+msgctxt "Name"
+msgid "KFontView"
+msgstr "KFontView"
+
+#. +> trunk6 stable6 stable5
+#: kcms/kfontinst/apps/org.kde.kfontview.desktop:60
+msgctxt "GenericName"
+msgid "Font Viewer"
+msgstr "โปรแกรมแสดงฟอนต์"
+
+#. +> trunk6 stable6 stable5
+#: kcms/kfontinst/dbus/fontinst.actions:2
+msgctxt "Name"
+msgid "Font Installer"
+msgstr "ตัวติดตั้งฟอนต์"
+
+#. +> trunk6 stable6 stable5
+#: kcms/kfontinst/dbus/fontinst.actions:59
+msgctxt "Name"
+msgid "Manage system-wide fonts."
+msgstr "จัดการฟอนต์ทั่วระบบ"
+
+#. +> trunk6 stable6 stable5
+#: kcms/kfontinst/dbus/fontinst.actions:113
+msgctxt "Description"
+msgid "Modifying the system-wide font configuration requires privileges."
+msgstr "การแก้ไขการกําหนดค่าฟอนต์ทั้งระบบต้องใช้สิทธิ์การใช้งาน"
+
+#. +> trunk6 stable6 stable5
+#: kcms/kfontinst/kcmfontinst/kfontinst.knsrc:2
+#: kcms/kfontinst/kio/fonts.desktop:5
+msgctxt "Name"
+msgid "Fonts"
+msgstr "ฟอนต์"
+
+#. +> trunk6 stable6 stable5
+#: kcms/lookandfeel/lookandfeel.knsrc:2
+msgctxt "Name"
+msgid "Global Themes"
+msgstr "ธีมทั้งระบบ"
+
+#. +> trunk6 stable6 stable5
+#: kcms/style/gtk_themes.knsrc:2
+msgctxt "Name"
+msgid "GNOME/GTK Application Styles"
+msgstr "สไตล์แอปพลิเคชัน GNOME/GTK"
+
+#. +> trunk6 stable6 stable5
+#: kioworkers/desktop/directory.trash:2
+msgctxt "Name"
+msgid "Trash"
+msgstr "ถังขยะ"
+
+#. +> trunk6 stable6 stable5
+#: kioworkers/desktop/directory.trash:63
+msgctxt "Comment"
+msgid "Contains removed files"
+msgstr "มีไฟล์ที่ถูกลบออก"
+
+#. +> trunk6 stable6 stable5
+#: klipper/org.kde.klipper.desktop:2
+msgctxt "Name"
+msgid "Klipper"
+msgstr "คลิปเปอร์"
+
+#. +> trunk6 stable6 stable5
+#: klipper/org.kde.klipper.desktop:93
+msgctxt "GenericName"
+msgid "Clipboard Tool"
+msgstr "เครื่องมือคลิปบอร์ด"
+
+#. +> trunk6 stable6 stable5
+#: klipper/org.kde.klipper.desktop:192
+msgctxt "Comment"
+msgid "A cut & paste history utility"
+msgstr "เครื่องมือดูประวัติการตัดและวาง"
+
+#. +> trunk6 stable6 stable5
+#: krunner/org.kde.krunner.desktop.cmake:3
+msgctxt "Name"
+msgid "KRunner"
+msgstr "KRunner"
+
+#. +> trunk6 stable6 stable5
+#: krunner/org.kde.krunner.desktop.cmake:76
+msgctxt "Name"
+msgid "Run command on clipboard contents"
+msgstr "เรียกใช้คําสั่งบนเนื้อหาคลิปบอร์ด"
+
+#. +> trunk6 stable6
+#: libnotificationmanager/libnotificationmanager.notifyrc:5
+msgctxt "Name"
+msgid "Notification Manager"
+msgstr "จัดการการแจ้งเตือน"
+
+#. +> trunk6 stable6
+#: libnotificationmanager/libnotificationmanager.notifyrc:42
+msgctxt "Name"
+msgid "Summary for unread inhibited notifications"
+msgstr "สรุปการแจ้งเตือนที่ถูกยับยั้งซึ่งไม่ได้อ่าน"
+
+#. +> trunk6 stable6 stable5
+#: login-sessions/plasmawayland-dev.desktop.cmake:4
+msgctxt "Name"
+msgid "Plasma (Development, Wayland ${CMAKE_INSTALL_FULL_BINDIR})"
+msgstr "Plasma (Development, Wayland ${CMAKE_INSTALL_FULL_BINDIR})"
+
+#. +> trunk6 stable6 stable5
+#: login-sessions/plasmawayland-dev.desktop.cmake:56
+#: login-sessions/plasmawayland.desktop.cmake:61
+#: login-sessions/plasmax11-dev.desktop.cmake:57
+#: login-sessions/plasmax11.desktop.cmake:60
+msgctxt "Comment"
+msgid "Plasma by KDE"
+msgstr "Plasma โดย KDE"
+
+#. +> trunk6 stable6 stable5
+#: login-sessions/plasmawayland.desktop.cmake:5
+msgctxt "Name"
+msgid "Plasma (Wayland)"
+msgstr "Plasma (Wayland)"
+
+#. +> trunk6 stable6 stable5
+#: login-sessions/plasmax11-dev.desktop.cmake:5
+msgctxt "Name"
+msgid "Plasma (Development, X11 ${CMAKE_INSTALL_FULL_BINDIR})"
+msgstr "Plasma (Development, X11 ${CMAKE_INSTALL_FULL_BINDIR})"
+
+#. +> trunk6 stable6 stable5
+#: login-sessions/plasmax11.desktop.cmake:6
+msgctxt "Name"
+msgid "Plasma (X11)"
+msgstr "Plasma (X11)"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/hidden.directory:3
+msgctxt "Name"
+msgid "Internal Services"
+msgstr "บริการภายใน"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-development-translation.directory:3
+msgctxt "Name"
+msgid "Translation"
+msgstr "แปลภาษา"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-development-webdevelopment.directory:3
+msgctxt "Name"
+msgid "Web Development"
+msgstr "พัฒนาเว็บ"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-development.directory:3
+msgctxt "Name"
+msgid "Development"
+msgstr "พัฒนาโปรแกรม"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-editors.directory:3
+msgctxt "Name"
+msgid "Editors"
+msgstr "เครื่องมือแก้ไขข้อความ"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-edu-languages.directory:4
+msgctxt "Name"
+msgid "Languages"
+msgstr "ภาษาต่าง ๆ"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-edu-mathematics.directory:4
+msgctxt "Name"
+msgid "Mathematics"
+msgstr "คณิตศาสตร์"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-edu-miscellaneous.directory:4
+msgctxt "Name"
+msgid "Miscellaneous"
+msgstr "เบ็ดเตล็ด"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-edu-science.directory:4
+msgctxt "Name"
+msgid "Science"
+msgstr "วิทยาศาสตร์"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-edu-tools.directory:4
+msgctxt "Name"
+msgid "Teaching Tools"
+msgstr "เครื่องมือช่วยการสอน"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-education.directory:3
+msgctxt "Name"
+msgid "Education"
+msgstr "การศึกษา"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-games-arcade.directory:3
+msgctxt "Name"
+msgid "Arcade"
+msgstr "เกมอาเขต"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-games-board.directory:3
+msgctxt "Name"
+msgid "Board Games"
+msgstr "เกมกระดาน"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-games-card.directory:3
+msgctxt "Name"
+msgid "Card Games"
+msgstr "เกมแนวไพ่"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-games-kids.directory:3
+msgctxt "Name"
+msgid "Games for Kids"
+msgstr "เกมสำหรับเด็ก"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-games-logic.directory:3
+msgctxt "Name"
+msgid "Logic Games"
+msgstr "เกมแนวตรรกะ"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-games-roguelikes.directory:3
+msgctxt "Name"
+msgid "Rogue-like Games"
+msgstr "เกมคล้าย Rogue"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-games-strategy.directory:3
+msgctxt "Name"
+msgid "Tactics & Strategy"
+msgstr "เกมกลยุทธ์และวางแผน"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-games.directory:3
+msgctxt "Name"
+msgid "Games"
+msgstr "เกมต่าง ๆ"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-graphics.directory:3
+msgctxt "Name"
+msgid "Graphics"
+msgstr "กราฟิก"
+
+#. +> trunk6 stable6
+#: menu/desktop/kf5-help.directory:3
+msgctxt "Name"
+msgid "Help"
+msgstr "ช่วย"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-internet-terminal.directory:3
+#: menu/desktop/kf5-system-terminal.directory:3
+msgctxt "Name"
+msgid "Terminal Applications"
+msgstr "โปรแกรมเทอร์มินัล"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-internet.directory:3
+msgctxt "Name"
+msgid "Internet"
+msgstr "อินเทอร์เน็ต"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-main.directory:4
+msgctxt "Name"
+msgid "KDE Menu"
+msgstr "เมนู KDE"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-more.directory:4
+msgctxt "Name"
+msgid "More Applications"
+msgstr "แอปพลิเคชั่นเพิ่มเติม"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-multimedia.directory:3
+msgctxt "Name"
+msgid "Multimedia"
+msgstr "มัลติมีเดีย"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-network.directory:3
+msgctxt "Name"
+msgid "Network"
+msgstr "เครือข่าย"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-office.directory:3
+msgctxt "Name"
+msgid "Office"
+msgstr "สำนักงาน"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-science.directory:4
+msgctxt "Name"
+msgid "Science & Math"
+msgstr "วิทยาศาสตร์และคณิตศาสตร์"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-settingsmenu.directory:3
+msgctxt "Name"
+msgid "Settings"
+msgstr "ตั้งค่า"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-system.directory:3
+msgctxt "Name"
+msgid "System"
+msgstr "ระบบ"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-toys.directory:3
+msgctxt "Name"
+msgid "Toys"
+msgstr "ของเล่นสนุก ๆ"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-unknown.directory:3
+msgctxt "Name"
+msgid "Lost & Found"
+msgstr "จัดหมวดหมู่ไม่ได้"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-utilities-accessibility.directory:3
+msgctxt "Name"
+msgid "Accessibility"
+msgstr "ช่วยการใช้งาน"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-utilities-accessibility.directory:99
+msgctxt "Comment"
+msgid "Accessibility"
+msgstr "ช่วยการใช้งานให้ง่ายขึ้น"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-utilities-desktop.directory:3
+msgctxt "Name"
+msgid "Desktop"
+msgstr "เดสก์ท็อป"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-utilities-desktop.directory:68
+msgctxt "Comment"
+msgid "Desktop"
+msgstr "เดสก์ท็อป"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-utilities-file.directory:3
+msgctxt "Name"
+msgid "File"
+msgstr "ไฟล์"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-utilities-file.directory:69
+msgctxt "Comment"
+msgid "File"
+msgstr "ไฟล์"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-utilities-peripherals.directory:3
+msgctxt "Name"
+msgid "Peripherals"
+msgstr "อุปกรณ์ต่อพ่วง"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-utilities-peripherals.directory:95
+msgctxt "Comment"
+msgid "Peripherals"
+msgstr "อุปกรณ์ต่อพ่วง"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-utilities-pim.directory:3
+msgctxt "Name"
+msgid "PIM"
+msgstr "จัดการข้อมูลส่วนตัว (PIM)"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-utilities-pim.directory:91
+msgctxt "Comment"
+msgid "PIM"
+msgstr "จัดการข้อมูลส่วนตัว (PIM)"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-utilities-xutils.directory:4
+msgctxt "Name"
+msgid "X-Utilities"
+msgstr "X-Utilities"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-utilities-xutils.directory:67
+msgctxt "Comment"
+msgid "X Window Utilities"
+msgstr "โปรแกรมอรรถประโยชน์ต่าง ๆ ของระบบ X Window"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-utilities.directory:3
+msgctxt "Name"
+msgid "Utilities"
+msgstr "Utilities"
+
+#. +> trunk6 stable6 stable5
+#: menu/desktop/kf5-utilities.directory:68
+msgctxt "Comment"
+msgid "Utilities"
+msgstr "Utilities"
+
+#. +> trunk6 stable6
+#: oom-notifier/oom-notifier.notifyrc:6
+msgctxt "Name"
+msgid "Linux Kernel"
+msgstr "Linux Kernel"
+
+#. +> trunk6 stable6
+#: oom-notifier/oom-notifier.notifyrc:46
+msgctxt "Comment"
+msgid "The core of the operating system"
+msgstr "แกนหลักของระบบปฏิบัติการ"
+
+#. +> trunk6 stable6
+#: oom-notifier/oom-notifier.notifyrc:91
+msgctxt "Name"
+msgid "Catastrophe"
+msgstr "ภัยพิบัติ"
+
+#. +> trunk6 stable6
+#: oom-notifier/oom-notifier.notifyrc:138
+msgctxt "Comment"
+msgid "A very serious error has occurred"
+msgstr "เกิดข้อผิดพลาดร้ายแรงมาก"
+
+#. +> trunk6 stable6 stable5
+#: phonon/platform_kde/phonon.notifyrc:3
+msgctxt "Comment"
+msgid "Multimedia System"
+msgstr "ระบบสื่อประสม"
+
+#. +> trunk6 stable6 stable5
+#: phonon/platform_kde/phonon.notifyrc:145
+msgctxt "Name"
+msgid "Audio Output Device Changed"
+msgstr "อุปกรณ์ส่งออกเสียงมีการเปลี่ยนแปลง"
+
+#. +> trunk6 stable6 stable5
+#: phonon/platform_kde/phonon.notifyrc:215
+msgctxt "Comment"
+msgid "Notification when audio output device has automatically changed"
+msgstr "แจ้งให้ทราบเมื่ออุปกรณ์ส่วนส่งออกเสียงมีการเปลี่ยนแปลงที่เกิดขึ้นอย่างอัตโนมัติ"
+
+#. +> trunk6 stable6 stable5
+#: plasma-windowed/org.kde.plasmawindowed.desktop.cmake:2
+msgctxt "Name"
+msgid "Plasma Windowed"
+msgstr "หน้าต่าง Plasma"
+
+#. +> trunk6 stable6 stable5
+#: plasma-windowed/org.kde.plasmawindowed.desktop.cmake:61
+msgctxt "Comment"
+msgid "Run Plasmoids as simple applications"
+msgstr "เรียกใช้ Plasmoid เป็นแอปพลิเคชันง่ายๆ"
+
+#. +> trunk6 stable6
+#: runners/baloo/plasma-runner-baloosearch.desktop:2
+msgctxt "Name"
+msgid "File Search"
+msgstr "ค้นหาไฟล์"
+
+#. +> stable5
+#: runners/baloo/plasma-runner-baloosearch.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop Sessions"
+msgctxt "Name"
+msgid "Desktop Search"
+msgstr "วาระงานของพื้นที่ทำงาน"
+
+#. +> trunk6 stable6
+#: runners/baloo/plasma-runner-baloosearch.desktop:50
+msgctxt "Comment"
+msgid "Searches for files by name and content"
+msgstr "ค้นหาไฟล์ตามชื่อและเนื้อหา"
+
+#. +> stable5
+#: runners/baloo/plasma-runner-baloosearch.desktop:61
+msgctxt "Comment"
+msgid "Searches through files, emails and contacts"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: shell/org.kde.plasmashell.desktop.cmake:4
+msgctxt "Name"
+msgid "Plasma Desktop Workspace"
+msgstr "พื้นที่ทำงานเดสก์ท็อป Plasma"
+
+#. +> trunk6 stable6
+#: startkde/session-restore/org.kde.plasma-fallback-session-restore.desktop.in:3
+msgctxt "Name"
+msgid "Plasma Session Restore"
+msgstr "เรียกคืนเซสชัน Plasma"
+
+#. +> trunk6 stable6
+#: startkde/session-restore/org.kde.plasma-fallback-session-save.desktop.in:3
+msgctxt "Name"
+msgid "Plasma Session Save"
+msgstr "บันทึกเซสชันPlasma"
+
+#. +> trunk6 stable6 stable5
+#: themes/qtcde.themerc:2
+msgctxt "Name"
+msgid "CDE"
+msgstr "รูปแบบ CDE"
+
+#. +> trunk6 stable6 stable5
+#: themes/qtcde.themerc:94
+msgctxt "Comment"
+msgid "Built-in unthemed CDE style"
+msgstr "รูปแบบซึ่งรวมมาในชุดอยู่แล้ว เลียนแบบ CDE"
+
+#. +> trunk6 stable6 stable5
+#: themes/qtcleanlooks.themerc:2
+msgctxt "Name"
+msgid "Cleanlooks"
+msgstr "Cleanlooks"
+
+#. +> trunk6 stable6 stable5
+#: themes/qtcleanlooks.themerc:74
+msgctxt "Comment"
+msgid "Built-in unthemed style similar to Clearlooks from GNOME"
+msgstr "รูปแบบซึ่งรวมมาในชุดอยู่แล้ว ที่คล้ายชุดตกแต่ง Clearlooks ของ GNOME"
+
+#. +> trunk6 stable6 stable5
+#: themes/qtgtk.themerc:2
+msgctxt "Name"
+msgid "GTK+ Style"
+msgstr "รูปลักษณ์ของ GTK+"
+
+#. +> trunk6 stable6 stable5
+#: themes/qtgtk.themerc:77
+msgctxt "Comment"
+msgid "Style that uses the GTK+ theming engine"
+msgstr "รูปแบบที่ใช้กลไกชุดตกแต่งรูปลักษณ์ของ GTK+"
+
+#. +> trunk6 stable6 stable5
+#: themes/qtmotif.themerc:2
+msgctxt "Name"
+msgid "Motif"
+msgstr "รูปแบบ Motif"
+
+#. +> trunk6 stable6 stable5
+#: themes/qtmotif.themerc:89
+msgctxt "Comment"
+msgid "Built-in unthemed Motif style"
+msgstr "รูปแบบซึ่งรวมมาในชุดอยู่แล้ว เลียนแบบรูปลักษณ์ของ Motif"
+
+#. +> trunk6 stable6 stable5
+#: themes/qtplastique.themerc:2
+msgctxt "Name"
+msgid "Plastique"
+msgstr "รูปแบบพลาสติก"
+
+#. +> trunk6 stable6 stable5
+#: themes/qtplastique.themerc:75
+msgctxt "Comment"
+msgid "Built-in unthemed style similar to Plastik from KDE3"
+msgstr "รูปแบบซึ่งรวมมาในชุดอยู่แล้ว ที่คล้ายชุดตกแต่งพลาสติกของ KDE3 "
+
+#. +> trunk6 stable6 stable5
+#: themes/qtwindows.themerc:2
+msgctxt "Name"
+msgid "MS Windows 9x"
+msgstr "รูปแบบ MS Windows 9x"
+
+#. +> trunk6 stable6 stable5
+#: themes/qtwindows.themerc:91
+msgctxt "Comment"
+msgid "Built-in unthemed Windows 9x style"
+msgstr "รูปแบบซึ่งรวมมาในชุดอยู่แล้ว เลียนแบบวินโดวส์ 9x"
+
+#. +> trunk6 stable6 stable5
+#: wallpapers/image/wallpaper-mobile.knsrc:2 wallpapers/image/wallpaper.knsrc:2
+msgctxt "Name"
+msgid "Wallpapers"
+msgstr "วอลเปเปอร์"
+
+#. +> trunk6 stable6 stable5
+#: xembed-sni-proxy/xembedsniproxy.desktop:3
+msgctxt "Name"
+msgid "XembedSniProxy"
+msgstr "XembedSniProxy"
+
+#. +> stable6 stable5
+#: klipper/klipperrc.desktop:14
+msgctxt "Description"
+msgid "Jpeg-Image"
+msgstr "แฟ้มภาพ Jpeg"
+
+#. +> stable6 stable5
+#: klipper/klipperrc.desktop:111
+msgctxt "Description"
+msgid "Launch &Gwenview"
+msgstr "เรียกใช้งาน '&Gwenview'"
+
+#. +> stable6 stable5
+#: klipper/klipperrc.desktop:196
+msgctxt "Description"
+msgid "Web-URL"
+msgstr "ที่อยู่ URL ของเว็บ"
+
+#. +> stable6 stable5
+#: klipper/klipperrc.desktop:291 klipper/klipperrc.desktop:1986
+msgctxt "Description"
+msgid "Open with &default Browser"
+msgstr "เปิดด้วยเบราเซอร์&ปริยาย"
+
+#. +> stable6 stable5
+#: klipper/klipperrc.desktop:377 klipper/klipperrc.desktop:2072
+msgctxt "Description"
+msgid "Open with &Konqueror"
+msgstr "เปิดด้วย '&คอนเควอร์เรอร์'"
+
+#. +> stable6 stable5
+#: klipper/klipperrc.desktop:472 klipper/klipperrc.desktop:2166
+msgctxt "Description"
+msgid "Open with &Mozilla"
+msgstr "เปิดด้วย '&มอซซิลลา'"
+
+#. +> stable6 stable5
+#: klipper/klipperrc.desktop:566 klipper/klipperrc.desktop:1416
+#: klipper/klipperrc.desktop:1701 klipper/klipperrc.desktop:2260
+msgctxt "Description"
+msgid "Send &URL"
+msgstr "ส่งที่อยู่ &URL"
+
+#. +> stable6 stable5
+#: klipper/klipperrc.desktop:662
+msgctxt "Description"
+msgid "Open with &Firefox"
+msgstr "เปิดด้วย 'ไ&ฟร์ฟอกซ์'"
+
+#. +> stable6 stable5
+#: klipper/klipperrc.desktop:754
+msgctxt "Description"
+msgid "Send &Page"
+msgstr "ส่งหน้าเ&ว็บ"
+
+#. +> stable6 stable5
+#: klipper/klipperrc.desktop:849
+msgctxt "Description"
+msgid "Mail-URL"
+msgstr "ที่อยู่ URL ของจดหมาย"
+
+#. +> stable6 stable5
+#: klipper/klipperrc.desktop:944
+msgctxt "Description"
+msgid "Launch &Kmail"
+msgstr "เรียกใช้งาน 'รับ/ส่งจดหมาย-&K'"
+
+#. +> stable6 stable5
+#: klipper/klipperrc.desktop:1038
+msgctxt "Description"
+msgid "Launch &mutt"
+msgstr "เรียกใช้งาน '&mutt'"
+
+#. +> stable6 stable5
+#: klipper/klipperrc.desktop:1131
+msgctxt "Description"
+msgid "Text File"
+msgstr "แฟ้มข้อความ"
+
+#. +> stable6 stable5
+#: klipper/klipperrc.desktop:1228
+msgctxt "Description"
+msgid "Launch K&Write"
+msgstr "เรียกใช้งาน 'K&Write'"
+
+#. +> stable6 stable5
+#: klipper/klipperrc.desktop:1321
+msgctxt "Description"
+msgid "Local file URL"
+msgstr "ที่อยู่ของแฟ้มในระบบ"
+
+#. +> stable6 stable5
+#: klipper/klipperrc.desktop:1511 klipper/klipperrc.desktop:1796
+#: klipper/klipperrc.desktop:2355
+msgctxt "Description"
+msgid "Send &File"
+msgstr "ส่งแ&ฟ้ม"
+
+#. +> stable6 stable5
+#: klipper/klipperrc.desktop:1606
+msgctxt "Description"
+msgid "Gopher URL"
+msgstr "ที่อยู่ URL ของโกเฟอร์"
+
+#. +> stable6 stable5
+#: klipper/klipperrc.desktop:1891
+msgctxt "Description"
+msgid "ftp URL"
+msgstr "ที่อยู่ URL ของ ftp"
+
+#. +> stable5
+#: kcms/desktoptheme/kcm_desktoptheme.desktop:7
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Plasma Desktop Shell"
+msgctxt "Name"
+msgid "Plasma Style"
+msgstr "เชลล์พื้นที่ทำงานแบบพลาสมา"
+
+#. +> stable5
+#: lookandfeel/sddm-theme/metadata.desktop:2
+msgctxt "Name"
+msgid "Breeze"
+msgstr ""
+
+#. +> stable5
+#: lookandfeel/sddm-theme/metadata.desktop:58
+msgctxt "Description"
+msgid "Breeze"
+msgstr ""
+
+#. +> stable5
+#: systemmonitor/org.kde.systemmonitor.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Switch Activity"
+msgctxt "Name"
+msgid "System Activity"
+msgstr "สลับกิจกรรม"
+
+#. +> stable5
+#: wallpapers/image/setaswallpaper.desktop.in:8
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Slideshow"
+msgctxt "Name"
+msgid "Set as Wallpaper"
+msgstr "นำเสนอภาพนิ่ง"

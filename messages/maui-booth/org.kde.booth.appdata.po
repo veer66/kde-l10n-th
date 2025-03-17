@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: org.kde.booth.appdata\n"
+"POT-Creation-Date: 2024-12-26 08:45+0100\n"
+"PO-Revision-Date: 2025-03-17 14:55+0700\n"
+"Last-Translator: Thai Translator <none>\n"
+"Language-Team: Thai <kde-i18n-docs@kde.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. (itstool) path: component/name
+#. +> trunk6
+#: org.kde.booth.appdata.xml:6
+msgid "Booth"
+msgstr ""
+
+#. (itstool) path: component/summary
+#. +> trunk6
+#: org.kde.booth.appdata.xml:7
+msgid "Take pictures and videos"
+msgstr ""
+
+#. (itstool) path: description/p
+#. +> trunk6
+#: org.kde.booth.appdata.xml:9
+msgid "Booth is a convergent camera app."
+msgstr ""
+
+#. (itstool) path: screenshot/caption
+#. +> trunk6
+#: org.kde.booth.appdata.xml:16
+msgid "Booth camera app"
+msgstr ""

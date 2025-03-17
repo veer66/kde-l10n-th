@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmutils\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-09-28 11:43+0200\n"
+"PO-Revision-Date: 2025-03-17 14:53+0700\n"
+"Last-Translator: Thai Translator <none>\n"
+"Language-Team: Thai <kde-i18n-docs@kde.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#. +> trunk6
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#. +> trunk6
+#: main.cpp:99
+#, kde-format
+msgid "A tool to start single system settings modules"
+msgstr ""
+
+#. +> trunk6
+#: main.cpp:101
+#, kde-format
+msgid "(c) 1999-2023, The KDE Developers"
+msgstr ""
+
+#. +> trunk6
+#: main.cpp:103
+#, kde-format
+msgid "Frans Englich"
+msgstr ""
+
+#. +> trunk6
+#: main.cpp:103
+#, kde-format
+msgid "Maintainer"
+msgstr ""
+
+#. +> trunk6
+#: main.cpp:104
+#, kde-format
+msgid "Daniel Molkentin"
+msgstr ""
+
+#. +> trunk6
+#: main.cpp:105
+#, kde-format
+msgid "Matthias Hoelzer-Kluepfel"
+msgstr ""
+
+#. +> trunk6
+#: main.cpp:106
+#, kde-format
+msgid "Matthias Elter"
+msgstr ""
+
+#. +> trunk6
+#: main.cpp:107
+#, kde-format
+msgid "Matthias Ettrich"
+msgstr ""
+
+#. +> trunk6
+#: main.cpp:108
+#, kde-format
+msgid "Waldo Bastian"
+msgstr ""
+
+#. +> trunk6
+#: main.cpp:114
+#, kde-format
+msgid "List all possible modules"
+msgstr ""
+
+#. +> trunk6
+#: main.cpp:115
+#, kde-format
+msgid "Configuration module to open"
+msgstr ""
+
+#. +> trunk6
+#: main.cpp:116
+#, kde-format
+msgid "Space separated arguments for the module"
+msgstr ""
+
+#. +> trunk6
+#: main.cpp:117
+#, kde-format
+msgid "Use a specific icon for the window"
+msgstr ""
+
+#. +> trunk6
+#: main.cpp:118
+#, kde-format
+msgid "Use a specific caption for the window"
+msgstr ""
+
+#. +> trunk6
+#: main.cpp:119
+#, kde-format
+msgid "Show an indicator when settings have changed from their default value"
+msgstr ""
+
+#. +> trunk6
+#: main.cpp:127
+#, kde-format
+msgid "The following modules are available:"
+msgstr ""
+
+#. +> trunk6
+#: main.cpp:140
+#, kde-format
+msgid "No description available"
+msgstr ""

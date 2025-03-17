@@ -1,0 +1,76 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Phuwanat Sakornsakolpat <narachai@gmail.com>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-11-16 11:11+0100\n"
+"PO-Revision-Date: 2010-11-27 11:28+0700\n"
+"Last-Translator: Phuwanat Sakornsakolpat <narachai@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 trunk5 stable6
+#: fileitemplugin/FileItemLinkingPlugin.cpp:79 KioActivities.cpp:176
+#, kde-format
+msgid "Activities"
+msgstr ""
+
+#. +> trunk6 trunk5 stable6
+#: fileitemplugin/FileItemLinkingPlugin.cpp:82
+#, kde-format
+msgid "Loading..."
+msgstr ""
+
+#. +> trunk6 trunk5 stable6
+#: fileitemplugin/FileItemLinkingPlugin.cpp:99
+#, fuzzy, kde-format
+#| msgid "KDE Activity Manager"
+msgid "The Activity Manager is not running"
+msgstr "ตัวจัดการกิจกรรมของ KDE"
+
+#. +> trunk6 trunk5 stable6
+#: fileitemplugin/FileItemLinkingPluginActionLoader.cpp:50
+#: fileitemplugin/FileItemLinkingPluginActionLoader.cpp:109
+#, kde-format
+msgid "Link to the current activity"
+msgstr ""
+
+#. +> trunk6 trunk5 stable6
+#: fileitemplugin/FileItemLinkingPluginActionLoader.cpp:51
+#: fileitemplugin/FileItemLinkingPluginActionLoader.cpp:112
+#, kde-format
+msgid "Unlink from the current activity"
+msgstr ""
+
+#. +> trunk6 trunk5 stable6
+#: fileitemplugin/FileItemLinkingPluginActionLoader.cpp:53
+#: fileitemplugin/FileItemLinkingPluginActionLoader.cpp:115
+#, kde-format
+msgid "Link to:"
+msgstr ""
+
+#. +> trunk6 trunk5 stable6
+#: fileitemplugin/FileItemLinkingPluginActionLoader.cpp:58
+#: fileitemplugin/FileItemLinkingPluginActionLoader.cpp:122
+#, kde-format
+msgid "Unlink from:"
+msgstr ""
+
+#. +> trunk6 trunk5 stable6
+#: KioActivities.cpp:108
+#, kde-format
+msgid "Current activity"
+msgstr ""
+
+#. +> trunk6 trunk5 stable6
+#: KioActivities.cpp:109 KioActivitiesApi.cpp:86
+#, kde-format
+msgid "Activity"
+msgstr ""

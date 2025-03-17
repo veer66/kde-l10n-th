@@ -1,0 +1,678 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nota\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-02-26 10:55+0100\n"
+"PO-Revision-Date: 2025-03-17 14:55+0700\n"
+"Last-Translator: Thai Translator <none>\n"
+"Language-Team: Thai <kde-i18n-docs@kde.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#. +> trunk6
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#. +> trunk6
+#: main.cpp:44
+#, kde-format
+msgid "Browse, create and edit text files."
+msgstr ""
+
+#. +> trunk6
+#: main.cpp:49 main.cpp:50
+#, kde-format
+msgid "Developer"
+msgstr ""
+
+#. +> trunk6
+#: main.qml:115
+#, kde-format
+msgid "Unsaved files"
+msgstr ""
+
+#. +> trunk6
+#: main.qml:116
+#, kde-format
+msgid "You have unsaved files. You can go back and save them or choose to discard all changes and exit."
+msgstr ""
+
+#. +> trunk6
+#: plugins/ActionBar.qml:39 plugins/Dicto.qml:55 plugins/QMLLive.qml:55
+#, kde-format
+msgid "Run"
+msgstr ""
+
+#. +> trunk6
+#: plugins/ActionBar.qml:52 plugins/Dicto.qml:76 plugins/QMLLive.qml:76
+#, kde-format
+msgid "Run & Debug"
+msgstr ""
+
+#. +> trunk6
+#: plugins/ActionBar.qml:59 plugins/Dicto.qml:83 plugins/QMLLive.qml:83
+#, kde-format
+msgid "Run in Terminal"
+msgstr ""
+
+#. +> trunk6
+#: plugins/ActionBar.qml:79 plugins/Dicto.qml:103 plugins/QMLLive.qml:103
+#, kde-format
+msgid "Mobile"
+msgstr ""
+
+#. +> trunk6
+#: plugins/ToDos.qml:39
+#, kde-format
+msgid "New ToDo... Argh!"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/Editor.qml:111
+#, kde-format
+msgid "Open Here"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/Editor.qml:121
+#, kde-format
+msgid "Open in New Tab"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/Editor.qml:132
+#, kde-format
+msgid "Open in New Split"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/Editor.qml:144
+#, kde-format
+msgid "Cancel"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:32
+#, kde-format
+msgid "Open Files"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:45
+#, kde-format
+msgid "Recent Files"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:58
+#, kde-format
+msgid "New"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:84
+#, kde-format
+msgid "Create a New Document"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:85
+#, kde-format
+msgid "You can create or open a new document."
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:120
+#, kde-format
+msgid "Toggle side bar"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:169
+#, kde-format
+msgid "Focus"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:177 views/widgets/SettingsDialog.qml:172
+#: views/widgets/ShortcutsDialog.qml:86
+#, kde-format
+msgid "Terminal"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:188
+#, kde-format
+msgid "Split View"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:209 views/widgets/ShortcutsDialog.qml:10
+#, kde-format
+msgid "Shortcuts"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:220
+#, kde-format
+msgid "Settings"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:231 views/widgets/PluginsDialog.qml:10
+#, kde-format
+msgid "Plugins"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:242
+#, kde-format
+msgid "About"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:291 views/PlacesSidebar.qml:146
+#, kde-format
+msgid "Name"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:297 views/PlacesSidebar.qml:119
+#, kde-format
+msgid "Date"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:303 views/PlacesSidebar.qml:128
+#, kde-format
+msgid "Modified"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:309 views/PlacesSidebar.qml:137
+#, kde-format
+msgid "Size"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:315 views/PlacesSidebar.qml:110
+#, kde-format
+msgid "Type"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:327 views/editor/EditorView.qml:485
+#, kde-format
+msgid "Go to Line"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:329
+#, kde-format
+msgid "Line number"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:341 views/widgets/ItemMenu.qml:133
+#, kde-format
+msgid "Delete File?"
+msgstr ""
+
+#. i18n("Accept")
+#. rejectButton.text: i18n("Cancel")
+#. +> trunk6
+#: views/editor/EditorView.qml:342 views/widgets/ItemMenu.qml:136
+#, kde-format
+msgid ""
+"Are sure you want to delete \n"
+"%1"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:368
+#, kde-format
+msgid "Undo"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:376
+#, kde-format
+msgid "Redo"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:384
+#, kde-format
+msgid "Save"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:393 views/widgets/ItemMenu.qml:68
+#, kde-format
+msgid "Save as"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:403
+#, kde-format
+msgid "Find and Replace"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:422
+#, kde-format
+msgid "Line/Word Counter"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:442
+#, kde-format
+msgid "UnFav it"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:457 views/widgets/ItemMenu.qml:99
+#, kde-format
+msgid "Info"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:470 views/RecentView.qml:135
+#, kde-format
+msgid "Share"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:498 views/widgets/ItemMenu.qml:89
+#, kde-format
+msgid "Show in Folder"
+msgstr ""
+
+#. +> trunk6
+#: views/editor/EditorView.qml:508
+#, kde-format
+msgid "Delete File"
+msgstr ""
+
+#. +> trunk6
+#: views/PlacesSidebar.qml:61
+#, kde-format
+msgid "Previous"
+msgstr ""
+
+#. +> trunk6
+#: views/PlacesSidebar.qml:68
+#, kde-format
+msgid "Up"
+msgstr ""
+
+#. +> trunk6
+#: views/PlacesSidebar.qml:76
+#, kde-format
+msgid "Next"
+msgstr ""
+
+#. +> trunk6
+#: views/PlacesSidebar.qml:100
+#, kde-format
+msgid "Show Folders First"
+msgstr ""
+
+#. +> trunk6
+#: views/PlacesSidebar.qml:158
+#, kde-format
+msgid "Group"
+msgstr ""
+
+#. +> trunk6
+#: views/RecentView.qml:21
+#, kde-format
+msgid "No Recent Files!"
+msgstr ""
+
+#. +> trunk6
+#: views/RecentView.qml:22
+#, kde-format
+msgid "Here you will see your recently opened files"
+msgstr ""
+
+#. +> trunk6
+#: views/RecentView.qml:121
+#, kde-format
+msgid "Open"
+msgstr ""
+
+#. +> trunk6
+#: views/RecentView.qml:142
+#, kde-format
+msgid "Export"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/DocsBrowser.qml:67
+#, kde-format
+msgid "Filter..."
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/ItemMenu.qml:53 views/widgets/ShortcutsDialog.qml:191
+#, kde-format
+msgid "Select"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/ItemMenu.qml:111
+#, kde-format
+msgid "Copy"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/ItemMenu.qml:121
+#, kde-format
+msgid "Remove"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/PluginsDialog.qml:14
+#, kde-format
+msgid "Default Plugins"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/PluginsDialog.qml:15
+#, kde-format
+msgid "Activate or remove the default plugins"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/PluginsDialog.qml:23
+#, kde-format
+msgid "QML Scene"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/PluginsDialog.qml:24
+#, kde-format
+msgid "Load the current file in a QML scene."
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/PluginsDialog.qml:53
+#, kde-format
+msgid "ToDo"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/PluginsDialog.qml:54
+#, kde-format
+msgid "List of to-do tasks."
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/PluginsDialog.qml:82 views/widgets/PluginsDialog.qml:104
+#, kde-format
+msgid "Builder"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/PluginsDialog.qml:83 views/widgets/PluginsDialog.qml:105
+#, kde-format
+msgid "Configure a project to build and run."
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/PluginsDialog.qml:88
+#, kde-format
+msgid "HTML Previewer"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/PluginsDialog.qml:89
+#, kde-format
+msgid "Preview HTML code live."
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/PluginsDialog.qml:95
+#, kde-format
+msgid "Load Plugins"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/PluginsDialog.qml:96
+#, kde-format
+msgid "Activate or remove the third party plugins"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/SettingsDialog.qml:18 views/widgets/SettingsDialog.qml:146
+#, kde-format
+msgid "Font"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/SettingsDialog.qml:37
+#, kde-format
+msgid "General"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/SettingsDialog.qml:42
+#, kde-format
+msgid "Places Sidebar"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/SettingsDialog.qml:43
+#, kde-format
+msgid "Browse your file system from the sidebar."
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/SettingsDialog.qml:55
+#, kde-format
+msgid "Auto Save"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/SettingsDialog.qml:56
+#, kde-format
+msgid "Auto saves your file every few seconds."
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/SettingsDialog.qml:69
+#, kde-format
+msgid "Editor"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/SettingsDialog.qml:74
+#, kde-format
+msgid "Line Numbers"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/SettingsDialog.qml:75
+#, kde-format
+msgid "Display the line numbers on the left side."
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/SettingsDialog.qml:87
+#, kde-format
+msgid "Wrap Text"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/SettingsDialog.qml:88
+#, kde-format
+msgid "Wrap the text into new lines."
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/SettingsDialog.qml:100
+#, kde-format
+msgid "Syntax Highlighting Languages"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/SettingsDialog.qml:101
+#, kde-format
+msgid "Display available languages."
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/SettingsDialog.qml:113
+#, kde-format
+msgid "Syntax Highlighting"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/SettingsDialog.qml:114
+#, kde-format
+msgid "Enable syntax highlighting for supported languages."
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/SettingsDialog.qml:126
+#, kde-format
+msgid "Colors"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/SettingsDialog.qml:127
+#, kde-format
+msgid "Configure the color scheme of the syntax highlighting. This configuration is not applied for rich text formats."
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/SettingsDialog.qml:141
+#, kde-format
+msgid "Display"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/SettingsDialog.qml:147
+#, kde-format
+msgid "Font family and size."
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/SettingsDialog.qml:159
+#, kde-format
+msgid "Tab Space"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/SettingsDialog.qml:173
+#, kde-format
+msgid "Embedded terminal options."
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/SettingsDialog.qml:178
+#, kde-format
+msgid "Sync Terminal"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/SettingsDialog.qml:179
+#, kde-format
+msgid "Sync the terminal to the browser current working directory."
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/SettingsDialog.qml:191
+#, kde-format
+msgid "Adaptive Color Scheme"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/SettingsDialog.qml:192
+#, kde-format
+msgid "Colors based on the current style."
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/SettingsDialog.qml:203
+#, kde-format
+msgid "Color Scheme"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/SettingsDialog.qml:204
+#, kde-format
+msgid "Change the color scheme of the terminal."
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/ShortcutsDialog.qml:21
+#, kde-format
+msgid "Navigation"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/ShortcutsDialog.qml:22
+#, kde-format
+msgid "Browser navigation."
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/ShortcutsDialog.qml:26
+#, kde-format
+msgid "New Tab"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/ShortcutsDialog.qml:46
+#, kde-format
+msgid "Close Tab"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/ShortcutsDialog.qml:66
+#, kde-format
+msgid "Path Edit"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/ShortcutsDialog.qml:101
+#, kde-format
+msgid "Split"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/ShortcutsDialog.qml:116
+#, kde-format
+msgid "New File"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/ShortcutsDialog.qml:136
+#, kde-format
+msgid "Preview"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/ShortcutsDialog.qml:151
+#, kde-format
+msgid "Find Tab"
+msgstr ""
+
+#. +> trunk6
+#: views/widgets/ShortcutsDialog.qml:171
+#, kde-format
+msgid "Select All"
+msgstr ""

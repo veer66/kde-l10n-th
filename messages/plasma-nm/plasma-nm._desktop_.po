@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-12-17 08:18+0100\n"
+"PO-Revision-Date: 2025-03-17 14:55+0700\n"
+"Last-Translator: Thai Translator <none>\n"
+"Language-Team: Thai <kde-i18n-docs@kde.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:3
+msgctxt "Name"
+msgid "Network Management"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:53
+msgctxt "Comment"
+msgid "Network management"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:114
+msgctxt "Name"
+msgid "Connection Activated"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:168
+msgctxt "Name"
+msgid "Connection Deactivated"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:222
+msgctxt "Name"
+msgid "Connection Added"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:275
+msgctxt "Name"
+msgid "Connection Removed"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:328
+msgctxt "Name"
+msgid "Connection Updated"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:381
+msgctxt "Name"
+msgid "Device Failed"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:435
+msgctxt "Name"
+msgid "Failed to Activate Connection"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:488
+msgctxt "Name"
+msgid "Failed to Add Connection"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:541
+msgctxt "Name"
+msgid "Failed to Deactivate Connection"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:594
+msgctxt "Name"
+msgid "Failed to Remove Connection"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:647
+msgctxt "Name"
+msgid "Failed to Get Secrets"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:700
+msgctxt "Name"
+msgid "Failed to Update Connection"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:753
+msgctxt "Name"
+msgid "Missing VPN Plugin"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:806
+msgctxt "Name"
+msgid "No Longer Connected to a Network"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:859
+msgctxt "Name"
+msgid "Captive Portal Detected"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:912
+msgctxt "Name"
+msgid "Limited Connectivity"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:967
+msgctxt "Name"
+msgid "Failed to Create Hotspot"
+msgstr ""
+
+#. +> trunk6 stable6
+#: org.kde.vpnimport.desktop:3
+msgctxt "Name"
+msgid "VPN Importer"
+msgstr ""

@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kdenlive Manual \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-31 13:53+0100\n"
+"PO-Revision-Date: 2025-03-17 14:52+0700\n"
+"Last-Translator: Thai Translator <none>\n"
+"Language-Team: Thai <kde-i18n-docs@kde.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk5
+#: ../../troubleshooting.rst:1
+msgid "Troubleshooting Kdenlive"
+msgstr ""
+
+#. +> trunk5
+#: ../../troubleshooting.rst:1
+msgid "KDE, Kdenlive, troubleshooting, faq, solving, issues, windows, documentation, user manual, video editor, open source, free, learn, easy"
+msgstr ""
+
+#. +> trunk5
+#: ../../troubleshooting.rst:38
+msgid "Troubleshooting"
+msgstr ""
+
+#. +> trunk5
+#: ../../troubleshooting.rst:40
+msgid "This section tries to help fixing issues you may encounter when installing or using Kdenlive. If your specific problem cannot be solved here try to reach out to the Kdenlive community on |discuss|, |telegram|, |reddit|\\ [1]_ or |discord|\\ [1]_."
+msgstr ""
+
+#. +> trunk5
+#: ../../troubleshooting.rst:42
+msgid "Please do not hesitate to log a |bug_report| if you cannot get a problem resolved."
+msgstr ""
+
+#. +> trunk5
+#: ../../troubleshooting.rst:49
+msgid "This site/channel is privately maintained and not an official Kdenlive site or channel"
+msgstr ""

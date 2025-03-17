@@ -1,0 +1,2106 @@
+# translation of desktop_kdebase.po to Thai
+#
+# SPDX-FileCopyrightText: 2025 Pongsakorn S. <kde@xerusion.me>
+# Thanomsub Noppaburana <donga_n@yahoo.com>, 2003, 2005.
+# Narachai Sakorn <narachai@opentle.org>, 2005.
+# Sahachart Anukulkitch <drrider@gmail.com>, 2005, 2006, 2007, 2008.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008, 2010.
+# Narachai Sakorn <narachai@gmail.com>, 2008.
+# Phuwanat Sakornsakolpat <narachai@gmail.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdebase\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-02-16 10:26+0100\n"
+"PO-Revision-Date: 2025-03-03 20:07+0700\n"
+"Last-Translator: Pongsakorn S. <kde@xerusion.me>\n"
+"Language-Team: Thai\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6 stable5
+#: applets/activitybar/metadata.json
+msgctxt "Name"
+msgid "Activity Bar"
+msgstr "แถบกิจกรรม"
+
+#. +> trunk6 stable6 stable5
+#: applets/activitybar/metadata.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Tab bar to switch activities"
+msgctxt "Description"
+msgid "Tab bar to switch activities"
+msgstr "แถบแท็บเพื่อใช้สลับกิจกรรม"
+
+#. +> trunk6 stable6 stable5
+#: applets/activitybar/metadata.json
+msgctxt "Authors Name"
+msgid "Bhushan Shah"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: applets/analog-clock/metadata.json
+msgctxt "Name"
+msgid "Analog Clock"
+msgstr "นาฬิกาแอนะล็อก"
+
+#. +> trunk6 stable6 stable5
+#: applets/analog-clock/metadata.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "A clock with hands"
+msgctxt "Description"
+msgid "A clock with hands"
+msgstr "นาฬิกาแบบเข็ม"
+
+#. +> trunk6 stable6 stable5
+#: applets/analog-clock/metadata.json
+#: applets/systemmonitor/diskactivity/metadata.json
+#: applets/systemmonitor/diskusage/metadata.json
+#: applets/systemmonitor/net/metadata.json
+#: applets/systemmonitor/systemmonitor/package/metadata.json
+#: applets/systemtray/container/package/metadata.json
+#: applets/systemtray/package/metadata.json wallpapers/color/metadata.json
+#: wallpapers/image/imagepackage/metadata.json
+#: wallpapers/image/slideshowpackage/metadata.json
+msgctxt "Authors Name"
+msgid "Marco Martin"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: applets/appmenu/package/metadata.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Minimal Menu"
+msgctxt "Name"
+msgid "Global Menu"
+msgstr "เมนูย่อ"
+
+#. +> trunk6 stable6 stable5
+#: applets/appmenu/package/metadata.json
+msgctxt "Description"
+msgid "Global menubar in your Plasma Desktop"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: applets/appmenu/package/metadata.json
+#: applets/notifications/package/metadata.json
+#: applets/systemmonitor/coreusage/metadata.json
+#: applets/systemmonitor/cpu/metadata.json
+#: applets/systemmonitor/memory/metadata.json kcms/colors/kcm_colors.json
+msgctxt "Authors Name"
+msgid "Kai Uwe Broulik"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: applets/calendar/package/metadata.json
+msgctxt "Name"
+msgid "Calendar"
+msgstr "ปฏิทิน"
+
+#. +> trunk6 stable6 stable5
+#: applets/calendar/package/metadata.json
+msgctxt "Description"
+msgid "Month display with your appointments and events"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: applets/calendar/package/metadata.json
+#: applets/mediacontroller/package/metadata.json
+#: runners/recentdocuments/plasma-runner-recentdocuments.json
+msgctxt "Authors Name"
+msgid "Sebastian Kügler"
+msgstr ""
+
+#. +> trunk6 stable6
+#: applets/cameraindicator/package/metadata.json
+msgctxt "Name"
+msgid "Camera Indicator"
+msgstr ""
+
+#. +> trunk6 stable6
+#: applets/cameraindicator/package/metadata.json
+msgctxt "Description"
+msgid "Shows whether any camera is currently used by an app"
+msgstr ""
+
+#. +> trunk6 stable6
+#: applets/cameraindicator/package/metadata.json
+msgctxt "Authors Name"
+msgid "Fushan Wen"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: applets/clipboard/metadata.json klipper/plasma-dataengine-clipboard.json
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Clipboard Tool"
+msgctxt "Name"
+msgid "Clipboard"
+msgstr "เครื่องมือคลิปบอร์ด"
+
+#. +> trunk6 stable6 stable5
+#: applets/clipboard/metadata.json
+msgctxt "Description"
+msgid "Provides access to the clipboard history"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: applets/clipboard/metadata.json klipper/plasma-dataengine-clipboard.json
+msgctxt "Authors Name"
+msgid "Martin Gräßlin"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: applets/clipboard/metadata.json
+msgctxt "X-KDE-Keywords"
+msgid "klipper,clipboard,copy,paste"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: applets/devicenotifier/package/metadata.json
+#, fuzzy
+#| msgctxt "Name|plasma runner"
+#| msgid "Devices"
+msgctxt "Name"
+msgid "Disks & Devices"
+msgstr "อุปกรณ์ต่าง ๆ"
+
+#. +> trunk6 stable6 stable5
+#: applets/devicenotifier/package/metadata.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Notifications and access for new devices"
+msgctxt "Description"
+msgid "Notifications and access for devices"
+msgstr "การแจ้งให้ทราบและเข้าใช้งานอุปกรณ์ใหม่"
+
+#. +> trunk6 stable6 stable5
+#: applets/devicenotifier/package/metadata.json
+msgctxt "Authors Name"
+msgid "Viranch Mehta, Jacopo De Simoi"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: applets/digital-clock/package/metadata.json
+msgctxt "Name"
+msgid "Digital Clock"
+msgstr "นาฬิกาดิจิทัล"
+
+#. +> trunk6 stable6 stable5
+#: applets/digital-clock/package/metadata.json
+msgctxt "Description"
+msgid "Time displayed in a digital format"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: applets/digital-clock/package/metadata.json
+#: plasmacalendarintegration/holidayeventsplugin.json
+msgctxt "Authors Name"
+msgid "Martin Klapetek"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: applets/icon/package/metadata.json
+msgctxt "Name"
+msgid "Icon"
+msgstr "ภาพไอคอน"
+
+#. +> trunk6 stable6 stable5
+#: applets/icon/package/metadata.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "A generic icon"
+msgctxt "Description"
+msgid "A generic icon"
+msgstr "ภาพไอคอนทั่วไป"
+
+#. +> trunk6 stable6 stable5
+#: applets/icon/package/metadata.json applets/panelspacer/package/metadata.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Plasma Desktop Shell"
+msgctxt "Authors Name"
+msgid "The Plasma Team"
+msgstr "เชลล์พื้นที่ทำงานแบบพลาสมา"
+
+#. +> trunk6 stable6 stable5
+#: applets/lock_logout/metadata.json
+msgctxt "Name"
+msgid "Lock/Logout"
+msgstr "ล็อคหน้าจอ/ออกจากระบบ"
+
+#. +> trunk6 stable6 stable5
+#: applets/lock_logout/metadata.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Lock the screen or log out"
+msgctxt "Description"
+msgid "Lock the screen or log out"
+msgstr "ล็อคหน้าจอหรือออกจากระบบ"
+
+#. +> trunk6 stable6 stable5
+#: applets/lock_logout/metadata.json
+msgctxt "Authors Name"
+msgid "Viranch Mehta"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: applets/manage-inputmethod/metadata.json
+msgctxt "Name"
+msgid "Input Method"
+msgstr ""
+
+#. +> trunk6 stable6
+#: applets/manage-inputmethod/metadata.json
+msgctxt "Description"
+msgid "Manage your input methods"
+msgstr ""
+
+#. +> stable5
+#: applets/manage-inputmethod/metadata.json
+msgctxt "Description"
+msgid "Manage your Input Methods"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: applets/manage-inputmethod/metadata.json
+#: runners/appstream/plasma-runner-appstream.json
+msgctxt "Authors Name"
+msgid "Aleix Pol Gonzalez"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: applets/mediacontroller/package/metadata.json
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Multimedia Player"
+msgctxt "Name"
+msgid "Media Player"
+msgstr "โปรแกรมเล่นมัลติมีเดีย"
+
+#. +> trunk6 stable6
+#: applets/mediacontroller/package/metadata.json
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Multimedia Player"
+msgctxt "Description"
+msgid "Media player controls"
+msgstr "โปรแกรมเล่นมัลติมีเดีย"
+
+#. +> stable5
+#: applets/mediacontroller/package/metadata.json
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Multimedia Player"
+msgctxt "Description"
+msgid "Media Player Controls"
+msgstr "โปรแกรมเล่นมัลติมีเดีย"
+
+#. +> trunk6 stable6 stable5
+#: applets/notifications/package/metadata.json
+#: kcms/notifications/kcm_notifications.json
+msgctxt "Name"
+msgid "Notifications"
+msgstr "การแจ้งให้ทราบต่าง ๆ"
+
+#. +> trunk6 stable6 stable5
+#: applets/notifications/package/metadata.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Display notifications and jobs"
+msgctxt "Description"
+msgid "Display notifications and jobs"
+msgstr "แสดงการแจ้งให้ทราบและงานต่าง ๆ"
+
+#. +> trunk6 stable6 stable5
+#: applets/panelspacer/package/metadata.json
+msgctxt "Name"
+msgid "Panel Spacer"
+msgstr "ตัวสร้างพื้นที่ว่าง"
+
+#. +> trunk6 stable6 stable5
+#: applets/panelspacer/package/metadata.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Reserve empty spaces within the panel."
+msgctxt "Description"
+msgid "Reserve empty spaces within the panel."
+msgstr "สร้างพื้นที่ว่างไว้ภายในแถบพาเนล"
+
+#. +> trunk6 stable6 stable5
+#: applets/systemmonitor/coreusage/metadata.json
+msgctxt "Name"
+msgid "Individual Core Usage"
+msgstr ""
+
+#. +> trunk6 stable6
+#: applets/systemmonitor/coreusage/metadata.json
+msgctxt "Description"
+msgid "System monitor widget that shows usage of individual CPU cores"
+msgstr ""
+
+#. +> stable5
+#: applets/systemmonitor/coreusage/metadata.json
+msgctxt "Description"
+msgid "System monitor Widget that shows usage of individual CPU cores"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: applets/systemmonitor/cpu/metadata.json
+msgctxt "Name"
+msgid "Total CPU Use"
+msgstr ""
+
+#. +> trunk6 stable6
+#: applets/systemmonitor/cpu/metadata.json
+msgctxt "Description"
+msgid "System monitor widget that shows the total CPU usage"
+msgstr ""
+
+#. +> stable5
+#: applets/systemmonitor/cpu/metadata.json
+msgctxt "Description"
+msgid "System monitor Widget that shows the total CPU usage"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: applets/systemmonitor/diskactivity/metadata.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "A hard disk usage monitor"
+msgctxt "Name"
+msgid "Hard Disk Activity"
+msgstr "ตัวติดตามการใช้งานฮาร์ดดิสก์"
+
+#. +> trunk6 stable6 stable5
+#: applets/systemmonitor/diskactivity/metadata.json
+msgctxt "Description"
+msgid "An applet that monitors hard disk throughput and input/output"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: applets/systemmonitor/diskusage/metadata.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Hard Disk Status"
+msgctxt "Name"
+msgid "Disk Usage"
+msgstr "สถานะของฮาร์ดดิสก์"
+
+#. +> trunk6 stable6
+#: applets/systemmonitor/diskusage/metadata.json
+msgctxt "Description"
+msgid "System monitor widget that shows the usage of the root partition"
+msgstr ""
+
+#. +> stable5
+#: applets/systemmonitor/diskusage/metadata.json
+msgctxt "Description"
+msgid "System monitor Widget that shows the usage of the root partition"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: applets/systemmonitor/memory/metadata.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Memory Status"
+msgctxt "Name"
+msgid "Memory Usage"
+msgstr "สถานะหน่วยความจำ"
+
+#. +> trunk6 stable6
+#: applets/systemmonitor/memory/metadata.json
+msgctxt "Description"
+msgid "System monitor widget that shows physical memory usage"
+msgstr ""
+
+#. +> stable5
+#: applets/systemmonitor/memory/metadata.json
+msgctxt "Description"
+msgid "System monitor Widget that shows physical memory usage"
+msgstr ""
+
+#. +> trunk6 stable6
+#: applets/systemmonitor/net/metadata.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Networking"
+msgctxt "Name"
+msgid "Network Speed"
+msgstr "ระบบเครือข่าย"
+
+#. +> stable5
+#: applets/systemmonitor/net/metadata.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Networking"
+msgctxt "Name"
+msgid "Network speed"
+msgstr "ระบบเครือข่าย"
+
+#. +> trunk6 stable6
+#: applets/systemmonitor/net/metadata.json
+msgctxt "Description"
+msgid "System monitor widget that shows the download and upload data rate"
+msgstr ""
+
+#. +> stable5
+#: applets/systemmonitor/net/metadata.json
+msgctxt "Description"
+msgid "System monitor Widget that shows the download and upload data rate"
+msgstr ""
+
+#. +> trunk6 stable6
+#: applets/systemmonitor/systemmonitor/package/metadata.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "System Monitor"
+msgctxt "Name"
+msgid "System Monitor Sensor"
+msgstr "ติดตามการทำงานของระบบ"
+
+#. +> stable5
+#: applets/systemmonitor/systemmonitor/package/metadata.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "System Monitor"
+msgctxt "Name"
+msgid "System monitor Sensor"
+msgstr "ติดตามการทำงานของระบบ"
+
+#. +> trunk6 stable6 stable5
+#: applets/systemmonitor/systemmonitor/package/metadata.json
+msgctxt "Description"
+msgid "Displays a configurable chart of a system monitor sensor"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: applets/systemtray/container/package/metadata.json
+#: applets/systemtray/package/metadata.json
+msgctxt "Name"
+msgid "System Tray"
+msgstr "ถาดระบบ"
+
+#. +> trunk6 stable6 stable5
+#: applets/systemtray/container/package/metadata.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Access hidden applications minimized in the system tray"
+msgctxt "Description"
+msgid "Access hidden applications minimized in the system tray"
+msgstr "เข้าใช้งานโปรแกรมที่ซ่อนตัวอยู่ในถาดระบบ"
+
+#. +> trunk6 stable6 stable5
+#: appmenu/appmenu.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Application Manuals"
+msgctxt "Name"
+msgid "Application menus daemon"
+msgstr "คู่มือของโปรแกรมต่าง ๆ"
+
+#. +> trunk6 stable6 stable5
+#: appmenu/appmenu.json
+msgctxt "Description"
+msgid "Transfers application's menu to the desktop"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: containmentactions/applauncher/plasma-containmentactions-applauncher.json
+msgctxt "Name"
+msgid "Application Launcher"
+msgstr "ตัวเรียกใช้งานโปรแกรม"
+
+#. +> stable6 stable5
+#: containmentactions/applauncher/plasma-containmentactions-applauncher.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Simple application launcher"
+msgctxt "Description"
+msgid "Simple application launcher"
+msgstr "ตัวเรียกใช้งานโปรแกรมพื้นฐาน"
+
+#. +> stable6 stable5
+#: containmentactions/applauncher/plasma-containmentactions-applauncher.json
+#: containmentactions/contextmenu/plasma-containmentactions-contextmenu.json
+#: containmentactions/paste/plasma-containmentactions-paste.json
+#: containmentactions/switchactivity/plasma-containmentactions-switchactivity.json
+#: containmentactions/switchdesktop/plasma-containmentactions-switchdesktop.json
+#: containmentactions/switchwindow/plasma-containmentactions-switchwindow.json
+msgctxt "Authors Name"
+msgid "Chani"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: containmentactions/contextmenu/plasma-containmentactions-contextmenu.json
+msgctxt "Name"
+msgid "Standard Menu"
+msgstr "เมนูมาตรฐาน"
+
+#. +> stable6 stable5
+#: containmentactions/contextmenu/plasma-containmentactions-contextmenu.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "The menu that normally shows on right-click"
+msgctxt "Description"
+msgid "The menu that normally shows on right-click"
+msgstr "เมนูปกติที่จะแสดงเมื่อมีการคลิกเมาส์ปุ่มขวา"
+
+#. +> trunk6 stable6 stable5
+#: containmentactions/paste/plasma-containmentactions-paste.json
+msgctxt "Name"
+msgid "Paste"
+msgstr "วาง"
+
+#. +> stable6 stable5
+#: containmentactions/paste/plasma-containmentactions-paste.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Creates a widget from the contents of the clipboard"
+msgctxt "Description"
+msgid "Creates a widget from the contents of the clipboard"
+msgstr "สร้างวิดเจ็ตจากเนื้อหาของคลิปบอร์ด"
+
+#. +> trunk6 stable6 stable5
+#: containmentactions/switchactivity/plasma-containmentactions-switchactivity.json
+msgctxt "Name"
+msgid "Switch Activity"
+msgstr "สลับกิจกรรม"
+
+#. +> stable6 stable5
+#: containmentactions/switchactivity/plasma-containmentactions-switchactivity.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Switch to another activity"
+msgctxt "Description"
+msgid "Switch to another activity"
+msgstr "สลับไปยังกิจกรรมอื่น ๆ"
+
+#. +> trunk6 stable6 stable5
+#: containmentactions/switchdesktop/plasma-containmentactions-switchdesktop.json
+msgctxt "Name"
+msgid "Switch Desktop"
+msgstr "สลับพื้นที่ทำงาน"
+
+#. +> stable6 stable5
+#: containmentactions/switchdesktop/plasma-containmentactions-switchdesktop.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Switch to another virtual desktop"
+msgctxt "Description"
+msgid "Switch to another virtual desktop"
+msgstr "สลับไปยังพื้นที่ทำงานเสมือนตัวอื่น ๆ"
+
+#. +> trunk6 stable6 stable5
+#: containmentactions/switchwindow/plasma-containmentactions-switchwindow.json
+msgctxt "Name"
+msgid "Switch Window"
+msgstr "สลับหน้าต่าง"
+
+#. +> stable6 stable5
+#: containmentactions/switchwindow/plasma-containmentactions-switchwindow.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Show a list of windows to switch to"
+msgctxt "Description"
+msgid "Show a list of windows to switch to"
+msgstr "แสดงรายการของหน้าต่างที่สามารถจะสลับไปใช้ได้"
+
+#. +> trunk6 stable6 stable5
+#: dataengines/applicationjobs/plasma-dataengine-applicationjobs.json
+msgctxt "Name"
+msgid "Application Job Information"
+msgstr "ข้อมูลงานของโปรแกรม"
+
+#. +> trunk6 stable6 stable5
+#: dataengines/applicationjobs/plasma-dataengine-applicationjobs.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Application job updates (via kuiserver)"
+msgctxt "Description"
+msgid "Application job updates (via kuiserver)"
+msgstr "ปรับปรุงงานของโปรแกรม (ผ่านทาง kuiserver)"
+
+#. +> trunk6 stable6 stable5
+#: dataengines/executable/plasma-dataengine-executable.json
+msgctxt "Name"
+msgid "Run Commands"
+msgstr "ประมวลผลคำสั่ง"
+
+#. +> trunk6 stable6 stable5
+#: dataengines/executable/plasma-dataengine-executable.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Run Executable Data Engine"
+msgctxt "Description"
+msgid "Run Executable Data Engine"
+msgstr "กลไกข้อมูลการประมวลผลคำสั่ง"
+
+#. +> trunk6 stable6 stable5
+#: dataengines/notifications/plasma-dataengine-notifications.json
+msgctxt "Name"
+msgid "Application Notifications"
+msgstr "การแจ้งให้ทราบของโปรแกรม"
+
+#. +> trunk6 stable6 stable5
+#: dataengines/notifications/plasma-dataengine-notifications.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Passive visual notifications for the user."
+msgctxt "Description"
+msgid "Passive visual notifications for the user."
+msgstr "ระบบการแจ้งให้ผู้ใช้งานทราบถึงเหตุการณ์ต่าง ๆ"
+
+#. +> trunk6 stable6 stable5
+#: dataengines/time/plasma-dataengine-time.json
+msgctxt "Name"
+msgid "Date and Time"
+msgstr "วันและเวลา"
+
+#. +> trunk6 stable6 stable5
+#: dataengines/time/plasma-dataengine-time.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Date and time by timezone"
+msgctxt "Description"
+msgid "Date and time by timezone"
+msgstr "วันและเวลาตามเขตเวลา"
+
+#. +> trunk6 stable6 stable5
+#: dataengines/time/plasma-dataengine-time.json
+msgctxt "Authors Name"
+msgid "Aaron Seigo"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: dataengines/weather/ions/bbcukmet/ion-bbcukmet.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Weather"
+msgctxt "Name"
+msgid "BBC Weather"
+msgstr "พยากรณ์อากาศ"
+
+#. +> trunk6 stable6 stable5
+#: dataengines/weather/ions/bbcukmet/ion-bbcukmet.json
+msgctxt "Description"
+msgid "XML Data from the British Broadcasting Corporation"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: dataengines/weather/ions/dwd/ion-dwd.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "NOAA's National Weather Service"
+msgctxt "Name"
+msgid "German Weather Service"
+msgstr "บริการพยากรณ์อากาศสากล NOAA"
+
+#. +> trunk6 stable6 stable5
+#: dataengines/weather/ions/dwd/ion-dwd.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Weather forecast by wetter.com"
+msgctxt "Description"
+msgid "Weather forecast by German Weather Service"
+msgstr "พยากรณ์อากาศ โดย wetter.com"
+
+#. +> trunk6 stable6 stable5
+#: dataengines/weather/ions/envcan/ion-envcan.json
+msgctxt "Name"
+msgid "Environment Canada"
+msgstr "Environment Canada"
+
+#. +> trunk6 stable6 stable5
+#: dataengines/weather/ions/envcan/ion-envcan.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "XML Data from Environment Canada"
+msgctxt "Description"
+msgid "XML Data from Environment Canada"
+msgstr "ข้อมูล XML จาก Environment Canada"
+
+#. +> trunk6 stable6 stable5
+#: dataengines/weather/ions/noaa/ion-noaa.json
+msgctxt "Name"
+msgid "NOAA's National Weather Service"
+msgstr "บริการพยากรณ์อากาศสากล NOAA"
+
+#. +> trunk6 stable6 stable5
+#: dataengines/weather/ions/noaa/ion-noaa.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "XML Data from NOAA's National Weather Service"
+msgctxt "Description"
+msgid "XML Data from NOAA's National Weather Service"
+msgstr "ข้อมูล XML จากบริการพยากรณ์อากาศสากล NOAA"
+
+#. +> trunk6 stable6 stable5
+#: dataengines/weather/ions/wetter.com/ion-wettercom.json
+msgctxt "Name"
+msgid "wetter.com"
+msgstr "wetter.com"
+
+#. +> trunk6 stable6 stable5
+#: dataengines/weather/ions/wetter.com/ion-wettercom.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Weather forecast by wetter.com"
+msgctxt "Description"
+msgid "Weather forecast by wetter.com"
+msgstr "พยากรณ์อากาศ โดย wetter.com"
+
+#. +> trunk6 stable6 stable5
+#: dataengines/weather/plasma-dataengine-weather.json
+msgctxt "Name"
+msgid "Weather"
+msgstr "พยากรณ์อากาศ"
+
+#. +> trunk6 stable6 stable5
+#: dataengines/weather/plasma-dataengine-weather.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Weather data from multiple online sources"
+msgctxt "Description"
+msgid "Weather data from multiple online sources"
+msgstr "ข้อมูลพยากรณ์อากาศจากแหล่งข้อมูลออนไลน์ต่าง ๆ"
+
+#. +> trunk6 stable6 stable5
+#: dataengines/weather/plasma-dataengine-weather.json
+msgctxt "Authors Name"
+msgid "Shawn Starr"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: devicenotifications/devicenotifications.json
+msgctxt "Name"
+msgid "Device Notifications"
+msgstr "การแจ้งเกี่ยวกับอุปกรณ์"
+
+#. +> trunk6 stable6
+#: devicenotifications/devicenotifications.json
+msgctxt "Description"
+msgid "Play audible feedback when devices are inserted or removed"
+msgstr ""
+
+#. +> trunk6 stable6
+#: donationmessage/donationmessage.json
+msgctxt "Name"
+msgid "Donation Request"
+msgstr ""
+
+#. +> trunk6 stable6
+#: donationmessage/donationmessage.json
+msgctxt "Description"
+msgid "Shows a yearly request to donate to KDE"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: freespacenotifier/freespacenotifier.json
+msgctxt "Name"
+msgid "Free Space Notifier"
+msgstr "ตัวแจ้งพื้นที่ว่าง"
+
+#. +> trunk6 stable6 stable5
+#: freespacenotifier/freespacenotifier.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Warns when running out of space on your home folder"
+msgctxt "Description"
+msgid "Warns when running out of space on your home folder"
+msgstr "เตือนเมื่อพื้นที่ในโฟลเดอร์บ้านเหลือน้อย"
+
+#. +> trunk6 stable6
+#: geotimezoned/geotimezoned.json
+msgctxt "Name"
+msgid "Location-based System Time Zone"
+msgstr ""
+
+#. +> trunk6 stable6
+#: geotimezoned/geotimezoned.json
+msgctxt "Description"
+msgid "Automatically change the system time zone based on the current location"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcms/autostart/kcm_autostart.json
+msgctxt "Name"
+msgid "Autostart"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcms/autostart/kcm_autostart.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Terminate Applications"
+msgctxt "Description"
+msgid "Automatically Started Applications"
+msgstr "ยุติการทำงานของโปรแกรม"
+
+#. +> trunk6 stable6 stable5
+#: kcms/autostart/kcm_autostart.json
+msgctxt "X-KDE-Keywords"
+msgid "Autostart Manager,system startup,plasma start,cron,auto,start,start up,boot,load,session,startup,launch,login"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcms/colors/accentColorService/accentColorService.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Color"
+msgctxt "Name"
+msgid "Accent Color"
+msgstr "สี"
+
+#. +> trunk6 stable6 stable5
+#: kcms/colors/accentColorService/accentColorService.json
+msgctxt "Description"
+msgid "Applies extracted accent color from wallpaper on request"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcms/colors/kcm_colors.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Colors"
+msgctxt "Name"
+msgid "Colors"
+msgstr "สี"
+
+#. +> trunk6 stable6 stable5
+#: kcms/colors/kcm_colors.json
+msgctxt "Description"
+msgid "Choose color scheme"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcms/colors/kcm_colors.json
+msgctxt "X-KDE-Keywords"
+msgid "color,colour,scheme,contrast,Widget colors,Color Scheme,color style,color theme,tint,accent color,color scheme,dark mode,light mode,accent colour,accent,highlight,colour"
+msgstr ""
+
+#. +> trunk6
+#: kcms/componentchooser/kcm_componentchooser.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Terminate Applications"
+msgctxt "Name"
+msgid "Default Applications"
+msgstr "ยุติการทำงานของโปรแกรม"
+
+#. +> trunk6
+#: kcms/componentchooser/kcm_componentchooser.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Applications"
+msgctxt "Description"
+msgid "Choose default Applications"
+msgstr "โปรแกรมต่าง ๆ"
+
+#. +> trunk6
+#: kcms/componentchooser/kcm_componentchooser.json
+msgctxt "X-KDE-Keywords"
+msgid "default applications,default apps,components,component chooser,resources,web browser,browser,internet,file manager,dolphin,email,e-mail,email client,terminal,terminal emulator,konsole,defaults,open with,file association"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcms/cursortheme/kcm_cursortheme.json
+msgctxt "Name"
+msgid "Cursors"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcms/cursortheme/kcm_cursortheme.json
+msgctxt "Description"
+msgid "Choose mouse cursor theme"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcms/cursortheme/kcm_cursortheme.json
+msgctxt "X-KDE-Keywords"
+msgid "Mouse,Cursor,Theme,Cursor Appearance,Cursor Color,Cursor Theme,Mouse Theme,Mouse Appearance,Mouse Skin,Pointer Colors,Pointer Appearance,cursor skin,cursor style,cursor size,mouse style,pointer,start,launch,busy,feedback,mouse,pointer,bounce,bouncing,rotating,spinning,startup,start-up,program,report,taskbar,animation,loading"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcms/desktoptheme/kcm_desktoptheme.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Plasma Desktop Shell"
+msgctxt "Name"
+msgid "Plasma Style"
+msgstr "เชลล์พื้นที่ทำงานแบบพลาสมา"
+
+#. +> trunk6 stable6 stable5
+#: kcms/desktoptheme/kcm_desktoptheme.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Plasma Desktop Shell"
+msgctxt "Description"
+msgid "Choose Plasma style"
+msgstr "เชลล์พื้นที่ทำงานแบบพลาสมา"
+
+#. +> trunk6 stable6 stable5
+#: kcms/desktoptheme/kcm_desktoptheme.json
+msgctxt "X-KDE-Keywords"
+msgid "Desktop Theme,Plasma Theme,plasma style,desktop style,plasma skin,desktop skin,theme"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcms/feedback/kcm_feedback.json
+msgctxt "Name"
+msgid "User Feedback"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcms/feedback/kcm_feedback.json
+msgctxt "Description"
+msgid "Configure user feedback settings"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcms/feedback/kcm_feedback.json
+msgctxt "X-KDE-Keywords"
+msgid "feedback,report,contact,data collection,statistics,usage,log,logging,telemetry"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcms/fonts/kcm_fonts.json
+msgctxt "Name"
+msgid "Fonts"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcms/fonts/kcm_fonts.json
+msgctxt "Description"
+msgid "Configure user interface fonts"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcms/fonts/kcm_fonts.json
+msgctxt "X-KDE-Keywords"
+msgid "fonts,font size,styles,charsets,character sets,panel,control panel,desktops,FileManager,Toolbars,Menu,Window Title,Title,DPI,anti-aliasing,desktop fonts,toolbar fonts,character,general fonts,typography,type,letters,character,hinting,sub-pixel,text,big text,change font,size"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcms/icons/kcm_icons.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Icon"
+msgctxt "Name"
+msgid "Icons"
+msgstr "ภาพไอคอน"
+
+#. +> trunk6 stable6 stable5
+#: kcms/icons/kcm_icons.json
+msgctxt "Description"
+msgid "Choose icon theme"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcms/icons/kcm_icons.json
+msgctxt "X-KDE-Keywords"
+msgid "icons,effects,size,hicolor,locolor,change icons,buttons,button theme,icon theme,theme,iconography"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcms/kfontinst/kcmfontinst/kcm_fontinst.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Session Management"
+msgctxt "Name"
+msgid "Font Management"
+msgstr "จัดการวาระงาน"
+
+#. +> trunk6 stable6 stable5
+#: kcms/kfontinst/kcmfontinst/kcm_fontinst.json
+msgctxt "Description"
+msgid "Install, manage and preview fonts"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcms/kfontinst/kcmfontinst/kcm_fontinst.json
+msgctxt "X-KDE-Keywords"
+msgid "font,fonts,installer,truetype,type1,bitmap"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcms/kfontinst/thumbnail/fontthumbnail.json
+#, fuzzy
+#| msgctxt "Description"
+#| msgid "Text File"
+msgctxt "Name"
+msgid "Font Files"
+msgstr "แฟ้มข้อความ"
+
+#. +> trunk6 stable6 stable5
+#: kcms/kfontinst/viewpart/kfontviewpart.json
+msgctxt "Name"
+msgid "Font Viewer"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcms/lookandfeel/kcm_lookandfeel.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Minimal Menu"
+msgctxt "Name"
+msgid "Global Theme"
+msgstr "เมนูย่อ"
+
+#. +> trunk6 stable6 stable5
+#: kcms/lookandfeel/kcm_lookandfeel.json
+msgctxt "Description"
+msgid "Choose global look and feel"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcms/lookandfeel/kcm_lookandfeel.json
+msgctxt "X-KDE-Keywords"
+msgid "theme,look,feel,global theme,desktop,appearance,skin, global,presentation,themes,design,UI"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kcms/nightlight/kcm_nightlight.json
+msgctxt "Name"
+msgid "Night Light"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kcms/nightlight/kcm_nightlight.json
+msgctxt "Description"
+msgid "Adjust screen color temperature based on time"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcms/nightlight/kcm_nightlight.json
+msgctxt "X-KDE-Keywords"
+msgid "kwin,window,manager,night,colors,redshift,eyes,night mode,colour,dark mode,dark,dim,sleep,eye strain,red,shift,orange,yellow,warm,screen tint,temperature,blue,light"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcms/notifications/kcm_notifications.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Display notifications and jobs"
+msgctxt "Description"
+msgid "Event Notifications and Actions"
+msgstr "แสดงการแจ้งให้ทราบและงานต่าง ๆ"
+
+#. +> trunk6 stable6
+#: kcms/notifications/kcm_notifications.json
+msgctxt "X-KDE-Keywords"
+msgid "System sounds,Audio,Sound,Notify,Alerts,Notification,popups,disturb,do not disturb,quiet,concentrate,concentration,alarm,popup,pop up,progress,badges,alert sounds,warning sounds,dnd,mute"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcms/region_language/kcm_regionandlang.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Languages"
+msgctxt "Name"
+msgid "Region & Language"
+msgstr "ภาษาต่าง ๆ"
+
+#. +> trunk6 stable6 stable5
+#: kcms/region_language/kcm_regionandlang.json
+msgctxt "Description"
+msgid "Language Setting, Numeric, Currency and Time Formats"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kcms/region_language/kcm_regionandlang.json
+msgctxt "X-KDE-Keywords"
+msgid "language,translation,number format,locale,Country,charsets,character sets,Decimal symbol,Thousands separator,symbol,separator,sign,positive,negative,currency,money,fractional digits,calendar,time,date,formats,week,week start,first,paper,size,letter,A4,measure,metric,English,Imperial,region,measurement units,collation,sorting,date format,storage size,data size,size format,data format,binary dialect,byte,kilobyte,megabyte,gigabyte,terabyte"
+msgstr ""
+
+#. +> stable5
+#: kcms/region_language/kcm_regionandlang.json
+msgctxt "X-KDE-Keywords"
+msgid "language,translation,number format,locale,Country,charsets,character sets,Decimal symbol,Thousands separator,symbol,separator,sign,positive,negative,currency,money,fractional digits,calendar,time,date,formats,week,week start,first,paper,size,letter,A4,measure,metric,English,Imperial,region,measurement units,collation,sorting,date format"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kcms/soundtheme/kcm_soundtheme.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "System Monitor"
+msgctxt "Name"
+msgid "System Sounds"
+msgstr "ติดตามการทำงานของระบบ"
+
+#. +> trunk6 stable6
+#: kcms/soundtheme/kcm_soundtheme.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Application Notifications"
+msgctxt "Description"
+msgid "Select a Sound Theme for Notifications"
+msgstr "การแจ้งให้ทราบของโปรแกรม"
+
+#. +> trunk6 stable6
+#: kcms/soundtheme/kcm_soundtheme.json
+msgctxt "X-KDE-Keywords"
+msgid "system sounds,sound theme,sound,sounds,alert,notification,bell"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcms/style/kcm_style.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Applications"
+msgctxt "Name"
+msgid "Application Style"
+msgstr "โปรแกรมต่าง ๆ"
+
+#. +> trunk6 stable6 stable5
+#: kcms/style/kcm_style.json
+msgctxt "Description"
+msgid "Configure application style and behavior"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kcms/style/kcm_style.json
+msgctxt "X-KDE-Keywords"
+msgid "style,styles,look,widget,icons,toolbars,text,highlight,apps,windows,KDE applications,theme,plasma,menu,global menu,GTK,GNOME,application style,app,programs,appearance,skin,themes,light mode,dark mode"
+msgstr ""
+
+#. +> stable5
+#: kcms/style/kcm_style.json
+msgctxt "X-KDE-Keywords"
+msgid "style,styles,look,widget,icons,toolbars,text,highlight,apps,KDE applications,theme,plasma,menu,global menu,GTK,GNOME,application style,app,programs,appearance,skin,themes,light mode,dark mode"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcms/users/src/kcm_users.json
+msgctxt "Name"
+msgid "Users"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcms/users/src/kcm_users.json
+msgctxt "Description"
+msgid "Manage user accounts"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcms/users/src/kcm_users.json
+msgctxt "X-KDE-Keywords"
+msgid "users,accounts,profile picture,profile photo,avatar,name,password,passwords,email,e-mail,administrator,root user,standard user,profile,delete user,delete account,pfp,fingerprint,biometric"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kcms/wallpaper/kcm_wallpaper.json
+msgctxt "Name"
+msgid "Wallpaper"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kcms/wallpaper/kcm_wallpaper.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Slideshow"
+msgctxt "Description"
+msgid "Configure the wallpaper"
+msgstr "นำเสนอภาพนิ่ง"
+
+#. +> trunk6 stable6
+#: kcms/wallpaper/kcm_wallpaper.json
+msgctxt "X-KDE-Keywords"
+msgid "wallpaper,desktop"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kioworkers/desktop/desktopnotifier.json
+msgctxt "Name"
+msgid "Directory Watcher"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kioworkers/desktop/desktopnotifier.json
+msgctxt "Description"
+msgid "Monitors directories for changes"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: klipper/plasma-dataengine-clipboard.json
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Clipboard Tool"
+msgctxt "Description"
+msgid "Clipboard Tool."
+msgstr "เครื่องมือคลิปบอร์ด"
+
+#. +> trunk6 stable6 stable5
+#: ktimezoned/ktimezoned.json
+msgctxt "Name"
+msgid "Time Zone"
+msgstr "เขตเวลา"
+
+#. +> trunk6 stable6 stable5
+#: ktimezoned/ktimezoned.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Provides the system's time zone to applications"
+msgctxt "Description"
+msgid "Provides the system's time zone to applications"
+msgstr "กำหนดเขตเวลาของระบบให้กับโปรแกรมต่าง ๆ"
+
+#. +> trunk6 stable6
+#: libcolorcorrect/kded/colorcorrectlocationupdater.json
+msgctxt "Name"
+msgid "Automatic Location for Night Light"
+msgstr ""
+
+#. +> stable5
+#: libcolorcorrect/kded/colorcorrectlocationupdater.json
+msgctxt "Name"
+msgid "Automatic Location for Night Color"
+msgstr ""
+
+#. +> trunk6 stable6
+#: libcolorcorrect/kded/colorcorrectlocationupdater.json
+msgctxt "Description"
+msgid "Provides location updates for Night Light"
+msgstr ""
+
+#. +> stable5
+#: libcolorcorrect/kded/colorcorrectlocationupdater.json
+msgctxt "Description"
+msgid "Provides location updates for Night Color"
+msgstr ""
+
+#. +> trunk6 stable6
+#: libkmpris/kded/mprisservice.json
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Multimedia Player"
+msgctxt "Name"
+msgid "Media Controller"
+msgstr "โปรแกรมเล่นมัลติมีเดีย"
+
+#. +> trunk6 stable6
+#: libkmpris/kded/mprisservice.json
+msgctxt "Description"
+msgid "Controls media players using global keyboard shortcuts"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: lookandfeel/org.kde.breeze/metadata.json
+msgctxt "Name"
+msgid "Breeze"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: lookandfeel/org.kde.breeze/metadata.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop Sessions"
+msgctxt "Description"
+msgid "Breeze by the KDE VDG"
+msgstr "วาระงานของพื้นที่ทำงาน"
+
+#. +> trunk6 stable6 stable5
+#: lookandfeel/org.kde.breeze/metadata.json
+#: lookandfeel/org.kde.breezedark/metadata.json
+#: lookandfeel/org.kde.breezetwilight/metadata.json
+msgctxt "Authors Name"
+msgid "KDE Visual Design Group"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: lookandfeel/org.kde.breezedark/metadata.json
+msgctxt "Name"
+msgid "Breeze Dark"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: lookandfeel/org.kde.breezedark/metadata.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop Sessions"
+msgctxt "Description"
+msgid "Breeze Dark by the KDE VDG"
+msgstr "วาระงานของพื้นที่ทำงาน"
+
+#. +> trunk6 stable6 stable5
+#: lookandfeel/org.kde.breezetwilight/metadata.json
+msgctxt "Name"
+msgid "Breeze Twilight"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: lookandfeel/org.kde.breezetwilight/metadata.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop Sessions"
+msgctxt "Description"
+msgid "Breeze Twilight by the KDE VDG"
+msgstr "วาระงานของพื้นที่ทำงาน"
+
+#. +> trunk6 stable6
+#: oom-notifier/oom-notifier.json
+msgctxt "Name"
+msgid "Out of Memory Notifier"
+msgstr ""
+
+#. +> trunk6 stable6
+#: oom-notifier/oom-notifier.json
+msgctxt "Description"
+msgid "Informs when applications get terminated to prevent out of memory conditions"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: phonon/platform_kde/phononbackend.json
+msgctxt "Name"
+msgid "KDE Multimedia Backend"
+msgstr "โปรแกรมเบื้องหลังจัดการสื่อประสมของ KDE"
+
+#. +> trunk6 stable6 stable5
+#: plasmacalendarintegration/holidayeventsplugin.json
+msgctxt "Name"
+msgid "Holidays"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: plasmacalendarintegration/holidayeventsplugin.json
+msgctxt "Description"
+msgid "Calendar plugin for displaying public holidays"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: runners/appstream/plasma-runner-appstream.json
+msgctxt "Name"
+msgid "Software Center"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: runners/appstream/plasma-runner-appstream.json
+msgctxt "Description"
+msgid "Lets you find software"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: runners/bookmarks/plasma-runner-bookmarks.json
+#, fuzzy
+#| msgctxt "Name|plasma runner"
+#| msgid "Bookmarks"
+msgctxt "Name"
+msgid "Bookmarks"
+msgstr "ที่คั่นหน้า"
+
+#. +> trunk6 stable6 stable5
+#: runners/bookmarks/plasma-runner-bookmarks.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Find and open bookmarks"
+msgctxt "Description"
+msgid "Find and open bookmarks"
+msgstr "ค้นหาและเปิดคั่นหน้า"
+
+#. +> trunk6 stable6 stable5
+#: runners/bookmarks/plasma-runner-bookmarks.json
+msgctxt "Authors Name"
+msgid "Glenn Ergeerts, Marco Gulino"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: runners/calculator/plasma-runner-calculator.json
+msgctxt "Name"
+msgid "Calculator"
+msgstr "เครื่องคิดเลข"
+
+#. +> trunk6 stable6 stable5
+#: runners/calculator/plasma-runner-calculator.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Calculate expressions"
+msgctxt "Description"
+msgid "Calculate expressions"
+msgstr "คำนวณนิพจน์"
+
+#. +> trunk6 stable6 stable5
+#: runners/calculator/plasma-runner-calculator.json
+#: runners/locations/plasma-runner-locations.json
+#: runners/services/plasma-runner-services.json
+#: runners/sessions/plasma-runner-sessions.json
+#: runners/shell/plasma-runner-shell.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Plasma Desktop Shell"
+msgctxt "Authors Name"
+msgid "Plasma Team"
+msgstr "เชลล์พื้นที่ทำงานแบบพลาสมา"
+
+#. +> trunk6 stable6 stable5
+#: runners/helprunner/helprunner.json
+msgctxt "Name"
+msgid "Help Runner"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: runners/helprunner/helprunner.json
+msgctxt "Description"
+msgid "Shows help information about runners when typing \"?\" or \"help\""
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: runners/helprunner/helprunner.json
+msgctxt "Authors Name"
+msgid "Alexander Lohnau"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: runners/kill/plasma-runner-kill.json
+msgctxt "Name"
+msgid "Terminate Applications"
+msgstr "ยุติการทำงานของโปรแกรม"
+
+#. +> trunk6 stable6 stable5
+#: runners/kill/plasma-runner-kill.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Stop applications that are currently running"
+msgctxt "Description"
+msgid "Stop applications that are currently running"
+msgstr "หยุดการทำงานของโปรแกรมที่กำลังทำงานอยู่ในปัจจุบัน"
+
+#. +> trunk6 stable6 stable5
+#: runners/kill/plasma-runner-kill.json
+msgctxt "Authors Name"
+msgid "Jan Gerrit Marker"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: runners/locations/plasma-runner-locations.json
+msgctxt "Name"
+msgid "Locations"
+msgstr "ตำแหน่งที่อยู่"
+
+#. +> trunk6 stable6 stable5
+#: runners/locations/plasma-runner-locations.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "File and URL opener"
+msgctxt "Description"
+msgid "File and URL opener"
+msgstr "ตัวเปิดแฟ้มและที่อยู่ URL"
+
+#. +> trunk6 stable6 stable5
+#: runners/places/plasma-runner-places.json
+msgctxt "Name"
+msgid "Places"
+msgstr "ที่หลัก ๆ"
+
+#. +> trunk6 stable6 stable5
+#: runners/places/plasma-runner-places.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Open Devices and Folder Bookmarks"
+msgctxt "Description"
+msgid "Open devices and folder bookmarks"
+msgstr "เปิดอุปกรณ์และโฟลเดอร์ที่คั่นหน้า"
+
+#. +> trunk6 stable6 stable5
+#: runners/places/plasma-runner-places.json
+msgctxt "Authors Name"
+msgid "David Edmundson"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: runners/recentdocuments/plasma-runner-recentdocuments.json
+#, fuzzy
+#| msgctxt "Description"
+#| msgid "Text File"
+msgctxt "Name"
+msgid "Recent Files"
+msgstr "แฟ้มข้อความ"
+
+#. +> trunk6 stable6 stable5
+#: runners/services/plasma-runner-services.json
+msgctxt "Name"
+msgid "Applications"
+msgstr "โปรแกรมต่าง ๆ"
+
+#. +> trunk6 stable6 stable5
+#: runners/services/plasma-runner-services.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Find applications, control panels and services"
+msgctxt "Description"
+msgid "Find applications, control panels and services"
+msgstr "ค้นหาโปรแกรม, ถาดควบคุม และบริการ"
+
+#. +> trunk6 stable6 stable5
+#: runners/sessions/plasma-runner-sessions.json
+msgctxt "Name"
+msgid "Desktop Sessions"
+msgstr "วาระงานของพื้นที่ทำงาน"
+
+#. +> trunk6 stable6 stable5
+#: runners/sessions/plasma-runner-sessions.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Fast user switching"
+msgctxt "Description"
+msgid "Fast user switching"
+msgstr "สลับผู้ใช้งานด่วน"
+
+#. +> trunk6 stable6 stable5
+#: runners/shell/plasma-runner-shell.json
+msgctxt "Name"
+msgid "Command Line"
+msgstr "บรรทัดคำสั่ง"
+
+#. +> trunk6 stable6 stable5
+#: runners/shell/plasma-runner-shell.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Executes shell commands"
+msgctxt "Description"
+msgid "Executes shell commands"
+msgstr "ประมวลผลคำสั่งของเชลล์"
+
+#. +> trunk6 stable6 stable5
+#: runners/webshortcuts/plasma-runner-webshortcuts.json
+msgctxt "Name"
+msgid "Web Search Keywords"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: runners/webshortcuts/plasma-runner-webshortcuts.json
+msgctxt "Description"
+msgid "Search the web using keywords"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: runners/webshortcuts/plasma-runner-webshortcuts.json
+msgctxt "Authors Name"
+msgid "Teemu Rytilahti"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: solidautoeject/solidautoeject.json
+msgctxt "Name"
+msgid "Drive Ejector"
+msgstr "ตัวดันถาดไดรฟ์"
+
+#. +> trunk6 stable6 stable5
+#: solidautoeject/solidautoeject.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Automatically releases drives when their eject button is pushed"
+msgctxt "Description"
+msgid "Automatically releases drives when their eject button is pushed"
+msgstr "เปิดถาดไดรฟ์ให้อัตโนมัติเมื่อมีการกดปุ่มเอาแผ่นสื่อออก"
+
+#. +> trunk6 stable6 stable5
+#: soliduiserver/soliduiserver.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Hardware Info"
+msgctxt "Name"
+msgid "Hardware Detection"
+msgstr "ข้อมูลของฮาร์ดแวร์"
+
+#. +> trunk6 stable6 stable5
+#: soliduiserver/soliduiserver.json
+msgctxt "Description"
+msgid "Provides a user interface for hardware events"
+msgstr ""
+
+#. +> trunk6 stable6
+#: startkde/session-shortcuts/sessionshortcuts.json
+#, fuzzy
+#| msgctxt "Name|plasma runner"
+#| msgid "Web Shortcuts"
+msgctxt "Name"
+msgid "Session Shortcuts"
+msgstr "ทางลัดถึงเว็บ"
+
+#. +> trunk6 stable6
+#: startkde/session-shortcuts/sessionshortcuts.json
+msgctxt "Description"
+msgid "Provides shortcuts for common session actions"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: statusnotifierwatcher/statusnotifierwatcher.json
+msgctxt "Name"
+msgid "Status Notifier Manager"
+msgstr "ตัวจัดการการแจ้งสถานะให้ทราบ"
+
+#. +> trunk6 stable6 stable5
+#: statusnotifierwatcher/statusnotifierwatcher.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Manages services that provide status notifier user interfaces"
+msgctxt "Description"
+msgid "Manages services that provide status notifier user interfaces"
+msgstr "จัดการบริการต่าง ๆ ที่แจ้งสถานะมาให้ผู้ใช้รับทราบ"
+
+#. +> trunk6 stable6 stable5
+#: wallpapers/color/metadata.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Color"
+msgctxt "Name"
+msgid "Plain Color"
+msgstr "สี"
+
+#. +> trunk6 stable6 stable5
+#: wallpapers/color/metadata.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Color"
+msgctxt "Description"
+msgid "Plain color wallpaper"
+msgstr "สี"
+
+#. +> trunk6 stable6 stable5
+#: wallpapers/image/imagepackage/metadata.json
+msgctxt "Name"
+msgid "Image"
+msgstr "ภาพ"
+
+#. +> trunk6 stable6 stable5
+#: wallpapers/image/imagepackage/metadata.json
+msgctxt "Description"
+msgid "Wallpaper view for images"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: wallpapers/image/slideshowpackage/metadata.json
+msgctxt "Name"
+msgid "Slideshow"
+msgstr "นำเสนอภาพนิ่ง"
+
+#. +> trunk6 stable6 stable5
+#: wallpapers/image/slideshowpackage/metadata.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Slideshow"
+msgctxt "Description"
+msgid "Slideshow wallpaper"
+msgstr "นำเสนอภาพนิ่ง"
+
+#. +> trunk6 stable6
+#: wallpapers/image/wallpaperfileitemactionplugin/wallpaperfileitemaction.json
+msgctxt "Name"
+msgid "Set as"
+msgstr ""
+
+#. +> trunk6 stable6
+#: wallpapers/image/wallpaperfileitemactionplugin/wallpaperfileitemaction.json
+msgctxt "Description"
+msgid "Set image as (lockscreen) wallpaper"
+msgstr ""
+
+#. +> trunk6 stable6
+#: wallpapers/image/wallpaperfileitemactionplugin/wallpaperfileitemaction.json
+msgctxt "Authors Name"
+msgid "Julius Zint"
+msgstr ""
+
+#. +> stable5
+#: applets/batterymonitor/package/metadata.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Display Brightness"
+msgctxt "Name"
+msgid "Battery and Brightness"
+msgstr "ความสว่างของการแสดงผล"
+
+#. +> stable5
+#: applets/batterymonitor/package/metadata.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "See the power status of your battery"
+msgctxt "Description"
+msgid "See the power status of your battery"
+msgstr "แสดงสถานะพลังงานของแบตเตอรี่ของคุณ"
+
+#. +> stable5
+#: applets/batterymonitor/package/metadata.json
+msgctxt "Authors Name"
+msgid "Sebastian Kügler, Kai Uwe Broulik"
+msgstr ""
+
+#. +> stable5
+#: dataengines/activities/plasma-dataengine-activities.json
+msgctxt "Name"
+msgid "Activities Engine"
+msgstr "กลไกจัดการกิจกรรม"
+
+#. +> stable5
+#: dataengines/activities/plasma-dataengine-activities.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Information on Plasma Activities"
+msgctxt "Description"
+msgid "Information on Plasma Activities"
+msgstr "ข้อมูลเกี่ยวกับกิจกรรมต่างๆ ของพลาสมา"
+
+#. +> stable5
+#: dataengines/activities/plasma-dataengine-activities.json
+msgctxt "Authors Name"
+msgid "Chani Armitage"
+msgstr ""
+
+#. +> stable5
+#: dataengines/apps/plasma-dataengine-apps.json
+msgctxt "Name"
+msgid "Application Information"
+msgstr "ข้อมูลของโปรแกรม"
+
+#. +> stable5
+#: dataengines/apps/plasma-dataengine-apps.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Information and launching of all applications in the app menu."
+msgctxt "Description"
+msgid "Information and launching of all applications in the app menu."
+msgstr "ข้อมูลและการเรียกใช้โปรแกรมทั้งหมดที่อยู่ในเมนูโปรแกรม"
+
+#. +> stable5
+#: dataengines/devicenotifications/plasma-dataengine-devicenotifications.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Passive device notifications for the user."
+msgctxt "Description"
+msgid "Passive device notifications for the user."
+msgstr "การแจ้งอุปกรณ์ที่ไม่มีปฏิกิริยาแก่ผู้ใช้"
+
+#. +> stable5
+#: dataengines/devicenotifications/plasma-dataengine-devicenotifications.json
+msgctxt "Authors Name"
+msgid "Jacopo De Simoi"
+msgstr ""
+
+#. +> stable5
+#: dataengines/dict/plasma-dataengine-dict.json
+msgctxt "Name"
+msgid "Dictionary"
+msgstr "พจนานุกรม"
+
+#. +> stable5
+#: dataengines/dict/plasma-dataengine-dict.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Look up word meanings"
+msgctxt "Description"
+msgid "Look up word meanings"
+msgstr "ค้นหาความหมายของคำ"
+
+#. +> stable5
+#: dataengines/favicons/plasma-dataengine-favicons.json
+msgctxt "Name"
+msgid "Favicons"
+msgstr "ไอคอนเว็บ"
+
+#. +> stable5
+#: dataengines/favicons/plasma-dataengine-favicons.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Data Engine for getting favicons of web sites"
+msgctxt "Description"
+msgid "Data Engine for getting favicons of web sites"
+msgstr "กลไกข้อมูลสำหรับรับค่าไอคอนหน้าเว็บของเว็บไซต์"
+
+#. +> stable5
+#: dataengines/filebrowser/plasma-dataengine-filebrowser.json
+msgctxt "Name"
+msgid "Files and Directories"
+msgstr "ดูแฟ้มและไดเรกทอรี"
+
+#. +> stable5
+#: dataengines/filebrowser/plasma-dataengine-filebrowser.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Information about files and directories."
+msgctxt "Description"
+msgid "Information about files and directories."
+msgstr "ข้อมูลเกี่ยวกับแฟ้มและไดเรกทอรีต่าง ๆ"
+
+#. +> stable5
+#: dataengines/geolocation/plasma-dataengine-geolocation.json
+msgctxt "Name"
+msgid "Geolocation"
+msgstr "การระบุพิกัดตำแหน่ง"
+
+#. +> stable5
+#: dataengines/geolocation/plasma-dataengine-geolocation.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Geolocation Data Engine"
+msgctxt "Description"
+msgid "Geolocation Data Engine"
+msgstr "กลไกข้อมูลการระบุพิกัดตำแหน่ง"
+
+#. +> stable5
+#: dataengines/geolocation/plasma-dataengine-geolocation.json
+msgctxt "Authors Name"
+msgid "Petri Damstén"
+msgstr ""
+
+#. +> stable5
+#: dataengines/geolocation/plasma-geolocation-gps.json
+msgctxt "Name"
+msgid "Geolocation GPS"
+msgstr "การระบุพิกัดตำแหน่งด้วย GPS"
+
+#. +> stable5
+#: dataengines/geolocation/plasma-geolocation-gps.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Geolocation from GPS address."
+msgctxt "Description"
+msgid "Geolocation from GPS address."
+msgstr "การระบุพิกัดตำแหน่งจากพิกัด GPS"
+
+#. +> stable5
+#: dataengines/geolocation/plasma-geolocation-ip.json
+msgctxt "Name"
+msgid "Geolocation IP"
+msgstr "การระบุพิกัดตำแหน่งจากไอพี"
+
+#. +> stable5
+#: dataengines/geolocation/plasma-geolocation-ip.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Geolocation from IP address."
+msgctxt "Description"
+msgid "Geolocation from IP address."
+msgstr "การระบุพิกัดตำแหน่งจากที่อยู่ไอพี"
+
+#. +> stable5
+#: dataengines/hotplug/plasma-dataengine-hotplug.json
+msgctxt "Name"
+msgid "Hotplug Events"
+msgstr "เหตุการณ์อุปกรณ์ Hot Plug"
+
+#. +> stable5
+#: dataengines/hotplug/plasma-dataengine-hotplug.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Tracks hot-pluggable devices as they appear and disappear."
+msgctxt "Description"
+msgid "Tracks hot-pluggable devices as they appear and disappear."
+msgstr "ติดตามการตรวจพบ/ไม่พบ อุปกรณ์ประเภทถอด/เสียบได้"
+
+#. +> stable5
+#: dataengines/keystate/plasma-dataengine-keystate.json
+msgctxt "Name"
+msgid "Keyboard and Mouse State"
+msgstr "สถานะของแป้นพิมพ์และเมาส์"
+
+#. +> stable5
+#: dataengines/keystate/plasma-dataengine-keystate.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Keyboard modifier and mouse buttons states"
+msgctxt "Description"
+msgid "Keyboard modifier and mouse buttons states"
+msgstr "สถานะปุ่มเปลี่ยนหน้าที่ของแป้นพิมพ์และสถานะปุ่มของเมาส์"
+
+#. +> stable5
+#: dataengines/mouse/plasma-dataengine-mouse.json
+msgctxt "Name"
+msgid "Pointer Position"
+msgstr "ตำแหน่งของตัวชี้"
+
+#. +> stable5
+#: dataengines/mouse/plasma-dataengine-mouse.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Mouse position and cursor"
+msgctxt "Description"
+msgid "Mouse position and cursor"
+msgstr "ตำแหน่งตัวชี้และเคอร์เซอร์ของเมาส์"
+
+#. +> stable5
+#: dataengines/mpris2/plasma-dataengine-mpris2.json
+msgctxt "Name"
+msgid "MPRIS2"
+msgstr ""
+
+#. +> stable5
+#: dataengines/mpris2/plasma-dataengine-mpris2.json
+msgctxt "Description"
+msgid "Provides information from and control over media players via MPRIS2"
+msgstr ""
+
+#. +> stable5
+#: dataengines/packagekit/plasma-dataengine-packagekit.json
+msgctxt "Name"
+msgid "PackageKit"
+msgstr ""
+
+#. +> stable5
+#: dataengines/packagekit/plasma-dataengine-packagekit.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "JavaScript DataEngine"
+msgctxt "Description"
+msgid "PackageKit Data Engine"
+msgstr "กลไกข้อมูลของจาวาสคริปต์"
+
+#. +> stable5
+#: dataengines/packagekit/plasma-dataengine-packagekit.json
+msgctxt "Authors Name"
+msgid "Gregor Taetzner"
+msgstr ""
+
+#. +> stable5
+#: dataengines/places/plasma-dataengine-places.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Places, as seen in the file manager and in file dialogs."
+msgctxt "Description"
+msgid "Places, as seen in the file manager and in file dialogs."
+msgstr "ที่หลัก ๆ ที่จะถูกเห็นในเครื่องมือจัดการแฟ้มและในกล่องเลือกแฟ้ม"
+
+#. +> stable5
+#: dataengines/places/plasma-dataengine-places.json
+msgctxt "Authors Name"
+msgid "Alex Merry"
+msgstr ""
+
+#. +> stable5
+#: dataengines/powermanagement/plasma-dataengine-powermanagement.json
+#, fuzzy
+#| msgctxt "Name|plasma data engine"
+#| msgid "Power Management"
+msgctxt "Name"
+msgid "Power Management"
+msgstr "การจัดการพลังงาน"
+
+#. +> stable5
+#: dataengines/powermanagement/plasma-dataengine-powermanagement.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Battery, AC, sleep and PowerDevil information."
+msgctxt "Description"
+msgid "Battery, AC, sleep and PowerDevil information."
+msgstr "แบตเตอรี่, การเสียบปลั๊กไฟ, การพักเครื่อง และข้อมูลของ PowerDevil"
+
+#. +> stable5
+#: dataengines/soliddevice/plasma-dataengine-soliddevice.json
+msgctxt "Name"
+msgid "Device Information"
+msgstr "รายละเอียดอุปกรณ์"
+
+#. +> stable5
+#: dataengines/soliddevice/plasma-dataengine-soliddevice.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Device data via Solid"
+msgctxt "Description"
+msgid "Device data via Solid"
+msgstr "ข้อมูลของอุปกรณ์ผ่านทาง Solid"
+
+#. +> stable5
+#: dataengines/statusnotifieritem/plasma-dataengine-statusnotifieritem.json
+msgctxt "Name"
+msgid "Status Notifier Information"
+msgstr "ข้อมูลการแจ้งสถานะ"
+
+#. +> stable5
+#: dataengines/statusnotifieritem/plasma-dataengine-statusnotifieritem.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Engine for applications' status information, based on the Status Notifier protocol."
+msgctxt "Description"
+msgid "Engine for applications' status information, based on the Status Notifier protocol."
+msgstr "กลไกสำหรับข้อมูลสถานะแอพลิเคชัน โดยใช้โพรโทคอลตัวแจ้งสถานะ"
+
+#. +> stable5
+#: dataengines/statusnotifieritem/plasma-dataengine-statusnotifieritem.json
+msgctxt "Authors Name"
+msgid "Matthieu Gallien"
+msgstr ""
+
+#. +> stable5
+#: dataengines/systemmonitor/plasma-dataengine-systemmonitor.json
+msgctxt "Name"
+msgid "System Monitor"
+msgstr "ติดตามการทำงานของระบบ"
+
+#. +> stable5
+#: dataengines/systemmonitor/plasma-dataengine-systemmonitor.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "System status information"
+msgctxt "Description"
+msgid "System status information"
+msgstr "ข้อมูลสถานะของระบบ"
+
+#. +> stable5
+#: kcms/nightcolor/kcm_nightcolor.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Color"
+msgctxt "Name"
+msgid "Night Color"
+msgstr "สี"
+
+#. +> stable5
+#: kcms/nightcolor/kcm_nightcolor.json
+msgctxt "Description"
+msgid "Adjust color temperature based on time"
+msgstr ""
+
+#. +> stable5
+#: runners/powerdevil/plasma-runner-powerdevil.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "PowerDevil"
+msgctxt "Name"
+msgid "Power"
+msgstr "PowerDevil"
+
+#. +> stable5
+#: runners/powerdevil/plasma-runner-powerdevil.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Basic Power Management Operations"
+msgctxt "Description"
+msgid "Basic Power Management Operations"
+msgstr "ปฏิบัติการจัดการพลังงานขั้นพื้นฐาน"
+
+#. +> stable5
+#: runners/powerdevil/plasma-runner-powerdevil.json
+msgctxt "Authors Name"
+msgid "Dario Freddi"
+msgstr ""
+
+#. +> stable5
+#: runners/windowedwidgets/plasma-runner-windowedwidgets.json
+msgctxt "Name"
+msgid "Windowed widgets"
+msgstr "วิดเจ็ตที่เป็นหน้าต่าง"
+
+#. +> stable5
+#: runners/windowedwidgets/plasma-runner-windowedwidgets.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Find Plasma widgets that can be run as standalone windows"
+msgctxt "Description"
+msgid "Find Plasma widgets that can be run as standalone windows"
+msgstr "ค้นหาวิดเจ็ตพลาสมาที่สามารถทำงานได้บนหน้าต่างอิสระ"
+
+#. +> stable5
+#: systemmonitor/ksysguard.json
+msgctxt "Name"
+msgid "KSysguard"
+msgstr ""
+
+#. +> stable5
+#: systemmonitor/ksysguard.json
+msgctxt "Description"
+msgid "Launches KSysguard on Ctrl + Escape"
+msgstr ""

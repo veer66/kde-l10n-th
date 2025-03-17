@@ -1,0 +1,90 @@
+# translation of desktop_kdepim.po to Thai
+# Thanomsub Noppaburana <donga_n@yahoo.com>, 2005.
+# ถนอมทรัพย์ นพบูรณ์ <donga_n@yahoo.com>, 2005.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdepim\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-01-28 10:12+0100\n"
+"PO-Revision-Date: 2008-07-21 23:39+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#: src/data/kalarm.autostart.desktop:3 src/data/org.kde.kalarm.desktop:2
+#: src/data/org.kde.kalarm.rtcwake.actions:2
+msgctxt "Name"
+msgid "KAlarm"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/data/kalarm.autostart.desktop:79
+msgctxt "Comment"
+msgid "KAlarm autostart at login"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/data/kalarm.notifyrc:4
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Alarms"
+msgctxt "Comment"
+msgid "KAlarm"
+msgstr "แจ้งเตือน"
+
+#. +> trunk6 stable6
+#: src/data/kalarm.notifyrc:44
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Alarms"
+msgctxt "Name"
+msgid "Alarm message"
+msgstr "แจ้งเตือน"
+
+#. +> trunk6 stable6
+#: src/data/kalarm.notifyrc:85
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Alarms"
+msgctxt "Name"
+msgid "Alarm message with beep"
+msgstr "แจ้งเตือน"
+
+#. +> trunk6 stable6
+#: src/data/kalarm.notifyrc:127
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Alarms"
+msgctxt "Name"
+msgid "Spoken alarm message"
+msgstr "แจ้งเตือน"
+
+#. +> trunk6 stable6
+#: src/data/kalarm.notifyrc:169
+msgctxt "Name"
+msgid "Alarm error message"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/data/org.kde.kalarm.desktop:78
+msgctxt "GenericName"
+msgid "Personal Alarm Scheduler"
+msgstr "ตัวจัดตารางแจ้งเตือนส่วนบุคคล"
+
+#. +> trunk6 stable6
+#: src/data/org.kde.kalarm.rtcwake.actions:77
+msgctxt "Name"
+msgid "Set RTC wakeup time"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/data/org.kde.kalarm.rtcwake.actions:129
+msgctxt "Description"
+msgid "Set RTC wake-from-suspend time"
+msgstr ""

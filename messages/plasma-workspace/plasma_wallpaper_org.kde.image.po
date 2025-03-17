@@ -1,0 +1,498 @@
+# translation of plasma_wallpaper_image.po to Thai
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_wallpaper_image\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-01-01 10:19+0100\n"
+"PO-Revision-Date: 2010-12-17 21:19+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6 stable5
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ถนอมทรัพย์ นพบูรณ์"
+
+#. +> trunk6 stable6 stable5
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "donga.nb@gmail.com"
+
+#. +> trunk6 stable6
+#: imagepackage/contents/ui/AddFileDialog.qml:58
+#, fuzzy, kde-format
+#| msgid "Open Wallpaper Image"
+msgctxt "@title:window"
+msgid "Open Image"
+msgstr "เปิดภาพพื้นหลัง"
+
+#. +> trunk6 stable6
+#: imagepackage/contents/ui/AddFileDialog.qml:70
+#, kde-format
+msgctxt "@title:window"
+msgid "Directory with the wallpaper to show slides from"
+msgstr ""
+
+#. +> trunk6 stable6
+#: imagepackage/contents/ui/config.qml:128
+#, fuzzy, kde-format
+#| msgid "&Positioning:"
+msgctxt "@label:listbox"
+msgid "Positioning:"
+msgstr "ตำแ&หน่งภาพ:"
+
+#. +> stable5
+#: imagepackage/contents/ui/config.qml:94
+#, fuzzy, kde-format
+#| msgid "&Positioning:"
+msgid "Positioning:"
+msgstr "ตำแ&หน่งภาพ:"
+
+#. +> trunk6 stable6
+#: imagepackage/contents/ui/config.qml:131
+#, fuzzy, kde-format
+#| msgid "Scaled & Cropped"
+msgctxt "@item:inlistbox"
+msgid "Scaled and cropped"
+msgstr "ปรับขนาดให้เต็มจอและตัดส่วนล้น"
+
+#. +> stable5
+#: imagepackage/contents/ui/config.qml:97
+#, fuzzy, kde-format
+#| msgid "Scaled & Cropped"
+msgid "Scaled and Cropped"
+msgstr "ปรับขนาดให้เต็มจอและตัดส่วนล้น"
+
+#. +> trunk6 stable6
+#: imagepackage/contents/ui/config.qml:135
+#, fuzzy, kde-format
+#| msgid "Scaled"
+msgctxt "@item:inlistbox"
+msgid "Scaled"
+msgstr "ปรับขนาดให้เต็มจอ"
+
+#. +> stable5
+#: imagepackage/contents/ui/config.qml:101
+#, kde-format
+msgid "Scaled"
+msgstr "ปรับขนาดให้เต็มจอ"
+
+#. +> trunk6 stable6
+#: imagepackage/contents/ui/config.qml:139
+#, fuzzy, kde-format
+#| msgid "Scaled, keep proportions"
+msgctxt "@item:inlistbox"
+msgid "Scaled, keep proportions"
+msgstr "ปรับขนาดให้เต็มจอ โดยรักษาสัดส่วนภาพด้วย"
+
+#. +> stable5
+#: imagepackage/contents/ui/config.qml:105
+#, fuzzy, kde-format
+#| msgid "Scaled, keep proportions"
+msgid "Scaled, Keep Proportions"
+msgstr "ปรับขนาดให้เต็มจอ โดยรักษาสัดส่วนภาพด้วย"
+
+#. +> trunk6 stable6
+#: imagepackage/contents/ui/config.qml:143
+#, fuzzy, kde-format
+#| msgid "Centered"
+msgctxt "@item:inlistbox"
+msgid "Centered"
+msgstr "จัดกึ่งกลาง"
+
+#. +> stable5
+#: imagepackage/contents/ui/config.qml:109
+#, kde-format
+msgid "Centered"
+msgstr "จัดกึ่งกลาง"
+
+#. +> trunk6 stable6
+#: imagepackage/contents/ui/config.qml:147
+#, fuzzy, kde-format
+#| msgid "Tiled"
+msgctxt "@item:inlistbox"
+msgid "Tiled"
+msgstr "ปูภาพ"
+
+#. +> stable5
+#: imagepackage/contents/ui/config.qml:113
+#, kde-format
+msgid "Tiled"
+msgstr "ปูภาพ"
+
+#. +> trunk6 stable6 stable5
+#: imagepackage/contents/ui/config.qml:175
+#, kde-format
+msgid "Background:"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: imagepackage/contents/ui/config.qml:176
+#, kde-format
+msgid "Blur"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: imagepackage/contents/ui/config.qml:185
+#, kde-format
+msgid "Solid color"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: imagepackage/contents/ui/config.qml:196
+#, kde-format
+msgid "Select Background Color"
+msgstr ""
+
+#. +> stable5
+#: imagepackage/contents/ui/config.qml:207
+#, kde-format
+msgid "Add Image…"
+msgstr ""
+
+#. +> stable5
+#: imagepackage/contents/ui/config.qml:213
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:257
+#, fuzzy, kde-format
+#| msgid "Get New Wallpapers..."
+msgid "Get New Wallpapers…"
+msgstr "หาภาพพื้นหลังใหม่ ๆ ..."
+
+#. +> trunk6 stable6 stable5
+#: imagepackage/contents/ui/main.qml:35
+#, kde-format
+msgid "Open Wallpaper Image"
+msgstr "เปิดภาพพื้นหลัง"
+
+#. +> trunk6 stable6 stable5
+#: imagepackage/contents/ui/main.qml:41
+#, kde-format
+msgid "Next Wallpaper Image"
+msgstr "ภาพพื้นหลังภาพถัดไป"
+
+#. +> trunk6 stable6
+#: imagepackage/contents/ui/ThumbnailsComponent.qml:60
+#, fuzzy, kde-format
+#| msgid "Images"
+msgid "Images"
+msgstr "ภาพ"
+
+#. +> trunk6 stable6
+#: imagepackage/contents/ui/ThumbnailsComponent.qml:64
+#, kde-format
+msgctxt "@action:button the thing being added is an image file"
+msgid "Add…"
+msgstr ""
+
+#. +> trunk6 stable6
+#: imagepackage/contents/ui/ThumbnailsComponent.qml:65
+#, fuzzy, kde-format
+#| msgid "Open Wallpaper Image"
+msgctxt "@action:button"
+msgid "Add Wallpaper Image…"
+msgstr "เปิดภาพพื้นหลัง"
+
+#. +> trunk6 stable6
+#: imagepackage/contents/ui/ThumbnailsComponent.qml:71
+#, fuzzy, kde-format
+#| msgid "Get New Wallpapers..."
+msgctxt "@action:button the new things being gotten are wallpapers"
+msgid "Get New…"
+msgstr "หาภาพพื้นหลังใหม่ ๆ ..."
+
+#. +> trunk6 stable6
+#: imagepackage/contents/ui/ThumbnailsComponent.qml:72
+#, fuzzy, kde-format
+#| msgid "Next Wallpaper Image"
+msgctxt "@action:button"
+msgid "Get New Wallpaper Images…"
+msgstr "ภาพพื้นหลังภาพถัดไป"
+
+#. +> trunk6 stable6 stable5
+#: imagepackage/contents/ui/WallpaperDelegate.qml:31
+#, kde-format
+msgid "Open Containing Folder"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: imagepackage/contents/ui/WallpaperDelegate.qml:37
+#, fuzzy, kde-format
+#| msgid "&System wallpapers:"
+msgid "Restore wallpaper"
+msgstr "ภาพพื้นหลังของ&ระบบ:"
+
+#. +> trunk6 stable6 stable5
+#: imagepackage/contents/ui/WallpaperDelegate.qml:42
+#, fuzzy, kde-format
+#| msgid "&System wallpapers:"
+msgid "Remove Wallpaper"
+msgstr "ภาพพื้นหลังของ&ระบบ:"
+
+#. +> trunk6 stable6 stable5
+#: plasma-apply-wallpaperimage.cpp:28
+#, kde-format
+msgid "This tool allows you to set an image as the wallpaper for the Plasma session."
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: plasma-apply-wallpaperimage.cpp:30
+#, kde-format
+msgid "An image file or an installed wallpaper kpackage that you wish to set as the wallpaper for your Plasma session"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plasma-apply-wallpaperimage.cpp:33
+#, kde-format
+msgid "Specify the fill mode (e.g., stretch, preserveAspectCrop, etc.)"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: plasma-apply-wallpaperimage.cpp:61
+#, kde-format
+msgid "There is a stray single quote in the filename of this wallpaper (') - please contact the author of the wallpaper to fix this, or rename the file yourself: %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plasma-apply-wallpaperimage.cpp:99
+#, kde-format
+msgid "Invalid fill mode specified: %1"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: plasma-apply-wallpaperimage.cpp:115
+#, kde-format
+msgid "An error occurred while attempting to set the Plasma wallpaper:\n"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: plasma-apply-wallpaperimage.cpp:119
+#, kde-format
+msgid "Successfully set the wallpaper for all desktops to the KPackage based %1"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: plasma-apply-wallpaperimage.cpp:121
+#, kde-format
+msgid "Successfully set the wallpaper for all desktops to the image %1"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: plasma-apply-wallpaperimage.cpp:128
+#, kde-format
+msgid "The file passed to be set as wallpaper does not exist, or we cannot identify it as a wallpaper: %1"
+msgstr ""
+
+#. +> stable5
+#: plugin/imagebackend.cpp:241
+#, kde-format
+msgid "Directory with the wallpaper to show slides from"
+msgstr ""
+
+#. i18n people, this isn't a "word puzzle". there is a specific string format for QFileDialog::setNameFilters
+#. +> trunk6 stable6
+#: plugin/imagebackend.cpp:340
+#, fuzzy, kde-format
+#| msgid "Images"
+msgid "Media Files"
+msgstr "ภาพ"
+
+#. +> stable5
+#: plugin/imagebackend.cpp:350
+#, fuzzy, kde-format
+#| msgid "Open Wallpaper Image"
+msgid "Open Image"
+msgstr "เปิดภาพพื้นหลัง"
+
+#. +> stable5
+#: plugin/imagebackend.cpp:350
+#, fuzzy, kde-format
+#| msgid "Images"
+msgid "Image Files"
+msgstr "ภาพ"
+
+#. +> trunk6 stable6 stable5
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:52
+#, kde-format
+msgid "Order:"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:59
+#, kde-format
+msgid "Random"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:63
+#, kde-format
+msgid "A to Z"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:67
+#, kde-format
+msgid "Z to A"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:71
+#, kde-format
+msgid "Date modified (newest first)"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:75
+#, kde-format
+msgid "Date modified (oldest first)"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:100
+#, kde-format
+msgid "Group by folders"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:112
+#, fuzzy, kde-format
+#| msgid "C&hange images every:"
+msgid "Change every:"
+msgstr "เป&ลี่ยนภาพทุก ๆ :"
+
+#. +> trunk6 stable6 stable5
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:122
+#, kde-format
+msgid "%1 hour"
+msgid_plural "%1 hours"
+msgstr[0] ""
+
+#. +> trunk6 stable6 stable5
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:142
+#, kde-format
+msgid "%1 minute"
+msgid_plural "%1 minutes"
+msgstr[0] ""
+
+#. +> trunk6 stable6 stable5
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:162
+#, kde-format
+msgid "%1 second"
+msgid_plural "%1 seconds"
+msgstr[0] ""
+
+#. +> trunk6 stable6 stable5
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:206
+#, fuzzy, kde-format
+#| msgid "&Remove Folder"
+msgid "Folders"
+msgstr "&ลบโฟลเดอร์"
+
+#. +> trunk6 stable6
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:210
+#, kde-format
+msgctxt "@action button the thing being added is a folder"
+msgid "Add…"
+msgstr ""
+
+#. +> trunk6 stable6
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:211
+#, fuzzy, kde-format
+#| msgid "&Add Folder..."
+msgctxt "@action:button"
+msgid "Add Folder…"
+msgstr "เ&พิ่มโฟลเดอร์..."
+
+#. +> stable5
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:250
+#, fuzzy, kde-format
+#| msgid "&Add Folder..."
+msgid "Add Folder…"
+msgstr "เ&พิ่มโฟลเดอร์..."
+
+#. +> trunk6 stable6 stable5
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:249
+#, fuzzy, kde-format
+#| msgid "&Remove Folder"
+msgid "Remove Folder"
+msgstr "&ลบโฟลเดอร์"
+
+#. +> trunk6 stable6
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:260
+#, fuzzy, kde-format
+#| msgid "&Remove Folder"
+msgid "Open Folder…"
+msgstr "&ลบโฟลเดอร์"
+
+#. +> stable5
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:225
+#, fuzzy, kde-format
+#| msgid "&Remove Folder"
+msgid "Open Folder"
+msgstr "&ลบโฟลเดอร์"
+
+#. +> trunk6 stable6 stable5
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:275
+#, kde-format
+msgid "There are no wallpaper locations configured"
+msgstr ""
+
+#. +> trunk6 stable6
+#: wallpaperfileitemactionplugin/wallpaperfileitemaction.cpp:49
+#, fuzzy, kde-format
+#| msgid "Get New Wallpapers..."
+msgctxt "@action:inmenu"
+msgid "Set as Wallpaper"
+msgstr "หาภาพพื้นหลังใหม่ ๆ ..."
+
+#. +> trunk6 stable6
+#: wallpaperfileitemactionplugin/wallpaperfileitemaction.cpp:52
+#, kde-format
+msgctxt "@action:inmenu Set as Desktop Wallpaper"
+msgid "Desktop"
+msgstr ""
+
+#. +> trunk6 stable6
+#: wallpaperfileitemactionplugin/wallpaperfileitemaction.cpp:58
+#, kde-format
+msgctxt "@action:inmenu Set as Lockscreen Wallpaper"
+msgid "Lockscreen"
+msgstr ""
+
+#. +> trunk6 stable6
+#: wallpaperfileitemactionplugin/wallpaperfileitemaction.cpp:64
+#, kde-format
+msgctxt "@action:inmenu Set as both lockscreen and Desktop Wallpaper"
+msgid "Both"
+msgstr ""
+
+#. +> trunk6 stable6
+#: wallpaperfileitemactionplugin/wallpaperfileitemaction.cpp:97
+#, kde-kuit-format
+msgctxt "@info %1 is the dbus error message"
+msgid ""
+"An error occurred while attempting to set the Plasma wallpaper:<nl/>"
+"%1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: wallpaperfileitemactionplugin/wallpaperfileitemaction.cpp:110
+#, kde-format
+msgid "An error occurred while attempting to open kscreenlockerrc config file."
+msgstr ""
+
+#. +> stable5
+#: plugin/finder/packagefinder.cpp:148
+#, kde-format
+msgid "Recommended wallpaper file"
+msgstr ""

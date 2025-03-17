@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-02-08 09:31+0100\n"
+"PO-Revision-Date: 2025-03-17 14:51+0700\n"
+"Last-Translator: Thai Translator <none>\n"
+"Language-Team: Thai <kde-i18n-docs@kde.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6
+#: atlantik.notifyrc:3
+msgctxt "Comment"
+msgid "Atlantik"
+msgstr ""
+
+#. +> trunk6
+#: atlantik.notifyrc:39
+msgctxt "Name"
+msgid "Gained Turn"
+msgstr ""
+
+#. +> trunk6
+#: atlantik.notifyrc:69
+msgctxt "Comment"
+msgid "It is your turn now"
+msgstr ""
+
+#. +> trunk6
+#: atlantik.notifyrc:102
+msgctxt "Name"
+msgid "Chat"
+msgstr ""
+
+#. +> trunk6
+#: atlantik.notifyrc:134
+msgctxt "Comment"
+msgid "A player sends a chat message"
+msgstr ""
+
+#. +> trunk6
+#: atlantik.notifyrc:167
+msgctxt "Name"
+msgid "New player"
+msgstr ""
+
+#. +> trunk6
+#: atlantik.notifyrc:199
+msgctxt "Comment"
+msgid "A new player joins the game"
+msgstr ""
+
+#. +> trunk6
+#: atlantik.notifyrc:231
+msgctxt "Name"
+msgid "New game"
+msgstr ""
+
+#. +> trunk6
+#: atlantik.notifyrc:263
+msgctxt "Comment"
+msgid "A new game is created"
+msgstr ""
+
+#. +> trunk6
+#: org.kde.atlantik.desktop:3
+msgctxt "Name"
+msgid "Atlantik"
+msgstr ""
+
+#. +> trunk6
+#: org.kde.atlantik.desktop:36
+msgctxt "GenericName"
+msgid "Monopoly®-like Board Games"
+msgstr ""

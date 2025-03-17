@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-02-15 10:44+0100\n"
+"PO-Revision-Date: 2025-03-17 14:55+0700\n"
+"Last-Translator: Thai Translator <none>\n"
+"Language-Team: Thai <kde-i18n-docs@kde.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6 stable5
+#: kcm_sddm.actions:2
+msgctxt "Name"
+msgid "SDDM"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcm_sddm.actions:59
+msgctxt "Name"
+msgid "Save Settings"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcm_sddm.actions:111
+msgctxt "Description"
+msgid "Save Settings in SDDM"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcm_sddm.actions:166
+msgctxt "Name"
+msgid "Install an SDDM theme"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kcm_sddm.actions:216
+msgctxt "Description"
+msgid "Extract a zip file containing an SDDM theme to the SDDM theme location"
+msgstr ""
+
+#. +> stable5
+#: kcm_sddm.actions:199
+msgctxt "Description"
+msgid "Extracts a zip file containing an SDDM theme to the SDDM theme location"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcm_sddm.actions:253
+msgctxt "Name"
+msgid "Uninstall an SDDM theme"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kcm_sddm.actions:303
+msgctxt "Description"
+msgid "Remove a previously installed SDDM theme"
+msgstr ""
+
+#. +> stable5
+#: kcm_sddm.actions:293
+msgctxt "Description"
+msgid "Removes a previously installed SDDM theme"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcm_sddm.actions:340
+msgctxt "Name"
+msgid "Synchronize Settings"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kcm_sddm.actions:386
+msgctxt "Description"
+msgid "Synchronize user settings with SDDM settings"
+msgstr ""
+
+#. +> stable5
+#: kcm_sddm.actions:383
+msgctxt "Description"
+msgid "Synchronizes user settings with SDDM settings"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kcm_sddm.actions:423
+msgctxt "Name"
+msgid "Reset Settings"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kcm_sddm.actions:469
+msgctxt "Description"
+msgid "Reset SDDM settings to factory default state"
+msgstr ""
+
+#. +> stable5
+#: kcm_sddm.actions:468
+msgctxt "Description"
+msgid "Resets SDDM settings so there are not user settings"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: sddmtheme.knsrc:4
+msgctxt "Name"
+msgid "Login Screen"
+msgstr ""

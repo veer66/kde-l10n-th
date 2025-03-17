@@ -1,0 +1,943 @@
+# translation of kdelibs4.po to Thai
+# Copyright (C) 2003,2004, 2005, 2006, 2007, 2008 Free Software Foundation, Inc.
+# Thanomsub Noppaburana <donga_n@yahoo.com>, 2003,2004, 2005.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2005, 2008, 2010.
+# Sahachart Anukulkitch <drrider@gmail.com>, 2006, 2007.
+# Narachai Sakorn <narachai@gmail.com>, 2008.
+# Phuwanat Sakornsakolpat <narachai@gmail.com>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kdelibs4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-02-07 10:08+0100\n"
+"PO-Revision-Date: 2010-12-31 22:47+0700\n"
+"Last-Translator: Phuwanat Sakornsakolpat <narachai@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 trunk5
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ถนอมทรัพย์ นพบูรณ์, สหชาติ อนุกูลกิจ"
+
+#. +> trunk6 trunk5
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "donga.nb@gmail.com, drrider@gmail.com"
+
+#. +> trunk6 trunk5
+#: kcodecaction.cpp:62
+#, kde-format
+msgctxt "Encodings menu"
+msgid "Default"
+msgstr "ค่าปริยาย"
+
+#. +> trunk6 trunk5
+#: kcodecaction.cpp:70
+#, kde-format
+msgctxt "Encodings menu"
+msgid "Autodetect"
+msgstr "ตรวจอัตโนมัติ"
+
+#. +> trunk6 trunk5
+#: kcolorschememenu.cpp:24
+#, fuzzy, kde-format
+#| msgid "Shortcut Schemes"
+msgid "Color Scheme"
+msgstr "ชุดปุ่มพิมพ์ลัด"
+
+#. +> trunk6
+#: kcommandbar.cpp:639
+#, kde-format
+msgid "No commands to display"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: kcommandbar.cpp:641
+#, kde-format
+msgid "No commands matching the filter"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: kconfigdialog.cpp:37
+#, fuzzy, kde-format
+#| msgid "Configure"
+msgctxt "@title:window"
+msgid "Configure"
+msgstr "ปรับแต่งค่า"
+
+#. +> trunk6 trunk5
+#: khamburgermenu.cpp:126
+#, fuzzy, kde-format
+#| msgctxt "keyboard-key-name"
+#| msgid "Menu"
+msgctxt "@action:inmenu General purpose menu"
+msgid "&Menu"
+msgstr "เมนู"
+
+#. +> trunk6 trunk5
+#: khamburgermenu.cpp:329
+#, fuzzy, kde-format
+#| msgid "Show all options"
+msgctxt "@action:inmenu A menu item that advertises and enables the menubar"
+msgid "Show &Menubar with All Actions"
+msgstr "แสดงตัวเลือกทั้งหมด"
+
+#. +> trunk6 trunk5
+#: khamburgermenu.cpp:355
+#, fuzzy, kde-format
+#| msgctxt "@option:check An item in a list of resources that allows to query for more resources to put in the list"
+#| msgid "More..."
+msgctxt "@action:inmenu A menu text advertising its contents (more features)."
+msgid "More"
+msgstr "เพิ่มเติม..."
+
+#. +> trunk6 trunk5
+#: khamburgermenu.cpp:356
+#, fuzzy, kde-format
+#| msgid "More Actions"
+msgctxt "@action:inmenu A section heading advertising the contents of the menu bar"
+msgid "More Actions"
+msgstr "การกระทำเพิ่มเติม"
+
+#. +> trunk6 trunk5
+#: krecentfilesaction.cpp:78
+#, kde-format
+msgid "No Entries"
+msgstr "ไม่มีรายการใด ๆ"
+
+#. +> trunk6 trunk5
+#: krecentfilesaction.cpp:84
+#, kde-format
+msgid "Clear List"
+msgstr "ล้างรายการ"
+
+#. +> trunk6 trunk5
+#: kstandardaction.cpp:157
+#, kde-format
+msgctxt "go back"
+msgid "&Back"
+msgstr "ย้อน&กลับ"
+
+#. +> trunk6 trunk5
+#: kstandardaction.cpp:164
+#, kde-format
+msgctxt "go forward"
+msgid "&Forward"
+msgstr "&ต่อไป"
+
+#. +> trunk6 trunk5
+#: kstandardaction.cpp:171
+#, kde-format
+msgctxt "home page"
+msgid "&Home"
+msgstr "&หน้าหลัก"
+
+#. +> trunk5
+#: kstandardaction.cpp:175
+#, kde-format
+msgctxt "show help"
+msgid "&Help"
+msgstr "&ช่วยเหลือ"
+
+#. +> trunk6 trunk5
+#: kstandardaction.cpp:230
+#, kde-format
+msgid ""
+"Show Menubar"
+"<p>Shows the menubar again after it has been hidden</p>"
+msgstr ""
+"แสดงแถบเมนู"
+"<p>แสดงแถบเมนูอีกครั้งหลังจากที่ถูกซ่อน</p>"
+
+#. +> trunk6 trunk5
+#: kstandardaction.cpp:251
+#, fuzzy, kde-format
+#| msgid ""
+#| "Show Statusbar<br />"
+#| "<br />"
+#| "Shows the statusbar, which is the bar at the bottom of the window used for status information."
+msgid ""
+"Show Statusbar"
+"<p>Shows the statusbar, which is the bar at the bottom of the window used for status information.</p>"
+msgstr ""
+"แสดงแถบสถานะ<br />"
+"<br />"
+"แสดงแถบสถานะ ซึ่งเป็นส่วนแถบที่อยู่ด้านล่างของหน้าต่าง เพื่อใช้ในการแสดงข้อมูลสถานะ"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:63
+msgid "&New"
+msgstr "สร้างใ&หม่"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:63
+#, fuzzy
+#| msgctxt "@label"
+#| msgid "Create new tag:"
+msgid "Create new document"
+msgstr "สร้างป้ายกำกับใหม่:"
+
+#. +> trunk6
+#: kstandardaction_p.h:64
+#, fuzzy
+#| msgctxt "@label:button"
+#| msgid "&Open"
+msgid "&Open…"
+msgstr "เ&ปิด"
+
+#. +> trunk5
+#: kstandardaction_p.h:31
+msgid "&Open..."
+msgstr "เ&ปิด..."
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:64
+#, fuzzy
+#| msgid "&Back in the Document"
+msgid "Open an existing document"
+msgstr "&ย้อนกลับในเอกสาร"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:65
+msgid "Open &Recent"
+msgstr "เปิดที่เ&คยเรียกใช้"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:65
+msgid "Open a document which was recently opened"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:66
+msgid "&Save"
+msgstr "&บันทึก"
+
+#. +> trunk5
+#: kstandardaction_p.h:92
+msgid "&Save Settings"
+msgstr "&บันทึกการตั้งค่า"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:66
+#, fuzzy
+#| msgid "Close Document"
+msgid "Save document"
+msgstr "ปิดเอกสาร"
+
+#. +> trunk6
+#: kstandardaction_p.h:67
+#, fuzzy
+#| msgid "Save As"
+msgid "Save &As…"
+msgstr "บันทึกเป็น"
+
+#. +> trunk5
+#: kstandardaction_p.h:34
+msgid "Save &As..."
+msgstr "บัน&ทึกเป็น..."
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:67
+#, fuzzy
+#| msgid "Close Document"
+msgid "Save document under a new name"
+msgstr "ปิดเอกสาร"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:68
+msgid "Re&vert"
+msgstr "&กลับค่า"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:68
+msgid "Revert unsaved changes made to document"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:69
+msgid "&Close"
+msgstr "&ปิด"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:69
+#, fuzzy
+#| msgid "Close Document"
+msgid "Close document"
+msgstr "ปิดเอกสาร"
+
+#. +> trunk6
+#: kstandardaction_p.h:70
+#, fuzzy
+#| msgid "Print"
+msgid "&Print…"
+msgstr "พิมพ์"
+
+#. +> trunk5
+#: kstandardaction_p.h:37
+msgid "&Print..."
+msgstr "&พิมพ์..."
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:70
+#, fuzzy
+#| msgctxt "keyboard-key-name"
+#| msgid "PrintScreen"
+msgid "Print document"
+msgstr "PrintScreen"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:71
+msgid "Print Previe&w"
+msgstr "&ตัวอย่างก่อนพิมพ์"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:71
+msgid "Show a print preview of document"
+msgstr ""
+
+#. +> trunk6
+#: kstandardaction_p.h:72
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "Mail"
+msgid "&Mail…"
+msgstr "เมล"
+
+#. +> trunk5
+#: kstandardaction_p.h:39
+msgid "&Mail..."
+msgstr "&อีเมล..."
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:72
+#, fuzzy
+#| msgid "Close Document"
+msgid "Send document by mail"
+msgstr "ปิดเอกสาร"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:73
+msgid "&Quit"
+msgstr "&ออก"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:73
+msgid "Quit application"
+msgstr "ออกจากโปรแกรม"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:75
+msgid "&Undo"
+msgstr "เ&ลิกทำ"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:75
+#, fuzzy
+#| msgctxt "A link to make a donation for a Get Hot New Stuff item (opens a web browser)"
+#| msgid "Make a donation"
+msgid "Undo last action"
+msgstr "ต้องการบริจาค"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:76
+msgid "Re&do"
+msgstr "&ทำซ้ำ"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:76
+#, fuzzy
+#| msgctxt "A link to make a donation for a Get Hot New Stuff item (opens a web browser)"
+#| msgid "Make a donation"
+msgid "Redo last undone action"
+msgstr "ต้องการบริจาค"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:77
+msgid "Cu&t"
+msgstr "&ตัด"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:77
+msgid "Cut selection to clipboard"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:78
+msgid "&Copy"
+msgstr "&คัดลอก"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:78
+msgid "Copy selection to clipboard"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:79
+msgid "&Paste"
+msgstr "&วาง"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:79
+#, fuzzy
+#| msgid "Upload content"
+msgid "Paste clipboard content"
+msgstr "อัปโหลดเนื้อหา"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:80
+msgid "C&lear"
+msgstr "&ล้าง"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:81
+msgid "Select &All"
+msgstr "เลือกทั้งห&มด"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:82
+msgid "Dese&lect"
+msgstr "ยกเลิก&การเลือก"
+
+#. +> trunk6
+#: kstandardaction_p.h:83
+#, fuzzy
+#| msgid "&Find"
+msgid "&Find…"
+msgstr "&ค้นหา"
+
+#. +> trunk5
+#: kstandardaction_p.h:53
+msgid "&Find..."
+msgstr "ค้น&หา..."
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:84
+msgid "Find &Next"
+msgstr "ค้&นหาตัวต่อไป"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:85
+msgid "Find Pre&vious"
+msgstr "ค้นหาก่อ&นหน้านี้"
+
+#. +> trunk6
+#: kstandardaction_p.h:86
+#, fuzzy
+#| msgid "&Replace"
+msgid "&Replace…"
+msgstr "แท&นที่"
+
+#. +> trunk5
+#: kstandardaction_p.h:56
+msgid "&Replace..."
+msgstr "แ&ทนที่..."
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:88
+#, fuzzy
+#| msgid "&Actual Size"
+msgid "Zoom to &Actual Size"
+msgstr "ขนาด&จริง"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:88
+msgid "View document at its actual size"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:89
+msgid "&Fit to Page"
+msgstr "&พอดีกับทั้งหน้า"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:89
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "Go to Line"
+msgid "Zoom to fit page in window"
+msgstr "ไปบรรทัดที่"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:90
+msgid "Fit to Page &Width"
+msgstr "พอดีกับความ&กว้างหน้า"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:90
+msgid "Zoom to fit page width in window"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:91
+msgid "Fit to Page &Height"
+msgstr "พอดีกับความ&สูงหน้า"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:91
+msgid "Zoom to fit page height in window"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:92
+msgid "Zoom &In"
+msgstr "ดู&ขยาย"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:93
+msgid "Zoom &Out"
+msgstr "ดู&ย่อ"
+
+#. +> trunk6
+#: kstandardaction_p.h:94
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "Zoom"
+msgid "&Zoom…"
+msgstr "ดูย่อ/ขยาย"
+
+#. +> trunk5
+#: kstandardaction_p.h:64
+msgid "&Zoom..."
+msgstr "ดูย่อ/ขยาย..."
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:94
+#, fuzzy
+#| msgid "Select a week"
+msgid "Select zoom level"
+msgstr "เลือกสัปดาห์"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:95
+msgid "&Refresh"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:95
+#, fuzzy
+#| msgid "&Redisplay"
+msgid "Refresh document"
+msgstr "เรียกแ&สดงใหม่"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:97
+msgid "&Up"
+msgstr "&ขึ้น"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:97
+msgid "Go up"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:102
+msgid "&Previous Page"
+msgstr "หน้า&ก่อน"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:102
+#, fuzzy
+#| msgid "&Previous Page"
+msgid "Go to previous page"
+msgstr "หน้า&ก่อน"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:103
+msgid "&Next Page"
+msgstr "หน้า&ถัดไป"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:103
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "Go to Line"
+msgid "Go to next page"
+msgstr "ไปบรรทัดที่"
+
+#. +> trunk6
+#: kstandardaction_p.h:104
+#, fuzzy
+#| msgid "&Go To..."
+msgid "&Go To…"
+msgstr "ไป&ยัง..."
+
+#. +> trunk5
+#: kstandardaction_p.h:74
+msgid "&Go To..."
+msgstr "ไป&ยัง..."
+
+#. +> trunk6
+#: kstandardaction_p.h:105
+#, fuzzy
+#| msgid "&Go to Page..."
+msgid "&Go to Page…"
+msgstr "ไป&ยังหน้า..."
+
+#. +> trunk5
+#: kstandardaction_p.h:75
+msgid "&Go to Page..."
+msgstr "ไป&ยังหน้า..."
+
+#. +> trunk6
+#: kstandardaction_p.h:106
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "Go to Line"
+msgid "&Go to Line…"
+msgstr "ไปบรรทัดที่"
+
+#. +> trunk5
+#: kstandardaction_p.h:76
+msgid "&Go to Line..."
+msgstr "ไป&ยังบรรทัด..."
+
+#. +> trunk5
+#: kstandardaction_p.h:106
+msgid "Tip of the &Day"
+msgstr "คำแนะนำประจำ&วัน"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:107
+msgid "&First Page"
+msgstr "หน้าแ&รก"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:107
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "Go to Line"
+msgid "Go to first page"
+msgstr "ไปบรรทัดที่"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:108
+msgid "&Last Page"
+msgstr "หน้าสุ&ดท้าย"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:108
+#, fuzzy
+#| msgid "&Go to Page..."
+msgid "Go to last page"
+msgstr "ไป&ยังหน้า..."
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:109
+msgid "&Back"
+msgstr "&ย้อนกลับ"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:109
+#, fuzzy
+#| msgid "&Back in the Document"
+msgid "Go back in document"
+msgstr "&ย้อนกลับในเอกสาร"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:110
+#, fuzzy
+#| msgctxt "go forward"
+#| msgid "&Forward"
+msgid "&Forward"
+msgstr "&ต่อไป"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:110
+#, fuzzy
+#| msgid "&Forward in the Document"
+msgid "Go forward in document"
+msgstr "เดินหน้า&ต่อไปในเอกสาร"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:112
+msgid "&Add Bookmark"
+msgstr "เ&พิ่มคั่นหน้า"
+
+#. +> trunk6
+#: kstandardaction_p.h:113
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "Edit Bookmarks"
+msgid "&Edit Bookmarks…"
+msgstr "แก้ไขที่คั่นหน้า"
+
+#. +> trunk5
+#: kstandardaction_p.h:83
+msgid "&Edit Bookmarks..."
+msgstr "แ&ก้ไขที่คั่นหน้า..."
+
+#. +> trunk6
+#: kstandardaction_p.h:115
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "Spelling"
+msgid "&Spelling…"
+msgstr "ตรวจคำสะกด"
+
+#. +> trunk5
+#: kstandardaction_p.h:85
+msgid "&Spelling..."
+msgstr "ตรวจ&คำสะกด..."
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:115
+#, fuzzy
+#| msgid "Check Spelling"
+msgid "Check spelling in document"
+msgstr "ตรวจคำสะกด"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:117
+msgid "Show &Menubar"
+msgstr "แสดงแถบเ&มนู"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:117
+#, fuzzy
+#| msgid "Show &Menubar"
+msgid "Show or hide menubar"
+msgstr "แสดงแถบเ&มนู"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:118
+msgid "Show &Toolbar"
+msgstr "แสดงแถบเ&ครื่องมือ"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:118
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "Show Toolbar"
+msgid "Show or hide toolbar"
+msgstr "แสดงแถบเครื่องมือ"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:119
+msgid "Show St&atusbar"
+msgstr "แสดงแถบ&สถานะ"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:119
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "Show Statusbar"
+msgid "Show or hide statusbar"
+msgstr "แสดงแถบสถานะ"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:120
+msgid "F&ull Screen Mode"
+msgstr "โหมดเ&ต็มหน้าจอ"
+
+#. +> trunk6
+#: kstandardaction_p.h:121
+#, fuzzy
+#| msgid "Configure S&hortcuts..."
+msgid "Configure Keyboard S&hortcuts…"
+msgstr "ปรับแต่งปุ่มพิมพ์&ลัด..."
+
+#. +> trunk5
+#: kstandardaction_p.h:94
+#, fuzzy
+#| msgid "Configure S&hortcuts..."
+msgid "Configure Keyboard S&hortcuts..."
+msgstr "ปรับแต่งปุ่มพิมพ์&ลัด..."
+
+#. +> trunk6
+#: kstandardaction_p.h:122
+#, fuzzy, kde-format
+#| msgid "&Configure %1..."
+msgid "&Configure %1…"
+msgstr "&ปรับแต่ง %1..."
+
+#. +> trunk5
+#: kstandardaction_p.h:95
+#, kde-format
+msgid "&Configure %1..."
+msgstr "&ปรับแต่ง %1..."
+
+#. +> trunk6
+#: kstandardaction_p.h:123
+#, fuzzy
+#| msgid "Configure Toolbars"
+msgid "Configure Tool&bars…"
+msgstr "ปรับแต่งแถบเครื่องมือ"
+
+#. +> trunk5
+#: kstandardaction_p.h:96
+msgid "Configure Tool&bars..."
+msgstr "ปรับแต่งแถบเ&ครื่องมือ..."
+
+#. +> trunk6
+#: kstandardaction_p.h:124
+#, fuzzy
+#| msgid "Configure Notifications"
+msgid "Configure &Notifications…"
+msgstr "ปรับแต่งการแจ้งให้ทราบ"
+
+#. +> trunk5
+#: kstandardaction_p.h:97
+msgid "Configure &Notifications..."
+msgstr "ปรับแต่งการแจ้งให้&ทราบ..."
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:128
+#, kde-format
+msgid "%1 &Handbook"
+msgstr "&คู่มือ %1"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:129
+msgid "What's &This?"
+msgstr "นี่คือ&อะไร ?"
+
+#. +> trunk6
+#: kstandardaction_p.h:130
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "Report Bug"
+msgid "&Report Bug…"
+msgstr "รายงานข้อผิดพลาด"
+
+#. +> trunk5
+#: kstandardaction_p.h:107
+msgid "&Report Bug..."
+msgstr "&รายงานข้อผิดพลาด..."
+
+#. +> trunk6
+#: kstandardaction_p.h:131
+#, fuzzy
+#| msgid "Configure Email..."
+msgid "Configure &Language…"
+msgstr "ปรับแต่งอีเมล..."
+
+#. +> trunk5
+#: kstandardaction_p.h:108
+#, fuzzy
+#| msgid "Configure Email..."
+msgid "Configure &Language..."
+msgstr "ปรับแต่งอีเมล..."
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:132
+#, kde-format
+msgid "&About %1"
+msgstr "เ&กี่ยวกับ %1"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:133
+msgid "About &KDE"
+msgstr "เกี่ยวกับ &KDE"
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:134
+#, fuzzy
+#| msgid "Delete"
+msgid "&Delete"
+msgstr "ลบ"
+
+#. +> trunk6
+#: kstandardaction_p.h:135
+#, fuzzy
+#| msgid "&Replace..."
+msgid "&Rename…"
+msgstr "แ&ทนที่..."
+
+#. +> trunk5
+#: kstandardaction_p.h:112
+#, fuzzy
+#| msgid "&Replace..."
+msgid "&Rename..."
+msgstr "แ&ทนที่..."
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:136
+msgid "&Move to Trash"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:137
+msgid "&Donate"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: kstandardaction_p.h:138
+#, fuzzy
+#| msgid "Open &Recent"
+msgid "Open &Menu"
+msgstr "เปิดที่เ&คยเรียกใช้"
+
+#. +> trunk6
+#: kstylemanager.cpp:74
+#, fuzzy, kde-format
+#| msgid "Application: "
+msgid "Application Style"
+msgstr "โปรแกรม: "
+
+#. +> trunk6 trunk5
+#: kstylemanager.cpp:78
+#, fuzzy, kde-format
+#| msgctxt "Encodings menu"
+#| msgid "Default"
+msgid "Default"
+msgstr "ค่าปริยาย"
+
+#. +> trunk5
+#: kcmodule.cpp:198
+#, kde-format
+msgid "You will be asked to authenticate before saving"
+msgstr "ถามเพื่อแสดงสิทธิ์ก่อนจะทำการบันทึก"
+
+#. +> trunk5
+#: kcmodule.cpp:202
+#, kde-format
+msgid "You are not allowed to save the configuration"
+msgstr "คุณไม่ได้รับอนุญาตให้บันทึกการปรับแต่งค่า"
+
+#. +> trunk5
+#: ktipdialog.cpp:222
+#, fuzzy, kde-format
+#| msgid "Tip of the Day"
+msgctxt "@title:window"
+msgid "Tip of the Day"
+msgstr "คำแนะนำประจำวัน"
+
+#. +> trunk5
+#: ktipdialog.cpp:238
+#, fuzzy, kde-format
+#| msgid "Did you know...?\n"
+msgctxt "@title"
+msgid "Did you know...?\n"
+msgstr "คุณทราบหรือไม่ว่า... ?\n"
+
+#. +> trunk5
+#: ktipdialog.cpp:291
+#, fuzzy, kde-format
+#| msgid "&Show tips on startup"
+msgctxt "@option:check"
+msgid "&Show tips on startup"
+msgstr "แ&สดงคำแนะนำเมื่อเริ่มทำงาน"
+
+#. +> trunk5
+#: ktipdialog.cpp:296
+#, fuzzy, kde-format
+#| msgid "&Previous"
+msgctxt "@action:button Goes to previous tip"
+msgid "&Previous"
+msgstr "&ก่อนหน้า"
+
+#. +> trunk5
+#: ktipdialog.cpp:301
+#, fuzzy, kde-format
+#| msgid "&Next"
+msgctxt "@action:button Goes to next tip, opposite to previous"
+msgid "&Next"
+msgstr "&ถัดไป"

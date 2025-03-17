@@ -1,0 +1,203 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kdenlive Manual \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-27 10:57+0200\n"
+"PO-Revision-Date: 2025-03-17 14:52+0700\n"
+"Last-Translator: Thai Translator <none>\n"
+"Language-Team: Thai <kde-i18n-docs@kde.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:1
+msgid "Kdenlive Video Effects - Transpose"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:1
+msgid "KDE, Kdenlive, video editor, help, learn, easy, effects, filter, video effects, transform, distort, perspective, transpose"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:14
+msgid "Transpose"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:25
+msgid "Maintained"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:27
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:35
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:37
+msgid "No"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:29
+msgid "avfilter"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:31
+msgid "transpose"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:33
+msgid "|linux| |appimage| |windows| |apple|"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:43
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:57
+msgid "Description"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:44
+msgid "This effect/filter transposes rows with columns in the clip and optionally flips it. This is useful if a video recorded with a smartphone is imported as a landscape clip."
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:48
+msgid "Parameters"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:55
+msgid "Parameter"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:56
+msgid "Value"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:58
+msgid "Direction"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:59
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:62
+msgid "Selection"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:60
+msgid "Set the direction of the transposition"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:61
+msgid "Override if"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:63
+msgid "Override the transposition if clip is identified as **Portrait** or **Landscape**. Select **None** if you want to transpose regardless."
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:65
+msgid "The following selection items are available:"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:67
+msgid ":guilabel:`Direction`"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:74
+msgid "Clock"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:75
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:91
+msgid "default"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:76
+msgid "Clock flip"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:78
+msgid "Counter clock"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:80
+msgid "Counter clock flip"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:83
+msgid ":guilabel:`Override if`"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:90
+msgid "None"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:92
+msgid "Portrait"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:94
+msgid "Landscape"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:99
+msgid "Many smartphones and digital cameras nowadays set an ``autorotate`` flag in the recorded video. Kdenlive can read the flag, and transposes videos automatically when importing. Check the clip's :doc:`properties</project_and_asset_management/project_bin/clip_properties>` if you want Kdenlive to handle that differently and set the :guilabel:`Disable autorotate` to any other value than 0 (default) or switch it to **On**."
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:0
+msgid "**Status**"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:0
+msgid "**Keyframes**"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:0
+msgid "**Source library**"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:0
+msgid "**Source filter**"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:0
+msgid "**Available**"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:0
+msgid "**On Master only**"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/transpose.rst:0
+msgid "**Known bugs**"
+msgstr ""

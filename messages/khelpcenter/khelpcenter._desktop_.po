@@ -1,0 +1,195 @@
+# translation of desktop_kdebase.po to Thai
+#
+# Thanomsub Noppaburana <donga_n@yahoo.com>, 2003, 2005.
+# Narachai Sakorn <narachai@opentle.org>, 2005.
+# Sahachart Anukulkitch <drrider@gmail.com>, 2005, 2006, 2007, 2008.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008, 2010.
+# Narachai Sakorn <narachai@gmail.com>, 2008.
+# Phuwanat Sakornsakolpat <narachai@gmail.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdebase\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-03-07 10:46+0100\n"
+"PO-Revision-Date: 2010-12-31 22:16+0700\n"
+"Last-Translator: Phuwanat Sakornsakolpat <narachai@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#: khelpcenter.desktop:2
+msgctxt "Name"
+msgid "KHelpCenter"
+msgstr "ศูนย์ช่วยเหลือ-K"
+
+#. +> trunk6 stable6
+#: khelpcenter.desktop:95
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "More Applications"
+msgctxt "Comment"
+msgid "Help for applications"
+msgstr "โปรแกรมอื่น ๆ เพิ่มเติม"
+
+#. +> trunk6 stable6
+#: org.kde.khelpcenter.desktop:9
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "KHelpCenter"
+msgctxt "Name"
+msgid "Help Center"
+msgstr "ศูนย์ช่วยเหลือ-K"
+
+#. +> trunk6 stable6
+#: org.kde.khelpcenter.desktop:46
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "KHelpCenter"
+msgctxt "GenericName"
+msgid "Help Center"
+msgstr "ศูนย์ช่วยเหลือ-K"
+
+#. +> trunk6 stable6
+#: org.kde.khelpcenter.desktop:102
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Browser Identification"
+msgctxt "Comment"
+msgid "Browse and search documentation"
+msgstr "การแสดงตัวของเบราว์เซอร์"
+
+#. +> trunk6 stable6
+#: org.kde.khelpcenter.desktop:157
+msgctxt "Keywords|man as in man pages"
+msgid "man;info;documentation;handbook;manual;information;"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/Applications/.directory:3
+msgctxt "Name"
+msgid "Application Manuals"
+msgstr "คู่มือของโปรแกรมต่าง ๆ"
+
+#. +> trunk6 stable6
+#: plugins/fundamentals.desktop:4
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "KDE Forums"
+msgctxt "Name"
+msgid "Fundamentals"
+msgstr "ฟอรัมของ KDE"
+
+#. +> trunk6 stable6
+#: plugins/info.desktop:2
+msgctxt "Name"
+msgid "Browse Info Pages"
+msgstr "เรียกดูหน้าข้อมูล (info)"
+
+#. +> trunk6 stable6
+#: plugins/kcontrolmodules.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "System Settings View"
+msgctxt "Name"
+msgid "System Settings Modules"
+msgstr "มุมมองของตั้งค่าระบบ"
+
+#. +> trunk6 stable6
+#: plugins/kicmodules.desktop:2
+msgctxt "Name"
+msgid "KInfoCenter Modules"
+msgstr "มอดูลของศูนย์ข้อมูล"
+
+#. +> trunk6 stable6
+#: plugins/kioworkers.desktop:4
+msgctxt "Name"
+msgid "KIO Workers"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/Manpages/.directory:2
+msgctxt "Name"
+msgid "UNIX manual pages"
+msgstr "หน้าคู่มือ UNIX"
+
+#. +> trunk6 stable6
+#: plugins/Manpages/man1.desktop:2
+msgctxt "Name"
+msgid "(1) User Commands"
+msgstr "(1) คำสั่งต่าง ๆ ของผู้ใช้"
+
+#. +> trunk6 stable6
+#: plugins/Manpages/man2.desktop:2
+msgctxt "Name"
+msgid "(2) System Calls"
+msgstr "(2) คำสั่งต่าง ๆ ของระบบ"
+
+#. +> trunk6 stable6
+#: plugins/Manpages/man3.desktop:2
+msgctxt "Name"
+msgid "(3) Subroutines"
+msgstr "(3) รูทีนย่อยต่าง ๆ"
+
+#. +> trunk6 stable6
+#: plugins/Manpages/man4.desktop:2
+msgctxt "Name"
+msgid "(4) Devices"
+msgstr "(4) อุปกรณ์ต่าง ๆ"
+
+#. +> trunk6 stable6
+#: plugins/Manpages/man5.desktop:2
+msgctxt "Name"
+msgid "(5) File Formats"
+msgstr "(5) รูปแบบแฟ้มต่าง ๆ"
+
+#. +> trunk6 stable6
+#: plugins/Manpages/man6.desktop:2
+msgctxt "Name"
+msgid "(6) Games"
+msgstr "(6) เกมต่าง ๆ"
+
+#. +> trunk6 stable6
+#: plugins/Manpages/man7.desktop:2
+msgctxt "Name"
+msgid "(7) Miscellaneous"
+msgstr "(7) เบ็ดเตล็ด"
+
+#. +> trunk6 stable6
+#: plugins/Manpages/man8.desktop:2
+msgctxt "Name"
+msgid "(8) Sys. Administration"
+msgstr "(8) ผู้ดูแลระบบ"
+
+#. +> trunk6 stable6
+#: plugins/Manpages/man9.desktop:2
+msgctxt "Name"
+msgid "(9) Kernel"
+msgstr "(9) เคอร์เนล"
+
+#. +> trunk6 stable6
+#: plugins/Manpages/mann.desktop:2
+msgctxt "Name"
+msgid "(n) New"
+msgstr "(n) หมวดใหม่"
+
+#. +> trunk6 stable6
+#: plugins/onlinehelp.desktop:2
+msgctxt "Name"
+msgid "Online Help"
+msgstr "ความช่วยเหลือออนไลน์"
+
+#. +> trunk6 stable6
+#: plugins/plasma.desktop:4
+msgctxt "Name"
+msgid "Plasma Manual"
+msgstr "คู่มือของพลาสมา"
+
+#. +> trunk6 stable6
+#: plugins/Scrollkeeper/.directory:2
+msgctxt "Name"
+msgid "Scrollkeeper"
+msgstr "Scrollkeeper"

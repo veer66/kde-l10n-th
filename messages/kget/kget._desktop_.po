@@ -1,0 +1,119 @@
+# translation of desktop_kdenetwork.po to Thai
+# Thanomsub Noppaburana <donga_n@yahoo.com>, 2003.
+# Sahachart Anukulkitch <drrider@gmail.com>, 2006.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdenetwork\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-01-13 09:46+0100\n"
+"PO-Revision-Date: 2010-03-04 21:40+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#: desktop/kget_download.desktop:13
+msgctxt "Name"
+msgid "Download with KGet"
+msgstr "ดาวน์โหลดด้วย 'ดาวน์โหลด-K'"
+
+#. +> trunk6 stable6
+#: desktop/org.kde.kget.desktop.cmake:8
+msgctxt "Name"
+msgid "KGet"
+msgstr "ดาวน์โหลด-K"
+
+#. +> trunk6 stable6
+#: desktop/org.kde.kget.desktop.cmake:87
+msgctxt "GenericName"
+msgid "Download Manager"
+msgstr "เครื่องมือจัดการการดาวน์โหลด"
+
+#. +> trunk6 stable6
+#: desktop/org.kde.kget.desktop.cmake:165
+msgctxt "Comment"
+msgid "KGet is a versatile and user-friendly download manager"
+msgstr ""
+
+#. +> trunk6 stable6
+#: sounds/kget.notifyrc:4
+msgctxt "Comment"
+msgid "KGet Download Manager"
+msgstr "เครื่องมือจัดการการดาวน์โหลด (KGet)"
+
+#. +> trunk6 stable6
+#: sounds/kget.notifyrc:67
+msgctxt "Name"
+msgid "Transfer Added"
+msgstr ""
+
+#. +> trunk6 stable6
+#: sounds/kget.notifyrc:129
+msgctxt "Comment"
+msgid "A new download has been added"
+msgstr "เพิ่มการดาวน์โหลดรายการใหม่แล้ว"
+
+#. +> trunk6 stable6
+#: sounds/kget.notifyrc:200
+msgctxt "Name"
+msgid "Download Started"
+msgstr "เริ่มทำการดาวน์โหลดแล้ว"
+
+#. +> trunk6 stable6
+#: sounds/kget.notifyrc:264
+msgctxt "Comment"
+msgid "Downloading started"
+msgstr "การดาวน์โหลดเริ่มแล้ว"
+
+#. +> trunk6 stable6
+#: sounds/kget.notifyrc:337
+msgctxt "Name"
+msgid "Download Finished"
+msgstr "ดาวน์โหลดเสร็จสิ้นแล้ว"
+
+#. +> trunk6 stable6
+#: sounds/kget.notifyrc:401
+msgctxt "Comment"
+msgid "Downloading finished"
+msgstr "การดาวน์โหลดเสร็จสิ้นแล้ว"
+
+#. +> trunk6 stable6
+#: sounds/kget.notifyrc:472
+msgctxt "Name"
+msgid "All Downloads Finished"
+msgstr "การดาวน์โหลดทั้งหมดเสร็จสิ้นแล้ว"
+
+#. +> trunk6 stable6
+#: sounds/kget.notifyrc:535
+msgctxt "Comment"
+msgid "All downloads finished"
+msgstr "การดาวน์โหลดทั้งหมดเสร็จสิ้นแล้ว"
+
+#. +> trunk6 stable6
+#: sounds/kget.notifyrc:606
+msgctxt "Name"
+msgid "Error Occurred"
+msgstr "เกิดข้อผิดพลาดขึ้น"
+
+#. +> trunk6 stable6
+#: sounds/kget.notifyrc:665
+msgctxt "Comment"
+msgid "An Error has Occurred"
+msgstr "เกิดข้อผิดพลาดขึ้น"
+
+#. +> trunk6 stable6
+#: sounds/kget.notifyrc:729
+msgctxt "Name"
+msgid "Information"
+msgstr "ข้อมูลรายละเอียด"
+
+#. +> trunk6 stable6
+#: sounds/kget.notifyrc:796
+msgctxt "Comment"
+msgid "User Notified of Information"
+msgstr ""

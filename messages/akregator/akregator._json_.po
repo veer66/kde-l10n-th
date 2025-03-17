@@ -1,0 +1,135 @@
+# translation of desktop_kdepim.po to Thai
+# Thanomsub Noppaburana <donga_n@yahoo.com>, 2005.
+# ถนอมทรัพย์ นพบูรณ์ <donga_n@yahoo.com>, 2005.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdepim\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-02-16 00:15+0100\n"
+"PO-Revision-Date: 2008-07-21 23:39+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#: configuration/akregator_config_advanced.json
+msgctxt "Name"
+msgid "Advanced"
+msgstr "ขั้นสูง"
+
+#. +> trunk6 stable6
+#: configuration/akregator_config_advanced.json
+msgctxt "Description"
+msgid "Advanced Feed Reader Settings"
+msgstr ""
+
+#. +> trunk6 stable6
+#: configuration/akregator_config_appearance.json
+msgctxt "Name"
+msgid "Appearance"
+msgstr "รูปลักษณ์"
+
+#. +> trunk6 stable6
+#: configuration/akregator_config_appearance.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure Feeds"
+msgctxt "Description"
+msgid "Configure the Feed Reader Appearance"
+msgstr "ปรับแต่งแหล่งป้อน"
+
+#. +> trunk6 stable6
+#: configuration/akregator_config_archive.json
+msgctxt "Name"
+msgid "Archive"
+msgstr ""
+
+#. +> trunk6 stable6
+#: configuration/akregator_config_archive.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure Feeds"
+msgctxt "Description"
+msgid "Configure Feed Archive"
+msgstr "ปรับแต่งแหล่งป้อน"
+
+#. +> trunk6 stable6
+#: configuration/akregator_config_browser.json
+msgctxt "Name"
+msgid "Browser"
+msgstr "เบราเซอร์"
+
+#. +> trunk6 stable6
+#: configuration/akregator_config_browser.json
+msgctxt "Description"
+msgid "Configure Internal Browser Component"
+msgstr ""
+
+#. +> trunk6 stable6
+#: configuration/akregator_config_general.json
+msgctxt "Name"
+msgid "General"
+msgstr "ค่าทั่วไป"
+
+#. +> trunk6 stable6
+#: configuration/akregator_config_general.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure Feeds"
+msgctxt "Description"
+msgid "Configure Feeds"
+msgstr "ปรับแต่งแหล่งป้อน"
+
+#. +> trunk6 stable6
+#: configuration/akregator_config_plugins.json
+msgctxt "Name"
+msgid "Plugins"
+msgstr "โปรแกรมเสริม"
+
+#. +> trunk6 stable6
+#: configuration/akregator_config_plugins.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure Feeds"
+msgctxt "Description"
+msgid "Configure Plugins"
+msgstr "ปรับแต่งแหล่งป้อน"
+
+#. +> trunk6 stable6
+#: configuration/akregator_config_security.json
+msgctxt "Name"
+msgid "Security"
+msgstr "ความปลอดภัย"
+
+#. +> trunk6 stable6
+#: configuration/akregator_config_security.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure the Custom Pages"
+msgctxt "Description"
+msgid "Configure Security"
+msgstr "ปรับแต่งหน้ากำหนดเอง"
+
+#. +> trunk6 stable6
+#: configuration/akregator_config_userfeedback.json
+msgctxt "Name"
+msgid "User Feedback"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kontactplugin/akregatorplugin.json
+msgctxt "Name"
+msgid "Feeds"
+msgstr "แหล่งป้อน"
+
+#. +> trunk6 stable6
+#: kontactplugin/akregatorplugin.json
+#, fuzzy
+msgctxt "Description"
+msgid "Akregator Plugin"
+msgstr "Comment=ปลั๊กอินภาพ"

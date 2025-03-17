@@ -1,0 +1,370 @@
+# translation of systemsettings.po to Thai
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Sahachart Anukulkitch <drrider@gmail.com>, 2007.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008, 2010.
+# SPDX-FileCopyrightText: 2025 Pongsakorn S. <kde@xerusion.me>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: systemsettings\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-03-04 10:08+0100\n"
+"PO-Revision-Date: 2025-03-03 20:19+0700\n"
+"Last-Translator: Pongsakorn S. <kde@xerusion.me>\n"
+"Language-Team: Thai\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6 stable5
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "สหชาติ อนุกูลกิจ, ถนอมทรัพย์ นพบูรณ์"
+
+#. +> trunk6 stable6 stable5
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "drrider@gmail.com, donga.nb@gmail.com"
+
+#. +> trunk6 stable6 stable5
+#: app/ExternalAppModule.cpp:26
+#, kde-format
+msgid "%1 is an external application and has been automatically launched"
+msgstr "โปรแกรม %1 เป็นโปรแกรมภายนอก และจะถูกเรียกใช้งานโดยอัตโนมัติ"
+
+#. +> trunk6 stable6 stable5
+#: app/ExternalAppModule.cpp:27
+#, kde-format
+msgid "Relaunch %1"
+msgstr "เรียกให้ %1 ทำงานใหม่"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, ExternalModule)
+#. +> trunk6 stable6 stable5
+#: app/externalModule.ui:14
+#, kde-format
+msgid "Dialog"
+msgstr "กล่องโต้ตอบ"
+
+#. +> trunk6 stable6 stable5
+#: app/main.cpp:54 app/SettingsBase.cpp:53
+#, kde-format
+msgid "Info Center"
+msgstr "ศูนย์ข้อมูล"
+
+#. +> trunk6 stable6 stable5
+#: app/main.cpp:56
+#, kde-format
+msgid "Centralized and convenient overview of system information."
+msgstr "ศูนย์รวมข้อมูลระบบที่สะดวก"
+
+#. +> trunk6 stable6 stable5
+#: app/main.cpp:58 app/main.cpp:69
+#, kde-format
+msgid "(c) 2009, Ben Cooksley"
+msgstr "สงวนลิขสิทธิ์ (c) 2552, Ben Cooksley"
+
+#. +> trunk6 stable6 stable5
+#: app/main.cpp:65 app/qml/IntroPage.qml:51 app/SettingsBase.cpp:56
+#: runner/systemsettingsrunner.cpp:112
+#, kde-format
+msgid "System Settings"
+msgstr "ตั้งค่าระบบ"
+
+#. +> trunk6 stable6 stable5
+#: app/main.cpp:67
+#, kde-format
+msgid "Central configuration center by KDE."
+msgstr "ศูนย์รวมการกำหนดค่าโดย KDE"
+
+#. +> trunk6 stable6 stable5
+#: app/main.cpp:80
+#, kde-format
+msgid "Ben Cooksley"
+msgstr "Ben Cooksley"
+
+#. +> trunk6 stable6 stable5
+#: app/main.cpp:80
+#, kde-format
+msgid "Maintainer"
+msgstr "ผู้ดูแล"
+
+#. +> trunk6 stable6 stable5
+#: app/main.cpp:81
+#, kde-format
+msgid "Marco Martin"
+msgstr "Marco Martin"
+
+#. +> trunk6 stable6 stable5
+#: app/main.cpp:81
+#, kde-format
+msgid "Author"
+msgstr "ผู้เขียน"
+
+#. +> trunk6 stable6 stable5
+#: app/main.cpp:82
+#, kde-format
+msgid "Mathias Soeken"
+msgstr "Mathias Soeken"
+
+#. +> trunk6 stable6 stable5
+#: app/main.cpp:82
+#, kde-format
+msgid "Developer"
+msgstr "ผู้พัฒนา"
+
+#. +> trunk6 stable6 stable5
+#: app/main.cpp:83
+#, kde-format
+msgid "Will Stephenson"
+msgstr "Will Stephenson"
+
+#. +> trunk6 stable6 stable5
+#: app/main.cpp:83
+#, kde-format
+msgid "Internal module representation, internal module model"
+msgstr "ตัวแทนของมอดูลภายใน, โมเดลของมอดูลภายใน"
+
+#. +> trunk6 stable6 stable5
+#: app/main.cpp:91
+#, kde-format
+msgid "List all possible modules"
+msgstr "รายชื่อโมดูลที่เป็นไปได้ทั้งหมด"
+
+#. +> trunk6 stable6 stable5
+#: app/main.cpp:92 app/main.cpp:153
+#, kde-format
+msgid "Configuration module to open"
+msgstr "ปรับแต่งมอดูลที่จะเปิด"
+
+#. +> trunk6 stable6 stable5
+#: app/main.cpp:93 app/main.cpp:154
+#, kde-format
+msgid "Arguments for the module"
+msgstr "อาร์กิวเมนต์สำหรับโมดูล"
+
+#. +> trunk6 stable6 stable5
+#: app/main.cpp:101
+#, kde-format
+msgid "The following modules are available:"
+msgstr "มีโมดูลต่อไปนี้:"
+
+#. +> trunk6 stable6 stable5
+#: app/main.cpp:119
+#, kde-format
+msgid "No description available"
+msgstr "ไม่มีคําอธิบาย"
+
+#. +> trunk6 stable6 stable5
+#: app/ModuleView.cpp:184
+#, kde-format
+msgid "Reset all current changes to previous values"
+msgstr "ปรับค่าต่าง ๆ ที่เปลี่ยนแปลงไปให้กลับคืนสู่ค่าก่อนหน้า"
+
+#. +> trunk6 stable6
+#: app/ModuleView.cpp:362
+#, kde-format
+msgid ""
+"The current page has unsaved changes.\n"
+"Apply the changes or discard them?"
+msgstr ""
+"หน้าปัจจุบันมีการเปลี่ยนแปลงที่ยังไม่ได้บันทึก \n"
+"ใช้การเปลี่ยนแปลงนั้นหรือยกเลิกการเปลี่ยนแปลงนั้น?"
+
+#. +> trunk6 stable6 stable5
+#: app/ModuleView.cpp:367
+#, kde-format
+msgid "Apply Settings"
+msgstr "ปรับใช้ค่าที่ตั้งไว้"
+
+#. +> trunk6 stable6 stable5
+#: app/qml/CategoriesPage.qml:106
+#, kde-format
+msgctxt "A search yielded no results"
+msgid "No items matching your search"
+msgstr "ไม่มีรายการที่ตรงกับการค้นหาของคุณ"
+
+#. +> trunk6 stable6 stable5
+#: app/qml/HamburgerMenuButton.qml:25
+#, kde-format
+msgid "Show menu"
+msgstr "แสดงเมนู"
+
+#. +> trunk6 stable6 stable5
+#: app/qml/IntroPage.qml:44
+#, kde-format
+msgid "Plasma"
+msgstr "Plasma"
+
+#. +> stable5
+#: app/SettingsBase.cpp:60
+#, kde-format
+msgctxt "Search through a list of control modules"
+msgid "Search"
+msgstr "ค้นหา"
+
+#. +> trunk6 stable6 stable5
+#: app/SettingsBase.cpp:136
+#, kde-format
+msgid "Highlight Changed Settings"
+msgstr "ไฮไลท์การตั้งค่าที่เปลี่ยนไป"
+
+#. +> trunk6 stable6 stable5
+#: app/SettingsBase.cpp:147
+#, kde-format
+msgid "Report a Bug in the Current Page…"
+msgstr "รายงานข้อบกพร่องในหน้าปัจจุบัน..."
+
+#. +> stable5
+#: app/SettingsBase.cpp:157
+#, fuzzy, kde-format
+#| msgid "Icon View"
+msgid "Switch to Icon View"
+msgstr "มุมมองไอคอน"
+
+#. +> stable5
+#: app/SettingsBase.cpp:164
+#, kde-format
+msgid "Switch to Sidebar View"
+msgstr ""
+
+#. +> stable5
+#: app/SettingsBase.cpp:211
+#, kde-format
+msgid "Help"
+msgstr "ช่วยเหลือ"
+
+#. +> stable5
+#: app/SettingsBase.cpp:368
+#, kde-format
+msgid "System Settings was unable to find any views, and hence has nothing to display."
+msgstr "ตั้งค่าระบบ ไม่พบมุมมองใด ๆ เลย ดังนั้นจึงไม่สามารถแสดงอะไรให้เห็นได้"
+
+#. +> stable5
+#: app/SettingsBase.cpp:369
+#, kde-format
+msgid "No views found"
+msgstr "ไม่พบมุมมองใด ๆ"
+
+#. +> stable5
+#: app/SettingsBase.cpp:427
+#, kde-format
+msgid "About Active View"
+msgstr "เกี่ยวกับมุมมองที่ใช้งานอยู่"
+
+#. +> stable5
+#: app/SettingsBase.cpp:498
+#, kde-format
+msgid "About %1"
+msgstr "เกี่ยวกับ %1"
+
+#. +> trunk6 stable6 stable5
+#: app/SidebarMode.cpp:586
+#, kde-format
+msgid "Sidebar"
+msgstr "แถบข้าง"
+
+#. +> trunk6 stable6 stable5
+#: app/SidebarMode.cpp:655
+#, kde-format
+msgid "Most Used"
+msgstr "ใช้มากที่สุด"
+
+#. +> trunk6 stable6 stable5
+#: runner/systemsettingsrunner.cpp:32
+#, kde-format
+msgid "Finds system settings modules whose names or descriptions match :q:"
+msgstr "ค้นหาโมดูลการตั้งค่าระบบที่มีชื่อหรือคําอธิบายตรงกับ :q:"
+
+#. +> trunk6 stable6 stable5
+#: runner/systemsettingsrunner.cpp:110
+#, kde-format
+msgid "System Information"
+msgstr "ข้อมูลระบบ"
+
+#. i18n: ectx: label, entry (ActiveView), group (Main)
+#. +> stable5
+#: app/systemsettings.kcfg:9
+#, kde-format
+msgid "Internal name for the view used"
+msgstr "ชื่อภายในสำหรับใช้กับมุมมอง"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#. +> stable5
+#: app/systemsettingsui.rc:15
+#, kde-format
+msgid "About System Settings"
+msgstr "เกี่ยวกับ ตั้งค่าระบบ"
+
+#. +> stable5
+#: app/ToolTips/tooltipmanager.cpp:188
+#, fuzzy, kde-format
+#| msgid "<i>Contains 1 item</i>"
+#| msgid_plural "<i>Contains %1 items</i>"
+msgid "Contains 1 item"
+msgid_plural "Contains %1 items"
+msgstr[0] "<i>มีอยู่ %1 รายการ</i>"
+
+#. +> stable5
+#: core/ModuleView.cpp:331
+#, kde-format
+msgid ""
+"The settings of the current module have changed.\n"
+"Do you want to apply the changes or discard them?"
+msgstr ""
+"มีการเปลี่ยนแปลงที่ยังไม่ได้บันทึกในมอดูลที่ใช้งานอยู่\n"
+"คุณต้องการที่จะนำการเปลี่ยนแปลงไปใช้งาน หรือทิ้งไป ?"
+
+#. +> stable5
+#: icons/IconMode.cpp:54
+#, kde-format
+msgid "Icon View"
+msgstr "มุมมองไอคอน"
+
+#. +> stable5
+#: icons/IconMode.cpp:56
+#, kde-format
+msgid "Provides a categorized icons view of control modules."
+msgstr "แสดงมอดูลควบคุมในรูปแบบไอคอนที่จัดเป็นหมวดหมู่"
+
+#. +> stable5
+#: icons/IconMode.cpp:63
+#, fuzzy, kde-format
+#| msgid "Apply Settings"
+msgid "All Settings"
+msgstr "ปรับใช้ค่าที่ตั้งไว้"
+
+#. +> stable5
+#: icons/IconMode.cpp:64
+#, kde-format
+msgid "Keyboard Shortcut: %1"
+msgstr "ปุ่มพิมพ์ลัด: %1"
+
+#. +> stable5
+#: sidebar/package/contents/ui/CategoriesPage.qml:56
+#, kde-format
+msgid "Show intro page"
+msgstr ""
+
+#. +> stable5
+#: sidebar/SidebarMode.cpp:166
+#, kde-format
+msgid "Sidebar View"
+msgstr ""
+
+#. +> stable5
+#: sidebar/SidebarMode.cpp:168
+#, fuzzy, kde-format
+#| msgid "Provides a categorized icons view of control modules."
+msgid "Provides a categorized sidebar for control modules."
+msgstr "แสดงมอดูลควบคุมในรูปแบบไอคอนที่จัดเป็นหมวดหมู่"
+
+#. +> stable5
+#: sidebar/SidebarMode.cpp:170
+#, kde-format
+msgid "(c) 2017, Marco Martin"
+msgstr ""

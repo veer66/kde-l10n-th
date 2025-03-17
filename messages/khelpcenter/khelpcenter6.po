@@ -1,0 +1,550 @@
+# translation of khelpcenter.po to Thai
+# Copyright (C) 2003, 2005, 2007, 2008 Free Software Foundation, Inc.
+# Thanomsub Noppaburana <donga_n@yahoo.com>, 2003, 2005.
+# Sahachart Anukulkitch <drrider@gmail.com>, 2007.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: khelpcenter\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-11-07 10:22+0100\n"
+"PO-Revision-Date: 2010-02-28 00:07+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ถนอมทรัพย์ นพบูรณ์"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "donga.nb@gmail.com"
+
+#. +> trunk6 stable6
+#: application.cpp:30
+#, fuzzy, kde-format
+#| msgid "Document to be indexed"
+msgid "Documentation to open"
+msgstr "เอกสารที่จะสร้างดัชนีค้นหา"
+
+#. +> trunk6 stable6
+#: application.cpp:103 application.cpp:105
+#, kde-format
+msgid "Help Center"
+msgstr "ศูนย์ช่วยเหลือ"
+
+#. +> trunk6 stable6
+#: application.cpp:107
+#, fuzzy, kde-format
+#| msgid "(c) 1999-2003, The KHelpCenter developers"
+msgid "(c) 1999-2023, The KHelpCenter developers"
+msgstr "(c) 1999-2003, ทีมผู้พัฒนาระบบช่วยเหลือ KDE"
+
+#. +> trunk6 stable6
+#: application.cpp:109
+#, kde-format
+msgid "Current maintainer"
+msgstr ""
+
+#. +> trunk6 stable6
+#: application.cpp:110
+#, kde-format
+msgid "Xapian-based search, lot of bugfixes"
+msgstr ""
+
+#. +> trunk6 stable6
+#: application.cpp:111
+#, kde-format
+msgid "Former maintainer"
+msgstr ""
+
+#. +> trunk6 stable6
+#: application.cpp:113
+#, kde-format
+msgid "Original Author"
+msgstr "ผู้เขียนดั้งเดิม"
+
+#. +> trunk6 stable6
+#: application.cpp:114
+#, kde-format
+msgid "Info page support"
+msgstr "รองรับหน้าข้อมูล (Info)"
+
+#. +> trunk6 stable6
+#: docmetainfo.cpp:36
+#, kde-format
+msgid "Top-Level Documentation"
+msgstr "บนสุดของระบบเอกสาร"
+
+#. +> trunk6 stable6
+#: docmetainfo.cpp:79
+#, kde-format
+msgctxt "doctitle (language)"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#. +> trunk6 stable6
+#: docmetainfo.cpp:112
+#, kde-format
+msgctxt "Describes documentation entries that are in English"
+msgid "English"
+msgstr "ภาษาอังกฤษ"
+
+#. +> trunk6 stable6
+#: fontdialog.cpp:36
+#, kde-format
+msgid "Font Configuration"
+msgstr "ปรับแต่งแบบอักษร"
+
+#. +> trunk6 stable6
+#: fontdialog.cpp:62
+#, kde-format
+msgid "Sizes"
+msgstr "ขนาด"
+
+#. +> trunk6 stable6
+#: fontdialog.cpp:66
+#, kde-format
+msgctxt "The smallest size a will have"
+msgid "M&inimum font size:"
+msgstr "ขนาดเล็กสุ&ดของตัวอักษร:"
+
+#. +> trunk6 stable6
+#: fontdialog.cpp:73
+#, kde-format
+msgctxt "The normal size a font will have"
+msgid "M&edium font size:"
+msgstr "ขนาดปาน&กลางของตัวอักษร:"
+
+#. +> trunk6 stable6
+#: fontdialog.cpp:83
+#, kde-format
+msgid "Fonts"
+msgstr "แบบอักษร"
+
+#. +> trunk6 stable6
+#: fontdialog.cpp:87
+#, kde-format
+msgid "S&tandard font:"
+msgstr "แบบอักษรมาตรฐาน:"
+
+#. +> trunk6 stable6
+#: fontdialog.cpp:93
+#, kde-format
+msgid "F&ixed font:"
+msgstr "แบบอักษรความกว้างคงที่:"
+
+#. +> trunk6 stable6
+#: fontdialog.cpp:99
+#, kde-format
+msgid "S&erif font:"
+msgstr "แบบอักษร S&erif:"
+
+#. +> trunk6 stable6
+#: fontdialog.cpp:105
+#, kde-format
+msgid "S&ans serif font:"
+msgstr "แบบอักษร S&ans serif:"
+
+#. +> trunk6 stable6
+#: fontdialog.cpp:111
+#, kde-format
+msgid "&Italic font:"
+msgstr "แบบอักษรตัวเอียง:"
+
+#. +> trunk6 stable6
+#: fontdialog.cpp:117
+#, kde-format
+msgid "&Fantasy font:"
+msgstr "แบบอักษรแฟนตาซี:"
+
+#. +> trunk6 stable6
+#: fontdialog.cpp:126
+#, kde-format
+msgid "Encoding"
+msgstr "ชุดรหัสภาษา"
+
+#. +> trunk6 stable6
+#: fontdialog.cpp:131
+#, kde-format
+msgid "&Default encoding:"
+msgstr "ชุดรหัสภาษาปริยาย:"
+
+#. +> trunk6 stable6
+#: fontdialog.cpp:136 fontdialog.cpp:198
+#, kde-format
+msgid "Use Language Encoding"
+msgstr "ใช้ชุดรหัสภาษาของระบบ"
+
+#. +> trunk6 stable6
+#: fontdialog.cpp:140
+#, kde-format
+msgid "&Font size adjustment:"
+msgstr "ปรับขนาดแบบอักษร:"
+
+#. +> trunk6 stable6
+#: glossary.cpp:74
+#, kde-format
+msgid "By Topic"
+msgstr "ตามหัวข้อ"
+
+#. +> trunk6 stable6
+#: glossary.cpp:78 infotree.cpp:76
+#, kde-format
+msgid "Alphabetically"
+msgstr "ตามลำดับตัวอักษร"
+
+#. +> trunk6 stable6
+#: glossary.cpp:130
+#, kde-format
+msgid "Rebuilding glossary cache..."
+msgstr "กำลังสร้างแคชอภิธานศัพท์ใหม่อีกครั้ง..."
+
+#. +> trunk6 stable6
+#: glossary.cpp:178
+#, kde-format
+msgid "Rebuilding cache... done."
+msgstr "กำลังสร้างแคชใหม่อีกครั้ง... เรียบร้อยแล้ว"
+
+#. +> trunk6 stable6
+#: grantleeformatter.cpp:97
+#, fuzzy, kde-format
+#| msgid "KDE Glossary"
+msgctxt "%1 is a glossary term"
+msgid "KDE Glossary: %1"
+msgstr "อภิธานศัพท์ KDE"
+
+#. +> trunk6 stable6
+#: grantleeformatter.cpp:98
+#, kde-format
+msgid "KDE Glossary"
+msgstr "อภิธานศัพท์ KDE"
+
+#. +> trunk6 stable6
+#: grantleeformatter.cpp:102
+#, fuzzy, kde-format
+#| msgid "See also: "
+msgid "See also: %1"
+msgstr "ดูเพิ่มเติม: "
+
+#. +> trunk6 stable6
+#: grantleeformatter.cpp:122
+#, kde-format
+msgid "Search Results"
+msgstr "ผลการค้นหา"
+
+#. +> trunk6 stable6
+#: grantleeformatter.cpp:123 searchengine.cpp:266
+#, kde-format
+msgid "Search Results for '%1':"
+msgstr "ผลการค้นหาสำหรับ '%1':"
+
+#. +> trunk6 stable6
+#: infotree.cpp:79
+#, kde-format
+msgid "By Category"
+msgstr "ตามหมวดหมู่"
+
+#. i18n: ectx: label, entry, group (Search)
+#. +> trunk6 stable6
+#: khelpcenter.kcfg:31
+#, kde-format
+msgid "Path to index directory."
+msgstr "ตำแหน่งของไดเรกทอรีดัชนี"
+
+#. i18n: ectx: whatsthis, entry, group (Search)
+#. +> trunk6 stable6
+#: khelpcenter.kcfg:32
+#, kde-format
+msgid "Path to directory containing search indices."
+msgstr "ตำแหน่งที่ชี้ไปยังไดเรกทอรีที่เก็บดัชนีการค้นหา"
+
+#. i18n: ectx: label, entry, group (Layout)
+#. +> trunk6 stable6
+#: khelpcenter.kcfg:46
+#, kde-format
+msgid "Currently visible navigator tab"
+msgstr "แท็บนำทางที่ปรากฏในปัจจุบัน"
+
+#. i18n: ectx: Menu (edit)
+#. +> trunk6 stable6
+#: khelpcenterui.rc:5
+#, kde-format
+msgid "&Edit"
+msgstr "แ&ก้ไข"
+
+#. i18n: ectx: Menu (view)
+#. +> trunk6 stable6
+#: khelpcenterui.rc:13
+#, kde-format
+msgid "&View"
+msgstr "&มุมมอง"
+
+#. i18n: ectx: Menu (go)
+#. +> trunk6 stable6
+#: khelpcenterui.rc:19
+#, kde-format
+msgid "&Go"
+msgstr "ไ&ป"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#. +> trunk6 stable6
+#: khelpcenterui.rc:36
+#, kde-format
+msgid "Main Toolbar"
+msgstr "แถบเครื่องมือหลัก"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:63
+#, kde-format
+msgid "Search Error Log"
+msgstr "บันทึกข้อผิดพลาดในการค้นหา"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:119
+#, kde-format
+msgid "Preparing Index"
+msgstr "กำลังเตรียมดัชนี"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:146
+#, kde-format
+msgid "Ready"
+msgstr "พร้อม"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:201
+#, kde-format
+msgid "Table of &Contents"
+msgstr "สารบัญ"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:202
+#, kde-format
+msgid "Table of contents"
+msgstr "สารบัญ"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:203
+#, kde-format
+msgid "Go back to the table of contents"
+msgstr "กลับไปยังสารบัญ"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:213
+#, kde-format
+msgid "&Last Search Result"
+msgstr "ผลการค้นหา&ล่าสุด"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:241
+#, kde-format
+msgctxt "@title:menu"
+msgid "&Bookmarks"
+msgstr ""
+
+#. +> trunk6 stable6
+#: navigator.cpp:64
+#, fuzzy, kde-format
+#| msgid "&Search"
+msgid "Search..."
+msgstr "ค้น&หา"
+
+#. +> trunk6 stable6
+#: navigator.cpp:119
+#, kde-format
+msgid "&Contents"
+msgstr "&สารบัญ"
+
+#. +> trunk6 stable6
+#: navigator.cpp:128
+#, kde-format
+msgid "Search Options"
+msgstr "ตัวเลือกการค้นหา"
+
+#. +> trunk6 stable6
+#: navigator.cpp:135
+#, kde-format
+msgid "G&lossary"
+msgstr "อ&ภิธานศัพท์"
+
+#. +> trunk6 stable6
+#: navigator.cpp:455
+#, kde-format
+msgid "Start Page"
+msgstr "หน้าเริ่ม"
+
+#. +> trunk6 stable6
+#: navigator.cpp:456
+#, kde-format
+msgid "KDE Help Center"
+msgstr "ศูนย์ช่วยเหลือ KDE"
+
+#. +> trunk6 stable6
+#: navigator.cpp:540
+#, kde-format
+msgid "Unable to run search program."
+msgstr "ไม่สามารถประมวลผลโปรแกรมค้นหาได้"
+
+#. +> trunk6 stable6
+#: navigator.cpp:632
+#, fuzzy, kde-format
+#| msgid "Build Search Index..."
+msgid "Updating search index..."
+msgstr "สร้างดัชนีการค้นหา..."
+
+#. +> trunk6 stable6
+#: navigator.cpp:643
+#, fuzzy, kde-format
+#| msgid "Rebuilding cache... done."
+msgid "Updating search index... done."
+msgstr "กำลังสร้างแคชใหม่อีกครั้ง... เรียบร้อยแล้ว"
+
+#. +> trunk6 stable6
+#: printdoc.cpp:60
+#, kde-format
+msgid "Could not generate print preview."
+msgstr ""
+
+#. +> trunk6 stable6
+#: printdoc.cpp:96
+#, kde-format
+msgctxt "@title:window"
+msgid "Print Document"
+msgstr ""
+
+#. +> trunk6 stable6
+#: searchengine.cpp:62
+#, kde-format
+msgid "Error: No document type specified."
+msgstr "ผิดพลาด: ยังไม่มีการระบุชนิดของเอกสาร"
+
+#. +> trunk6 stable6
+#: searchengine.cpp:64
+#, kde-format
+msgid "Error: No search handler for document type '%1'."
+msgstr "ผิดพลาด: ไม่พบส่วนเสริมสำหรับใช้ค้นหาในการเรียกใช้กับเอกสารประเภท '%1'"
+
+#. +> trunk6 stable6
+#: searchengine.cpp:234
+#, kde-format
+msgid "No valid search handler found."
+msgstr "ไม่พบส่วนเสริมสำหรับใช้ค้นหา"
+
+#. +> trunk6 stable6
+#: searchhandler.cpp:38
+#, kde-format
+msgid "Error executing search command '%1'."
+msgstr "เกิดข้อผิดพลาดระหว่างประมวลผลคำสั่งค้นหา '%1'"
+
+#. +> trunk6 stable6
+#: searchhandler.cpp:76
+#, kde-format
+msgid "Error: %1"
+msgstr "ผิดพลาด: %1"
+
+#. +> trunk6 stable6
+#: searchhandler.cpp:139 searchhandler.cpp:144
+#, kde-format
+msgid "'%1' not found, check your installation"
+msgstr "ไม่พบ '%1' โปรดตรวจสอบการติดตั้งของคุณ"
+
+#. +> trunk6 stable6
+#: searchhandler.cpp:149
+#, kde-format
+msgid "'%1' not found, install the package containing it"
+msgstr "ไม่พบ '%1' โปรดติดตั้งแพกเกจที่มีมันอยู่"
+
+#. +> trunk6 stable6
+#: searchhandler.cpp:194
+#, kde-format
+msgid "No search command or URL specified."
+msgstr "ไม่มีคำสั่งสำหรับค้นหา หรือยังไม่ได้ระบุที่อยู่ URL"
+
+#. +> trunk6 stable6
+#: searchwidget.cpp:41
+#, kde-format
+msgid "and"
+msgstr "และ"
+
+#. +> trunk6 stable6
+#: searchwidget.cpp:42
+#, kde-format
+msgid "or"
+msgstr "หรือ"
+
+#. +> trunk6 stable6
+#: searchwidget.cpp:44
+#, kde-format
+msgid "&Method:"
+msgstr "&วิธีการ:"
+
+#. +> trunk6 stable6
+#: searchwidget.cpp:60
+#, kde-format
+msgid "Max. &results:"
+msgstr "ผลลั&พธ์มากที่สุด:"
+
+#. +> trunk6 stable6
+#: searchwidget.cpp:75
+#, kde-format
+msgid "&Scope selection:"
+msgstr "เลือก&ขอบเขต:"
+
+#. +> trunk6 stable6
+#: searchwidget.cpp:83
+#, kde-format
+msgid "Scope"
+msgstr "ขอบเขต"
+
+#. +> trunk6 stable6
+#: searchwidget.cpp:335
+#, kde-format
+msgctxt "Label for searching documentation using custom (user defined) scope"
+msgid "Custom"
+msgstr "กำหนดเอง"
+
+#. +> trunk6 stable6
+#: searchwidget.cpp:337
+#, kde-format
+msgctxt "Label for searching documentation using default search scope"
+msgid "Default"
+msgstr "ค่าปริยาย"
+
+#. +> trunk6 stable6
+#: searchwidget.cpp:339
+#, kde-format
+msgctxt "Label for searching documentation in all subsections"
+msgid "All"
+msgstr "ทั้งหมด"
+
+#. +> trunk6 stable6
+#: searchwidget.cpp:341
+#, kde-format
+msgctxt "Label for scope that deselects all search subsections"
+msgid "None"
+msgstr "ไม่มี"
+
+#. +> trunk6 stable6
+#: searchwidget.cpp:343
+#, kde-format
+msgctxt "Label for Unknown search scope, that should never appear"
+msgid "unknown"
+msgstr "ไม่รู้จัก"
+
+#. +> trunk6 stable6
+#: view.cpp:303
+#, fuzzy, kde-format
+#| msgid "Start Page"
+msgid "Save Page"
+msgstr "หน้าเริ่ม"

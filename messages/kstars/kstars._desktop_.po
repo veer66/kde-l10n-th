@@ -1,0 +1,529 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-02-26 10:55+0100\n"
+"PO-Revision-Date: 2025-03-17 14:54+0700\n"
+"Last-Translator: Thai Translator <none>\n"
+"Language-Team: Thai <kde-i18n-docs@kde.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:4
+msgctxt "Comment"
+msgid "KStars"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:38
+msgctxt "Name"
+msgid "Focus started"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:66
+msgctxt "Comment"
+msgid "Autofocus operation started"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:95
+msgctxt "Name"
+msgid "Autofocus Success"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:123
+msgctxt "Comment"
+msgid "Autofocus operation completed successfully"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:154
+msgctxt "Name"
+msgid "Autofocus Failure"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:182
+msgctxt "Comment"
+msgid "Autofocus operation failed with errors"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:213
+msgctxt "Name"
+msgid "Alignment Success"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:241
+msgctxt "Comment"
+msgid "Astrometry alignment completed successfully"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:273
+msgctxt "Name"
+msgid "Alignment Failure"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:302
+msgctxt "Comment"
+msgid "Astrometry alignment failed with errors"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:334
+msgctxt "Name"
+msgid "Calibration Success"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:364
+msgctxt "Comment"
+msgid "Guiding calibration completed successfully"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:395
+msgctxt "Name"
+msgid "Calibration Failure"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:424
+msgctxt "Comment"
+msgid "Guiding calibration failed with errors"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:454
+msgctxt "Name"
+msgid "Guiding Failure"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:482
+msgctxt "Comment"
+msgid "Autoguiding failed with errors"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:513
+msgctxt "Name"
+msgid "Capture Success"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:541
+msgctxt "Comment"
+msgid "CCD Capture completed successfully"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:572
+msgctxt "Name"
+msgid "Capture Failure"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:600
+msgctxt "Comment"
+msgid "CCD capture failed with errors"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:631
+msgctxt "Name"
+msgid "FITS Received"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:659
+msgctxt "Comment"
+msgid "FITS file is received"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:690
+msgctxt "Name"
+msgid "Weather Warning"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:719
+msgctxt "Comment"
+msgid "Weather conditions in warning zone"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:749
+msgctxt "Name"
+msgid "Weather Alert"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:778
+msgctxt "Comment"
+msgid "Weather conditions are critical. Observatory shutdown is imminent"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:808
+msgctxt "Name"
+msgid "Observatory Startup"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:836
+msgctxt "Comment"
+msgid "Observatory is in the startup process"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:865
+msgctxt "Name"
+msgid "Observatory Shutdown"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:893
+msgctxt "Comment"
+msgid "Observatory is in the shutdown process"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:923
+msgctxt "Name"
+msgid "Scheduler Aborted"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:951
+msgctxt "Name"
+msgid "Scheduler Sleeping"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:968
+msgctxt "Name"
+msgid "Slew Started"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:994
+msgctxt "Comment"
+msgid "Mount is slewing to target location"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1022
+msgctxt "Name"
+msgid "Slew Completed"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1048
+msgctxt "Comment"
+msgid "Mount arrived at target location"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1076
+msgctxt "Name"
+msgid "Mount Aborted"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1101
+msgctxt "Comment"
+msgid "Mount motion was aborted"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1127
+msgctxt "Name"
+msgid "Mount Parking"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1151
+msgctxt "Comment"
+msgid "Mount parking is in progress"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1177
+msgctxt "Name"
+msgid "Parking Mount Completed"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1201
+msgctxt "Comment"
+msgid "Mount parked"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1227
+msgctxt "Name"
+msgid "Mount parking failed"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1251
+msgctxt "Comment"
+msgid "Mount parking failed"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1277
+msgctxt "Name"
+msgid "Mount unparked"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1300
+msgctxt "Comment"
+msgid "Mount unparked"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1325
+msgctxt "Name"
+msgid "Dome Parking"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1348
+msgctxt "Comment"
+msgid "Parking dome is in progress"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1373
+msgctxt "Name"
+msgid "Dome Parked"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1396
+msgctxt "Comment"
+msgid "Parking dome is complete"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1421
+msgctxt "Name"
+msgid "Dome Unparking"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1444
+msgctxt "Comment"
+msgid "Unparking dome is in progress"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1469
+msgctxt "Name"
+msgid "Dome unparked"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1492
+msgctxt "Comment"
+msgid "Unparking dome is complete"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1517
+msgctxt "Name"
+msgid "Filter Wheel Changed"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1544
+msgctxt "Name"
+msgid "Video Recording Started"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1572
+msgctxt "Name"
+msgid "Video Recording Stopped"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1600
+msgctxt "Name"
+msgid "Meridian Flip Started"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1626
+msgctxt "Name"
+msgid "Meridian Flip Completed"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1652
+msgctxt "Name"
+msgid "Meridian Flip Failed"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1678
+msgctxt "Name"
+msgid "Motion Started"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1703
+msgctxt "Comment"
+msgid "Mount manual motion started"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1729
+msgctxt "Name"
+msgid "Motion Completed"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1754
+msgctxt "Comment"
+msgid "Mount manual motion completed"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1779
+msgctxt "Name"
+msgid "INDI Server Message"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1806
+msgctxt "Comment"
+msgid "INDI Server Message (it must be enabled in INDI section of Settings)"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1833
+msgctxt "Name"
+msgid "Scheduled Ekos job started"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1858
+msgctxt "Comment"
+msgid "A scheduled Ekos job is started"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1885
+msgctxt "Name"
+msgid "Scheduled Ekos job failed"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1911
+msgctxt "Comment"
+msgid "A scheduled Ekos job is failed"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1939
+msgctxt "Name"
+msgid "Imaging in scheduled Ekos job started"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1961
+msgctxt "Comment"
+msgid "An image sequence capture is started in a scheduled Ekos job"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:1985
+msgctxt "Name"
+msgid "Imaging in scheduled Ekos job finished"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:2007
+msgctxt "Comment"
+msgid "An image sequence capture is finished in a scheduled Ekos job"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:2031
+msgctxt "Name"
+msgid "Telescope is synced in a scheduled Ekos job"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:2054
+msgctxt "Comment"
+msgid "The telescope is synced before tracking a new target in a scheduled Ekos job"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:2079
+msgctxt "Name"
+msgid "Captured image received"
+msgstr ""
+
+#. +> trunk5
+#: kstars/kstars.notifyrc:2108
+msgctxt "Name"
+msgid "Known Issue"
+msgstr ""
+
+#. +> trunk5
+#: kstars/org.kde.kstars.desktop:8
+msgctxt "Comment"
+msgid "Desktop Planetarium"
+msgstr ""
+
+#. +> trunk5
+#: kstars/org.kde.kstars.desktop:79
+msgctxt "Name"
+msgid "KStars"
+msgstr ""
+
+#. +> trunk5
+#: kstars/org.kde.kstars.desktop:148
+msgctxt "GenericName"
+msgid "Desktop Planetarium"
+msgstr ""
+
+#. +> trunk5
+#: org.kde.kf5auth.kstars.actions:2
+msgctxt "Name"
+msgid "Save Astrometry Index File to a write protected directory"
+msgstr ""
+
+#. +> trunk5
+#: org.kde.kf5auth.kstars.actions:27
+msgctxt "Description"
+msgid "KStars is attempting to save an Astrometry Index File to a directory owned by root"
+msgstr ""
+
+#. +> trunk5
+#: org.kde.kf5auth.kstars.actions:56
+msgctxt "Name"
+msgid "Remove an Astrometry Index File Set"
+msgstr ""
+
+#. +> trunk5
+#: org.kde.kf5auth.kstars.actions:81
+msgctxt "Description"
+msgid "KStars is attempting to remove Astrometry Index Files owned by root"
+msgstr ""

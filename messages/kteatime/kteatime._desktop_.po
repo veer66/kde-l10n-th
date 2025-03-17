@@ -1,0 +1,72 @@
+# translation of desktop_kdetoys.po to Thai
+# Thanomsub Noppaburana <donga_n@yahoo.com>, 2003.
+# Phuwanat Sakornsakolpat <narachai@gmail.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdetoys\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-12-16 09:45+0100\n"
+"PO-Revision-Date: 2010-05-28 16:18+0700\n"
+"Last-Translator: Phuwanat Sakornsakolpat <narachai@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#: src/kteatime.notifyrc:4
+msgctxt "Comment"
+msgid "Tea Cooker"
+msgstr "เครื่องมือชงชา"
+
+#. +> trunk6 stable6
+#: src/kteatime.notifyrc:63
+msgctxt "Name"
+msgid "Tea is ready"
+msgstr "น้ำชาพร้อมแล้ว"
+
+#. +> trunk6 stable6
+#: src/kteatime.notifyrc:133
+msgctxt "Comment"
+msgid "Tea is ready"
+msgstr "น้ำชาพร้อมแล้ว"
+
+#. +> trunk6 stable6
+#: src/kteatime.notifyrc:208
+msgctxt "Name"
+msgid "Tea is getting lonely"
+msgstr "น้ำชากำลังโดดเดี่ยว"
+
+#. +> trunk6 stable6
+#: src/kteatime.notifyrc:268
+msgctxt "Comment"
+msgid "Tea is getting lonely."
+msgstr "น้ำชากำลังโดดเดี่ยว"
+
+#. +> trunk6 stable6
+#: src/kteatime.notifyrc:332
+#, fuzzy
+msgctxt "Name"
+msgid "The Tea Cooker"
+msgstr "Comment=ศูนย์ช่วยเหลือของ KDE"
+
+#. +> trunk6 stable6
+#: src/kteatime.notifyrc:373
+#, fuzzy
+msgctxt "Comment"
+msgid "The Tea Cooker"
+msgstr "Comment=ศูนย์ช่วยเหลือของ KDE"
+
+#. +> trunk6 stable6
+#: src/org.kde.kteatime.desktop:2
+msgctxt "Name"
+msgid "KTeaTime"
+msgstr "ตั้งเวลาทำงาน"
+
+#. +> trunk6 stable6
+#: src/org.kde.kteatime.desktop:72
+msgctxt "GenericName"
+msgid "Tea Cooker"
+msgstr "เครื่องมือชงชา"

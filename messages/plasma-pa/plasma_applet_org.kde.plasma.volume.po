@@ -1,0 +1,258 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-pa\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-01-25 11:13+0100\n"
+"PO-Revision-Date: 2025-03-17 14:55+0700\n"
+"Last-Translator: Thai Translator <none>\n"
+"Language-Team: Thai <kde-i18n-docs@kde.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/ListItemBase.qml:66
+#, kde-format
+msgid "Currently not recording"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/ListItemBase.qml:67
+#, kde-format
+msgid "Currently not playing"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/ListItemBase.qml:191
+#, kde-format
+msgctxt "@action:button"
+msgid "Additional Options"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/ListItemBase.qml:193
+#, kde-format
+msgid "Show additional options for %1"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/ListItemBase.qml:212
+#, kde-format
+msgctxt "@action:button"
+msgid "Unmute"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/ListItemBase.qml:212
+#, kde-format
+msgctxt "@action:button"
+msgid "Mute"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/ListItemBase.qml:214
+#, kde-format
+msgid "Unmute %1"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/ListItemBase.qml:214
+#, kde-format
+msgid "Mute %1"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/ListItemBase.qml:235
+#, kde-format
+msgctxt "Accessibility data on volume slider"
+msgid "Adjust volume for %1"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/ListItemBase.qml:296
+#, kde-format
+msgctxt "volume percentage"
+msgid "%1%"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/ListItemBase.qml:316
+#, kde-format
+msgctxt "only used for sizing, should be widest possible string"
+msgid "100%"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/main.qml:32
+#, kde-format
+msgid "Audio Volume"
+msgstr ""
+
+#. +> trunk6 stable6
+#: contents/ui/main.qml:43 contents/ui/main.qml:45
+#, kde-format
+msgctxt "@label"
+msgid "Connection to the Sound Service Lost"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/main.qml:47
+#, kde-format
+msgid "No output or input devices found"
+msgstr ""
+
+#. +> stable5
+#: contents/ui/main.qml:243
+#, kde-format
+msgid "No output device"
+msgstr ""
+
+#. +> trunk6 stable6
+#: contents/ui/main.qml:51
+#, kde-format
+msgctxt "@info reconnecting to pulseaudio"
+msgid "Trying to reconnect…"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/main.qml:68
+#, kde-format
+msgid "Audio Muted"
+msgstr ""
+
+#. +> stable5
+#: contents/ui/main.qml:387
+#, kde-format
+msgid "Mute"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/main.qml:70
+#, kde-format
+msgid "Volume at %1%"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/main.qml:81
+#, kde-format
+msgid "Middle-click to unmute"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/main.qml:82
+#, kde-format
+msgid "Middle-click to mute all audio"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/main.qml:83
+#, kde-format
+msgid "Scroll to adjust volume"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/main.qml:99
+#, kde-format
+msgid "Device name not found"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/main.qml:299
+#, kde-format
+msgid "Devices"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/main.qml:306
+#, kde-format
+msgid "Applications"
+msgstr ""
+
+#. +> trunk6
+#: contents/ui/main.qml:329
+#, kde-format
+msgctxt "@action:button"
+msgid "More actions"
+msgstr ""
+
+#. +> stable5
+#: contents/ui/main.qml:375
+#, kde-format
+msgid "Increase Volume"
+msgstr ""
+
+#. +> stable5
+#: contents/ui/main.qml:381
+#, kde-format
+msgid "Decrease Volume"
+msgstr ""
+
+#. +> trunk6 stable6
+#: contents/ui/main.qml:386
+#, kde-format
+msgctxt "@action retry connecting to pulseaudio"
+msgid "Retry"
+msgstr ""
+
+#. +> stable5
+#: contents/ui/main.qml:393
+#, kde-format
+msgid "Increase Microphone Volume"
+msgstr ""
+
+#. +> stable5
+#: contents/ui/main.qml:399
+#, kde-format
+msgid "Decrease Microphone Volume"
+msgstr ""
+
+#. +> stable5
+#: contents/ui/main.qml:405
+#, kde-format
+msgid "Mute Microphone"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/main.qml:410
+#, kde-format
+msgid "No applications playing or recording audio"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/main.qml:569
+#, kde-format
+msgid "Raise maximum volume"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/main.qml:581
+#, kde-format
+msgid "Force mute all playback devices"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/main.qml:590
+#, kde-format
+msgid "Show virtual devices"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/main.qml:600
+#, kde-format
+msgid "&Configure Audio Devices…"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/ui/StreamListItem.qml:25
+#, kde-format
+msgid "Stream name not found"
+msgstr ""
+
+#. +> stable5
+#: contents/ui/DeviceListItem.qml:26
+#, kde-format
+msgctxt "label of device items"
+msgid "%1 (%2)"
+msgstr ""

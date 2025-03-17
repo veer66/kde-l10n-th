@@ -1,0 +1,27 @@
+# translation of desktop_kdewebdev.po to Thai
+# Narachai Sakorn <narachai@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdewebdev\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-12-16 09:45+0100\n"
+"PO-Revision-Date: 2008-12-29 22:22+0700\n"
+"Last-Translator: Narachai Sakorn <narachai@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#: org.kde.kimagemapeditor.desktop:7
+msgctxt "Name"
+msgid "KImageMapEditor"
+msgstr "KImageMapEditor"
+
+#. +> trunk6 stable6
+#: org.kde.kimagemapeditor.desktop:67
+msgctxt "GenericName"
+msgid "HTML Image Map Editor"
+msgstr "โปรแกรมแก้ไข Image Map"

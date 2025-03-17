@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-01-19 14:34+0100\n"
+"PO-Revision-Date: 2025-03-17 14:54+0700\n"
+"Last-Translator: Thai Translator <none>\n"
+"Language-Team: Thai <kde-i18n-docs@kde.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#: src/kwordquiz.notifyrc:4
+msgctxt "Comment"
+msgid "KWordQuiz"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/kwordquiz.notifyrc:75
+msgctxt "Name"
+msgid "QuizCorrect"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/kwordquiz.notifyrc:141
+msgctxt "Comment"
+msgid "Correct answer"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/kwordquiz.notifyrc:214
+msgctxt "Name"
+msgid "QuizError"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/kwordquiz.notifyrc:280
+msgctxt "Comment"
+msgid "Wrong answer"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/kwordquiz.notifyrc:353
+msgctxt "Name"
+msgid "syntaxerror"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/kwordquiz.notifyrc:420
+msgctxt "Comment"
+msgid "Error in syntax"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/org.kde.kwordquiz.desktop:8
+msgctxt "Comment"
+msgid "A flashcard and vocabulary learning program"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/org.kde.kwordquiz.desktop:74
+msgctxt "Name"
+msgid "WordQuiz"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/org.kde.kwordquiz.desktop:103
+msgctxt "GenericName"
+msgid "Flash Card Trainer"
+msgstr ""

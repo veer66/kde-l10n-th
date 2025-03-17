@@ -1,0 +1,338 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-12-17 08:17+0100\n"
+"PO-Revision-Date: 2025-03-17 14:54+0700\n"
+"Last-Translator: Thai Translator <none>\n"
+"Language-Team: Thai <kde-i18n-docs@kde.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#: data/images/nickicons/alternative/index.desktop:3
+msgctxt "Name"
+msgid "Big Bullets"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/images/nickicons/alternative/index.desktop:59
+msgctxt "Comment"
+msgid "\"Big Bullets\" by Dario Abatianni"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/images/nickicons/christmas/index.desktop:3
+msgctxt "Name"
+msgid "Christmas Theme"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/images/nickicons/christmas/index.desktop:59
+msgctxt "Comment"
+msgid "\"Christmas Theme\" by Kenichiro Takahashi"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/images/nickicons/classic/index.desktop:3
+msgctxt "Name"
+msgid "Classic Theme"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/images/nickicons/classic/index.desktop:62
+msgctxt "Comment"
+msgid "\"LED\" by Dario Abatianni"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/images/nickicons/default-dark/index.desktop:3
+msgctxt "Name"
+msgid "Default Theme (Dark variant)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/images/nickicons/default-dark/index.desktop:42
+#: data/images/nickicons/default/index.desktop:60
+msgctxt "Comment"
+msgid "\"Breeze\" by Uri Herrera"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/images/nickicons/default/index.desktop:3
+msgctxt "Name"
+msgid "Default Theme"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/images/nickicons/oxygen/index.desktop:3
+msgctxt "Name"
+msgid "Oxygen Theme"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/images/nickicons/oxygen/index.desktop:48
+msgctxt "Comment"
+msgid "\"Oxygen\" by Nuno Pinheiro"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/images/nickicons/simplistic/index.desktop:3
+msgctxt "Name"
+msgid "KDE 3 Default Theme"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/images/nickicons/simplistic/index.desktop:57
+msgctxt "Comment"
+msgid "\"Simplistic\" by Shintaro Matsuoka"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/images/nickicons/smiling/index.desktop:3
+msgctxt "Name"
+msgid "Smiling Theme"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/images/nickicons/smiling/index.desktop:58
+msgctxt "Comment"
+msgid "\"Smiling\" stolen from Kopete by John Tapsell"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/images/nickicons/square/index.desktop:3
+msgctxt "Name"
+msgid "Square Theme"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/images/nickicons/square/index.desktop:58
+msgctxt "Comment"
+msgid "\"SQUARE\" by Kenichiro Takahashi"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:4
+msgctxt "Comment"
+msgid "Konversation"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:67
+msgctxt "Name"
+msgid "New message"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:126
+msgctxt "Comment"
+msgid "New message arrived in a channel"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:184
+msgctxt "Name"
+msgid "Nick written"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:239
+msgctxt "Comment"
+msgid "Someone wrote your nick in a message"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:296
+msgctxt "Name"
+msgid "Highlight triggered"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:347
+msgctxt "Comment"
+msgid "Someone triggered a highlight"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:401
+msgctxt "Name"
+msgid "Private message"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:456
+msgctxt "Comment"
+msgid "You received a private message"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:514
+msgctxt "Name"
+msgid "Nick changed"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:569
+msgctxt "Comment"
+msgid "Someone changed their nick"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:626
+msgctxt "Name"
+msgid "Incoming file"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:684
+msgctxt "Comment"
+msgid "Someone wants to transmit a file to you over DCC"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:741
+msgctxt "Name"
+msgid "DCC transfer error"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:793
+msgctxt "Comment"
+msgid "An error occurred in a DCC transfer"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:847
+msgctxt "Name"
+msgid "DCC transfer complete"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:899
+msgctxt "Comment"
+msgid "A DCC transfer successfully completed"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:953
+msgctxt "Name"
+msgid "Nick joined channel"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:1006
+msgctxt "Comment"
+msgid "New nick joined a channel"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:1062
+msgctxt "Name"
+msgid "Nick left channel"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:1116
+msgctxt "Comment"
+msgid "A nick left a channel"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:1173
+msgctxt "Name"
+msgid "Mode change"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:1227
+msgctxt "Comment"
+msgid "A user or channel mode was changed"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:1284
+msgctxt "Name"
+msgid "Nick online"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:1331
+msgctxt "Comment"
+msgid "A user on your watched nicks list has come online"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:1387
+msgctxt "Name"
+msgid "Query"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:1445
+msgctxt "Comment"
+msgid "Someone started a conversation (query) with you"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:1501
+msgctxt "Name"
+msgid "Kick"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:1558
+msgctxt "Comment"
+msgid "Someone kicked you out of a channel"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:1614
+msgctxt "Name"
+msgid "Connection failure"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:1670
+msgctxt "Comment"
+msgid "Failed to connect to server"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:1728
+msgctxt "Name"
+msgid "You joined a channel"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:1781
+msgctxt "Comment"
+msgid "You joined a channel"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:1837
+msgctxt "Name"
+msgid "DCC Chat"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/konversation.notifyrc:1894
+msgctxt "Comment"
+msgid "Someone started a DCC chat with you"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/org.kde.konversation.desktop:7
+msgctxt "GenericName"
+msgid "IRC Client"
+msgstr ""
+
+#. +> trunk6 stable6
+#: data/org.kde.konversation.desktop:67
+msgctxt "Name"
+msgid "Konversation"
+msgstr ""

@@ -1,0 +1,35 @@
+# translation of kio_settings.po to Thai
+#
+# Thanomsub Noppaburana <donga_n@yahoo.com>, 2005.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: kio_settings\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-02-11 10:24+0100\n"
+"PO-Revision-Date: 2008-11-24 19:04+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6 stable5
+#: kio_applications.cpp:126
+#, kde-format
+msgid "Applications"
+msgstr "โปรแกรม"
+
+#. +> trunk6 stable6 stable5
+#: kio_applications.cpp:126
+#, kde-format
+msgid "Programs"
+msgstr "โปรแกรม"
+
+#. +> trunk6 stable6 stable5
+#: kio_applications.cpp:135
+#, kde-format
+msgid "Unknown application folder"
+msgstr "ไม่รู้จักโฟลเดอร์ของโปรแกรม"

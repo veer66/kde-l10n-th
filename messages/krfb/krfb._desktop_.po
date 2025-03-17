@@ -1,0 +1,158 @@
+# translation of desktop_kdenetwork.po to Thai
+# Thanomsub Noppaburana <donga_n@yahoo.com>, 2003.
+# Sahachart Anukulkitch <drrider@gmail.com>, 2006.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdenetwork\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-12-16 09:45+0100\n"
+"PO-Revision-Date: 2010-03-04 21:40+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:3 krfb/org.kde.krfb.desktop:121
+msgctxt "Comment"
+msgid "Desktop Sharing"
+msgstr "ใช้งานพื้นที่ทำงานร่วมกัน"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:78
+msgctxt "Name"
+msgid "User Accepts Connection"
+msgstr "ผู้ใช้ยอมรับการเชื่อมต่อ"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:141
+msgctxt "Comment"
+msgid "User accepts connection"
+msgstr "ผู้ใช้ยอมรับการเชื่อมต่อ"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:216
+msgctxt "Name"
+msgid "User Refuses Connection"
+msgstr "ผู้ใช้ปฏิเสธการเชื่อมต่อ"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:279
+msgctxt "Comment"
+msgid "User refuses connection"
+msgstr "ผู้ใช้ปฏิเสธการเชื่อมต่อ"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:354
+msgctxt "Name"
+msgid "Connection Closed"
+msgstr "การเชื่อมต่อยุติ"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:419
+msgctxt "Comment"
+msgid "Connection closed"
+msgstr "การเชื่อมต่อยุติ"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:498
+msgctxt "Name"
+msgid "Invalid Password"
+msgstr "รหัสผ่านไม่ถูกต้อง"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:563
+msgctxt "Comment"
+msgid "Invalid password"
+msgstr "รหัสผ่านไม่ถูกต้อง"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:645
+msgctxt "Name"
+msgid "Invalid Password Invitations"
+msgstr "รหัสผ่านของการเชื้อเชิญไม่ถูกต้อง"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:708
+msgctxt "Comment"
+msgid "The invited party sent an invalid password. Connection refused."
+msgstr "ผู้เข้าร่วมการเชิญชวนส่งรหัสผ่านมาไม่ถูกต้อง ทำการปฏิเสธการเชื่อมต่อ"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:781
+msgctxt "Name"
+msgid "New Connection on Hold"
+msgstr "การเชื่อมต่อใหม่ถูกพักรอไว้ก่อน"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:843
+msgctxt "Comment"
+msgid "Connection requested, user must accept"
+msgstr "มีการร้องขอเชื่อมต่อมา ผู้ใช้ต้องทำการยอมรับก่อน"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:917
+msgctxt "Name"
+msgid "New Connection Auto Accepted"
+msgstr "รับการเชื่อมต่อใหม่โดยอัตโนมัติ"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:979
+msgctxt "Comment"
+msgid "New connection automatically established"
+msgstr "การเชื่อมต่อใหม่จะถูกทำการเชื่อมต่อโดยอัตโนมัติ"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:1053
+msgctxt "Name"
+msgid "Too Many Connections"
+msgstr "มีการเชื่อมต่อมากเกินไป"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:1115
+msgctxt "Comment"
+msgid "Busy, connection refused"
+msgstr "ยังไม่ว่าง ทำการปฏิเสธการเชื่อมต่อ"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:1192
+msgctxt "Name"
+msgid "Unexpected Connection"
+msgstr "เกิดการเชื่อมต่อที่ไม่คาดคิด"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:1255
+msgctxt "Comment"
+msgid "Received unexpected connection, abort"
+msgstr "ได้รับการเชื่อมต่อมาอย่างไม่คาดคิด ทำการยกเลิก"
+
+#. +> trunk6 stable6
+#: krfb/org.kde.krfb.desktop:9
+msgctxt "Name"
+msgid "Krfb"
+msgstr ""
+
+#. +> trunk6 stable6
+#: krfb/org.kde.krfb.desktop:80
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Desktop Sharing"
+msgctxt "GenericName"
+msgid "Desktop Sharing (VNC)"
+msgstr "ใช้งานพื้นที่ทำงานร่วมกัน"
+
+#. +> trunk6 stable6
+#: krfb/org.kde.krfb.virtualmonitor.desktop.cmake:7
+msgctxt "Name"
+msgid "KRFBs Virtual Monitor"
+msgstr ""
+
+#. +> trunk6 stable6
+#: krfb/org.kde.krfb.virtualmonitor.desktop.cmake:45
+msgctxt "Comment"
+msgid "Remote Virtual Monitor"
+msgstr ""

@@ -1,0 +1,155 @@
+# translation of desktop_kdepim.po to Thai
+# Thanomsub Noppaburana <donga_n@yahoo.com>, 2005.
+# ถนอมทรัพย์ นพบูรณ์ <donga_n@yahoo.com>, 2005.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdepim\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-02-16 00:16+0100\n"
+"PO-Revision-Date: 2008-07-21 23:39+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#: src/kmail_config_accounts.json
+msgctxt "Name"
+msgid "Accounts"
+msgstr "บัญชีผู้ใช้"
+
+#. +> trunk6 stable6
+#: src/kmail_config_accounts.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Setup for Sending and Receiving Messages"
+msgctxt "Description"
+msgid "Setup for Sending and Receiving Messages"
+msgstr "ตั้งค่าสำหรับการส่งและรับจดหมาย"
+
+#. +> trunk6 stable6
+#: src/kmail_config_appearance.json
+msgctxt "Name"
+msgid "Appearance"
+msgstr "รูปลักษณ์"
+
+#. +> trunk6 stable6
+#: src/kmail_config_appearance.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Customize Visual Appearance"
+msgctxt "Description"
+msgid "Customize Visual Appearance"
+msgstr "ปรับแต่งรูปลักษณ์ที่เห็นด้วยตนเอง"
+
+#. +> trunk6 stable6
+#: src/kmail_config_composer.json
+msgctxt "Name"
+msgid "Composer"
+msgstr "เขียนจดหมาย"
+
+#. +> trunk6 stable6
+#: src/kmail_config_composer.json
+msgctxt "Description"
+msgid "Message Composer Settings"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/kmail_config_misc.json
+msgctxt "Name"
+msgid "Misc"
+msgstr "เบ็ดเตล็ด"
+
+#. +> trunk6 stable6
+#: src/kmail_config_misc.json
+msgctxt "Description"
+msgid "Settings that don't fit elsewhere"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/kmail_config_plugins.json
+msgctxt "Name"
+msgid "Plugins"
+msgstr "โปรแกรมเสริม"
+
+#. +> trunk6 stable6
+#: src/kmail_config_plugins.json
+#, fuzzy
+msgctxt "Description"
+msgid "Settings Plugins"
+msgstr "Name=ทดสอบ"
+
+#. +> trunk6 stable6
+#: src/kmail_config_security.json
+msgctxt "Name"
+msgid "Security"
+msgstr "ความปลอดภัย"
+
+#. +> trunk6 stable6
+#: src/kmail_config_security.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Security & Privacy Settings"
+msgctxt "Description"
+msgid "Security & Privacy Settings"
+msgstr "ตั้งค่าความปลอดภัยและความเป็นส่วนตัว"
+
+#. +> trunk6 stable6
+#: src/kontactplugin/kmail/kcmkmailsummary.json
+msgctxt "Name"
+msgid "New Messages"
+msgstr "จดหมายใหม่"
+
+#. +> trunk6 stable6
+#: src/kontactplugin/kmail/kcmkmailsummary.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Mail Summary Setup"
+msgctxt "Description"
+msgid "Mail Summary Setup"
+msgstr "ตั้งค่าส่วนสรุปจดหมาย"
+
+#. +> trunk6 stable6
+#: src/kontactplugin/kmail/kmailplugin.json
+msgctxt "Name"
+msgid "Mail"
+msgstr "จดหมาย"
+
+#. +> trunk6 stable6
+#: src/kontactplugin/kmail/kmailplugin.json
+#, fuzzy
+msgctxt "Description"
+msgid "Kontact KMail Plugin"
+msgstr "Comment=ปลั๊กอินปฏิทิน"
+
+#. +> trunk6 stable6
+#: src/kontactplugin/summary/kcmkontactsummary.json
+msgctxt "Name"
+msgid "Summaries"
+msgstr "สรุป"
+
+#. +> trunk6 stable6
+#: src/kontactplugin/summary/kcmkontactsummary.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Summary Selection"
+msgctxt "Description"
+msgid "Summary Selection"
+msgstr "การเลือกรายงานสรุป"
+
+#. +> trunk6 stable6
+#: src/kontactplugin/summary/summaryplugin.json
+msgctxt "Name"
+msgid "Summary"
+msgstr "รายงานสรุป"
+
+#. +> trunk6 stable6
+#: src/kontactplugin/summary/summaryplugin.json
+#, fuzzy
+msgctxt "Description"
+msgid "Kontact SummaryView Plugin"
+msgstr "Comment=ปลั๊กอินภาพ"

@@ -1,0 +1,154 @@
+# translation of kcmkio.po to Thai
+# Copyright (C) 2003, 2005, 2006, 2007, 2008 Free Software Foundation, Inc.
+# Thanomsub Noppaburana <donga_n@yahoo.com>, 2003, 2005.
+# Sahachart Anukulkitch <drrider@gmail.com>, 2005, 2006, 2007.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmkio\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-02-16 00:16+0100\n"
+"PO-Revision-Date: 2010-12-17 20:57+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#. +> trunk6 stable6
+#: bookmarks.ui:16
+#, kde-format
+msgid "Bookmarks"
+msgstr "ที่คั่นหน้า"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbShowRoot)
+#. +> trunk6 stable6
+#: bookmarks.ui:23
+#, kde-format
+msgid ""
+"If this option is unchecked, bookmarks at the root of the hierarchy (not in a folder) are not displayed.\n"
+"If checked, they are gathered in a \"root\" folder."
+msgstr ""
+"หากไม่ได้กาเลือกตัวเลือกนี้ คั่นหน้าต่าง ๆ ที่เป็นรากของลำดับชั้นในผังต้นไม้ (ไม่ได้อยู่ในโฟลเดอร์) จะไม่ถูกแสดงให้เห็น\n"
+"หากกาเลือก พวกมันจะรวมกันกันอยู่ในโฟลเดอร์ \"ราก\""
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbShowRoot)
+#. +> trunk6 stable6
+#: bookmarks.ui:26
+#, kde-format
+msgid "&Show bookmarks without folder"
+msgstr "แ&สดงที่คั่นหน้าโดยไม่มีโฟลเดอร์ย่อย"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbFlattenTree)
+#. +> trunk6 stable6
+#: bookmarks.ui:37
+#, kde-format
+msgid ""
+"Sub-folders are shown within their parent by default. If you activate this option, sub-folders are displayed on their own.\n"
+"It looks less nice but it may help if you have a very big folder you want to spread in two columns."
+msgstr ""
+"โฟลเดอร์ย่อยจะถูกแสดงอยู่ภายในโฟลเดอร์แม่ของมันโดยปริยายอยู่แล้ว หากคุณเปิดใช้ตัวเลือกนี้ จะมีการแสดงโฟลเดอร์ย่อยที่เป็นของพวกมันด้วย\n"
+"ทั้งนี้มันอาจจะไม่ค่อยน่าดูนัก แต่ก็จะช่วยในกรณีที่คุณมีโฟลเดอร์ขนาดใหญ่\n"
+"และอยากให้แสดงผลเป็นสองคอลัมน์"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbFlattenTree)
+#. +> trunk6 stable6
+#: bookmarks.ui:40
+#, kde-format
+msgid "&Flatten bookmarks tree"
+msgstr "ทำผังต้นไม้ของที่คั่นหน้าให้เป็นแบบแ&บนราบ"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbShowPlaces)
+#. +> trunk6 stable6
+#: bookmarks.ui:47
+#, kde-format
+msgid "Show a box with KDE places (Home, Network, ...). Useful if you use konqueror as a file manager."
+msgstr "ใช้แสดงกรอบที่หลัก ๆ ของ KDE (พื้นที่ส่วนตัว, เครือข่าย, ...) ซึ่งจะมีประโยชน์มาก หากคุณใช้งานคอนเควอร์เรอร์เป็นเครื่องมือจัดการแฟ้ม"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbShowPlaces)
+#. +> trunk6 stable6
+#: bookmarks.ui:50
+#, kde-format
+msgid "Show system &places"
+msgstr "แสดง&ที่หลัก ๆ ของระบบ"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#. +> trunk6 stable6
+#: bookmarks.ui:63
+#, kde-format
+msgid "General Settings"
+msgstr "ตั้งค่าทั่วไป"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, label)
+#. +> trunk6 stable6
+#: bookmarks.ui:71
+#, kde-format
+msgid "Folders are automatically distributed in several columns. The optimal number of columns depends on the width of the konqueror window and the number of bookmarks you have."
+msgstr "โฟลเดอร์ต่าง ๆ จะถูกกระจายออกเป็นหลาย ๆ คอลัมน์โดยอัตโนมัติ โดยจำนวนที่เหมาะสมของคอลัมน์ จะขึ้นอยู่กับความกว้างของหน้าต่างคอนเควอร์เรอร์และจำนวนของคั่นหน้าต่าง ๆ ที่คุณมีอยู่"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: bookmarks.ui:74
+#, kde-format
+msgid "Number of columns to show:"
+msgstr "จำนวนของคอลัมน์ที่จะแสดง:"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbShowBackgrounds)
+#. +> trunk6 stable6
+#: bookmarks.ui:109
+#, kde-format
+msgid "Disable it on slow system to disable background images."
+msgstr "ปิดการใช้งานมันบนระบบที่ช้า เพื่อปิดการใช้รูปภาพเป็นพื้นหลัง"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbShowBackgrounds)
+#. +> trunk6 stable6
+#: bookmarks.ui:112
+#, kde-format
+msgid "Show folder &backgrounds"
+msgstr "แสดง&พื้นหลังของโฟลเดอร์"
+
+#. i18n: ectx: property (whatsThis), widget (QGroupBox, groupBox_3)
+#. +> trunk6 stable6
+#: bookmarks.ui:138
+#, kde-format
+msgid "How much disk space is used to cache the pixmaps"
+msgstr "จะใช้พื้นที่ดิสก์เท่าใดเพื่อใช้ทำแคชของภาพพิกซ์แมป"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#. +> trunk6 stable6
+#: bookmarks.ui:141
+#, kde-format
+msgid "Pixmap Cache"
+msgstr "แคชของภาพพิกซ์แมป"
+
+#. i18n: ectx: property (text), widget (QLabel, lbMaxCacheSize)
+#. +> trunk6 stable6
+#: bookmarks.ui:150
+#, kde-format
+msgid "Disk cache size:"
+msgstr "ขนาดแคชบนดิสก์:"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, sbCacheSize)
+#. +> trunk6 stable6
+#: bookmarks.ui:163
+#, kde-format
+msgid " kB"
+msgstr " กิโลไบต์"
+
+#. i18n: ectx: property (whatsThis), widget (QPushButton, clearCacheButton)
+#. +> trunk6 stable6
+#: bookmarks.ui:173
+#, kde-format
+msgid "Clear the pixmap cache"
+msgstr "ล้างแคชของภาพพิกซ์แมป"
+
+#. i18n: ectx: property (text), widget (QPushButton, clearCacheButton)
+#. +> trunk6 stable6
+#: bookmarks.ui:176
+#, kde-format
+msgid "&Clear Cache"
+msgstr "&ล้างแคช"

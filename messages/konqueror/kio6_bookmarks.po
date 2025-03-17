@@ -1,0 +1,69 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kio_bookmarks\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-08-19 09:47+0200\n"
+"PO-Revision-Date: 2008-11-24 19:06+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#: kio_bookmarks.cpp:79
+#, kde-format
+msgid "Root"
+msgstr "โฟลเดอร์ราก"
+
+#. +> trunk6 stable6
+#: kio_bookmarks.cpp:112
+#, kde-format
+msgid "Places"
+msgstr "ที่หลัก ๆ"
+
+#. +> trunk6 stable6
+#: kio_bookmarks.cpp:206
+#, kde-format
+msgid "Could not find bookmarks config"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kio_bookmarks.cpp:216
+#, kde-format
+msgid "Could not find bookmarks editor"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kio_bookmarks.cpp:222
+#, kde-format
+msgid "Wrong request: %1"
+msgstr "ร้องขอผิด: %1"
+
+#. +> trunk6 stable6
+#: kio_bookmarks_html.cpp:85
+#, kde-format
+msgid "There are no bookmarks to display yet."
+msgstr "ยังไม่มีคั่นหน้าใด ๆ ที่จะแสดง"
+
+#. +> trunk6 stable6
+#: kio_bookmarks_html.cpp:124
+#, kde-format
+msgid ""
+"kio_bookmarks CSS file not found. Output will look ugly.\n"
+"Check your installation."
+msgstr ""
+"ไม่พบแฟ้ม CSS ของ kio_bookmarks ดังนั้นผลลัพธ์อาจจะดูน่าเกลียด\n"
+"โปรดตรวจสอบการติดตั้งของคุณ"
+
+#. +> trunk6 stable6
+#: kio_bookmarks_html.cpp:133
+#, kde-format
+msgid "My Bookmarks"
+msgstr "คั่นหน้าของฉัน"

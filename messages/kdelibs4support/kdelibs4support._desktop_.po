@@ -1,0 +1,4595 @@
+# translation of desktop_kdelibs.po to Thai
+# Thanomsub Noppaburana <donga_n@yahoo.com>, 2003, 2005.
+# Sahachart Anukulkitch <drrider@gmail.com>, 2005, 2006, 2007.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008, 2010.
+# Narachai Sakorn <narachai@gmail.com>, 2008.
+# Phuwanat Sakornsakolpat <narachai@gmail.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdelibs\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-02-19 09:56+0100\n"
+"PO-Revision-Date: 2010-12-31 22:21+0700\n"
+"Last-Translator: Phuwanat Sakornsakolpat <narachai@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk5
+#: data/currency/adf.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Andorra"
+msgctxt "Name"
+msgid "Andorran Franc"
+msgstr "อันดอร์รา"
+
+#. +> trunk5
+#: data/currency/adp.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Andorra"
+msgctxt "Name"
+msgid "Andorran Peseta"
+msgstr "อันดอร์รา"
+
+#. +> trunk5
+#: data/currency/aed.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "United Arab Emirates"
+msgctxt "Name"
+msgid "United Arab Emirates Dirham"
+msgstr "สหรัฐอาหรับอีมิเรตส์"
+
+#. +> trunk5
+#: data/currency/afa.desktop:5 data/currency/afn.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Afghanistan"
+msgctxt "Name"
+msgid "Afghan Afghani"
+msgstr "อัฟกานิสถาน"
+
+#. +> trunk5
+#: data/currency/all.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Albanian"
+msgctxt "Name"
+msgid "Albanian Lek"
+msgstr "ภาษาอัลเบเนีย"
+
+#. +> trunk5
+#: data/currency/amd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Armenian"
+msgctxt "Name"
+msgid "Armenian Dram"
+msgstr "ภาษาอาร์เมเนีย"
+
+#. +> trunk5
+#: data/currency/ang.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Netherlands Antilles"
+msgctxt "Name"
+msgid "Netherlands Antillean Guilder"
+msgstr "เนเธอร์แลนด์ แอนทิลีส"
+
+#. +> trunk5
+#: data/currency/aoa.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Mongolian"
+msgctxt "Name"
+msgid "Angolan Kwanza"
+msgstr "ภาษามองโกล"
+
+#. +> trunk5
+#: data/currency/aon.desktop:5
+msgctxt "Name"
+msgid "Angolan Novo Kwanza"
+msgstr "กวานซาโนวาแองโกลา"
+
+#. +> trunk5
+#: data/currency/ars.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Argentina"
+msgctxt "Name"
+msgid "Argentine Peso"
+msgstr "อาร์เจนตินา"
+
+#. +> trunk5
+#: data/currency/ats.desktop:5
+msgctxt "Name"
+msgid "Austrian Schilling"
+msgstr "ชิลลิงออสเตรีย"
+
+#. +> trunk5
+#: data/currency/aud.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Italian"
+msgctxt "Name"
+msgid "Australian Dollar"
+msgstr "ภาษาอิตาเลียน"
+
+#. +> trunk5
+#: data/currency/awg.desktop:5
+msgctxt "Name"
+msgid "Aruban Florin"
+msgstr ""
+
+#. +> trunk5
+#: data/currency/azm.desktop:5 data/currency/azn.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Azerbaijani"
+msgctxt "Name"
+msgid "Azerbaijani Manat"
+msgstr "ภาษาอาเซอร์ไบจัน"
+
+#. +> trunk5
+#: data/currency/bam.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Bosnia and Herzegovina"
+msgctxt "Name"
+msgid "Bosnia and Herzegovina Convertible Mark"
+msgstr "บอสเนียและเฮอร์เซโกวินา"
+
+#. +> trunk5
+#: data/currency/bbd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Barbados"
+msgctxt "Name"
+msgid "Barbados Dollar"
+msgstr "บาร์เบโดส"
+
+#. +> trunk5
+#: data/currency/bdt.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Bangladesh"
+msgctxt "Name"
+msgid "Bangladeshi Taka"
+msgstr "บังคลาเทศ"
+
+#. +> trunk5
+#: data/currency/bef.desktop:5
+msgctxt "Name"
+msgid "Belgian Franc"
+msgstr "ฟรังก์เบลเยียม"
+
+#. +> trunk5
+#: data/currency/bgl.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Bulgarian"
+msgctxt "Name"
+msgid "Bulgarian Lev A/99"
+msgstr "ภาษาบัลแกเรีย"
+
+#. +> trunk5
+#: data/currency/bgn.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Bulgarian"
+msgctxt "Name"
+msgid "Bulgarian Lev"
+msgstr "ภาษาบัลแกเรีย"
+
+#. +> trunk5
+#: data/currency/bhd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Bahrain"
+msgctxt "Name"
+msgid "Bahraini Dinar"
+msgstr "บาห์เรน"
+
+#. +> trunk5
+#: data/currency/bif.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Rundi"
+msgctxt "Name"
+msgid "Burundian Franc"
+msgstr "ภาษารุนดิ"
+
+#. +> trunk5
+#: data/currency/bmd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Bermuda"
+msgctxt "Name"
+msgid "Bermuda Dollar"
+msgstr "เบอร์มิวดา"
+
+#. +> trunk5
+#: data/currency/bnd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Brunei Darussalam"
+msgctxt "Name"
+msgid "Brunei Dollar"
+msgstr "บรูไนดารุสซาลาม"
+
+#. +> trunk5
+#: data/currency/bob.desktop:5
+msgctxt "Name"
+msgid "Bolivian Boliviano"
+msgstr "โบลีเวียโนโบลิเวีย"
+
+#. +> trunk5
+#: data/currency/bov.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Bolivia"
+msgctxt "Name"
+msgid "Bolivian Mvdol"
+msgstr "โบลิเวีย"
+
+#. +> trunk5
+#: data/currency/brl.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Brazilian Portuguese"
+msgctxt "Name"
+msgid "Brazilian Real"
+msgstr "ภาษาโปรตุเกสบราซิล"
+
+#. +> trunk5
+#: data/currency/bsd.desktop:5
+msgctxt "Name"
+msgid "Bahamian Dollar"
+msgstr "ดอลลาร์บาฮามาส"
+
+#. +> trunk5
+#: data/currency/btn.desktop:5
+msgctxt "Name"
+msgid "Bhutanese Ngultrum"
+msgstr "เอ็งกุลตรัมภูฏาน"
+
+#. +> trunk5
+#: data/currency/bwp.desktop:6
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Tswana"
+msgctxt "Name"
+msgid "Botswana Pula"
+msgstr "ภาษาสวานา"
+
+#. +> trunk5
+#: data/currency/byr.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Belarusian"
+msgctxt "Name"
+msgid "Belarusian Ruble"
+msgstr "ภาษาเบลารุสเซีย"
+
+#. +> trunk5
+#: data/currency/bzd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Belize"
+msgctxt "Name"
+msgid "Belize Dollar"
+msgstr "เบลีซ"
+
+#. +> trunk5
+#: data/currency/cad.desktop:5
+msgctxt "Name"
+msgid "Canadian Dollar"
+msgstr "ดอลลาร์แคนาดา"
+
+#. +> trunk5
+#: data/currency/cdf.desktop:5
+msgctxt "Name"
+msgid "Congolese Franc"
+msgstr "ฟรังก์คองโก"
+
+#. +> trunk5
+#: data/currency/chf.desktop:5
+msgctxt "Name"
+msgid "Swiss Franc"
+msgstr "ฟรังก์สวิส"
+
+#. +> trunk5
+#: data/currency/clf.desktop:5
+msgctxt "Name"
+msgid "Chilean Unidad de Fomento"
+msgstr ""
+
+#. +> trunk5
+#: data/currency/clp.desktop:5
+msgctxt "Name"
+msgid "Chilean Peso"
+msgstr "เปโซชิลี"
+
+#. +> trunk5
+#: data/currency/cny.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Chinese"
+msgctxt "Name"
+msgid "Chinese Yuan"
+msgstr "ภาษาจีน"
+
+#. +> trunk5
+#: data/currency/cop.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Colombia"
+msgctxt "Name"
+msgid "Colombian Peso"
+msgstr "โคลัมเบีย"
+
+#. +> trunk5
+#: data/currency/cou.desktop:5
+msgctxt "Name"
+msgid "Colombian Unidad de Valor Real"
+msgstr ""
+
+#. +> trunk5
+#: data/currency/crc.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Costa Rica"
+msgctxt "Name"
+msgid "Costa Rican Colon"
+msgstr "คอสตาริกา"
+
+#. +> trunk5
+#: data/currency/cuc.desktop:5
+msgctxt "Name"
+msgid "Cuban Convertible Peso"
+msgstr ""
+
+#. +> trunk5
+#: data/currency/cup.desktop:5
+msgctxt "Name"
+msgid "Cuban Peso"
+msgstr "เปโซคิวบา"
+
+#. +> trunk5
+#: data/currency/cve.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Cape Verde"
+msgctxt "Name"
+msgid "Cape Verde Escudo"
+msgstr "แหลมเวอร์ดี"
+
+#. +> trunk5
+#: data/currency/cyp.desktop:5
+msgctxt "Name"
+msgid "Cypriot Pound"
+msgstr "ปอนด์ไซปรัส"
+
+#. +> trunk5
+#: data/currency/czk.desktop:5
+msgctxt "Name"
+msgid "Czech Koruna"
+msgstr "โครูนาเช็ก"
+
+#. +> trunk5
+#: data/currency/dem.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "German"
+msgctxt "Name"
+msgid "German Mark"
+msgstr "ภาษาเยอรมัน"
+
+#. +> trunk5
+#: data/currency/djf.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Djibouti"
+msgctxt "Name"
+msgid "Djibouti Franc"
+msgstr "จิบูติ"
+
+#. +> trunk5
+#: data/currency/dkk.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Danish"
+msgctxt "Name"
+msgid "Danish Krone"
+msgstr "ภาษาเดนมาร์ค"
+
+#. +> trunk5
+#: data/currency/dop.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Dominica"
+msgctxt "Name"
+msgid "Dominican Peso"
+msgstr "โดมินิกา"
+
+#. +> trunk5
+#: data/currency/dzd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Algeria"
+msgctxt "Name"
+msgid "Algerian Dinar"
+msgstr "แอลจีเรีย"
+
+#. +> trunk5
+#: data/currency/eek.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Estonian"
+msgctxt "Name"
+msgid "Estonian Kroon"
+msgstr "ภาษาเอสโทเนีย"
+
+#. +> trunk5
+#: data/currency/egp.desktop:5
+msgctxt "Name"
+msgid "Egyptian Pound"
+msgstr "ปอนด์อียิปต์"
+
+#. +> trunk5
+#: data/currency/ern.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Eritrea"
+msgctxt "Name"
+msgid "Eritrean Nakfa"
+msgstr "เอริเทรีย"
+
+#. +> trunk5
+#: data/currency/esp.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Spanish"
+msgctxt "Name"
+msgid "Spanish Peseta"
+msgstr "ภาษาสเปน"
+
+#. +> trunk5
+#: data/currency/etb.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Ethiopia"
+msgctxt "Name"
+msgid "Ethiopian Birr"
+msgstr "เอธิโอเปีย"
+
+#. +> trunk5
+#: data/currency/eur.desktop:6
+msgctxt "Name"
+msgid "Euro"
+msgstr "ยูโร"
+
+#. +> trunk5
+#: data/currency/fim.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Finnish"
+msgctxt "Name"
+msgid "Finnish Markka"
+msgstr "ภาษาฟินแลนด์"
+
+#. +> trunk5
+#: data/currency/fjd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Fijian"
+msgctxt "Name"
+msgid "Fijian Dollar"
+msgstr "ภาษาฟิจิ"
+
+#. +> trunk5
+#: data/currency/fkp.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Falkland Islands (Malvinas)"
+msgctxt "Name"
+msgid "Falkland Islands Pound"
+msgstr "หมู่เกาะฟอล์กแลนด์ (มอลวินาส)"
+
+#. +> trunk5
+#: data/currency/frf.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "French"
+msgctxt "Name"
+msgid "French Franc"
+msgstr "ภาษาฝรั่งเศส"
+
+#. +> trunk5
+#: data/currency/gbp.desktop:5
+msgctxt "Name"
+msgid "British Pound Sterling"
+msgstr "ปอนด์สเตอร์ลิงอังกฤษ"
+
+#. +> trunk5
+#: data/currency/gel.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Georgian"
+msgctxt "Name"
+msgid "Georgian Lari"
+msgstr "ภาษาจอร์เจีย"
+
+#. +> trunk5
+#: data/currency/ghc.desktop:5
+msgctxt "Name"
+msgid "Ghanaian Cedi"
+msgstr "เซดีกานา"
+
+#. +> trunk5
+#: data/currency/ghs.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Ghana"
+msgctxt "Name"
+msgid "Ghana Cedi"
+msgstr "กานา"
+
+#. +> trunk5
+#: data/currency/gip.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Gibraltar"
+msgctxt "Name"
+msgid "Gibraltar Pound"
+msgstr "ยิบรอลตา"
+
+#. +> trunk5
+#: data/currency/gmd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Gambia"
+msgctxt "Name"
+msgid "Gambian Dalasi"
+msgstr "แกมเบีย"
+
+#. +> trunk5
+#: data/currency/gnf.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Guinea"
+msgctxt "Name"
+msgid "Guinean Franc"
+msgstr "กินี"
+
+#. +> trunk5
+#: data/currency/grd.desktop:5
+msgctxt "Name"
+msgid "Greek Drachma"
+msgstr ""
+
+#. +> trunk5
+#: data/currency/gtq.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Guatemala"
+msgctxt "Name"
+msgid "Guatemalan Quetzal"
+msgstr "กัวเตมาลา"
+
+#. +> trunk5
+#: data/currency/gwp.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Guinea-Bissau"
+msgctxt "Name"
+msgid "Guinea-Bissau Peso"
+msgstr "กินี-บิสเซา"
+
+#. +> trunk5
+#: data/currency/gyd.desktop:5
+msgctxt "Name"
+msgid "Guyanese Dollar"
+msgstr "ดอลลาร์กายอานา"
+
+#. +> trunk5
+#: data/currency/hkd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Hong Kong SAR(China)"
+msgctxt "Name"
+msgid "Hong Kong Dollar"
+msgstr "ฮ่องกง"
+
+#. +> trunk5
+#: data/currency/hnl.desktop:5
+#, fuzzy
+msgctxt "Name"
+msgid "Honduran Lempira"
+msgstr "ฮอนดูรัส"
+
+#. +> trunk5
+#: data/currency/hrk.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Croatian"
+msgctxt "Name"
+msgid "Croatian Kuna"
+msgstr "ภาษาโครเอเชีย"
+
+#. +> trunk5
+#: data/currency/htg.desktop:5
+msgctxt "Name"
+msgid "Haitian Gourde"
+msgstr "กูร์ดเฮติ"
+
+#. +> trunk5
+#: data/currency/huf.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Hungarian"
+msgctxt "Name"
+msgid "Hungarian Forint"
+msgstr "ภาษาฮังการี"
+
+#. +> trunk5
+#: data/currency/idr.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Indonesian"
+msgctxt "Name"
+msgid "Indonesian Rupiah"
+msgstr "ภาษาอินโดนีเซีย"
+
+#. +> trunk5
+#: data/currency/iep.desktop:5
+msgctxt "Name"
+msgid "Irish Pound"
+msgstr "ปอนด์ไอร์แลนด์"
+
+#. +> trunk5
+#: data/currency/ils.desktop:5
+msgctxt "Name"
+msgid "Israeli New Sheqel"
+msgstr "เชเกลอิสราเอล"
+
+#. +> trunk5
+#: data/currency/inr.desktop:5
+msgctxt "Name"
+msgid "Indian Rupee"
+msgstr "รูปีอินเดีย"
+
+#. +> trunk5
+#: data/currency/iqd.desktop:5
+msgctxt "Name"
+msgid "Iraqi Dinar"
+msgstr "ดีนาร์อิรัก"
+
+#. +> trunk5
+#: data/currency/irr.desktop:5
+msgctxt "Name"
+msgid "Iranian Rial"
+msgstr "เรียลอิหร่าน"
+
+#. +> trunk5
+#: data/currency/isk.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Icelandic"
+msgctxt "Name"
+msgid "Icelandic Krona"
+msgstr "ภาษาไอซ์แลนด์"
+
+#. +> trunk5
+#: data/currency/itl.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Italian"
+msgctxt "Name"
+msgid "Italian Lira"
+msgstr "ภาษาอิตาเลียน"
+
+#. +> trunk5
+#: data/currency/jmd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Jamaica"
+msgctxt "Name"
+msgid "Jamaican Dollar"
+msgstr "จาไมก้า"
+
+#. +> trunk5
+#: data/currency/jod.desktop:5
+msgctxt "Name"
+msgid "Jordanian Dinar"
+msgstr "ดีนาร์จอร์แดน"
+
+#. +> trunk5
+#: data/currency/jpy.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Japanese"
+msgctxt "Name"
+msgid "Japanese Yen"
+msgstr "ภาษาญี่ปุ่น"
+
+#. +> trunk5
+#: data/currency/kes.desktop:5
+msgctxt "Name"
+msgid "Kenyan Shilling"
+msgstr "ชิลลิงเคนยา"
+
+#. +> trunk5
+#: data/currency/kgs.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Kyrgyzstan"
+msgctxt "Name"
+msgid "Kyrgyzstani Som"
+msgstr "คีกีซสถาน"
+
+#. +> trunk5
+#: data/currency/khr.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Cambodia"
+msgctxt "Name"
+msgid "Cambodian Riel"
+msgstr "กัมพูชา"
+
+#. +> trunk5
+#: data/currency/kmf.desktop:5
+msgctxt "Name"
+msgid "Comorian Franc"
+msgstr "ฟรังก์โกโมเรีย"
+
+#. +> trunk5
+#: data/currency/kpw.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "North Korea"
+msgctxt "Name"
+msgid "North Korean Won"
+msgstr "เกาหลีเหนือ"
+
+#. +> trunk5
+#: data/currency/krw.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "South Korea"
+msgctxt "Name"
+msgid "South Korean Won"
+msgstr "เกาหลีใต้"
+
+#. +> trunk5
+#: data/currency/kwd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Kuwait"
+msgctxt "Name"
+msgid "Kuwaiti Dinar"
+msgstr "คูเวต"
+
+#. +> trunk5
+#: data/currency/kyd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Cayman Islands"
+msgctxt "Name"
+msgid "Cayman Islands Dollar"
+msgstr "หมู่เกาะเคย์แมน"
+
+#. +> trunk5
+#: data/currency/kzt.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Kazakh"
+msgctxt "Name"
+msgid "Kazakhstani Tenge"
+msgstr "ภาษาคาซัคสถาน"
+
+#. +> trunk5
+#: data/currency/lak.desktop:5
+msgctxt "Name"
+msgid "Lao Kip"
+msgstr "กีบลาว"
+
+#. +> trunk5
+#: data/currency/lbp.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Lebanon"
+msgctxt "Name"
+msgid "Lebanese Pound"
+msgstr "เลบานอน"
+
+#. +> trunk5
+#: data/currency/lkr.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Sri Lanka"
+msgctxt "Name"
+msgid "Sri Lankan Rupee"
+msgstr "ศรีลังกา"
+
+#. +> trunk5
+#: data/currency/lrd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Liberia"
+msgctxt "Name"
+msgid "Liberian Dollar"
+msgstr "ไลบีเรีย"
+
+#. +> trunk5
+#: data/currency/lsl.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Lesotho"
+msgctxt "Name"
+msgid "Lesotho Loti"
+msgstr "เลโซโท"
+
+#. +> trunk5
+#: data/currency/ltl.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Lithuanian"
+msgctxt "Name"
+msgid "Lithuanian Litas"
+msgstr "ภาษาลิธัวเนีย"
+
+#. +> trunk5
+#: data/currency/luf.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Luxembourgish"
+msgctxt "Name"
+msgid "Luxembourgish Franc"
+msgstr "ภาษาลักเซมเบอร์ก"
+
+#. +> trunk5
+#: data/currency/lvl.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Latvian"
+msgctxt "Name"
+msgid "Latvian Lats"
+msgstr "ภาษาลัทเวีย"
+
+#. +> trunk5
+#: data/currency/lyd.desktop:5
+msgctxt "Name"
+msgid "Libyan Dinar"
+msgstr "ดีนาร์ลิเบีย"
+
+#. +> trunk5
+#: data/currency/mad.desktop:5
+msgctxt "Name"
+msgid "Moroccan Dirham"
+msgstr "เดอร์แฮมโมร็อกโก"
+
+#. +> trunk5
+#: data/currency/mdl.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Moldavian"
+msgctxt "Name"
+msgid "Moldovan Leu"
+msgstr "ภาษามอลดาเวียน"
+
+#. +> trunk5
+#: data/currency/mga.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Malagasy"
+msgctxt "Name"
+msgid "Malagasy Ariary"
+msgstr "ภาษามาลากาซี"
+
+#. +> trunk5
+#: data/currency/mgf.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Malagasy"
+msgctxt "Name"
+msgid "Malagasy Franc"
+msgstr "ภาษามาลากาซี"
+
+#. +> trunk5
+#: data/currency/mkd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Macedonian"
+msgctxt "Name"
+msgid "Macedonian Denar"
+msgstr "ภาษามาเซโดเนีย"
+
+#. +> trunk5
+#: data/currency/mlf.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "France"
+msgctxt "Name"
+msgid "Mali Franc"
+msgstr "ฝรั่งเศส"
+
+#. +> trunk5
+#: data/currency/mmk.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Myanmar"
+msgctxt "Name"
+msgid "Myanma Kyat"
+msgstr "พม่า"
+
+#. +> trunk5
+#: data/currency/mnt.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Mongolian"
+msgctxt "Name"
+msgid "Mongolian Tugrik"
+msgstr "ภาษามองโกล"
+
+#. +> trunk5
+#: data/currency/mop.desktop:5
+msgctxt "Name"
+msgid "Macanese Pataca"
+msgstr "ปาตากามาเก๊า"
+
+#. +> trunk5
+#: data/currency/mro.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Lithuanian"
+msgctxt "Name"
+msgid "Mauritanian Ouguiya"
+msgstr "ภาษาลิธัวเนีย"
+
+#. +> trunk5
+#: data/currency/mtl.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Maltese"
+msgctxt "Name"
+msgid "Maltese Lira"
+msgstr "ภาษามอลตีส"
+
+#. +> trunk5
+#: data/currency/mur.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Mauritius"
+msgctxt "Name"
+msgid "Mauritius Rupee"
+msgstr "มอริเชียส"
+
+#. +> trunk5
+#: data/currency/mvr.desktop:5
+msgctxt "Name"
+msgid "Maldivian Rufiyaa"
+msgstr ""
+
+#. +> trunk5
+#: data/currency/mwk.desktop:5
+msgctxt "Name"
+msgid "Malawian Kwacha"
+msgstr ""
+
+#. +> trunk5
+#: data/currency/mxn.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Mexico"
+msgctxt "Name"
+msgid "Mexican Peso"
+msgstr "เม็กซิโก"
+
+#. +> trunk5
+#: data/currency/mxv.desktop:5
+msgctxt "Name"
+msgid "Mexican Unidad de Inversion"
+msgstr ""
+
+#. +> trunk5
+#: data/currency/myr.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Malay"
+msgctxt "Name"
+msgid "Malaysian Ringgit"
+msgstr "ภาษามลายู"
+
+#. +> trunk5
+#: data/currency/mzm.desktop:5 data/currency/mzn.desktop:5
+msgctxt "Name"
+msgid "Mozambican Metical"
+msgstr ""
+
+#. +> trunk5
+#: data/currency/nad.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Namibia"
+msgctxt "Name"
+msgid "Namibian Dollar"
+msgstr "นามิเบีย"
+
+#. +> trunk5
+#: data/currency/ngn.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Nigeria"
+msgctxt "Name"
+msgid "Nigerian Naira"
+msgstr "ไนจีเรีย"
+
+#. +> trunk5
+#: data/currency/nio.desktop:5
+msgctxt "Name"
+msgid "Nicaraguan Cordoba Oro"
+msgstr ""
+
+#. +> trunk5
+#: data/currency/nlg.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Netherlands Antilles"
+msgctxt "Name"
+msgid "Netherlands Guilder"
+msgstr "เนเธอร์แลนด์ แอนทิลีส"
+
+#. +> trunk5
+#: data/currency/nok.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Norwegian Bokmål"
+msgctxt "Name"
+msgid "Norwegian Krone"
+msgstr "ภาษานอร์เวย์ (บ็อคมัล)"
+
+#. +> trunk5
+#: data/currency/npr.desktop:5
+msgctxt "Name"
+msgid "Nepalese Rupee"
+msgstr "รูปีเนปาล"
+
+#. +> trunk5
+#: data/currency/nzd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "New Zealand"
+msgctxt "Name"
+msgid "New Zealand Dollar"
+msgstr "นิวซีแลนด์"
+
+#. +> trunk5
+#: data/currency/omr.desktop:5
+msgctxt "Name"
+msgid "Omani Rial"
+msgstr ""
+
+#. +> trunk5
+#: data/currency/pab.desktop:5
+msgctxt "Name"
+msgid "Panamanian Balboa"
+msgstr ""
+
+#. +> trunk5
+#: data/currency/pen.desktop:5
+msgctxt "Name"
+msgid "Peruvian Nuevo Sol"
+msgstr ""
+
+#. +> trunk5
+#: data/currency/pgk.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Papua New Guinea"
+msgctxt "Name"
+msgid "Papua New Guinean Kina"
+msgstr "ปาปัวนิวกินี"
+
+#. +> trunk5
+#: data/currency/php.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Philippines"
+msgctxt "Name"
+msgid "Philippine Peso"
+msgstr "ฟิลิปปินส์"
+
+#. +> trunk5
+#: data/currency/pkr.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Pakistan"
+msgctxt "Name"
+msgid "Pakistan Rupee"
+msgstr "ปากีสถาน"
+
+#. +> trunk5
+#: data/currency/pln.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Polish"
+msgctxt "Name"
+msgid "Polish Zloty"
+msgstr "ภาษาโปแลนด์"
+
+#. +> trunk5
+#: data/currency/pte.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Portuguese"
+msgctxt "Name"
+msgid "Portuguese Escudo"
+msgstr "ภาษาโปรตุเกส"
+
+#. +> trunk5
+#: data/currency/pyg.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Paraguay"
+msgctxt "Name"
+msgid "Paraguayan Guarani"
+msgstr "ปารากวัย"
+
+#. +> trunk5
+#: data/currency/qar.desktop:5
+msgctxt "Name"
+msgid "Qatari Riyal"
+msgstr ""
+
+#. +> trunk5
+#: data/currency/rol.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Romanian"
+msgctxt "Name"
+msgid "Romanian Leu A/05"
+msgstr "ภาษาโรมาเนีย"
+
+#. +> trunk5
+#: data/currency/ron.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Romanian"
+msgctxt "Name"
+msgid "Romanian Leu"
+msgstr "ภาษาโรมาเนีย"
+
+#. +> trunk5
+#: data/currency/rsd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Serbian Latin"
+msgctxt "Name"
+msgid "Serbian Dinar"
+msgstr "ภาษาละตินเซอร์เบีย"
+
+#. +> trunk5
+#: data/currency/rub.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Russian"
+msgctxt "Name"
+msgid "Russian Ruble"
+msgstr "ภาษารัสเซีย"
+
+#. +> trunk5
+#: data/currency/rur.desktop:5
+msgctxt "Name"
+msgid "Russian Ruble A/97"
+msgstr ""
+
+#. +> trunk5
+#: data/currency/rwf.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Rwanda"
+msgctxt "Name"
+msgid "Rwandan Franc"
+msgstr "รวันดา"
+
+#. +> trunk5
+#: data/currency/sar.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Saudi Arabia"
+msgctxt "Name"
+msgid "Saudi Riyal"
+msgstr "ซาอุดิอาระเบีย"
+
+#. +> trunk5
+#: data/currency/sbd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Solomon Islands"
+msgctxt "Name"
+msgid "Solomon Islands Dollar"
+msgstr "หมู่เกาะโซโลมอน"
+
+#. +> trunk5
+#: data/currency/scr.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Seychelles"
+msgctxt "Name"
+msgid "Seychellois Rupee"
+msgstr "เซเชลส์"
+
+#. +> trunk5
+#: data/currency/sdd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Sundanese"
+msgctxt "Name"
+msgid "Sudanese Dinar"
+msgstr "ภาษาซูดาน"
+
+#. +> trunk5
+#: data/currency/sdg.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Sundanese"
+msgctxt "Name"
+msgid "Sudanese Pound"
+msgstr "ภาษาซูดาน"
+
+#. +> trunk5
+#: data/currency/sek.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Swedish"
+msgctxt "Name"
+msgid "Swedish Krona"
+msgstr "ภาษาสวีเดน"
+
+#. +> trunk5
+#: data/currency/sgd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Singapore"
+msgctxt "Name"
+msgid "Singapore Dollar"
+msgstr "สิงคโปร์"
+
+#. +> trunk5
+#: data/currency/shp.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Saint Helena"
+msgctxt "Name"
+msgid "Saint Helena Pound"
+msgstr "เซนต์เฮเลนา"
+
+#. +> trunk5
+#: data/currency/sit.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Slovenian"
+msgctxt "Name"
+msgid "Slovenian Tolar"
+msgstr "ภาษาสโลเวเนีย"
+
+#. +> trunk5
+#: data/currency/skk.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Slovak"
+msgctxt "Name"
+msgid "Slovak Koruna"
+msgstr "ภาษาสโลวัค"
+
+#. +> trunk5
+#: data/currency/sll.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Sierra Leone"
+msgctxt "Name"
+msgid "Sierra Leonean Leone"
+msgstr "เซียร์ราลีโอน"
+
+#. +> trunk5
+#: data/currency/sos.desktop:5
+msgctxt "Name"
+msgid "Somali Shilling"
+msgstr "ชิลลิงโซมาเลีย"
+
+#. +> trunk5
+#: data/currency/srd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Suriname"
+msgctxt "Name"
+msgid "Surinamese Dollar"
+msgstr "ซูรินาเม"
+
+#. +> trunk5
+#: data/currency/srg.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Suriname"
+msgctxt "Name"
+msgid "Surinamese Guilder"
+msgstr "ซูรินาเม"
+
+#. +> trunk5
+#: data/currency/ssp.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Sotho, Southern"
+msgctxt "Name"
+msgid "South Sudanese Pound"
+msgstr "ภาษาโซโธ ตอนใต้"
+
+#. +> trunk5
+#: data/currency/std.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Sao Tome and Principe"
+msgctxt "Name"
+msgid "São Tomé and Príncipe Dobra"
+msgstr "ซาวโทมและพรินซิป"
+
+#. +> trunk5
+#: data/currency/svc.desktop:5
+msgctxt "Name"
+msgid "Salvadoran Colon"
+msgstr ""
+
+#. +> trunk5
+#: data/currency/syp.desktop:5
+msgctxt "Name"
+msgid "Syrian Pound"
+msgstr "ปอนด์ซีเรีย"
+
+#. +> trunk5
+#: data/currency/szl.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Swaziland"
+msgctxt "Name"
+msgid "Swazi Lilangeni"
+msgstr "สวาซิแลนด์"
+
+#. +> trunk5
+#: data/currency/thb.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Thai"
+msgctxt "Name"
+msgid "Thai Baht"
+msgstr "ภาษาไทย"
+
+#. +> trunk5
+#: data/currency/tjs.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Tajik"
+msgctxt "Name"
+msgid "Tajikistani Somoni"
+msgstr "ภาษาทาจิกิสถาน"
+
+#. +> trunk5
+#: data/currency/tmm.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Turkmen"
+msgctxt "Name"
+msgid "Turkmenistani Old Manat"
+msgstr "ภาษาเติร์กเมน"
+
+#. +> trunk5
+#: data/currency/tmt.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Turkmen"
+msgctxt "Name"
+msgid "Turkmenistani Manat"
+msgstr "ภาษาเติร์กเมน"
+
+#. +> trunk5
+#: data/currency/tnd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Tunisia"
+msgctxt "Name"
+msgid "Tunisian Dinar"
+msgstr "ตูนีเซีย"
+
+#. +> trunk5
+#: data/currency/top.desktop:5
+msgctxt "Name"
+msgid "Tongan Pa'anga"
+msgstr ""
+
+#. +> trunk5
+#: data/currency/tpe.desktop:5
+msgctxt "Name"
+msgid "Portuguese Timorese Escudo"
+msgstr ""
+
+#. +> trunk5
+#: data/currency/trl.desktop:5
+msgctxt "Name"
+msgid "Turkish Lira A/05"
+msgstr ""
+
+#. +> trunk5
+#: data/currency/try.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Turkish"
+msgctxt "Name"
+msgid "Turkish Lira"
+msgstr "ภาษาตุรกี"
+
+#. +> trunk5
+#: data/currency/ttd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Trinidad and Tobago"
+msgctxt "Name"
+msgid "Trinidad and Tobago Dollar"
+msgstr "ตรินิแดดและโตบาโก"
+
+#. +> trunk5
+#: data/currency/twd.desktop:5
+msgctxt "Name"
+msgid "New Taiwan Dollar"
+msgstr "ดอลลาร์ใหม่ไต้หวัน"
+
+#. +> trunk5
+#: data/currency/tzs.desktop:5
+msgctxt "Name"
+msgid "Tanzanian Shilling"
+msgstr "ชิลลิงแทนซาเนีย"
+
+#. +> trunk5
+#: data/currency/uah.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Ukrainian"
+msgctxt "Name"
+msgid "Ukrainian Hryvnia"
+msgstr "ภาษายูเครน"
+
+#. +> trunk5
+#: data/currency/ugx.desktop:5
+msgctxt "Name"
+msgid "Ugandan Shilling"
+msgstr "ชิลลิงอูกันดา"
+
+#. +> trunk5
+#: data/currency/usd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "United States of America"
+msgctxt "Name"
+msgid "United States Dollar"
+msgstr "สหรัฐอเมริกา"
+
+#. +> trunk5
+#: data/currency/usn.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "United States of America"
+msgctxt "Name"
+msgid "United States Dollar (Next Day)"
+msgstr "สหรัฐอเมริกา"
+
+#. +> trunk5
+#: data/currency/uss.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "United States of America"
+msgctxt "Name"
+msgid "United States Dollar (Same Day)"
+msgstr "สหรัฐอเมริกา"
+
+#. +> trunk5
+#: data/currency/uyu.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Uruguay"
+msgctxt "Name"
+msgid "Uruguayan Peso"
+msgstr "อุรุกวัย"
+
+#. +> trunk5
+#: data/currency/uzs.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Uzbek"
+msgctxt "Name"
+msgid "Uzbekistan Som"
+msgstr "ภาษาอุซเบกิสถาน"
+
+#. +> trunk5
+#: data/currency/veb.desktop:5
+msgctxt "Name"
+msgid "Venezuelan Bolívar Fuerte"
+msgstr "โบลีวาร์เวเนซุเอลา"
+
+#. +> trunk5
+#: data/currency/vnd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Vietnamese"
+msgctxt "Name"
+msgid "Vietnamese Dong"
+msgstr "ภาษาเวียดนาม"
+
+#. +> trunk5
+#: data/currency/vuv.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Vanuatu"
+msgctxt "Name"
+msgid "Vanuatu Vatu"
+msgstr "วานูอาตู"
+
+#. +> trunk5
+#: data/currency/wst.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Samoan"
+msgctxt "Name"
+msgid "Samoan Tala"
+msgstr "ภาษาซาโมน"
+
+#. +> trunk5
+#: data/currency/xaf.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Central African Republic"
+msgctxt "Name"
+msgid "Central African CFA Franc"
+msgstr "สาธารณรัฐแอฟริกากลาง"
+
+#. +> trunk5
+#: data/currency/xag.desktop:5
+msgctxt "Name"
+msgid "Silver"
+msgstr "เงิน"
+
+#. +> trunk5
+#: data/currency/xau.desktop:5
+msgctxt "Name"
+msgid "Gold"
+msgstr "ทองคำ"
+
+#. +> trunk5
+#: data/currency/xcd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Caribbean"
+msgctxt "Name"
+msgid "East Caribbean Dollar"
+msgstr "คาริเบียน"
+
+#. +> trunk5
+#: data/currency/xof.desktop:5
+msgctxt "Name"
+msgid "West African CFA Franc"
+msgstr "ฟรังก์สาธารณรัฐแอฟริกาตะวันตก"
+
+#. +> trunk5
+#: data/currency/xpd.desktop:5
+msgctxt "Name"
+msgid "Palladium"
+msgstr "เพิลเลเดียมเกาะพาเล"
+
+#. +> trunk5
+#: data/currency/xpf.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "France"
+msgctxt "Name"
+msgid "CFP Franc"
+msgstr "ฝรั่งเศส"
+
+#. +> trunk5
+#: data/currency/xpt.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Latin"
+msgctxt "Name"
+msgid "Platinum"
+msgstr "ภาษาละติน"
+
+#. +> trunk5
+#: data/currency/yer.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Yemen"
+msgctxt "Name"
+msgid "Yemeni Rial"
+msgstr "เยเมน"
+
+#. +> trunk5
+#: data/currency/yum.desktop:5
+msgctxt "Name"
+msgid "Yugoslav Dinar"
+msgstr "ดีนาร์ยูโกสลาเวีย"
+
+#. +> trunk5
+#: data/currency/zar.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "South Africa"
+msgctxt "Name"
+msgid "South African Rand"
+msgstr "แอฟริกาใต้"
+
+#. +> trunk5
+#: data/currency/zmk.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Zambia"
+msgctxt "Name"
+msgid "Zambian Kwacha"
+msgstr "แซมเบีย"
+
+#. +> trunk5
+#: data/currency/zwd.desktop:5
+msgctxt "Name"
+msgid "Zimbabwean Dollar A/06"
+msgstr "ดอลลาร์ซิมบับเว A/06"
+
+#. +> trunk5
+#: data/currency/zwl.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Zimbabwe"
+msgctxt "Name"
+msgid "Zimbabwean Dollar"
+msgstr "ซิมบับเว"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:2
+msgctxt "Name"
+msgid "Afar"
+msgstr "ภาษาอะฟาร์"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:103
+msgctxt "Name"
+msgid "Abkhazian"
+msgstr "ภาษาแอบคาเซียน"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:204
+msgctxt "Name"
+msgid "Avestan"
+msgstr "ภาษาอะเวสแทน"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:304
+msgctxt "Name"
+msgid "Afrikaans"
+msgstr "ภาษาแอฟริคานส์"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:405
+msgctxt "Name"
+msgid "Amharic"
+msgstr "ภาษาอัมฮาริค"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:506
+msgctxt "Name"
+msgid "Arabic"
+msgstr "ภาษาอารบิก"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:607
+msgctxt "Name"
+msgid "Assamese"
+msgstr "ภาษาอัสสัม"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:708
+msgctxt "Name"
+msgid "Asturian"
+msgstr "ภาษาอัสตูเรียส"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:784
+msgctxt "Name"
+msgid "Aymara"
+msgstr "ภาษาอัยมารา"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:885
+msgctxt "Name"
+msgid "Azerbaijani"
+msgstr "ภาษาอาเซอร์ไบจัน"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:986
+msgctxt "Name"
+msgid "Bashkir"
+msgstr "ภาษาแบชเคียร์"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:1087
+msgctxt "Name"
+msgid "Belarusian"
+msgstr "ภาษาเบลารุสเซีย"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:1188
+msgctxt "Name"
+msgid "Belarusian (Latin)"
+msgstr "ภาษาเบลารุสเซีย (ละติน)"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:1274
+msgctxt "Name"
+msgid "Bulgarian"
+msgstr "ภาษาบัลแกเรีย"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:1375
+msgctxt "Name"
+msgid "Bihari"
+msgstr "ภาษาบิฮาริ"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:1476
+msgctxt "Name"
+msgid "Bislama"
+msgstr "ภาษาบิสลามา"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:1577
+msgctxt "Name"
+msgid "Bengali"
+msgstr "ภาษาเบงกาลี"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:1678
+msgctxt "Name"
+msgid "Bengali (India)"
+msgstr "ภาษาเบงกาลี (อินเดีย)"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:1769
+msgctxt "Name"
+msgid "Tibetan"
+msgstr "ภาษาฑิเบต"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:1870
+msgctxt "Name"
+msgid "Breton"
+msgstr "ภาษาเบรทตัน"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:1971
+msgctxt "Name"
+msgid "Bosnian"
+msgstr "ภาษาบอสเนีย"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:2072
+msgctxt "Name"
+msgid "Catalan"
+msgstr "ภาษาคาตะลาน"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:2173
+msgctxt "Name"
+msgid "Catalan (Valencian)"
+msgstr "ภาษาคาตะลาน (วาเลนเซีย)"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:2248
+msgctxt "Name"
+msgid "Chechen"
+msgstr "ภาษาเชเชน"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:2349
+msgctxt "Name"
+msgid "Chamorro"
+msgstr "ภาษาชามอโร"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:2449
+msgctxt "Name"
+msgid "Corsican"
+msgstr "ภาษาคอร์ซิกัน"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:2550
+msgctxt "Name"
+msgid "Crimean Tatar"
+msgstr "ภาษาทาทาร์"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:2638
+msgctxt "Name"
+msgid "Czech"
+msgstr "ภาษาเชค"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:2739
+msgctxt "Name"
+msgid "Kashubian"
+msgstr "ภาษาคาชูเบียน"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:2830
+msgctxt "Name"
+msgid "Church Slavic"
+msgstr "ภาษาเชิร์ชสลาฟ"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:2930
+msgctxt "Name"
+msgid "Chuvash"
+msgstr "ภาษาชูวาช"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:3031
+msgctxt "Name"
+msgid "Welsh"
+msgstr "ภาษาเวลช์"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:3132
+msgctxt "Name"
+msgid "Danish"
+msgstr "ภาษาเดนมาร์ค"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:3233
+msgctxt "Name"
+msgid "German"
+msgstr "ภาษาเยอรมัน"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:3334
+msgctxt "Name"
+msgid "Lower Sorbian"
+msgstr "ภาษาซอร์เบียนตอนล่าง"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:3419
+msgctxt "Name"
+msgid "Dzongkha"
+msgstr "ภาษาจงข่า"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:3519
+msgctxt "Name"
+msgid "Greek"
+msgstr "ภาษากรีก"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:3620
+msgctxt "Name"
+msgid "English"
+msgstr "ภาษาอังกฤษ"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:3721
+msgctxt "Name"
+msgid "British English"
+msgstr "ภาษาอังกฤษ บริติช"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:3821
+msgctxt "Name"
+msgid "American English"
+msgstr "ภาษาอังกฤษ อเมริกัน"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:3920 src/l10n/epo/country.desktop:2
+msgctxt "Name"
+msgid "Esperanto"
+msgstr "ภาษาเอสเปอร์รันโต"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:4021
+msgctxt "Name"
+msgid "Spanish"
+msgstr "ภาษาสเปน"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:4122
+msgctxt "Name"
+msgid "Estonian"
+msgstr "ภาษาเอสโทเนีย"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:4223
+msgctxt "Name"
+msgid "Basque"
+msgstr "ภาษาบาสก์"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:4324
+msgctxt "Name"
+msgid "Farsi (Persian)"
+msgstr "ภาษาฟาร์ซี (เปอร์เซียน)"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:4423
+msgctxt "Name"
+msgid "Finnish"
+msgstr "ภาษาฟินแลนด์"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:4524
+msgctxt "Name"
+msgid "Fijian"
+msgstr "ภาษาฟิจิ"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:4625
+msgctxt "Name"
+msgid "Faroese"
+msgstr "ภาษาฟาโรอีส"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:4725
+msgctxt "Name"
+msgid "French"
+msgstr "ภาษาฝรั่งเศส"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:4826
+msgctxt "Name"
+msgid "Frisian"
+msgstr "ภาษาฟรีเชียน"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:4927
+msgctxt "Name"
+msgid "Irish Gaelic"
+msgstr "ภาษาไอริชเกลิค"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:5021
+msgctxt "Name"
+msgid "Gaelic"
+msgstr "ภาษาเกลิค"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:5122
+msgctxt "Name"
+msgid "Galician"
+msgstr "ภาษาแกลิเซีย"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:5222
+msgctxt "Name"
+msgid "Guarani"
+msgstr "ภาษากวารานี"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:5323
+msgctxt "Name"
+msgid "Gujarati"
+msgstr "ภาษากูจาราตี"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:5424
+msgctxt "Name"
+msgid "Manx"
+msgstr "ภาษาแมงซ์"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:5524
+msgctxt "Name"
+msgid "Hausa"
+msgstr "ภาษาเฮาซา"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:5625
+msgctxt "Name"
+msgid "Hebrew"
+msgstr "ภาษาฮิบรู"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:5726
+msgctxt "Name"
+msgid "Hindi"
+msgstr "ภาษาฮินดี"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:5827
+msgctxt "Name"
+msgid "Chhattisgarhi"
+msgstr "ภาษาฉัตติสครห์"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:5906
+msgctxt "Name"
+msgid "Hiri Motu"
+msgstr "ภาษาฮิริโมตู"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:6007
+msgctxt "Name"
+msgid "Croatian"
+msgstr "ภาษาโครเอเชีย"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:6108
+msgctxt "Name"
+msgid "Upper Sorbian"
+msgstr "ภาษาซอร์เบียนตอนบน"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:6206
+msgctxt "Name"
+msgid "Hungarian"
+msgstr "ภาษาฮังการี"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:6307
+msgctxt "Name"
+msgid "Armenian"
+msgstr "ภาษาอาร์เมเนีย"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:6408
+msgctxt "Name"
+msgid "Herero"
+msgstr "ภาษาเฮอเรโร"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:6509
+msgctxt "Name"
+msgid "Interlingua"
+msgstr "ภาษานานาชาติ"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:6609
+msgctxt "Name"
+msgid "Indonesian"
+msgstr "ภาษาอินโดนีเซีย"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:6710
+msgctxt "Name"
+msgid "Interlingue"
+msgstr "ภาษาอินเทอร์ลิงก์"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:6809
+msgctxt "Name"
+msgid "Inupiaq"
+msgstr "ภาษาอินุพิอัค"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:6909
+msgctxt "Name"
+msgid "Ido"
+msgstr "ภาษาอิโด"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:7010
+msgctxt "Name"
+msgid "Icelandic"
+msgstr "ภาษาไอซ์แลนด์"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:7111
+msgctxt "Name"
+msgid "Italian"
+msgstr "ภาษาอิตาเลียน"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:7212
+msgctxt "Name"
+msgid "Inuktitut"
+msgstr "ภาษาอินุคทิทุท"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:7312
+msgctxt "Name"
+msgid "Japanese"
+msgstr "ภาษาญี่ปุ่น"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:7413
+msgctxt "Name"
+msgid "Javanese"
+msgstr "ภาษาชวา"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:7514
+msgctxt "Name"
+msgid "Georgian"
+msgstr "ภาษาจอร์เจีย"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:7615
+msgctxt "Name"
+msgid "Kikuyu"
+msgstr "ภาษาคิคุยุ"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:7716
+msgctxt "Name"
+msgid "Kazakh"
+msgstr "ภาษาคาซัคสถาน"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:7817
+msgctxt "Name"
+msgid "Kalaallisut"
+msgstr "ภาษาคาลัทลิซุท"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:7916
+msgctxt "Name"
+msgid "Khmer"
+msgstr "ภาษาเขมร"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:8017
+msgctxt "Name"
+msgid "Kannada"
+msgstr "ภาษากัณณาท"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:8118
+msgctxt "Name"
+msgid "Korean"
+msgstr "ภาษาเกาหลี"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:8219
+msgctxt "Name"
+msgid "Kashmiri"
+msgstr "ภาษากัศมิรี"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:8320
+msgctxt "Name"
+msgid "Kurdish"
+msgstr "ภาษาเคอร์ดิช"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:8421
+msgctxt "Name"
+msgid "Komi"
+msgstr "ภาษาคอมี"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:8522
+msgctxt "Name"
+msgid "Cornish"
+msgstr "ภาษาคอร์นิช"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:8623
+msgctxt "Name"
+msgid "Kirghiz"
+msgstr "ภาษาเคอร์กิซ"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:8724
+msgctxt "Name"
+msgid "Latin"
+msgstr "ภาษาละติน"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:8825
+msgctxt "Name"
+msgid "Luxembourgish"
+msgstr "ภาษาลักเซมเบอร์ก"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:8926
+msgctxt "Name"
+msgid "Limburgan"
+msgstr "ภาษาลิมเบอร์กัน"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:9025
+msgctxt "Name"
+msgid "Lingala"
+msgstr "ภาษาลิงกาลา"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:9126
+msgctxt "Name"
+msgid "Lao"
+msgstr "ภาษาลาว"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:9227
+msgctxt "Name"
+msgid "Lithuanian"
+msgstr "ภาษาลิธัวเนีย"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:9328
+msgctxt "Name"
+msgid "Latvian"
+msgstr "ภาษาลัทเวีย"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:9429
+msgctxt "Name"
+msgid "Maithili"
+msgstr "ภาษาไมถิลี"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:9511
+msgctxt "Name"
+msgid "Malagasy"
+msgstr "ภาษามาลากาซี"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:9611
+msgctxt "Name"
+msgid "Marshallese"
+msgstr "ภาษามาร์แชล"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:9711
+msgctxt "Name"
+msgid "Maori"
+msgstr "ภาษาเมารี"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:9812
+msgctxt "Name"
+msgid "Macedonian"
+msgstr "ภาษามาเซโดเนีย"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:9913
+msgctxt "Name"
+msgid "Malayalam"
+msgstr "ภาษามะละยาลัม"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:10014
+msgctxt "Name"
+msgid "Mongolian"
+msgstr "ภาษามองโกล"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:10115
+msgctxt "Name"
+msgid "Moldavian"
+msgstr "ภาษามอลดาเวียน"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:10216
+msgctxt "Name"
+msgid "Marathi"
+msgstr "ภาษามราฐี"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:10317
+msgctxt "Name"
+msgid "Malay"
+msgstr "ภาษามลายู"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:10418
+msgctxt "Name"
+msgid "Maltese"
+msgstr "ภาษามอลตีส"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:10519
+msgctxt "Name"
+msgid "Burmese"
+msgstr "ภาษาพม่า"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:10620 src/l10n/nr/country.desktop:2
+msgctxt "Name"
+msgid "Nauru"
+msgstr "ภาษานาอุรุ"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:10721
+msgctxt "Name"
+msgid "Norwegian Bokmål"
+msgstr "ภาษานอร์เวย์ (บ็อคมัล)"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:10821
+msgctxt "Name"
+msgid "Ndebele, North"
+msgstr "ภาษาอึนเดเบเล ตอนเหนือ"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:10919
+msgctxt "Name"
+msgid "Low Saxon"
+msgstr "ภาษาเยอรมัน ระดับล่าง"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:11017
+msgctxt "Name"
+msgid "Nepali"
+msgstr "ภาษาเนปาล"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:11118
+msgctxt "Name"
+msgid "Ndonga"
+msgstr "ภาษาอึนดองกา"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:11218
+msgctxt "Name"
+msgid "Dutch"
+msgstr "ภาษาดัทช์"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:11319
+msgctxt "Name"
+msgid "Norwegian Nynorsk"
+msgstr "ภาษานอร์เวย์ (นูนอร์สคฺ)"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:11419
+msgctxt "Name"
+msgid "Ndebele, South"
+msgstr "ภาษาอึนเดเบเล ตอนใต้"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:11518
+msgctxt "Name"
+msgid "Northern Sotho"
+msgstr "ภาษาโซโธ ตอนเหนือ"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:11617
+msgctxt "Name"
+msgid "Navajo"
+msgstr "ภาษานาวาโฮ"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:11717
+msgctxt "Name"
+msgid "Chichewa"
+msgstr "ภาษาชิเชวา"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:11817
+msgctxt "Name"
+msgid "Occitan"
+msgstr "ภาษาออคซิทัน"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:11918
+msgctxt "Name"
+msgid "Oromo"
+msgstr "ภาษาโอโรโม"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:12018
+msgctxt "Name"
+msgid "Oriya"
+msgstr "ภาษาโอริยา"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:12119
+msgctxt "Name"
+msgid "Ossetian"
+msgstr "ภาษาโอซิเชียน"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:12219
+msgctxt "Name"
+msgid "Punjabi/Panjabi"
+msgstr "ภาษาปัญจาบี/ปัญจาบ"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:12312
+msgctxt "Name"
+msgid "Pali"
+msgstr "ภาษาบาลี"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:12413
+msgctxt "Name"
+msgid "Polish"
+msgstr "ภาษาโปแลนด์"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:12514
+msgctxt "Name"
+msgid "Pushto"
+msgstr "ภาษาพาชโต"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:12614
+msgctxt "Name"
+msgid "Portuguese"
+msgstr "ภาษาโปรตุเกส"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:12715
+msgctxt "Name"
+msgid "Brazilian Portuguese"
+msgstr "ภาษาโปรตุเกสบราซิล"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:12815
+msgctxt "Name"
+msgid "Quechua"
+msgstr "ภาษาเคชัว"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:12916
+msgctxt "Name"
+msgid "Rundi"
+msgstr "ภาษารุนดิ"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:13016
+msgctxt "Name"
+msgid "Romanian"
+msgstr "ภาษาโรมาเนีย"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:13117
+msgctxt "Name"
+msgid "Romany"
+msgstr "ภาษาโรมานี"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:13212
+msgctxt "Name"
+msgid "Russian"
+msgstr "ภาษารัสเซีย"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:13313
+msgctxt "Name"
+msgid "Kinyarwanda"
+msgstr "ภาษาคินยาร์วันดา"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:13414
+msgctxt "Name"
+msgid "Sanskrit"
+msgstr "ภาษาสันสกฤต"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:13515
+msgctxt "Name"
+msgid "Sardinian"
+msgstr "ภาษาซาร์ดิเนียน"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:13616
+msgctxt "Name"
+msgid "Sindhi"
+msgstr "ภาษาสินธุ"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:13716
+msgctxt "Name"
+msgid "Northern Sami"
+msgstr "ภาษาซามี ตอนเหนือ"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:13816
+msgctxt "Name"
+msgid "Sango"
+msgstr "ภาษาแซงโก"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:13916
+msgctxt "Name"
+msgid "Sinhala"
+msgstr "ภาษาสิงหล"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:13997
+msgctxt "Name"
+msgid "Slovak"
+msgstr "ภาษาสโลวัค"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:14098
+msgctxt "Name"
+msgid "Slovenian"
+msgstr "ภาษาสโลเวเนีย"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:14199
+msgctxt "Name"
+msgid "Samoan"
+msgstr "ภาษาซาโมน"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:14299
+msgctxt "Name"
+msgid "Shona"
+msgstr "ภาษาโชนา"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:14400
+msgctxt "Name"
+msgid "Somali"
+msgstr "ภาษาโซมาลี"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:14501
+msgctxt "Name"
+msgid "Albanian"
+msgstr "ภาษาอัลเบเนีย"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:14602
+msgctxt "Name"
+msgid "Serbian"
+msgstr "ภาษาเซอร์เบีย"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:14703
+msgctxt "Name"
+msgid "Serbian Ijekavian"
+msgstr "ภาษาเซอร์เบียอิเจ็คคาเวีย"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:14777
+msgctxt "Name"
+msgid "Serbian Ijekavian Latin"
+msgstr "ภาษาละตินเซอร์เบียอิเจ็คคาเวีย"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:14851
+msgctxt "Name"
+msgid "Serbian Latin"
+msgstr "ภาษาละตินเซอร์เบีย"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:14948
+msgctxt "Name"
+msgid "Swati"
+msgstr "ภาษาสวาตี"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:15049
+msgctxt "Name"
+msgid "Sotho, Southern"
+msgstr "ภาษาโซโธ ตอนใต้"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:15148
+msgctxt "Name"
+msgid "Sundanese"
+msgstr "ภาษาซูดาน"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:15248
+msgctxt "Name"
+msgid "Swedish"
+msgstr "ภาษาสวีเดน"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:15349
+msgctxt "Name"
+msgid "Swahili"
+msgstr "ภาษาสวาฮิลี"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:15450
+msgctxt "Name"
+msgid "Tamil"
+msgstr "ภาษาทมิฬ"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:15551
+msgctxt "Name"
+msgid "Telugu"
+msgstr "ภาษาเตลูกู"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:15652
+msgctxt "Name"
+msgid "Tajik"
+msgstr "ภาษาทาจิกิสถาน"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:15753
+msgctxt "Name"
+msgid "Thai"
+msgstr "ภาษาไทย"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:15854
+msgctxt "Name"
+msgid "Tigrinya"
+msgstr "ภาษาทิกรินยา"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:15955
+msgctxt "Name"
+msgid "Turkmen"
+msgstr "ภาษาเติร์กเมน"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:16055
+msgctxt "Name"
+msgid "Tswana"
+msgstr "ภาษาสวานา"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:16156 src/l10n/to/country.desktop:2
+msgctxt "Name"
+msgid "Tonga"
+msgstr "ภาษาทองกา"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:16257
+msgctxt "Name"
+msgid "Turkish"
+msgstr "ภาษาตุรกี"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:16358
+msgctxt "Name"
+msgid "Tsonga"
+msgstr "ภาษาซองกา"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:16459
+msgctxt "Name"
+msgid "Tatar"
+msgstr "ภาษาทาทาร์"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:16560
+msgctxt "Name"
+msgid "Twi"
+msgstr "ภาษาทรี"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:16659
+msgctxt "Name"
+msgid "Tahitian"
+msgstr "ภาษาตาฮิติ"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:16759
+msgctxt "Name"
+msgid "Uyghur"
+msgstr "ภาษาอุยกูร์"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:16832
+msgctxt "Name"
+msgid "Ukrainian"
+msgstr "ภาษายูเครน"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:16933
+msgctxt "Name"
+msgid "Urdu"
+msgstr "ภาษาอูร์ดู"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:17034
+msgctxt "Name"
+msgid "Uzbek"
+msgstr "ภาษาอุซเบกิสถาน"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:17135
+msgctxt "Name"
+msgid "Uzbek (Cyrillic)"
+msgstr "ภาษาอุซเบกิสถาน (ไซริลลิค)"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:17225
+msgctxt "Name"
+msgid "Venda"
+msgstr "ภาษาเวนดา"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:17325
+msgctxt "Name"
+msgid "Vietnamese"
+msgstr "ภาษาเวียดนาม"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:17426
+msgctxt "Name"
+msgid "Volapük"
+msgstr "ภาษาวอลาพุค"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:17524
+msgctxt "Name"
+msgid "Walloon"
+msgstr "ภาษาวัลลูน"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:17625
+msgctxt "Name"
+msgid "Wolof"
+msgstr "ภาษาวอลอฟ"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:17726
+msgctxt "Name"
+msgid "Xhosa"
+msgstr "ภาษาโคซา"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:17826
+msgctxt "Name"
+msgid "KDE Test Language"
+msgstr "ภาษาทดสอบ KDE"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:17897
+msgctxt "Name"
+msgid "Yiddish"
+msgstr "ภาษายิดดิช"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:17998
+msgctxt "Name"
+msgid "Yoruba"
+msgstr "ภาษาโยรูบา"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:18098
+msgctxt "Name"
+msgid "Zhuang"
+msgstr "ภาษาจ้วง"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:18197
+msgctxt "Name"
+msgid "Chinese"
+msgstr "ภาษาจีน"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:18298
+msgctxt "Name"
+msgid "Chinese Simplified"
+msgstr "ภาษาจีนประยุกต์"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:18398
+msgctxt "Name"
+msgid "Chinese (Hong Kong)"
+msgstr "ภาษาจีน (ฮ่องกง)"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:18496
+msgctxt "Name"
+msgid "Chinese Traditional"
+msgstr "ภาษาจีนดั้งเดิม"
+
+#. +> trunk5
+#: src/kdecore/all_languages.desktop:18596
+msgctxt "Name"
+msgid "Zulu"
+msgstr "ภาษาซูลู"
+
+#. +> trunk5
+#: src/kio/imageformats/qimageio_plugin.desktop:4
+msgctxt "Comment"
+msgid "QImageIOHandler plugin"
+msgstr "โปรแกรมเสริม QImageIOHandler"
+
+#. +> trunk5
+#: src/kio/kdatatool.desktop:4
+msgctxt "Comment"
+msgid "KDE Data Tool"
+msgstr "เครื่องมือข้อมูลของ KDE"
+
+#. +> trunk5
+#: src/kio/kfilewrite.desktop:5
+msgctxt "Comment"
+msgid "KFileWrite plugin"
+msgstr "โปรแกรมเสริมสำหรับเขียน KFileWrite"
+
+#. +> trunk5
+#: src/kio/kscan.desktop:4
+msgctxt "Name"
+msgid "KScan"
+msgstr "KScan"
+
+#. +> trunk5
+#: src/kssl/kcm/kcm_ssl.desktop:13
+msgctxt "Name"
+msgid "SSL Preferences"
+msgstr "ปรับแต่ง SSL"
+
+#. +> trunk5
+#: src/kssl/kcm/kcm_ssl.desktop:81
+msgctxt "Comment"
+msgid "SSL Versions and Certificates"
+msgstr "รุ่นของ SSL และใบรับรอง"
+
+#. +> trunk5
+#: src/kssl/kcm/kcm_ssl.desktop:149
+msgctxt "X-KDE-Keywords"
+msgid "SSL,Security,Network,Protocol,Certificates,Encryption,HTTPS"
+msgstr ""
+
+#. +> trunk5
+#: src/l10n/ad/country.desktop:2
+msgctxt "Name"
+msgid "Andorra"
+msgstr "อันดอร์รา"
+
+#. +> trunk5
+#: src/l10n/ae/country.desktop:2
+msgctxt "Name"
+msgid "United Arab Emirates"
+msgstr "สหรัฐอาหรับอีมิเรตส์"
+
+#. +> trunk5
+#: src/l10n/af/country.desktop:2
+msgctxt "Name"
+msgid "Afghanistan"
+msgstr "อัฟกานิสถาน"
+
+#. +> trunk5
+#: src/l10n/ag/country.desktop:2
+msgctxt "Name"
+msgid "Antigua and Barbuda"
+msgstr "แอนติกาและบาร์บูดา"
+
+#. +> trunk5
+#: src/l10n/ai/country.desktop:2
+msgctxt "Name"
+msgid "Anguilla"
+msgstr "แองกวิลลา"
+
+#. +> trunk5
+#: src/l10n/al/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Albanian"
+msgctxt "Name"
+msgid "Albania"
+msgstr "ภาษาอัลเบเนีย"
+
+#. +> trunk5
+#: src/l10n/am/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Armenian"
+msgctxt "Name"
+msgid "Armenia"
+msgstr "ภาษาอาร์เมเนีย"
+
+#. +> trunk5
+#: src/l10n/an/country.desktop:2
+msgctxt "Name"
+msgid "Netherlands Antilles"
+msgstr "เนเธอร์แลนด์ แอนทิลีส"
+
+#. +> trunk5
+#: src/l10n/ao/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Mongolian"
+msgctxt "Name"
+msgid "Angola"
+msgstr "ภาษามองโกล"
+
+#. +> trunk5
+#: src/l10n/ar/country.desktop:2
+msgctxt "Name"
+msgid "Argentina"
+msgstr "อาร์เจนตินา"
+
+#. +> trunk5
+#: src/l10n/as/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "American English"
+msgctxt "Name"
+msgid "American Samoa"
+msgstr "ภาษาอังกฤษ อเมริกัน"
+
+#. +> trunk5
+#: src/l10n/at/country.desktop:2
+msgctxt "Name"
+msgid "Austria"
+msgstr "ออสเตรีย"
+
+#. +> trunk5
+#: src/l10n/au/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Italian"
+msgctxt "Name"
+msgid "Australia"
+msgstr "ภาษาอิตาเลียน"
+
+#. +> trunk5
+#: src/l10n/aw/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Yoruba"
+msgctxt "Name"
+msgid "Aruba"
+msgstr "ภาษาโยรูบา"
+
+#. +> trunk5
+#: src/l10n/ax/country.desktop:2
+msgctxt "Name"
+msgid "Åland Islands"
+msgstr "หมู่เกาะอาลันด์"
+
+#. +> trunk5
+#: src/l10n/az/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Azerbaijani"
+msgctxt "Name"
+msgid "Azerbaijan"
+msgstr "ภาษาอาเซอร์ไบจัน"
+
+#. +> trunk5
+#: src/l10n/ba/country.desktop:2
+msgctxt "Name"
+msgid "Bosnia and Herzegovina"
+msgstr "บอสเนียและเฮอร์เซโกวินา"
+
+#. +> trunk5
+#: src/l10n/bb/country.desktop:2
+msgctxt "Name"
+msgid "Barbados"
+msgstr "บาร์เบโดส"
+
+#. +> trunk5
+#: src/l10n/bd/country.desktop:2
+msgctxt "Name"
+msgid "Bangladesh"
+msgstr "บังคลาเทศ"
+
+#. +> trunk5
+#: src/l10n/be/country.desktop:2
+msgctxt "Name"
+msgid "Belgium"
+msgstr "เบลเยียม"
+
+#. +> trunk5
+#: src/l10n/bf/country.desktop:2
+msgctxt "Name"
+msgid "Burkina Faso"
+msgstr "บูร์กินาฟาโซ"
+
+#. +> trunk5
+#: src/l10n/bg/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Bulgarian"
+msgctxt "Name"
+msgid "Bulgaria"
+msgstr "ภาษาบัลแกเรีย"
+
+#. +> trunk5
+#: src/l10n/bh/country.desktop:2
+msgctxt "Name"
+msgid "Bahrain"
+msgstr "บาห์เรน"
+
+#. +> trunk5
+#: src/l10n/bi/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Rundi"
+msgctxt "Name"
+msgid "Burundi"
+msgstr "ภาษารุนดิ"
+
+#. +> trunk5
+#: src/l10n/bj/country.desktop:2
+msgctxt "Name"
+msgid "Benin"
+msgstr "เบนิน"
+
+#. +> trunk5
+#: src/l10n/bl/country.desktop:2
+msgctxt "Name"
+msgid "Saint Barthélemy"
+msgstr ""
+
+#. +> trunk5
+#: src/l10n/bm/country.desktop:2
+msgctxt "Name"
+msgid "Bermuda"
+msgstr "เบอร์มิวดา"
+
+#. +> trunk5
+#: src/l10n/bn/country.desktop:3
+msgctxt "Name"
+msgid "Brunei Darussalam"
+msgstr "บรูไนดารุสซาลาม"
+
+#. +> trunk5
+#: src/l10n/bo/country.desktop:2
+msgctxt "Name"
+msgid "Bolivia"
+msgstr "โบลิเวีย"
+
+#. +> trunk5
+#: src/l10n/br/country.desktop:2
+msgctxt "Name"
+msgid "Brazil"
+msgstr "บราซิล"
+
+#. +> trunk5
+#: src/l10n/bs/country.desktop:2
+msgctxt "Name"
+msgid "Bahamas"
+msgstr "บาฮามาส"
+
+#. +> trunk5
+#: src/l10n/bt/country.desktop:3
+msgctxt "Name"
+msgid "Bhutan"
+msgstr "ภูฏาน"
+
+#. +> trunk5
+#: src/l10n/bw/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Tswana"
+msgctxt "Name"
+msgid "Botswana"
+msgstr "ภาษาสวานา"
+
+#. +> trunk5
+#: src/l10n/by/country.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Belarusian"
+msgctxt "Name"
+msgid "Belarus"
+msgstr "ภาษาเบลารุสเซีย"
+
+#. +> trunk5
+#: src/l10n/bz/country.desktop:2
+msgctxt "Name"
+msgid "Belize"
+msgstr "เบลีซ"
+
+#. +> trunk5
+#: src/l10n/C/country.desktop:2
+msgctxt "Name"
+msgid "Default"
+msgstr "ค่าปริยาย"
+
+#. +> trunk5
+#: src/l10n/ca/country.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Kannada"
+msgctxt "Name"
+msgid "Canada"
+msgstr "ภาษากัณณาท"
+
+#. +> trunk5
+#: src/l10n/caribbean.desktop:2
+msgctxt "Name"
+msgid "Caribbean"
+msgstr "คาริเบียน"
+
+#. +> trunk5
+#: src/l10n/cc/country.desktop:2
+msgctxt "Name"
+msgid "Cocos (Keeling) Islands"
+msgstr "หมู่เกาะโคคอส (คีลลิง)"
+
+#. +> trunk5
+#: src/l10n/cd/country.desktop:2
+msgctxt "Name"
+msgid "Congo, The Democratic Republic of the"
+msgstr "สาธารณรัฐประชาธิปไตยคองโก"
+
+#. +> trunk5
+#: src/l10n/centralafrica.desktop:2
+msgctxt "Name"
+msgid "Africa, Central"
+msgstr "แอฟริกาตอนกลาง"
+
+#. +> trunk5
+#: src/l10n/centralamerica.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "American English"
+msgctxt "Name"
+msgid "America, Central"
+msgstr "ภาษาอังกฤษ อเมริกัน"
+
+#. +> trunk5
+#: src/l10n/centralasia.desktop:2
+msgctxt "Name"
+msgid "Asia, Central"
+msgstr "เอเชียตอนกลาง"
+
+#. +> trunk5
+#: src/l10n/centraleurope.desktop:2
+msgctxt "Name"
+msgid "Europe, Central"
+msgstr "ยุโรปตอนกลาง"
+
+#. +> trunk5
+#: src/l10n/cf/country.desktop:2
+msgctxt "Name"
+msgid "Central African Republic"
+msgstr "สาธารณรัฐแอฟริกากลาง"
+
+#. +> trunk5
+#: src/l10n/cg/country.desktop:2
+msgctxt "Name"
+msgid "Congo"
+msgstr "คองโก"
+
+#. +> trunk5
+#: src/l10n/ch/country.desktop:2
+msgctxt "Name"
+msgid "Switzerland"
+msgstr "สวิตเซอร์แลนด์"
+
+#. +> trunk5
+#: src/l10n/ci/country.desktop:2
+msgctxt "Name"
+msgid "Cote d'ivoire"
+msgstr "อ่าวไอวอรี"
+
+#. +> trunk5
+#: src/l10n/ck/country.desktop:2
+msgctxt "Name"
+msgid "Cook islands"
+msgstr "หมู่เกาะคุก"
+
+#. +> trunk5
+#: src/l10n/cl/country.desktop:2
+msgctxt "Name"
+msgid "Chile"
+msgstr "ชิลี"
+
+#. +> trunk5
+#: src/l10n/cm/country.desktop:2
+msgctxt "Name"
+msgid "Cameroon"
+msgstr "คาเมรูน"
+
+#. +> trunk5
+#: src/l10n/cn/country.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Chinese"
+msgctxt "Name"
+msgid "China"
+msgstr "ภาษาจีน"
+
+#. +> trunk5
+#: src/l10n/co/country.desktop:2
+msgctxt "Name"
+msgid "Colombia"
+msgstr "โคลัมเบีย"
+
+#. +> trunk5
+#: src/l10n/cr/country.desktop:2
+msgctxt "Name"
+msgid "Costa Rica"
+msgstr "คอสตาริกา"
+
+#. +> trunk5
+#: src/l10n/cu/country.desktop:2
+msgctxt "Name"
+msgid "Cuba"
+msgstr "คิวบา"
+
+#. +> trunk5
+#: src/l10n/cv/country.desktop:2
+msgctxt "Name"
+msgid "Cape Verde"
+msgstr "แหลมเวอร์ดี"
+
+#. +> trunk5
+#: src/l10n/cx/country.desktop:2
+msgctxt "Name"
+msgid "Christmas Island"
+msgstr "เกาะคริสต์มาส"
+
+#. +> trunk5
+#: src/l10n/cy/country.desktop:2
+msgctxt "Name"
+msgid "Cyprus"
+msgstr "ไซปรัส"
+
+#. +> trunk5
+#: src/l10n/cz/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Czech"
+msgctxt "Name"
+msgid "Czechia"
+msgstr "ภาษาเชค"
+
+#. +> trunk5
+#: src/l10n/de/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "German"
+msgctxt "Name"
+msgid "Germany"
+msgstr "ภาษาเยอรมัน"
+
+#. +> trunk5
+#: src/l10n/dj/country.desktop:2
+msgctxt "Name"
+msgid "Djibouti"
+msgstr "จิบูติ"
+
+#. +> trunk5
+#: src/l10n/dk/country.desktop:3
+msgctxt "Name"
+msgid "Denmark"
+msgstr "เดนมาร์ก"
+
+#. +> trunk5
+#: src/l10n/dm/country.desktop:2
+msgctxt "Name"
+msgid "Dominica"
+msgstr "โดมินิกา"
+
+#. +> trunk5
+#: src/l10n/do/country.desktop:2
+msgctxt "Name"
+msgid "Dominican Republic"
+msgstr "สาธารณรัฐโดมินิกัน"
+
+#. +> trunk5
+#: src/l10n/dz/country.desktop:2
+msgctxt "Name"
+msgid "Algeria"
+msgstr "แอลจีเรีย"
+
+#. +> trunk5
+#: src/l10n/eastafrica.desktop:2
+msgctxt "Name"
+msgid "Africa, Eastern"
+msgstr "แอฟริกาตะวันออก"
+
+#. +> trunk5
+#: src/l10n/eastasia.desktop:2
+msgctxt "Name"
+msgid "Asia, East"
+msgstr "เอเชียตะวันออก"
+
+#. +> trunk5
+#: src/l10n/easteurope.desktop:2
+msgctxt "Name"
+msgid "Europe, Eastern"
+msgstr "ยุโรปตะวันออก"
+
+#. +> trunk5
+#: src/l10n/ec/country.desktop:2
+msgctxt "Name"
+msgid "Ecuador"
+msgstr "เอกวาดอร์"
+
+#. +> trunk5
+#: src/l10n/ee/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Estonian"
+msgctxt "Name"
+msgid "Estonia"
+msgstr "ภาษาเอสโทเนีย"
+
+#. +> trunk5
+#: src/l10n/eg/country.desktop:2
+msgctxt "Name"
+msgid "Egypt"
+msgstr "อียิปต์"
+
+#. +> trunk5
+#: src/l10n/eh/country.desktop:2
+msgctxt "Name"
+msgid "Western Sahara"
+msgstr "ซาฮาร่าตะวันตก"
+
+#. +> trunk5
+#: src/l10n/er/country.desktop:2
+msgctxt "Name"
+msgid "Eritrea"
+msgstr "เอริเทรีย"
+
+#. +> trunk5
+#: src/l10n/es/country.desktop:2
+msgctxt "Name"
+msgid "Spain"
+msgstr "สเปน"
+
+#. +> trunk5
+#: src/l10n/et/country.desktop:2
+msgctxt "Name"
+msgid "Ethiopia"
+msgstr "เอธิโอเปีย"
+
+#. +> trunk5
+#: src/l10n/fi/country.desktop:3
+msgctxt "Name"
+msgid "Finland"
+msgstr "ฟินแลนด์"
+
+#. +> trunk5
+#: src/l10n/fj/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Fijian"
+msgctxt "Name"
+msgid "Fiji"
+msgstr "ภาษาฟิจิ"
+
+#. +> trunk5
+#: src/l10n/fk/country.desktop:2
+msgctxt "Name"
+msgid "Falkland Islands (Malvinas)"
+msgstr "หมู่เกาะฟอล์กแลนด์ (มอลวินาส)"
+
+#. +> trunk5
+#: src/l10n/fm/country.desktop:2
+msgctxt "Name"
+msgid "Micronesia, Federated States of"
+msgstr "สหพันธรัฐไมโครนีเซีย"
+
+#. +> trunk5
+#: src/l10n/fo/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Faroese"
+msgctxt "Name"
+msgid "Faroe Islands"
+msgstr "ภาษาฟาโรอีส"
+
+#. +> trunk5
+#: src/l10n/fr/country.desktop:3
+msgctxt "Name"
+msgid "France"
+msgstr "ฝรั่งเศส"
+
+#. +> trunk5
+#: src/l10n/ga/country.desktop:2
+msgctxt "Name"
+msgid "Gabon"
+msgstr "กาบอน"
+
+#. +> trunk5
+#: src/l10n/gb/country.desktop:2
+msgctxt "Name"
+msgid "United Kingdom"
+msgstr "สหราชอาณาจักร"
+
+#. +> trunk5
+#: src/l10n/gd/country.desktop:2
+msgctxt "Name"
+msgid "Grenada"
+msgstr "เกรนาดา"
+
+#. +> trunk5
+#: src/l10n/ge/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Georgian"
+msgctxt "Name"
+msgid "Georgia"
+msgstr "ภาษาจอร์เจีย"
+
+#. +> trunk5
+#: src/l10n/gf/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "French"
+msgctxt "Name"
+msgid "French Guiana"
+msgstr "ภาษาฝรั่งเศส"
+
+#. +> trunk5
+#: src/l10n/gg/country.desktop:2
+msgctxt "Name"
+msgid "Guernsey"
+msgstr "เกิร์นซีย์"
+
+#. +> trunk5
+#: src/l10n/gh/country.desktop:2
+msgctxt "Name"
+msgid "Ghana"
+msgstr "กานา"
+
+#. +> trunk5
+#: src/l10n/gi/country.desktop:2
+msgctxt "Name"
+msgid "Gibraltar"
+msgstr "ยิบรอลตา"
+
+#. +> trunk5
+#: src/l10n/gl/country.desktop:2
+msgctxt "Name"
+msgid "Greenland"
+msgstr "กรีนแลนด์"
+
+#. +> trunk5
+#: src/l10n/gm/country.desktop:2
+msgctxt "Name"
+msgid "Gambia"
+msgstr "แกมเบีย"
+
+#. +> trunk5
+#: src/l10n/gn/country.desktop:2
+msgctxt "Name"
+msgid "Guinea"
+msgstr "กินี"
+
+#. +> trunk5
+#: src/l10n/gp/country.desktop:2
+msgctxt "Name"
+msgid "Guadeloupe"
+msgstr "เกาะกัวเดอลูป"
+
+#. +> trunk5
+#: src/l10n/gq/country.desktop:2
+msgctxt "Name"
+msgid "Equatorial Guinea"
+msgstr "อิเควทอเรียลกินี"
+
+#. +> trunk5
+#: src/l10n/gr/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Greek"
+msgctxt "Name"
+msgid "Greece"
+msgstr "ภาษากรีก"
+
+#. +> trunk5
+#: src/l10n/gt/country.desktop:2
+msgctxt "Name"
+msgid "Guatemala"
+msgstr "กัวเตมาลา"
+
+#. +> trunk5
+#: src/l10n/gu/country.desktop:2
+msgctxt "Name"
+msgid "Guam"
+msgstr "กวม"
+
+#. +> trunk5
+#: src/l10n/gw/country.desktop:2
+msgctxt "Name"
+msgid "Guinea-Bissau"
+msgstr "กินี-บิสเซา"
+
+#. +> trunk5
+#: src/l10n/gy/country.desktop:2
+msgctxt "Name"
+msgid "Guyana"
+msgstr "กายอานา"
+
+#. +> trunk5
+#: src/l10n/hk/country.desktop:2
+msgctxt "Name"
+msgid "Hong Kong SAR(China)"
+msgstr "ฮ่องกง"
+
+#. +> trunk5
+#: src/l10n/hn/country.desktop:2
+msgctxt "Name"
+msgid "Honduras"
+msgstr "ฮอนดูรัส"
+
+#. +> trunk5
+#: src/l10n/hr/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Croatian"
+msgctxt "Name"
+msgid "Croatia"
+msgstr "ภาษาโครเอเชีย"
+
+#. +> trunk5
+#: src/l10n/ht/country.desktop:2
+msgctxt "Name"
+msgid "Haiti"
+msgstr "เฮติ"
+
+#. +> trunk5
+#: src/l10n/hu/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Hungarian"
+msgctxt "Name"
+msgid "Hungary"
+msgstr "ภาษาฮังการี"
+
+#. +> trunk5
+#: src/l10n/id/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Indonesian"
+msgctxt "Name"
+msgid "Indonesia"
+msgstr "ภาษาอินโดนีเซีย"
+
+#. +> trunk5
+#: src/l10n/ie/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Icelandic"
+msgctxt "Name"
+msgid "Ireland"
+msgstr "ภาษาไอซ์แลนด์"
+
+#. +> trunk5
+#: src/l10n/il/country.desktop:3
+msgctxt "Name"
+msgid "Israel"
+msgstr "อิสราเอล"
+
+#. +> trunk5
+#: src/l10n/im/country.desktop:2
+msgctxt "Name"
+msgid "Isle of Man"
+msgstr "เกาะแมน"
+
+#. +> trunk5
+#: src/l10n/in/country.desktop:2
+msgctxt "Name"
+msgid "India"
+msgstr "อินเดีย"
+
+#. +> trunk5
+#: src/l10n/iq/country.desktop:2
+msgctxt "Name"
+msgid "Iraq"
+msgstr "อิรัก"
+
+#. +> trunk5
+#: src/l10n/ir/country.desktop:2
+msgctxt "Name"
+msgid "Iran"
+msgstr "อิหร่าน"
+
+#. +> trunk5
+#: src/l10n/is/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Icelandic"
+msgctxt "Name"
+msgid "Iceland"
+msgstr "ภาษาไอซ์แลนด์"
+
+#. +> trunk5
+#: src/l10n/it/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Italian"
+msgctxt "Name"
+msgid "Italy"
+msgstr "ภาษาอิตาเลียน"
+
+#. +> trunk5
+#: src/l10n/je/country.desktop:2
+msgctxt "Name"
+msgid "Jersey"
+msgstr "เจอร์ซีย์"
+
+#. +> trunk5
+#: src/l10n/jm/country.desktop:2
+msgctxt "Name"
+msgid "Jamaica"
+msgstr "จาไมก้า"
+
+#. +> trunk5
+#: src/l10n/jo/country.desktop:2
+msgctxt "Name"
+msgid "Jordan"
+msgstr "จอร์แดน"
+
+#. +> trunk5
+#: src/l10n/jp/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Japanese"
+msgctxt "Name"
+msgid "Japan"
+msgstr "ภาษาญี่ปุ่น"
+
+#. +> trunk5
+#: src/l10n/ke/country.desktop:2
+msgctxt "Name"
+msgid "Kenya"
+msgstr "เคนยา"
+
+#. +> trunk5
+#: src/l10n/kg/country.desktop:2
+msgctxt "Name"
+msgid "Kyrgyzstan"
+msgstr "คีกีซสถาน"
+
+#. +> trunk5
+#: src/l10n/kh/country.desktop:2
+msgctxt "Name"
+msgid "Cambodia"
+msgstr "กัมพูชา"
+
+#. +> trunk5
+#: src/l10n/ki/country.desktop:2
+msgctxt "Name"
+msgid "Kiribati"
+msgstr "คิริบาส"
+
+#. +> trunk5
+#: src/l10n/km/country.desktop:2
+msgctxt "Name"
+msgid "Comoros"
+msgstr "คอโมโรส"
+
+#. +> trunk5
+#: src/l10n/kn/country.desktop:2
+msgctxt "Name"
+msgid "St. Kitts and Nevis"
+msgstr "เซนต์คิตส์และเนวิส"
+
+#. +> trunk5
+#: src/l10n/kp/country.desktop:2
+msgctxt "Name"
+msgid "North Korea"
+msgstr "เกาหลีเหนือ"
+
+#. +> trunk5
+#: src/l10n/kr/country.desktop:2
+msgctxt "Name"
+msgid "South Korea"
+msgstr "เกาหลีใต้"
+
+#. +> trunk5
+#: src/l10n/kw/country.desktop:2
+msgctxt "Name"
+msgid "Kuwait"
+msgstr "คูเวต"
+
+#. +> trunk5
+#: src/l10n/ky/country.desktop:2
+msgctxt "Name"
+msgid "Cayman Islands"
+msgstr "หมู่เกาะเคย์แมน"
+
+#. +> trunk5
+#: src/l10n/kz/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Kazakh"
+msgctxt "Name"
+msgid "Kazakhstan"
+msgstr "ภาษาคาซัคสถาน"
+
+#. +> trunk5
+#: src/l10n/la/country.desktop:2
+msgctxt "Name"
+msgid "Laos"
+msgstr "ลาว"
+
+#. +> trunk5
+#: src/l10n/lb/country.desktop:2
+msgctxt "Name"
+msgid "Lebanon"
+msgstr "เลบานอน"
+
+#. +> trunk5
+#: src/l10n/lc/country.desktop:2
+msgctxt "Name"
+msgid "St. Lucia"
+msgstr "เซนต์ลูเซีย"
+
+#. +> trunk5
+#: src/l10n/li/country.desktop:2
+msgctxt "Name"
+msgid "Liechtenstein"
+msgstr "ลิกเตนสไตน์"
+
+#. +> trunk5
+#: src/l10n/lk/country.desktop:2
+msgctxt "Name"
+msgid "Sri Lanka"
+msgstr "ศรีลังกา"
+
+#. +> trunk5
+#: src/l10n/lr/country.desktop:2
+msgctxt "Name"
+msgid "Liberia"
+msgstr "ไลบีเรีย"
+
+#. +> trunk5
+#: src/l10n/ls/country.desktop:2
+msgctxt "Name"
+msgid "Lesotho"
+msgstr "เลโซโท"
+
+#. +> trunk5
+#: src/l10n/lt/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Lithuanian"
+msgctxt "Name"
+msgid "Lithuania"
+msgstr "ภาษาลิธัวเนีย"
+
+#. +> trunk5
+#: src/l10n/lu/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Luxembourgish"
+msgctxt "Name"
+msgid "Luxembourg"
+msgstr "ภาษาลักเซมเบอร์ก"
+
+#. +> trunk5
+#: src/l10n/lv/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Latvian"
+msgctxt "Name"
+msgid "Latvia"
+msgstr "ภาษาลัทเวีย"
+
+#. +> trunk5
+#: src/l10n/ly/country.desktop:2
+msgctxt "Name"
+msgid "Libya"
+msgstr "ลิเบีย"
+
+#. +> trunk5
+#: src/l10n/ma/country.desktop:2
+msgctxt "Name"
+msgid "Morocco"
+msgstr "โมร็อกโก"
+
+#. +> trunk5
+#: src/l10n/mc/country.desktop:2
+msgctxt "Name"
+msgid "Monaco"
+msgstr "โมนาโก"
+
+#. +> trunk5
+#: src/l10n/md/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Moldavian"
+msgctxt "Name"
+msgid "Moldova"
+msgstr "ภาษามอลดาเวียน"
+
+#. +> trunk5
+#: src/l10n/me/country.desktop:3
+msgctxt "Name"
+msgid "Montenegro"
+msgstr "มอนเตเนโกร"
+
+#. +> trunk5
+#: src/l10n/mf/country.desktop:2
+msgctxt "Name"
+msgid "Saint Martin"
+msgstr "เซนต์มาร์ติน"
+
+#. +> trunk5
+#: src/l10n/mg/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Malagasy"
+msgctxt "Name"
+msgid "Madagascar"
+msgstr "ภาษามาลากาซี"
+
+#. +> trunk5
+#: src/l10n/mh/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Marshallese"
+msgctxt "Name"
+msgid "Marshall Islands"
+msgstr "ภาษามาร์แชล"
+
+#. +> trunk5
+#: src/l10n/middleeast.desktop:2
+msgctxt "Name"
+msgid "Middle-East"
+msgstr "ตะวันออกกลาง"
+
+#. +> trunk5
+#: src/l10n/mk/country.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Macedonian"
+msgctxt "Name"
+msgid "Macedonia"
+msgstr "ภาษามาเซโดเนีย"
+
+#. +> trunk5
+#: src/l10n/ml/country.desktop:2
+msgctxt "Name"
+msgid "Mali"
+msgstr "มาลี"
+
+#. +> trunk5
+#: src/l10n/mm/country.desktop:2
+msgctxt "Name"
+msgid "Myanmar"
+msgstr "พม่า"
+
+#. +> trunk5
+#: src/l10n/mn/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Mongolian"
+msgctxt "Name"
+msgid "Mongolia"
+msgstr "ภาษามองโกล"
+
+#. +> trunk5
+#: src/l10n/mo/country.desktop:2
+msgctxt "Name"
+msgid "Macau SAR(China)"
+msgstr "มาเก๊า"
+
+#. +> trunk5
+#: src/l10n/mp/country.desktop:2
+msgctxt "Name"
+msgid "Northern Mariana Islands"
+msgstr "หมู่เกาะมาเรียนาตอนเหนือ"
+
+#. +> trunk5
+#: src/l10n/mq/country.desktop:2
+msgctxt "Name"
+msgid "Martinique"
+msgstr "มาร์ตินิก"
+
+#. +> trunk5
+#: src/l10n/mr/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Lithuanian"
+msgctxt "Name"
+msgid "Mauritania"
+msgstr "ภาษาลิธัวเนีย"
+
+#. +> trunk5
+#: src/l10n/ms/country.desktop:2
+msgctxt "Name"
+msgid "Montserrat"
+msgstr "มอนต์เซอร์รัต"
+
+#. +> trunk5
+#: src/l10n/mt/country.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Maltese"
+msgctxt "Name"
+msgid "Malta"
+msgstr "ภาษามอลตีส"
+
+#. +> trunk5
+#: src/l10n/mu/country.desktop:2
+msgctxt "Name"
+msgid "Mauritius"
+msgstr "มอริเชียส"
+
+#. +> trunk5
+#: src/l10n/mv/country.desktop:2
+msgctxt "Name"
+msgid "Maldives"
+msgstr "มัลดีฟส์"
+
+#. +> trunk5
+#: src/l10n/mw/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Malay"
+msgctxt "Name"
+msgid "Malawi"
+msgstr "ภาษามลายู"
+
+#. +> trunk5
+#: src/l10n/mx/country.desktop:2
+msgctxt "Name"
+msgid "Mexico"
+msgstr "เม็กซิโก"
+
+#. +> trunk5
+#: src/l10n/my/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Malay"
+msgctxt "Name"
+msgid "Malaysia"
+msgstr "ภาษามลายู"
+
+#. +> trunk5
+#: src/l10n/mz/country.desktop:2
+msgctxt "Name"
+msgid "Mozambique"
+msgstr "โมแซมบิก"
+
+#. +> trunk5
+#: src/l10n/na/country.desktop:2
+msgctxt "Name"
+msgid "Namibia"
+msgstr "นามิเบีย"
+
+#. +> trunk5
+#: src/l10n/nc/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Macedonian"
+msgctxt "Name"
+msgid "New Caledonia"
+msgstr "ภาษามาเซโดเนีย"
+
+#. +> trunk5
+#: src/l10n/ne/country.desktop:2
+msgctxt "Name"
+msgid "Niger"
+msgstr "ไนเจอร์"
+
+#. +> trunk5
+#: src/l10n/nf/country.desktop:2
+msgctxt "Name"
+msgid "Norfolk Island"
+msgstr "เกาะนอร์ฟอล์ก"
+
+#. +> trunk5
+#: src/l10n/ng/country.desktop:2
+msgctxt "Name"
+msgid "Nigeria"
+msgstr "ไนจีเรีย"
+
+#. +> trunk5
+#: src/l10n/ni/country.desktop:2
+msgctxt "Name"
+msgid "Nicaragua"
+msgstr "นิคารากัว"
+
+#. +> trunk5
+#: src/l10n/nl/country.desktop:3
+msgctxt "Name"
+msgid "Netherlands"
+msgstr "เนเธอร์แลนด์"
+
+#. +> trunk5
+#: src/l10n/no/country.desktop:3
+msgctxt "Name"
+msgid "Norway"
+msgstr "นอร์เวย์"
+
+#. +> trunk5
+#: src/l10n/northafrica.desktop:2
+msgctxt "Name"
+msgid "Africa, Northern"
+msgstr "แอฟริกาเหนือ"
+
+#. +> trunk5
+#: src/l10n/northamerica.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "American English"
+msgctxt "Name"
+msgid "America, North"
+msgstr "ภาษาอังกฤษ อเมริกัน"
+
+#. +> trunk5
+#: src/l10n/northeurope.desktop:2
+msgctxt "Name"
+msgid "Europe, Northern"
+msgstr "ยุโรปตอนเหนือ"
+
+#. +> trunk5
+#: src/l10n/np/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Nepali"
+msgctxt "Name"
+msgid "Nepal"
+msgstr "ภาษาเนปาล"
+
+#. +> trunk5
+#: src/l10n/nu/country.desktop:2
+msgctxt "Name"
+msgid "Niue"
+msgstr "นิอุเอ"
+
+#. +> trunk5
+#: src/l10n/nz/country.desktop:3
+msgctxt "Name"
+msgid "New Zealand"
+msgstr "นิวซีแลนด์"
+
+#. +> trunk5
+#: src/l10n/oceania.desktop:2
+msgctxt "Name"
+msgid "Oceania"
+msgstr "คาบสมุทร"
+
+#. +> trunk5
+#: src/l10n/om/country.desktop:2
+msgctxt "Name"
+msgid "Oman"
+msgstr "โอมาน"
+
+#. +> trunk5
+#: src/l10n/pa/country.desktop:2
+msgctxt "Name"
+msgid "Panama"
+msgstr "ปานามา"
+
+#. +> trunk5
+#: src/l10n/pe/country.desktop:2
+msgctxt "Name"
+msgid "Peru"
+msgstr "เปรู"
+
+#. +> trunk5
+#: src/l10n/pf/country.desktop:2
+msgctxt "Name"
+msgid "French Polynesia"
+msgstr "เฟรนช์โปลินีเซีย"
+
+#. +> trunk5
+#: src/l10n/pg/country.desktop:2
+msgctxt "Name"
+msgid "Papua New Guinea"
+msgstr "ปาปัวนิวกินี"
+
+#. +> trunk5
+#: src/l10n/ph/country.desktop:2
+msgctxt "Name"
+msgid "Philippines"
+msgstr "ฟิลิปปินส์"
+
+#. +> trunk5
+#: src/l10n/pk/country.desktop:2
+msgctxt "Name"
+msgid "Pakistan"
+msgstr "ปากีสถาน"
+
+#. +> trunk5
+#: src/l10n/pl/country.desktop:2
+msgctxt "Name"
+msgid "Poland"
+msgstr "โปแลนด์"
+
+#. +> trunk5
+#: src/l10n/pm/country.desktop:2
+msgctxt "Name"
+msgid "Saint Pierre and Miquelon"
+msgstr "แซงปีแยร์และมีเกอลง"
+
+#. +> trunk5
+#: src/l10n/pn/country.desktop:2
+msgctxt "Name"
+msgid "Pitcairn"
+msgstr "เกาะพิตแคร์น"
+
+#. +> trunk5
+#: src/l10n/pr/country.desktop:2
+msgctxt "Name"
+msgid "Puerto Rico"
+msgstr "เปอร์โตริโก"
+
+#. +> trunk5
+#: src/l10n/ps/country.desktop:2
+msgctxt "Name"
+msgid "Palestinian Territory"
+msgstr "เขตปกครองปาเลสไตน์"
+
+#. +> trunk5
+#: src/l10n/pt/country.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Portuguese"
+msgctxt "Name"
+msgid "Portugal"
+msgstr "ภาษาโปรตุเกส"
+
+#. +> trunk5
+#: src/l10n/pw/country.desktop:2
+msgctxt "Name"
+msgid "Palau"
+msgstr "ปาเลา"
+
+#. +> trunk5
+#: src/l10n/py/country.desktop:2
+msgctxt "Name"
+msgid "Paraguay"
+msgstr "ปารากวัย"
+
+#. +> trunk5
+#: src/l10n/qa/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Tatar"
+msgctxt "Name"
+msgid "Qatar"
+msgstr "ภาษาทาทาร์"
+
+#. +> trunk5
+#: src/l10n/re/country.desktop:2
+msgctxt "Name"
+msgid "Réunion"
+msgstr "เรอูนียง"
+
+#. +> trunk5
+#: src/l10n/ro/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Romanian"
+msgctxt "Name"
+msgid "Romania"
+msgstr "ภาษาโรมาเนีย"
+
+#. +> trunk5
+#: src/l10n/rs/country.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Serbian"
+msgctxt "Name"
+msgid "Serbia"
+msgstr "ภาษาเซอร์เบีย"
+
+#. +> trunk5
+#: src/l10n/ru/country.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Russian"
+msgctxt "Name"
+msgid "Russia"
+msgstr "ภาษารัสเซีย"
+
+#. +> trunk5
+#: src/l10n/rw/country.desktop:2
+msgctxt "Name"
+msgid "Rwanda"
+msgstr "รวันดา"
+
+#. +> trunk5
+#: src/l10n/sa/country.desktop:2
+msgctxt "Name"
+msgid "Saudi Arabia"
+msgstr "ซาอุดิอาระเบีย"
+
+#. +> trunk5
+#: src/l10n/sb/country.desktop:2
+msgctxt "Name"
+msgid "Solomon Islands"
+msgstr "หมู่เกาะโซโลมอน"
+
+#. +> trunk5
+#: src/l10n/sc/country.desktop:2
+msgctxt "Name"
+msgid "Seychelles"
+msgstr "เซเชลส์"
+
+#. +> trunk5
+#: src/l10n/sd/country.desktop:2
+msgctxt "Name"
+msgid "Sudan"
+msgstr "ซูดาน"
+
+#. +> trunk5
+#: src/l10n/se/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Swedish"
+msgctxt "Name"
+msgid "Sweden"
+msgstr "ภาษาสวีเดน"
+
+#. +> trunk5
+#: src/l10n/sg/country.desktop:2
+msgctxt "Name"
+msgid "Singapore"
+msgstr "สิงคโปร์"
+
+#. +> trunk5
+#: src/l10n/sh/country.desktop:2
+msgctxt "Name"
+msgid "Saint Helena"
+msgstr "เซนต์เฮเลนา"
+
+#. +> trunk5
+#: src/l10n/si/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Slovenian"
+msgctxt "Name"
+msgid "Slovenia"
+msgstr "ภาษาสโลเวเนีย"
+
+#. +> trunk5
+#: src/l10n/sk/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Slovak"
+msgctxt "Name"
+msgid "Slovakia"
+msgstr "ภาษาสโลวัค"
+
+#. +> trunk5
+#: src/l10n/sl/country.desktop:2
+msgctxt "Name"
+msgid "Sierra Leone"
+msgstr "เซียร์ราลีโอน"
+
+#. +> trunk5
+#: src/l10n/sm/country.desktop:2
+msgctxt "Name"
+msgid "San Marino"
+msgstr "ซานมาริโน"
+
+#. +> trunk5
+#: src/l10n/sn/country.desktop:2
+msgctxt "Name"
+msgid "Senegal"
+msgstr "เซเนกัล"
+
+#. +> trunk5
+#: src/l10n/so/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Somali"
+msgctxt "Name"
+msgid "Somalia"
+msgstr "ภาษาโซมาลี"
+
+#. +> trunk5
+#: src/l10n/southafrica.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Sotho, Southern"
+msgctxt "Name"
+msgid "Africa, Southern"
+msgstr "ภาษาโซโธ ตอนใต้"
+
+#. +> trunk5
+#: src/l10n/southamerica.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "American English"
+msgctxt "Name"
+msgid "America, South"
+msgstr "ภาษาอังกฤษ อเมริกัน"
+
+#. +> trunk5
+#: src/l10n/southasia.desktop:2
+msgctxt "Name"
+msgid "Asia, South"
+msgstr "เอเชียใต้"
+
+#. +> trunk5
+#: src/l10n/southeastasia.desktop:2
+msgctxt "Name"
+msgid "Asia, South-East"
+msgstr "เอเชียตะวันออกเฉียงใต้"
+
+#. +> trunk5
+#: src/l10n/southeurope.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Sotho, Southern"
+msgctxt "Name"
+msgid "Europe, Southern"
+msgstr "ภาษาโซโธ ตอนใต้"
+
+#. +> trunk5
+#: src/l10n/sr/country.desktop:2
+msgctxt "Name"
+msgid "Suriname"
+msgstr "ซูรินาเม"
+
+#. +> trunk5
+#: src/l10n/ss/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Sotho, Southern"
+msgctxt "Name"
+msgid "South Sudan"
+msgstr "ภาษาโซโธ ตอนใต้"
+
+#. +> trunk5
+#: src/l10n/st/country.desktop:2
+msgctxt "Name"
+msgid "Sao Tome and Principe"
+msgstr "ซาวโทมและพรินซิป"
+
+#. +> trunk5
+#: src/l10n/sv/country.desktop:2
+msgctxt "Name"
+msgid "El Salvador"
+msgstr "เอลซัลวาดอร์"
+
+#. +> trunk5
+#: src/l10n/sy/country.desktop:2
+msgctxt "Name"
+msgid "Syria"
+msgstr "ซีเรีย"
+
+#. +> trunk5
+#: src/l10n/sz/country.desktop:2
+msgctxt "Name"
+msgid "Swaziland"
+msgstr "สวาซิแลนด์"
+
+#. +> trunk5
+#: src/l10n/tc/country.desktop:2
+msgctxt "Name"
+msgid "Turks and Caicos Islands"
+msgstr "หมู่เกาะเติกส์และเคคอส"
+
+#. +> trunk5
+#: src/l10n/td/country.desktop:2
+msgctxt "Name"
+msgid "Chad"
+msgstr "ชาด"
+
+#. +> trunk5
+#: src/l10n/tg/country.desktop:2
+msgctxt "Name"
+msgid "Togo"
+msgstr "โตโก"
+
+#. +> trunk5
+#: src/l10n/th/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Thai"
+msgctxt "Name"
+msgid "Thailand"
+msgstr "ภาษาไทย"
+
+#. +> trunk5
+#: src/l10n/tj/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Tajik"
+msgctxt "Name"
+msgid "Tajikistan"
+msgstr "ภาษาทาจิกิสถาน"
+
+#. +> trunk5
+#: src/l10n/tk/country.desktop:2
+msgctxt "Name"
+msgid "Tokelau"
+msgstr "โตเกเลา"
+
+#. +> trunk5
+#: src/l10n/tl/country.desktop:2
+msgctxt "Name"
+msgid "Timor-Leste"
+msgstr "ติมอร์-เลสเต"
+
+#. +> trunk5
+#: src/l10n/tm/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Turkmen"
+msgctxt "Name"
+msgid "Turkmenistan"
+msgstr "ภาษาเติร์กเมน"
+
+#. +> trunk5
+#: src/l10n/tn/country.desktop:2
+msgctxt "Name"
+msgid "Tunisia"
+msgstr "ตูนีเซีย"
+
+#. +> trunk5
+#: src/l10n/tp/country.desktop:2
+msgctxt "Name"
+msgid "East Timor"
+msgstr "ติมอร์ตะวันออก"
+
+#. +> trunk5
+#: src/l10n/tr/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Turkmen"
+msgctxt "Name"
+msgid "Turkey"
+msgstr "ภาษาเติร์กเมน"
+
+#. +> trunk5
+#: src/l10n/tt/country.desktop:2
+msgctxt "Name"
+msgid "Trinidad and Tobago"
+msgstr "ตรินิแดดและโตบาโก"
+
+#. +> trunk5
+#: src/l10n/tv/country.desktop:2
+msgctxt "Name"
+msgid "Tuvalu"
+msgstr "ตูวาลู"
+
+#. +> trunk5
+#: src/l10n/tw/country.desktop:3
+msgctxt "Name"
+msgid "Taiwan"
+msgstr "ไต้หวัน"
+
+#. +> trunk5
+#: src/l10n/tz/country.desktop:2
+msgctxt "Name"
+msgid "Tanzania, United Republic of"
+msgstr "สาธารณรัฐแทนซาเนีย"
+
+#. +> trunk5
+#: src/l10n/ua/country.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Ukrainian"
+msgctxt "Name"
+msgid "Ukraine"
+msgstr "ภาษายูเครน"
+
+#. +> trunk5
+#: src/l10n/ug/country.desktop:2
+msgctxt "Name"
+msgid "Uganda"
+msgstr "ยูกันดา"
+
+#. +> trunk5
+#: src/l10n/us/country.desktop:2
+msgctxt "Name"
+msgid "United States of America"
+msgstr "สหรัฐอเมริกา"
+
+#. +> trunk5
+#: src/l10n/uy/country.desktop:2
+msgctxt "Name"
+msgid "Uruguay"
+msgstr "อุรุกวัย"
+
+#. +> trunk5
+#: src/l10n/uz/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Uzbek"
+msgctxt "Name"
+msgid "Uzbekistan"
+msgstr "ภาษาอุซเบกิสถาน"
+
+#. +> trunk5
+#: src/l10n/va/country.desktop:2
+msgctxt "Name"
+msgid "Vatican City"
+msgstr "นครรัฐวาติกัน"
+
+#. +> trunk5
+#: src/l10n/vc/country.desktop:2
+msgctxt "Name"
+msgid "St. Vincent and the Grenadines"
+msgstr "เกาะเซนต์วินเซนต์และเกรนาดีน"
+
+#. +> trunk5
+#: src/l10n/ve/country.desktop:2
+msgctxt "Name"
+msgid "Venezuela"
+msgstr "เวเนซุเอลา"
+
+#. +> trunk5
+#: src/l10n/vg/country.desktop:2
+msgctxt "Name"
+msgid "Virgin Islands, British"
+msgstr "หมู่เกาะเวอร์จิน, อังกฤษ"
+
+#. +> trunk5
+#: src/l10n/vi/country.desktop:2
+msgctxt "Name"
+msgid "Virgin Islands, U.S."
+msgstr "หมู่เกาะเวอร์จิน, สหรัฐอเมริกา"
+
+#. +> trunk5
+#: src/l10n/vn/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Vietnamese"
+msgctxt "Name"
+msgid "Vietnam"
+msgstr "ภาษาเวียดนาม"
+
+#. +> trunk5
+#: src/l10n/vu/country.desktop:2
+msgctxt "Name"
+msgid "Vanuatu"
+msgstr "วานูอาตู"
+
+#. +> trunk5
+#: src/l10n/westafrica.desktop:2
+msgctxt "Name"
+msgid "Africa, Western"
+msgstr "แอฟริกาตะวันตก"
+
+#. +> trunk5
+#: src/l10n/westeurope.desktop:2
+msgctxt "Name"
+msgid "Europe, Western"
+msgstr "ยุโรปตะวันตก"
+
+#. +> trunk5
+#: src/l10n/wf/country.desktop:2
+msgctxt "Name"
+msgid "Wallis and Futuna"
+msgstr "วาลลิสและหมู่เกาะฟุตูนา"
+
+#. +> trunk5
+#: src/l10n/ws/country.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Samoan"
+msgctxt "Name"
+msgid "Samoa"
+msgstr "ภาษาซาโมน"
+
+#. +> trunk5
+#: src/l10n/ye/country.desktop:2
+msgctxt "Name"
+msgid "Yemen"
+msgstr "เยเมน"
+
+#. +> trunk5
+#: src/l10n/yt/country.desktop:2
+msgctxt "Name"
+msgid "Mayotte"
+msgstr "มายอต"
+
+#. +> trunk5
+#: src/l10n/za/country.desktop:3
+msgctxt "Name"
+msgid "South Africa"
+msgstr "แอฟริกาใต้"
+
+#. +> trunk5
+#: src/l10n/zm/country.desktop:2
+msgctxt "Name"
+msgid "Zambia"
+msgstr "แซมเบีย"
+
+#. +> trunk5
+#: src/l10n/zw/country.desktop:2
+msgctxt "Name"
+msgid "Zimbabwe"
+msgstr "ซิมบับเว"
+
+#. +> trunk5
+#: src/solid-networkstatus/kded/networkstatus.desktop:2
+msgctxt "Name"
+msgid "Network Status"
+msgstr "สถานะเครือข่าย"
+
+#. +> trunk5
+#: src/solid-networkstatus/kded/networkstatus.desktop:68
+msgctxt "Comment"
+msgid "Tracks status of network interfaces and provides notification to applications using the network."
+msgstr "ติดตามสถานะของส่วนติดต่อเครือข่ายและมีการแจ้งเตือนไปยังโปรแกรม โดยใช้เครือข่าย"

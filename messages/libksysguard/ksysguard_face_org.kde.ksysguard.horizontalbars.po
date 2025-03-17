@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libksysguard\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-09-20 11:50+0200\n"
+"PO-Revision-Date: 2025-03-17 14:54+0700\n"
+"Last-Translator: Thai Translator <none>\n"
+"Language-Team: Thai <kde-i18n-docs@kde.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#: contents/ui/Config.qml:29
+#, kde-format
+msgctxt "@option:check"
+msgid "Automatic data range"
+msgstr ""
+
+#. +> trunk6 stable6
+#: contents/ui/Config.qml:33
+#, kde-format
+msgctxt "@label:spinbox data range"
+msgid "From:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: contents/ui/Config.qml:40
+#, kde-format
+msgctxt "@label:spinbox data range"
+msgid "To:"
+msgstr ""

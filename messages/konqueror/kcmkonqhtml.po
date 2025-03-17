@@ -1,0 +1,2595 @@
+# translation of kcmkonqhtml.po to Thai
+# Copyright (C) 2003, 2005, 2006, 2007, 2008 Free Software Foundation, Inc.
+# Thanomsub Noppaburana <donga_n@yahoo.com>, 2003, 2005.
+# Sahachart Anukulkitch <drrider@gmail.com>, 2006, 2007.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008, 2010.
+# Phuwanat Sakornsakolpat <narachai@gmail.com>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmkonqhtml\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-02-24 14:56+0100\n"
+"PO-Revision-Date: 2010-12-06 15:07+0700\n"
+"Last-Translator: Phuwanat Sakornsakolpat <narachai@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#: appearance.cpp:39
+#, kde-format
+msgctxt "@title:tab"
+msgid "General"
+msgstr "ค่าทั่วไป"
+
+#. +> trunk6 stable6
+#: appearance.cpp:40
+#, kde-format
+msgctxt "@title:tab"
+msgid "Fonts"
+msgstr "แบบอักษรต่าง ๆ"
+
+#. +> trunk6 stable6
+#: appearance.cpp:41
+#, kde-format
+msgctxt "@title:tab"
+msgid "Stylesheets"
+msgstr "สไตล์ชีต"
+
+#. i18n: ectx: property (title), widget (QGroupBox, GroupBox3_2)
+#. +> trunk6 stable6
+#: appearance.cpp:48 css/csscustom.ui:296
+#, kde-format
+msgid "Images"
+msgstr "รูปภาพ"
+
+#. +> trunk6 stable6
+#: appearance.cpp:52
+#, kde-format
+msgid "A&utomatically load images"
+msgstr "โหลดรูปภาพ&อัตโนมัติ"
+
+#. +> trunk6 stable6
+#: appearance.cpp:53
+#, kde-format
+msgid ""
+"<html>If this box is checked, Konqueror will automatically load any images that are embedded in a web page. Otherwise, it will display placeholders for the images, and you can then manually load the images by clicking on the image button.<br />"
+"Unless you have a very slow network connection, you will probably want to check this box to enhance your browsing experience.</html>"
+msgstr ""
+"<html>หากกาเลือกตัวเลือกนี้ Konqueror จะทำการเรียกรูปภาพที่ฝังอยู่ในหน้าเว็บขึ้นมาโดยอัตโนมัติไม่เช่นนั้นก็จะแสดงเพียงตำแหน่งที่รูปภาพจะแสดงเท่านั้น และคุณจะสามารถเรียกดูรูปภาพเองได้ด้วยการคลิกที่ปุ่มรูปภาพ <br />"
+" นอกจากว่าคุณจะมีระบบเครือข่ายที่ช้ามาก คุณอาจจะต้องการเลือกใช้ตัวเลือกนี้เพื่อทำให้ประสบการณ์การท่องเว็บดีขึ้น</html>"
+
+#. +> trunk6 stable6
+#: appearance.cpp:63
+#, kde-format
+msgid "Dra&w frame around not completely loaded images"
+msgstr "วา&ดกรอบรอบรูปภาพที่ยังโหลดไม่สมบูรณ์"
+
+#. +> trunk6 stable6
+#: appearance.cpp:64
+#, kde-format
+msgid ""
+"<html>If this box is checked, Konqueror will draw a frame as a placeholder around images embedded in a web page that are not yet fully loaded.<br />"
+"You will probably want to check this box to enhance your browsing experience, especially if have a slow network connection.</html>"
+msgstr ""
+"<html>กาเลือกตัวเลือกนี้เพื่อให้ Konqueror ทำการวาดกรอบในตำแหน่งที่จะแสดงรูปภาพขึ้นมาเป็นการจองที่ไว้ก่อน หากยังโหลดภาพนั้นไม่เรียบร้อย<br />"
+" หากคุณมีการเชื่อมต่อเครือข่ายที่ช้า คุณอาจจะต้องกาเลือกที่กล่องตัวเลือกนี้ เพื่อทำให้ประสบการณ์การท่องเว็บของคุณดีขึ้น</html>"
+
+#. +> trunk6 stable6
+#: appearance.cpp:74
+#, kde-format
+msgctxt "animations"
+msgid "Enabled"
+msgstr "เปิดใช้งานภาพเคลื่อนไหว"
+
+#. +> trunk6 stable6
+#: appearance.cpp:75
+#, kde-format
+msgctxt "animations"
+msgid "Disabled"
+msgstr "ปิดการใช้ภาพเคลื่อนไหว"
+
+#. +> trunk6 stable6
+#: appearance.cpp:76
+#, kde-format
+msgid "Show Only Once"
+msgstr "แสดงภาพเคลื่อนไหวเพียงหนึ่งรอบ"
+
+#. +> trunk6 stable6
+#: appearance.cpp:77
+#, kde-format
+msgid ""
+"<html>Controls how Konqueror shows animated images:<br />"
+"<ul>"
+"<li><b>Enabled</b>: Show all animations completely.</li>"
+"<li><b>Disabled</b>: Never show animations, show the starting image only.</li>"
+"<li><b>Show only once</b>: Show all animations completely but do not repeat them.</li>"
+"</ul>"
+"</html>"
+msgstr ""
+"<html>ควบคุมลักษณะที่ Konqueror จะใช้แสดงภาพแบบเคลื่อนไหว:<br />"
+"<ul>"
+"<li><b>เปิดใช้งานภาพเคลื่อนไหว</b>: แสดงภาพเคลื่อนไหวอย่างสมบูรณ์</li>"
+"<li><b>ปิดการใช้ภาพเคลื่อนไหว</b>: ไม่ให้แสดงภาพเคลื่อนไหว โดยให้แสดงเฉพาะภาพเริ่มแรกเท่านั้น</li>"
+"<li><b>แสดงภาพเคลื่อนไหวเพียงหนึ่งรอบ</b>: แสดงภาพเคลื่อนไหวทั้งหมดอย่างสมบูรณ์แต่ไม่มีการวนแสดงซ้ำอีก</li>"
+"</ul>"
+"</html>"
+
+#. +> trunk6 stable6
+#: appearance.cpp:82
+#, kde-format
+msgid "A&nimations:"
+msgstr "ภาพเคลื่อนไห&ว:"
+
+#. +> trunk6 stable6
+#: appearance.cpp:85 htmlopts.cpp:108
+#, kde-format
+msgctxt "@title:group"
+msgid "Miscellaneous"
+msgstr "เบ็ดเตล็ด"
+
+#. +> trunk6 stable6
+#: appearance.cpp:90
+#, kde-format
+msgctxt "underline"
+msgid "Enabled"
+msgstr "เปิดใช้งาน"
+
+#. +> trunk6 stable6
+#: appearance.cpp:91
+#, kde-format
+msgctxt "underline"
+msgid "Disabled"
+msgstr "ปิดการใช้งาน"
+
+#. +> trunk6 stable6
+#: appearance.cpp:92
+#, kde-format
+msgid "Only on Hover"
+msgstr "เมื่อเมาส์ชี้อยู่เท่านั้น"
+
+#. +> trunk6 stable6
+#: appearance.cpp:93
+#, kde-format
+msgid "Und&erline links:"
+msgstr "ขี&ดเส้นใต้ที่อยู่เชื่อมโยง:"
+
+#. +> trunk6 stable6
+#: appearance.cpp:96
+#, kde-format
+msgid ""
+"<html>Controls how Konqueror handles underlining hyperlinks:<br />"
+"<ul>"
+"<li><b>Enabled</b>: Always underline links</li>"
+"<li><b>Disabled</b>: Never underline links</li>"
+"<li><b>Only on Hover</b>: Underline when the mouse is moved over the link</li>"
+"</ul>"
+"<br />"
+"<i>Note: The site's CSS definitions can override this value.</i></html>"
+msgstr ""
+"<html>ควบคุมวิธีการที่ Konqueror จะทำการขีดเส้นใต้ที่อยู่เชื่อมโยง:<br />"
+"<ul>"
+"<li><b>เปิดใช้งาน</b>: จะทำการขีดเส้นใต้ให้ที่อยู่การเชื่อมโยงเสมอ</li>"
+"<li><b>ปิดการใช้งาน</b>: ไม่ต้องทำการขีดเส้นใต้ให้ที่อยู่เชื่อมโยงเลย</li>"
+"<li><b>เมื่อเมาส์ชี้อยู่เท่านั้น</b>: ขีดเส้นใต้เฉพาะเมื่อมีเคอร์เซอร์เมาส์ชี้อยู่เหนือที่อยู่เชื่อมโยงเท่านั้น</li>"
+"</ul>"
+"<br />"
+" <i>ข้อควรจำ: หากเว็บไซต์มีการใช้งาน CSS จะสามารถใช้บังคับเพื่อแทนที่ค่าเหล่านี้ได้</i></html>"
+
+#. +> trunk6 stable6
+#: appearance.cpp:105
+#, kde-format
+msgid "When Efficient"
+msgstr "เมื่อมีประสิทธิภาพเพียงพอ"
+
+#. +> trunk6 stable6
+#: appearance.cpp:106
+#, kde-format
+msgctxt "smooth scrolling"
+msgid "Always"
+msgstr "เปิดใช้งานเสมอ"
+
+#. +> trunk6 stable6
+#: appearance.cpp:107
+#, kde-format
+msgctxt "soft scrolling"
+msgid "Never"
+msgstr "ไม่เปิดใช้งาน"
+
+#. +> trunk6 stable6
+#: appearance.cpp:108
+#, kde-format
+msgid "S&mooth scrolling:"
+msgstr "การเลื่อนกลับอย่าง&นุ่มนวล:"
+
+#. +> trunk6 stable6
+#: appearance.cpp:110
+#, kde-format
+msgid ""
+"<html>Determines whether Konqueror should use smooth steps to scroll HTML pages, or whole steps:<br />"
+"<ul>"
+"<li><b>Always</b>: Always use smooth steps when scrolling.</li>"
+"<li><b>Never</b>: Never use smooth scrolling, scroll with whole steps instead.</li>"
+"<li><b>When Efficient</b>: Only use smooth scrolling on pages where it can be achieved with moderate usage of system resources.</li>"
+"</ul>"
+"</html>"
+msgstr ""
+"<html>กำหนดว่าจะให้ Konqueror ใช้การเลื่อนหน้าเว็บแบบ HTML อย่างลื่นไหลหรือไม่ หรือจะใช้เลื่อนในคราวเดียว:<br />"
+"<ul>"
+"<li><b>เปิดใช้งานเสมอ</b>: ใช้การเลื่อนขั้นของหน้าเว็บ อย่างลื่นไหลเสมอ</li>"
+"<li><b>ไม่เปิดใช้งาน</b>: ไม่ใช้การเลื่อนขั้นของหน้าเว็บ อย่างลื่นไหล แต่ใช้การเลื่อนในคราวเดียวแทน</li>"
+"<li><b>เมื่อมีประสิทธิภาพเพียงพอ</b>: ใช้การเลื่อนขั้นของหน้าเว็บอย่างลื่นไหล เมื่อทรัพยากรของระบบเพียงพอจะใช้งาน ในการเลื่อนขั้นของหน้าอย่างลื่นไหล</li>"
+"</ul>"
+"</html>"
+
+#. +> trunk6 stable6
+#: appearance.cpp:128
+#, kde-format
+msgid "Font Si&ze"
+msgstr "ข&นาดตัวอักษร"
+
+#. +> trunk6 stable6
+#: appearance.cpp:131 appearance.cpp:149
+#, kde-format
+msgid "This is the relative font size Konqueror uses to display web sites."
+msgstr "ค่าที่ระบุถึงขนาดตัวอักษรที่ konqueror จะใช้กับการแสดงผลเว็บไซต์"
+
+#. +> trunk6 stable6
+#: appearance.cpp:135
+#, kde-format
+msgid "M&inimum font size:"
+msgstr "ขนาดเล็กสุ&ดของตัวอักษร:"
+
+#. +> trunk6 stable6
+#: appearance.cpp:139
+#, kde-format
+msgid ""
+"Konqueror will never display text smaller than this size,<br />"
+"overriding any other settings."
+msgstr ""
+"Konqueror จะไม่แสดงข้อความที่เล็กกว่าขนาดนี้อีกแล้ว<br />"
+"โดยจะทำการบังคับใช้แทนการตั้งค่าอื่น ๆ"
+
+#. +> trunk6 stable6
+#: appearance.cpp:144
+#, kde-format
+msgid "&Medium font size:"
+msgstr "ขนาดปาน&กลางของตัวอักษร:"
+
+#. +> trunk6 stable6
+#: appearance.cpp:157
+#, kde-format
+msgid "S&tandard font:"
+msgstr "แบบอักษร&มาตรฐาน:"
+
+#. +> trunk6 stable6
+#: appearance.cpp:158
+#, kde-format
+msgid "This is the font used to display normal text in a web page."
+msgstr "แบบอักษรมาตรฐานที่จะใช้แสดงข้อความในหน้าเว็บ"
+
+#. +> trunk6 stable6
+#: appearance.cpp:162
+#, kde-format
+msgid "&Fixed font:"
+msgstr "แบบอักษรความกว้าง&คงที่:"
+
+#. +> trunk6 stable6
+#: appearance.cpp:163
+#, kde-format
+msgid "This is the font used to display fixed-width (i.e. non-proportional) text."
+msgstr "แบบอักษรที่ใช้แสดงกับส่วนข้อความความกว้างคงที่"
+
+#. +> trunk6 stable6
+#: appearance.cpp:167
+#, kde-format
+msgid "S&erif font:"
+msgstr "แบบอักษรกลุ่ม S&erif:"
+
+#. +> trunk6 stable6
+#: appearance.cpp:168
+#, kde-format
+msgid "This is the font used to display text that is marked up as serif."
+msgstr "แบบอักษรที่ใช้แสดงข้อความที่กำหนดให้แสดงแบบ Serif"
+
+#. +> trunk6 stable6
+#: appearance.cpp:172
+#, kde-format
+msgid "Sa&ns serif font:"
+msgstr "แบบอักษรกลุ่ม Sa&ns Serif:"
+
+#. +> trunk6 stable6
+#: appearance.cpp:173
+#, kde-format
+msgid "This is the font used to display text that is marked up as sans-serif."
+msgstr "แบบอักษรที่ใช้แสดงข้อความที่กำหนดให้แสดงแบบ Sans Serif"
+
+#. +> trunk6 stable6
+#: appearance.cpp:177
+#, kde-format
+msgid "C&ursive font:"
+msgstr "แบบอักษรกลุ่ม C&ursive:"
+
+#. +> trunk6 stable6
+#: appearance.cpp:178
+#, kde-format
+msgid "This is the font used to display text that is marked up as italic."
+msgstr "แบบอักษรที่ใช้แสดงข้อความที่กำหนดให้แสดงแบบตัวเอียง"
+
+#. +> trunk6 stable6
+#: appearance.cpp:182
+#, kde-format
+msgid "Fantas&y font:"
+msgstr "แบบอักษรกลุ่ม Fantas&y:"
+
+#. +> trunk6 stable6
+#: appearance.cpp:183
+#, kde-format
+msgid "This is the font used to display text that is marked up as a fantasy font."
+msgstr "ตัวอักษรที่ใช้แสดงข้อความที่กำหนดให้แสดงแบบ Fantasy"
+
+#. +> trunk6 stable6
+#: appearance.cpp:192
+#, kde-format
+msgid "Font &size adjustment for this encoding:"
+msgstr "ปรับขนาดตัวอักษรสำหรับชุดรหัสภาษานี้:"
+
+#. +> trunk6 stable6
+#: appearance.cpp:200 appearance.cpp:394
+#, kde-format
+msgid "Use Language Encoding"
+msgstr "ใช้ชุดรหัสภาษาของระบบ"
+
+#. +> trunk6 stable6
+#: appearance.cpp:202
+#, kde-format
+msgid "Default encoding:"
+msgstr "ชุดรหัสภาษาปริยาย:"
+
+#. +> trunk6 stable6
+#: appearance.cpp:204
+#, kde-format
+msgid "Select the default encoding to be used; normally, you will be fine with 'Use language encoding' and should not have to change this."
+msgstr "เลือกชุดการเข้ารหัสภาษาที่ต้องการใช้เป็นค่าปริยาย โดยปกติจะเป็น 'ใช้ชุดการเข้ารหัสของภาษา' และไม่ควรแก้ไขค่านี้"
+
+#. i18n: ectx: property (title), widget (QGroupBox, cacheEnabled)
+#. +> trunk6 stable6
+#: cache/cache.ui:17
+#, kde-format
+msgid "&Enable cache"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, memoryCache)
+#. +> trunk6 stable6
+#: cache/cache.ui:29
+#, kde-format
+msgid ""
+"<html><head/><body>"
+"<p>Don't store the cache on disk but only in memory.</p>"
+"<p>Turning this on means that the cache will be cleared when exiting Konqueror</p>"
+"</body></html>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, memoryCache)
+#. +> trunk6 stable6
+#: cache/cache.ui:32
+#, kde-format
+msgid "Keep cache in &memory"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: cache/cache.ui:41
+#, kde-format
+msgid "&Cache size"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, cacheSize)
+#. +> trunk6 stable6
+#: cache/cache.ui:51
+#, kde-format
+msgid "The maximum space on disk or memory the cache can use. When this threshold is reached, old pages will be removed to make space for new ones"
+msgstr ""
+
+#. i18n: ectx: property (specialValueText), widget (QSpinBox, cacheSize)
+#. +> trunk6 stable6
+#: cache/cache.ui:54
+#, kde-format
+msgid "Auto"
+msgstr ""
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, cacheSize)
+#. +> trunk6 stable6
+#: cache/cache.ui:57
+#, kde-format
+msgid " MB"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QGroupBox, useCustomCacheDir)
+#. +> trunk6 stable6
+#: cache/cache.ui:85
+#, kde-format
+msgid "Use a custom directory to keep the cache"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, useCustomCacheDir)
+#. +> trunk6 stable6
+#: cache/cache.ui:88
+#, kde-format
+msgid "&Custom cache directory"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, customCachePathLabel)
+#. +> trunk6 stable6
+#: cache/cache.ui:100
+#, kde-format
+msgid "Cache &Directory"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KUrlRequester, customCacheDir)
+#. +> trunk6 stable6
+#: cache/cache.ui:113
+#, kde-format
+msgid "The custom directory to store cache"
+msgstr ""
+
+#. +> trunk6 stable6
+#: cookies/kcookiesmain.cpp:33
+#, fuzzy, kde-format
+#| msgid "Policy"
+msgid "&Policy"
+msgstr "ข้อกำหนด"
+
+#. +> trunk6 stable6
+#: cookies/kcookiesmain.cpp:35
+#, kde-format
+msgid "&Management"
+msgstr ""
+
+#. +> trunk6 stable6
+#: cookies/kcookiesmanagement.cpp:46
+#, kde-format
+msgid "End of session"
+msgstr ""
+
+#. +> trunk6 stable6
+#: cookies/kcookiesmanagement.cpp:51
+#, kde-format
+msgid "Yes"
+msgstr ""
+
+#. i18n: ectx: property (placeholderText), widget (KTreeWidgetSearchLine, searchLineEdit)
+#. +> trunk6 stable6
+#: cookies/kcookiesmanagement.ui:20
+#, fuzzy, kde-format
+#| msgid "Search:"
+msgid "Search"
+msgstr "ค้นหา:"
+
+#. i18n: ectx: property (toolTip), widget (QTreeWidget, cookiesTreeWidget)
+#. +> trunk6 stable6
+#: cookies/kcookiesmanagement.ui:27
+#, kde-format
+msgid "Search interactively for domains and hosts"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QTreeWidget, cookiesTreeWidget)
+#. +> trunk6 stable6
+#: cookies/kcookiesmanagement.ui:43
+#, kde-format
+msgid "Site"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QTreeWidget, cookiesTreeWidget)
+#. +> trunk6 stable6
+#: cookies/kcookiesmanagement.ui:48
+#, kde-format
+msgid "Cookie Name"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, pbDelete)
+#. i18n: ectx: property (text), widget (QPushButton, deleteButton)
+#. +> trunk6 stable6
+#: cookies/kcookiesmanagement.ui:56 cookies/kcookiespolicies.ui:190
+#, fuzzy, kde-format
+#| msgid "De&lete"
+msgid "D&elete"
+msgstr "&ลบ"
+
+#. i18n: ectx: property (text), widget (QPushButton, pbDeleteAll)
+#. i18n: ectx: property (text), widget (QPushButton, deleteAllButton)
+#. +> trunk6 stable6
+#: cookies/kcookiesmanagement.ui:63 cookies/kcookiespolicies.ui:197
+#, fuzzy, kde-format
+#| msgid "De&lete"
+msgid "Delete A&ll"
+msgstr "&ลบ"
+
+#. i18n: ectx: property (text), widget (QPushButton, configPolicyButton)
+#. +> trunk6 stable6
+#: cookies/kcookiesmanagement.ui:70
+#, kde-format
+msgid "Configure &Policy..."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, reloadButton)
+#. +> trunk6 stable6
+#: cookies/kcookiesmanagement.ui:77
+#, kde-format
+msgid "&Reload List"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, detailsGroupBox)
+#. +> trunk6 stable6
+#: cookies/kcookiesmanagement.ui:97
+#, kde-format
+msgid "Details"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, nameLabel)
+#. +> trunk6 stable6
+#: cookies/kcookiesmanagement.ui:106
+#, fuzzy, kde-format
+#| msgid "Name"
+msgid "Name:"
+msgstr "ชื่อ"
+
+#. i18n: ectx: property (text), widget (QLabel, valueLabel)
+#. +> trunk6 stable6
+#: cookies/kcookiesmanagement.ui:129
+#, fuzzy, kde-format
+#| msgid "Value"
+msgid "Value:"
+msgstr "ค่า"
+
+#. i18n: ectx: property (text), widget (QLabel, domainLabel)
+#. +> trunk6 stable6
+#: cookies/kcookiesmanagement.ui:152
+#, fuzzy, kde-format
+#| msgid "Host/Domain"
+msgid "Domain:"
+msgstr "โฮสต์/โดเมน"
+
+#. i18n: ectx: property (text), widget (QLabel, patchLabel)
+#. +> trunk6 stable6
+#: cookies/kcookiesmanagement.ui:175
+#, kde-format
+msgid "Path:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, expiresLabel)
+#. +> trunk6 stable6
+#: cookies/kcookiesmanagement.ui:198
+#, kde-format
+msgid "Expires:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, secureLabel)
+#. +> trunk6 stable6
+#: cookies/kcookiesmanagement.ui:221
+#, kde-format
+msgid "Secure:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: cookies/kcookiespolicies.cpp:137
+#, fuzzy, kde-format
+#| msgid "Change Plugin Policy"
+msgctxt "@title:window"
+msgid "Change Cookie Policy"
+msgstr "เปลี่ยนข้อกำหนดของโปรแกรมเสริม"
+
+#. +> trunk6 stable6
+#: cookies/kcookiespolicies.cpp:156
+#, fuzzy, kde-format
+#| msgid "New Plugin Policy"
+msgctxt "@title:window"
+msgid "New Cookie Policy"
+msgstr "สร้างข้อกำหนดของโปรแกรมเสริมใหม่"
+
+#. +> trunk6 stable6
+#: cookies/kcookiespolicies.cpp:189
+#, kde-format
+msgid ""
+"<qt>A policy already exists for"
+"<center><b>%1</b></center>"
+"Do you want to replace it?</qt>"
+msgstr ""
+
+#. +> trunk6 stable6
+#: cookies/kcookiespolicies.cpp:193
+#, fuzzy, kde-format
+#| msgid "Policy"
+msgctxt "@title:window"
+msgid "Duplicate Policy"
+msgstr "ข้อกำหนด"
+
+#. +> trunk6 stable6
+#: cookies/kcookiespolicies.cpp:194
+#, kde-format
+msgid "Replace"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbEnableCookies)
+#. +> trunk6 stable6
+#: cookies/kcookiespolicies.ui:20
+#, kde-format
+msgid ""
+"<qt>\n"
+"<p>Enable cookie support. Normally you will want to have cookie support enabled and customize it to suit your privacy needs.</p>"
+"<p>\n"
+"Please note that disabling cookie support might make many web sites unbrowsable.</p>"
+"\n"
+"</qt>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbEnableCookies)
+#. +> trunk6 stable6
+#: cookies/kcookiespolicies.ui:23
+#, fuzzy, kde-format
+#| msgid "Enable filters"
+msgid "Enable coo&kies"
+msgstr "เปิดใช้งานตัวกรอง"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbRejectCrossDomainCookies)
+#. +> trunk6 stable6
+#: cookies/kcookiespolicies.ui:35
+#, kde-format
+msgid ""
+"<qt>\n"
+"Reject the so called third-party cookies. These are cookies that originate from a site other than the one you are currently browsing. For example, if you visit <b>www.foobar.com</b> while this option is on, only cookies that originate from www.foobar.com will be processed per your settings. Cookies from any other site will be rejected. This reduces the chances of site operators compiling a profile about your daily browsing habits.\n"
+"</qt>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbRejectCrossDomainCookies)
+#. +> trunk6 stable6
+#: cookies/kcookiespolicies.ui:38
+#, kde-format
+msgid "Only acce&pt cookies from originating server"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbAutoAcceptSessionCookies)
+#. +> trunk6 stable6
+#: cookies/kcookiespolicies.ui:46
+#, kde-format
+msgid ""
+"<p>\n"
+"Automatically accept temporary cookies meant to expire at the end of the current session. Such cookies will not be stored in your computer's hard drive or storage device. Instead, they are deleted when you close all applications (e.g. your browser) that use them.</p>"
+"<p><u>NOTE</u> Checking this option overrides your default as well as site specific cookie policies for session cookies.</p>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbAutoAcceptSessionCookies)
+#. +> trunk6 stable6
+#: cookies/kcookiespolicies.ui:49
+#, fuzzy, kde-format
+#| msgid "A&utomatically load images"
+msgid "Automaticall&y accept session cookies"
+msgstr "โหลดรูปภาพ&อัตโนมัติ"
+
+#. i18n: ectx: property (whatsThis), widget (QGroupBox, bgDefault)
+#. +> trunk6 stable6
+#: cookies/kcookiespolicies.ui:68
+#, kde-format
+msgid ""
+"<qt>\n"
+"Determines how cookies received from a remote machine will be handled: \n"
+"<ul>\n"
+"<li><b>Ask</b> will cause KDE to ask for your confirmation whenever a server wants to set a cookie.</li>"
+"\n"
+"<li><b>Accept</b> will cause cookies to be accepted without prompting you.</li>"
+"\n"
+"<li><b>Accept until end of session</b> will cause cookies to be accepted but they will expire at the end of the session.</li>"
+"\n"
+"<li><b>Reject</b> will cause the cookiejar to refuse all cookies it receives.</li>"
+"\n"
+"</ul>"
+"<p>\n"
+"<u>NOTE:</u> Domain specific policies, which can be set below, always take precedence over the default policy.</p>"
+"\n"
+"</qt>"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, bgDefault)
+#. +> trunk6 stable6
+#: cookies/kcookiespolicies.ui:71
+#, fuzzy, kde-format
+#| msgid "Default encoding:"
+msgid "Default Policy"
+msgstr "ชุดรหัสภาษาปริยาย:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, rbPolicyAccept)
+#. +> trunk6 stable6
+#: cookies/kcookiespolicies.ui:77
+#, kde-format
+msgid "Accep&t all cookies"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, rbPolicyAcceptForSession)
+#. +> trunk6 stable6
+#: cookies/kcookiespolicies.ui:84
+#, kde-format
+msgid "Accept &until end of session"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, rbPolicyAsk)
+#. +> trunk6 stable6
+#: cookies/kcookiespolicies.ui:91
+#, fuzzy, kde-format
+#| msgid "A&nimations:"
+msgid "Ask &for confirmation"
+msgstr "ภาพเคลื่อนไห&ว:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, rbPolicyReject)
+#. +> trunk6 stable6
+#: cookies/kcookiespolicies.ui:98
+#, kde-format
+msgid "Re&ject all cookies"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QGroupBox, gbDomainSpecific)
+#. +> trunk6 stable6
+#: cookies/kcookiespolicies.ui:123
+#, fuzzy, kde-format
+#| msgid "Here you can set specific Java policies for any particular host or domain. To add a new policy, simply click the <i>New...</i> button and supply the necessary information requested by the dialog box. To change an existing policy, click on the <i>Change...</i> button and choose the new policy from the policy dialog box. Clicking on the <i>Delete</i> button will remove the selected policy, causing the default policy setting to be used for that domain."
+msgid ""
+"<qt>\n"
+"To add a new policy, simply click on the <b>Add...</b> button and supply the necessary information. To change an existing policy, use the <b>Change...</b> button and choose the new policy from the policy dialog box. Clicking on the <b>Delete</b> button will remove the currently selected policy causing the default policy setting to be used for that domain, whereas <b>Delete All</b> will remove all the site specific policies.\n"
+"</qt>"
+msgstr "คุณสามารถตั้งข้อกำหนดการใช้งานจาวาสำหรับบางโฮสต์หรือบางโดเมนได้ที่นี่ หากต้องการเพิ่มข้อกำหนดใหม่ ให้คลิกที่ปุ่ม <i>สร้างใหม่...</i> และใส่ข้อมูลที่จำเป็นต้องใช้ในกล่องโต้ตอบ แต่ถ้าหากต้องการเปลี่ยนข้อกำหนดที่มี ให้คลิกที่ปุ่ม <i>เปลี่ยน...</i> และเลือกข้อกำหนดการใช้ใหม่ที่ต้องการในกล่องโต้ตอบ คลิกที่ปุ่ม <i>ลบ</i> ในกรณีที่คุณต้องการลบข้อกำหนดที่เลือกไว้เพื่อให้กลับไปใช้ข้อกำหนดปริยายสำหรับใช้กับโดเมนนี้แทน"
+
+#. i18n: ectx: property (title), widget (QGroupBox, gbDomainSpecific)
+#. +> trunk6 stable6
+#: cookies/kcookiespolicies.ui:126
+#, fuzzy, kde-format
+#| msgid "Policy"
+msgid "Site Policy"
+msgstr "ข้อกำหนด"
+
+#. i18n: ectx: property (toolTip), widget (KTreeWidgetSearchLine, kListViewSearchLine)
+#. +> trunk6 stable6
+#: cookies/kcookiespolicies.ui:135
+#, kde-format
+msgid "Search interactively for domains"
+msgstr ""
+
+#. i18n: ectx: property (placeholderText), widget (KTreeWidgetSearchLine, kListViewSearchLine)
+#. +> trunk6 stable6
+#: cookies/kcookiespolicies.ui:138
+#, fuzzy, kde-format
+#| msgid "Search:"
+msgid "Search..."
+msgstr "ค้นหา:"
+
+#. i18n: ectx: property (whatsThis), widget (QTreeWidget, policyTreeWidget)
+#. +> trunk6 stable6
+#: cookies/kcookiespolicies.ui:147
+#, kde-format
+msgid ""
+"<qt>\n"
+"List of sites for which you have set a specific cookie policy. Specific policies override the default policy setting for these sites.\n"
+"</qt>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QTreeWidget, policyTreeWidget)
+#. +> trunk6 stable6
+#: cookies/kcookiespolicies.ui:163
+#, fuzzy, kde-format
+#| msgid "Host/Domain"
+msgid "Domain"
+msgstr "โฮสต์/โดเมน"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, policyTreeWidget)
+#. +> trunk6 stable6
+#: cookies/kcookiespolicies.ui:168 domainlistview.cpp:40
+#, kde-format
+msgid "Policy"
+msgstr "ข้อกำหนด"
+
+#. i18n: ectx: property (text), widget (QPushButton, newTemplateBtn)
+#. i18n: ectx: property (text), widget (QPushButton, pbNew)
+#. +> trunk6 stable6
+#: cookies/kcookiespolicies.ui:176 domainlistview.cpp:48
+#: useragent/useragent.ui:81
+#, kde-format
+msgid "&New..."
+msgstr "ใ&หม่..."
+
+#. i18n: ectx: property (text), widget (QPushButton, pbChange)
+#. +> trunk6 stable6
+#: cookies/kcookiespolicies.ui:183 domainlistview.cpp:52
+#, kde-format
+msgid "Chan&ge..."
+msgstr "เป&ลี่ยน..."
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, lbDomain)
+#. +> trunk6 stable6
+#: cookies/kcookiespolicyselectiondlg.ui:22
+#, kde-format
+msgid ""
+"<qt>\n"
+"Enter the host or domain to which this policy applies, e.g. <b>www.kde.org</b> or <b>.kde.org</b>.\n"
+"</qt>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, lbDomain)
+#. +> trunk6 stable6
+#: cookies/kcookiespolicyselectiondlg.ui:25
+#, kde-format
+msgid "Site name:"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, leDomain)
+#. +> trunk6 stable6
+#: cookies/kcookiespolicyselectiondlg.ui:38
+#, kde-format
+msgid "Enter the host or domain name, e.g. .kde.org, this policy applies to."
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, lbPolicy)
+#. i18n: ectx: property (whatsThis), widget (QComboBox, cbPolicy)
+#. +> trunk6 stable6
+#: cookies/kcookiespolicyselectiondlg.ui:53
+#: cookies/kcookiespolicyselectiondlg.ui:77
+#, kde-format
+msgid ""
+"<qt>\n"
+"Select the desired policy:\n"
+"<ul>\n"
+"<li><b>Accept</b> - Allows this site to set cookies</li>"
+"\n"
+"<li><b>Accept until end of session</b> - Allows this site to set cookies but they will expire at the end of the session.</li>"
+"\n"
+"<li><b>Reject</b> - Refuse all cookies sent from this site</li>"
+"\n"
+"<li><b>Ask</b> - Prompt when cookies are received from this site</li>"
+"\n"
+"</ul>"
+"\n"
+"</qt>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, lbPolicy)
+#. +> trunk6 stable6
+#: cookies/kcookiespolicyselectiondlg.ui:56
+#, fuzzy, kde-format
+#| msgid "Policy"
+msgid "Policy:"
+msgstr "ข้อกำหนด"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cbPolicy)
+#. +> trunk6 stable6
+#: cookies/kcookiespolicyselectiondlg.ui:81 domainlistview.cpp:192
+#: policydlg.cpp:63
+#, kde-format
+msgid "Accept"
+msgstr "ยอมรับ"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cbPolicy)
+#. +> trunk6 stable6
+#: cookies/kcookiespolicyselectiondlg.ui:86
+#, kde-format
+msgid "Accept until end of session"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cbPolicy)
+#. +> trunk6 stable6
+#: cookies/kcookiespolicyselectiondlg.ui:91 domainlistview.cpp:194
+#: policydlg.cpp:63
+#, kde-format
+msgid "Reject"
+msgstr "ปฏิเสธ"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cbPolicy)
+#. +> trunk6 stable6
+#: cookies/kcookiespolicyselectiondlg.ui:96 jspolicies.cpp:182
+#, kde-format
+msgid "Ask"
+msgstr "ถามก่อน"
+
+#. i18n: ectx: property (whatsThis), widget (QWidget, CSSConfigWidget)
+#. i18n: ectx: property (whatsThis), widget (QWidget, CSSCustomDialog)
+#. +> trunk6 stable6
+#: css/cssconfig.ui:14 css/csscustom.ui:13
+#, kde-format
+msgid ""
+"<b>Stylesheets</b>"
+"<p>See http://www.w3.org/Style/CSS for further information on cascading style sheets.</p>"
+msgstr ""
+"<b>สไตล์ชีต</b>"
+"<p>ดูรายละเอียดของ cascading style sheets ได้ที่ http://www.w3.org/Style/CSS</p>"
+
+#. i18n: ectx: property (whatsThis), widget (QGroupBox, ButtonGroup1)
+#. +> trunk6 stable6
+#: css/cssconfig.ui:26
+#, kde-format
+msgid ""
+"<b>Stylesheets</b>"
+"<p>Use this groupbox to determine how Konqueror will render style sheets.</p>"
+msgstr ""
+"<b>สไตล์ชีต</b>"
+"<p>ใช้กล่องกลุ่มนี้ เพื่อกำหนดว่า จะให้คอนเควอร์เรอร์ทำการแสดงผลหน้าเว็บอย่างไร</p>"
+
+#. i18n: ectx: property (title), widget (QGroupBox, ButtonGroup1)
+#. +> trunk6 stable6
+#: css/cssconfig.ui:29
+#, kde-format
+msgid "Stylesheets"
+msgstr "สไตล์ชีต"
+
+#. i18n: ectx: property (whatsThis), widget (QRadioButton, useDefault)
+#. +> trunk6 stable6
+#: css/cssconfig.ui:35
+#, kde-format
+msgid ""
+"<b>Use default stylesheet</b>"
+"<p>Select this option to use the default stylesheet.</p>"
+msgstr ""
+"<b>ใช้สไตล์ชีตปริยาย</b>"
+"<p>เลือกตัวเลือกนี้ เพื่อให้ใช้สไตล์ชีตปริยาย</p>"
+
+#. i18n: ectx: property (text), widget (QRadioButton, useDefault)
+#. +> trunk6 stable6
+#: css/cssconfig.ui:38
+#, kde-format
+msgid "Us&e default stylesheet"
+msgstr "ใช้สไตล์ชีต&ปริยาย"
+
+#. i18n: ectx: property (whatsThis), widget (QRadioButton, useUser)
+#. +> trunk6 stable6
+#: css/cssconfig.ui:48
+#, kde-format
+msgid ""
+"<b>Use user-defined stylesheet</b>"
+"<p>If this box is checked, Konqueror will try to load a user-defined style sheet as specified in the location below. The style sheet allows you to completely override the way web pages are rendered in your browser. The file specified should contain a valid style sheet (see http://www.w3.org/Style/CSS for further information on cascading style sheets).</p>"
+msgstr ""
+"<b>ใช้สไตล์ชีตที่ผู้ใช้กำหนดเอง</b>"
+"<p>หากเลือกใช้ตัวเลือกนี้ คอนเควอร์เรอร์จะพยายาม เรียกใช้สไตล์ชีตที่กำหนดไว้ในตำแหน่งด้านล่างนี้ สไตล์ชีตจะช่วยให้คุณสามารถเปลี่ยนรูปแบบของหน้าเว็บบนเบราว์เซอร์ ไปเป็นลักษณะที่คุณกำหนด โดยแฟ้มที่ระบุควรจะมีไวยากรณ์สไตล์ชีตที่ถูกต้องด้วย (ดูรายละเอียดของ cascading style sheets ได้ที่ http://www.w3.org/Style/CSS)</p>"
+
+#. i18n: ectx: property (text), widget (QRadioButton, useUser)
+#. +> trunk6 stable6
+#: css/cssconfig.ui:51
+#, kde-format
+msgid "Use &user-defined stylesheet"
+msgstr "ใช้สไตล์ชีตที่&ผู้ใช้กำหนดเอง"
+
+#. i18n: ectx: property (whatsThis), widget (QRadioButton, useAccess)
+#. +> trunk6 stable6
+#: css/cssconfig.ui:103
+#, kde-format
+msgid ""
+"<b>Use accessibility stylesheet</b>"
+"<p>Selecting this option will allow you to define a default font, font size, and font color with a few simple clicks of the mouse. Simply wander over to the Customize... dialog and pick out your desired options.</p>"
+msgstr ""
+"<b>ใช้สไตล์ชีตแบบปรับแต่งอย่างง่าย</b>"
+"<p>เลือกตัวเลือกนี้ คุณจะสามารถกำหนดแบบอักษรปริยาย, ขนาดของตัวอักษร และสีของตัวอักษรได้ง่าย ๆ ด้วยการคลิกเมาส์ที่ปุ่ม กำหนดเอง... และเลือกตัวเลือกต่าง ๆ ที่ต้องการ</p>"
+
+#. i18n: ectx: property (text), widget (QRadioButton, useAccess)
+#. +> trunk6 stable6
+#: css/cssconfig.ui:106
+#, kde-format
+msgid "U&se accessibility stylesheet"
+msgstr "ใช้สไตล์ชีตแบบปรับแต่งอย่างง่าย"
+
+#. i18n: ectx: property (text), widget (QPushButton, customize)
+#. +> trunk6 stable6
+#: css/cssconfig.ui:146
+#, kde-format
+msgid "Custom&ize..."
+msgstr "&กำหนดเอง..."
+
+#. i18n: ectx: property (title), widget (QGroupBox, customPageBackgroundBox)
+#. +> trunk6 stable6
+#: css/cssconfig.ui:177
+#, kde-format
+msgid "Custom Page Background"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, useCustomBackgroundColor)
+#. +> trunk6 stable6
+#: css/cssconfig.ui:183
+#, kde-format
+msgid ""
+"<html><head/><body>"
+"<p align=\"justify\">Use a custom background color for web pages. This color is used:</p>"
+"<ul style=\"margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;\">"
+"<li align=\"justify\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">when the background color isn't explicitly set by the page or by a custom stylesheet</li>"
+"<li align=\"justify\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">before a web page is loaded</li>"
+"</ul>"
+"<p align=\"justify\">Setting a custom background color is mostly useful if you use a custom stylesheet which sets a background color for the page (especially a dark color), to avoid a white flash before the page is loaded</p>"
+"</body></html>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, useCustomBackgroundColor)
+#. +> trunk6 stable6
+#: css/cssconfig.ui:186
+#, kde-format
+msgid "Use custom &background color"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KColorButton, customBackgroundColor)
+#. +> trunk6 stable6
+#: css/cssconfig.ui:196
+#, kde-format
+msgid ""
+"<html><head/><body>"
+"<p>The custom background color to use for web pages</p>"
+"</body></html>"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, addCustomBackgroundToStyleSheet)
+#. +> trunk6 stable6
+#: css/cssconfig.ui:206
+#, kde-format
+msgid ""
+"<html><head/><body>"
+"<p align=\"justify\">Add to your custom stylesheet (including the accessibility stylesheet) a rule to set all background colors to the custom color you chose above. This avoids the need of setting the background color both in the stylesheet and in the configuration dialog.</p>"
+"<p align=\"justify\"><span style=\" font-weight:600;\">Notes:</span></p>"
+"<ul style=\"margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;\">"
+"<li align=\"justify\" style=\" margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">the rule will be overridden by other rules for background colors in your custom stylesheet following the usual CSS rules</li>"
+"<li align=\"justify\" style=\" margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">the rule isn't actually added to the file containing your custom stylesheet; it's only inserted in the copy Konqueror keeps in memory. This means that if you use the stylesheet in other browsers, you'll need to manually add the rule to it.</li>"
+"</ul>"
+"</body></html>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, addCustomBackgroundToStyleSheet)
+#. +> trunk6 stable6
+#: css/cssconfig.ui:209
+#, kde-format
+msgid "Add custom background color to stylesheet"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QGroupBox, GroupBox7)
+#. +> trunk6 stable6
+#: css/csscustom.ui:21
+#, kde-format
+msgid ""
+"<b>Font family</b>"
+"<p>A font family is a group of fonts that resemble one another, with family members that are e.g. bold, italic, or any number of the above.</p>"
+msgstr ""
+"<b>ตระกูลตัวอักษร</b>"
+"<p>ตระกูลตัวอักษร เป็นกลุ่มตัวอักษรที่คล้ายคลึงกัน ซึ่งจะมีสามแบบ เช่น ตัวหนา, ตัวเอียง, หรือหมายเลขขนาดต่าง ๆ</p>"
+
+#. i18n: ectx: property (title), widget (QGroupBox, GroupBox7)
+#. +> trunk6 stable6
+#: css/csscustom.ui:24
+#, kde-format
+msgid "Font Family"
+msgstr "ตระกูลตัวอักษร"
+
+#. i18n: ectx: property (text), widget (QLabel, txtBaseFontFamily)
+#. +> trunk6 stable6
+#: css/csscustom.ui:30
+#, kde-format
+msgid "Base family:"
+msgstr "ตระกูลพื้นฐาน:"
+
+#. i18n: ectx: property (whatsThis), widget (QFontComboBox, fontFamily)
+#. +> trunk6 stable6
+#: css/csscustom.ui:37
+#, kde-format
+msgid "<p>This is the currently selected font family</p>"
+msgstr "<p>นี่เป็นตระกูลตัวอักษรที่ถูกเลือกอยู่ในปัจจุบัน</p>"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, sameFamily)
+#. +> trunk6 stable6
+#: css/csscustom.ui:44
+#, kde-format
+msgid ""
+"<b>Use same family for all text</b>"
+"<p>Select this option to override custom fonts everywhere in favor of the base font.</p>"
+msgstr ""
+"<b>ใช้ตระกูลเดียวกันกับทุกข้อความ</b>"
+"<p>เลือกตัวเลือกนี้ เพื่อให้ใช้รูปแบบตัวอักษรที่กำหนดในทุกตำแหน่งที่เป็นตัวอักษรพื้นฐาน</p>"
+
+#. i18n: ectx: property (text), widget (QCheckBox, sameFamily)
+#. +> trunk6 stable6
+#: css/csscustom.ui:47
+#, kde-format
+msgid "Use same family for all text"
+msgstr "ใช้ตระกูลเดียวกันกับทุกข้อความ"
+
+#. i18n: ectx: property (title), widget (QGroupBox, GroupBox3)
+#. +> trunk6 stable6
+#: css/csscustom.ui:57
+#, kde-format
+msgid "Font Size"
+msgstr "ขนาดตัวอักษร"
+
+#. i18n: ectx: property (text), widget (QLabel, txtFontsize)
+#. +> trunk6 stable6
+#: css/csscustom.ui:63
+#, kde-format
+msgid "Base font si&ze:"
+msgstr "ขนาดพื้นฐานของตัวอักษร:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, basefontsize)
+#. +> trunk6 stable6
+#: css/csscustom.ui:80
+#, kde-format
+msgid "7"
+msgstr "7"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, basefontsize)
+#. +> trunk6 stable6
+#: css/csscustom.ui:85
+#, kde-format
+msgid "8"
+msgstr "8"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, basefontsize)
+#. +> trunk6 stable6
+#: css/csscustom.ui:90
+#, kde-format
+msgid "9"
+msgstr "9"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, basefontsize)
+#. +> trunk6 stable6
+#: css/csscustom.ui:95
+#, kde-format
+msgid "10"
+msgstr "10"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, basefontsize)
+#. +> trunk6 stable6
+#: css/csscustom.ui:100
+#, kde-format
+msgid "11"
+msgstr "11"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, basefontsize)
+#. +> trunk6 stable6
+#: css/csscustom.ui:105
+#, kde-format
+msgid "12"
+msgstr "12"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, basefontsize)
+#. +> trunk6 stable6
+#: css/csscustom.ui:110
+#, kde-format
+msgid "14"
+msgstr "14"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, basefontsize)
+#. +> trunk6 stable6
+#: css/csscustom.ui:115
+#, kde-format
+msgid "16"
+msgstr "16"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, basefontsize)
+#. +> trunk6 stable6
+#: css/csscustom.ui:120
+#, kde-format
+msgid "20"
+msgstr "20"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, basefontsize)
+#. +> trunk6 stable6
+#: css/csscustom.ui:125
+#, kde-format
+msgid "24"
+msgstr "24"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, basefontsize)
+#. +> trunk6 stable6
+#: css/csscustom.ui:130
+#, kde-format
+msgid "32"
+msgstr "32"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, basefontsize)
+#. +> trunk6 stable6
+#: css/csscustom.ui:135
+#, kde-format
+msgid "48"
+msgstr "48"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, basefontsize)
+#. +> trunk6 stable6
+#: css/csscustom.ui:140
+#, kde-format
+msgid "64"
+msgstr "64"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, dontScale)
+#. +> trunk6 stable6
+#: css/csscustom.ui:148
+#, kde-format
+msgid ""
+"<b>Use same size for all elements</b>"
+"<p>Select this option to override custom font sizes in favor of the base font size. All fonts will be displayed in the same size.</p>"
+msgstr ""
+"<b>ใช้ขนาดเดียวกันกับทุกส่วน</b>"
+"<p>เลือกตัวเลือกนี้ เพื่อให้ตัวอักษรพื้นฐานทุกส่วน แสดงในขนาดเดียวกันทั้งหมด</p>"
+
+#. i18n: ectx: property (text), widget (QCheckBox, dontScale)
+#. +> trunk6 stable6
+#: css/csscustom.ui:151
+#, kde-format
+msgid "&Use same size for all elements"
+msgstr "ใ&ช้ขนาดเดียวกันกับทุกส่วน"
+
+#. i18n: ectx: property (title), widget (QGroupBox, ButtonGroup2)
+#. +> trunk6 stable6
+#: css/csscustom.ui:161
+#, kde-format
+msgid "Colors"
+msgstr "สี"
+
+#. i18n: ectx: property (whatsThis), widget (QRadioButton, blackOnWhite)
+#. +> trunk6 stable6
+#: css/csscustom.ui:183
+#, kde-format
+msgid ""
+"<b>Black on White</b>"
+"<p>This is what you normally see.</p>"
+msgstr ""
+"<b>ดำบนพื้นขาว</b>"
+"<p>เป็นลักษณะที่ปกติที่คุณเห็น</p>"
+
+#. i18n: ectx: property (text), widget (QRadioButton, blackOnWhite)
+#. +> trunk6 stable6
+#: css/csscustom.ui:186
+#, kde-format
+msgid "&Black on white"
+msgstr "&ดำบนพื้นขาว"
+
+#. i18n: ectx: property (whatsThis), widget (QRadioButton, whiteOnBlack)
+#. +> trunk6 stable6
+#: css/csscustom.ui:196
+#, kde-format
+msgid ""
+"<b>White on Black</b>"
+"<p>This is your classic inverse color scheme.</p>"
+msgstr ""
+"<b>ขาวบนพื้นดำ</b>"
+"<p>นี่เป็นชุดสีที่กลับกันกับชุดสีเดิม ๆ</p>"
+
+#. i18n: ectx: property (text), widget (QRadioButton, whiteOnBlack)
+#. +> trunk6 stable6
+#: css/csscustom.ui:199
+#, kde-format
+msgid "&White on black"
+msgstr "&ขาวบนพื้นดำ"
+
+#. i18n: ectx: property (whatsThis), widget (QRadioButton, customColor)
+#. +> trunk6 stable6
+#: css/csscustom.ui:206
+#, kde-format
+msgid ""
+"<b>Custom</b>"
+"<p>Select this option to define a custom color for the default font.</p>"
+msgstr ""
+"<b>กำหนดเอง</b>"
+"<p>เลือกตัวเลือกนี้ เพื่อกำหนดสีสำหรับตัวอักษรเอง</p>"
+
+#. i18n: ectx: property (text), widget (QRadioButton, customColor)
+#. +> trunk6 stable6
+#: css/csscustom.ui:209
+#, kde-format
+msgid "Cus&tom"
+msgstr "กำหน&ดเอง"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, txtBackground)
+#. +> trunk6 stable6
+#: css/csscustom.ui:219
+#, kde-format
+msgid ""
+"<b>Background</b>"
+"<p>This background color is the one displayed behind the text by default. A background image will override this.</p>"
+msgstr ""
+"<b>พื้นหลัง</b>"
+"<p>สีพื้นหลังนี้ ตามปกติจะถูกแสดงอยู่เบื้องหลังข้อความ ซึ่งสามารถเปลี่ยนไปใช้ภาพพื้นหลังแทนได้</p>"
+
+#. i18n: ectx: property (text), widget (QLabel, txtBackground)
+#. +> trunk6 stable6
+#: css/csscustom.ui:222
+#, kde-format
+msgid "Bac&kground:"
+msgstr "พื้นห&ลัง:"
+
+#. i18n: ectx: property (whatsThis), widget (KColorButton, backgroundColorButton)
+#. +> trunk6 stable6
+#: css/csscustom.ui:238
+#, kde-format
+msgid ""
+"<b>Background</b>"
+"<p>Behind this door lays the ability to choose a custom default background.</p>"
+msgstr ""
+"<b>พื้นหลัง</b>"
+"<p>สามารถเลือกพื้นหลังรูปแบบต่าง ๆ ได้เอง</p>"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, sameColor)
+#. +> trunk6 stable6
+#: css/csscustom.ui:248
+#, kde-format
+msgid ""
+"<b>Use same color for all text</b>"
+"<p>Select this option to apply your chosen color to the default font as well as any custom fonts as specified in a stylesheet.</p>"
+msgstr ""
+"<b>ใช้สีเดียวกันกับทุกข้อความ</b>"
+"<p>เลือกตัวเลือกนี้ เพื่อให้สีที่คุณเลือกไว้ ถูกนำไปใช้กับรูปแบบตัวอักษรปริยาย เช่นเดียวกับรูปแบบตัวอักษรที่กำหนดไว้ในสไตล์ชีต</p>"
+
+#. i18n: ectx: property (text), widget (QCheckBox, sameColor)
+#. +> trunk6 stable6
+#: css/csscustom.ui:251
+#, kde-format
+msgid "Use same color for all text"
+msgstr "ใช้สีเดียวกันกับทุกข้อความ"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, txtForeground)
+#. i18n: ectx: property (whatsThis), widget (KColorButton, foregroundColorButton)
+#. +> trunk6 stable6
+#: css/csscustom.ui:261 css/csscustom.ui:280
+#, kde-format
+msgid ""
+"<b>Foreground color</b>"
+"<p>The foreground color is the color that the text is drawn in.</p>"
+msgstr ""
+"<b>สีพื้นหน้า</b>"
+"<p>สีพื้นหน้า เป็นสีที่ใช้กับตัวอักษร</p>"
+
+#. i18n: ectx: property (text), widget (QLabel, txtForeground)
+#. +> trunk6 stable6
+#: css/csscustom.ui:264
+#, kde-format
+msgid "&Foreground:"
+msgstr "พื้นห&น้า:"
+
+#. i18n: ectx: property (whatsThis), widget (QGroupBox, GroupBox3_2)
+#. +> trunk6 stable6
+#: css/csscustom.ui:293
+#, kde-format
+msgid "<b>Images</b>"
+msgstr "<b>รูปภาพต่าง ๆ</b>"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, hideImages)
+#. +> trunk6 stable6
+#: css/csscustom.ui:302
+#, kde-format
+msgid ""
+"<b>Suppress images</b>"
+"<p>Selecting this will prevent Konqueror from loading images.</p>"
+msgstr ""
+"<b>งดใช้ภาพ</b>"
+"<p>เลือกตัวเลือกนี้ เพื่อไม่ให้ Konqueror ทำการโหลดรูปภาพ</p>"
+
+#. i18n: ectx: property (text), widget (QCheckBox, hideImages)
+#. +> trunk6 stable6
+#: css/csscustom.ui:305
+#, kde-format
+msgid "&Suppress images"
+msgstr "&งดใช้ภาพ"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, hideBackground)
+#. +> trunk6 stable6
+#: css/csscustom.ui:312
+#, kde-format
+msgid ""
+"<b>Suppress background images</b>"
+"<p>Selecting this option will prevent Konqueror from loading background images.</p>"
+msgstr ""
+"<b>งดใช้ภาพพื้นหลัง</b>"
+"<p>เลือกตัวเลือกนี้ เพื่อไม่ให้ Konqueror ทำการโหลดภาพพื้นหลัง</p>"
+
+#. i18n: ectx: property (text), widget (QCheckBox, hideBackground)
+#. +> trunk6 stable6
+#: css/csscustom.ui:315
+#, kde-format
+msgid "Suppress background images"
+msgstr "งดใช้ภาพพื้นหลัง"
+
+#. i18n: ectx: property (title), widget (QGroupBox, previewBox)
+#. +> trunk6 stable6
+#: css/csscustom.ui:347
+#, kde-format
+msgid "Preview"
+msgstr "แสดงตัวอย่าง"
+
+#. +> trunk6 stable6
+#: css/kcmcss.cpp:57
+#, kde-format
+msgid ""
+"<h1>Konqueror Stylesheets</h1>"
+" This module allows you to apply your own color and font settings to Konqueror by using stylesheets (CSS). You can either specify options or apply your own self-written stylesheet by pointing to its location.<br />"
+" Note that these settings will always have precedence before all other settings made by the site author. This can be useful to visually impaired people or for web pages that are unreadable due to bad design."
+msgstr ""
+"<h1>สไตล์ชีตของคอนเควอร์เรอร์</h1>"
+"มอดูลนี้ ให้คุณสามารถเลือกตั้งค่าสี และรูปแบบตัวอักษรของคุณเองกับคอนเควอร์เรอร์ได้ โดยการใช้สไตล์ชีต (CSS) คุณสามารถกำหนดตัวเลือก หรือเลือกใช้สไตล์ชีตที่คุณเขียนขึ้นเอง โดยระบุตำแหน่ง<br />"
+" ข้อควรจำ การตั้งค่านี้ จะถูกนำมาใช้ก่อนค่าที่ถูกตั้งไว้จากเว็บไซต์เสมอ ซึ่งจะช่วยให้คุณสามารถอ่าน หรือเปลี่ยนค่าหน้าเว็บ ที่ไม่สามารถอ่านได้ หรือออกแบบมาไม่ดี"
+
+#. +> trunk6 stable6
+#: css/kcmcss.cpp:386
+#, fuzzy, kde-format
+#| msgid ""
+#| "<html>\n"
+#| "\n"
+#| "<h1>Heading 1</h1>"
+#| "\n"
+#| "<h2>Heading 2</h2>"
+#| "\n"
+#| "<h3>Heading 3</h3>"
+#| "\n"
+#| "\n"
+#| "<p>User defined stylesheets allow increased\n"
+#| "accessibility for visually handicapped\n"
+#| "people.</p>"
+#| "\n"
+#| "\n"
+#| "</html>\n"
+msgid ""
+"<html>\n"
+"<head>\n"
+"<style>\n"
+"<!--\n"
+"%1\n"
+"-->\n"
+"</style>\n"
+"</head>\n"
+"<body>\n"
+"<h1>Heading 1</h1>"
+"\n"
+"<h2>Heading 2</h2>"
+"\n"
+"<h3>Heading 3</h3>"
+"\n"
+"\n"
+"<p>User-defined stylesheets allow increased\n"
+"accessibility for visually handicapped\n"
+"people.</p>"
+"\n"
+"\n"
+"</body>\n"
+"</html>\n"
+msgstr ""
+"<html>\n"
+"\n"
+"<h1>หัวเรื่อง 1</h1>"
+"\n"
+"<h2>หัวเรื่อง 2</h2>"
+"\n"
+"<h3>หัวเรื่อง 3</h3>"
+"\n"
+"\n"
+"<p>สไตล์ชีตที่กำหนดเองจะช่วยให้ผู้ใช้งาน\n"
+"ใช้งานได้สะดวกมากขึ้น</p>"
+"\n"
+"\n"
+"</html>\n"
+
+#. +> trunk6 stable6
+#: domainlistview.cpp:33
+#, kde-format
+msgctxt "@title:group"
+msgid "Do&main-Specific"
+msgstr "ระบุโ&ดเมน"
+
+#. +> trunk6 stable6
+#: domainlistview.cpp:40
+#, kde-format
+msgid "Host/Domain"
+msgstr "โฮสต์/โดเมน"
+
+#. +> trunk6 stable6
+#: domainlistview.cpp:56
+#, kde-format
+msgid "De&lete"
+msgstr "&ลบ"
+
+#. +> trunk6 stable6
+#: domainlistview.cpp:60
+#, kde-format
+msgid "&Import..."
+msgstr "นำเ&ข้า..."
+
+#. +> trunk6 stable6
+#: domainlistview.cpp:66
+#, kde-format
+msgid "&Export..."
+msgstr "&ส่งออก..."
+
+#. +> trunk6 stable6
+#: domainlistview.cpp:74
+#, kde-format
+msgid "Click on this button to manually add a host or domain specific policy."
+msgstr "คลิกที่ปุ่มนี้ เพื่อเพิ่มโฮสต์หรือโดเมนเพื่อตั้งข้อกำหนดเอง"
+
+#. +> trunk6 stable6
+#: domainlistview.cpp:76
+#, kde-format
+msgid "Click on this button to change the policy for the host or domain selected in the list box."
+msgstr "คลิกที่ปุ่มนี้ เพื่อเปลี่ยนข้อกำหนดการใช้ สำหรับโฮสต์หรือโดเมนที่เลือกในกล่องรายการ"
+
+#. +> trunk6 stable6
+#: domainlistview.cpp:78
+#, kde-format
+msgid "Click on this button to delete the policy for the host or domain selected in the list box."
+msgstr "คลิกที่ปุ่มนี้ เพื่อลบข้อกำหนดการใช้ สำหรับโฮสต์หรือโดเมนที่เลือกในกล่องรายการ"
+
+#. +> trunk6 stable6
+#: domainlistview.cpp:125
+#, kde-format
+msgid "You must first select a policy to be changed."
+msgstr "คุณต้องเลือกข้อกำหนดที่ต้องการเปลี่ยนแปลงก่อน"
+
+#. +> trunk6 stable6
+#: domainlistview.cpp:152
+#, kde-format
+msgid "You must first select a policy to delete."
+msgstr "คุณต้องเลือกข้อกำหนดที่ต้องการจะลบก่อน"
+
+#. +> trunk6 stable6
+#: domainlistview.cpp:190 policydlg.cpp:63
+#, kde-format
+msgid "Use Global"
+msgstr "ใช้ค่าทั่วไป"
+
+#. +> trunk6 stable6
+#: domainlistview.cpp:232
+#, fuzzy, kde-format
+#| msgid "New JavaScript Policy"
+msgctxt "@title:window"
+msgid "New JavaScript Policy"
+msgstr "สร้างข้อกำหนดการใช้จาวาสคริปต์ใหม่"
+
+#. +> trunk6 stable6
+#: domainlistview.cpp:235
+#, fuzzy, kde-format
+#| msgid "Change JavaScript Policy"
+msgctxt "@title:window"
+msgid "Change JavaScript Policy"
+msgstr "เปลี่ยนข้อกำหนดการใช้จาวาสคริปต์"
+
+#. +> trunk6 stable6
+#: domainlistview.cpp:239
+#, kde-format
+msgid "JavaScript policy:"
+msgstr "ข้อกำหนดการใช้งานจาวาสคริปต์:"
+
+#. +> trunk6 stable6
+#: domainlistview.cpp:240
+#, kde-format
+msgid "Select a JavaScript policy for the above host or domain."
+msgstr "เลือกข้อกำหนดการใช้งานจาวาสคริปต์ สำหรับโฮสต์หรือโดเมนด้านบน"
+
+#. +> trunk6 stable6
+#: domainlistview.cpp:242
+#, kde-format
+msgid "Domain-Specific JavaScript Policies"
+msgstr "ข้อกำหนดการใช้จาวาสคริปต์สำหรับโดเมน"
+
+#. +> trunk6 stable6
+#: filteropts.cpp:48
+#, kde-format
+msgid "Enable filters"
+msgstr "เปิดใช้งานตัวกรอง"
+
+#. +> trunk6 stable6
+#: filteropts.cpp:51
+#, kde-format
+msgid "Hide filtered images"
+msgstr "ซ่อนภาพที่เข้าเงื่อนไขการกรอง"
+
+#. +> trunk6 stable6
+#: filteropts.cpp:58
+#, kde-format
+msgid "Manual Filter"
+msgstr "กรองด้วยตนเอง"
+
+#. +> trunk6 stable6
+#: filteropts.cpp:76
+#, kde-format
+msgid "Search:"
+msgstr "ค้นหา:"
+
+#. +> trunk6 stable6
+#: filteropts.cpp:84
+#, kde-format
+msgid "<qt>Filter expression (e.g. <tt>http://www.example.com/ad/*</tt>, <a href=\"filterhelp\">more information</a>):"
+msgstr "<qt>เงื่อนไขของตัวกรอง (เช่น <tt>http://www.example.com/ad/*</tt>, <a href=\"filterhelp\">คลิกเพื่อดูข้อมูลเพิ่มเติม</a>):"
+
+#. +> trunk6 stable6
+#: filteropts.cpp:100
+#, kde-format
+msgid "Automatic Filter"
+msgstr "กรองอัตโนมัติ"
+
+#. +> trunk6 stable6
+#: filteropts.cpp:109
+#, kde-format
+msgid "Automatic update interval:"
+msgstr "ช่วงจังหวะปรับปรุงอัตโนมัติ:"
+
+#. +> trunk6 stable6
+#: filteropts.cpp:114
+#, kde-format
+msgid " day"
+msgid_plural " days"
+msgstr[0] " วัน"
+
+#. +> trunk6 stable6
+#: filteropts.cpp:120
+#, kde-format
+msgid "Insert"
+msgstr "แทรก"
+
+#. +> trunk6 stable6
+#: filteropts.cpp:123
+#, kde-format
+msgid "Update"
+msgstr "ปรับปรุง"
+
+#. +> trunk6 stable6
+#: filteropts.cpp:126
+#, kde-format
+msgid "Remove"
+msgstr "เอาออก"
+
+#. +> trunk6 stable6
+#: filteropts.cpp:130
+#, kde-format
+msgid "Import..."
+msgstr "นำเข้า..."
+
+#. +> trunk6 stable6
+#: filteropts.cpp:133
+#, kde-format
+msgid "Export..."
+msgstr "ส่งออก..."
+
+#. +> trunk6 stable6
+#: filteropts.cpp:140
+#, kde-format
+msgid "<qt>More information on <a href=\"importhelp\">import format</a>, <a href=\"exporthelp\">export format</a>"
+msgstr "<qt>ดูรายละเอียดเพิ่มเติมที่ <a href=\"importhelp\">รูปแบบการนำเข้า</a>, <a href=\"exporthelp\">รูปแบบการส่งออก</a>"
+
+#. +> trunk6 stable6
+#: filteropts.cpp:154
+#, kde-format
+msgid "Enable or disable AdBlocK filters. When enabled, a set of URL expressions should be defined in the filter list for blocking to take effect."
+msgstr "เปิดหรือปิดตัวกรองการบล็อคโฆษณา (AdBlocK) หากเปิดใช้งาน จะมีการบล็อคที่อยู่ตามรูปแบบที่อยู่ URL ที่กำหนดไว้"
+
+#. +> trunk6 stable6
+#: filteropts.cpp:156
+#, kde-format
+msgid "When enabled blocked images will be removed from the page completely, otherwise a placeholder 'blocked' image will be used."
+msgstr "หากเปิดใช้การบล็อครูปภาพ จะมีการงดแสดงรูปภาพนั้นหลังจากเรียกหน้าเว็บสมบูรณ์แล้ว ไม่เช่นนั้นก็จะใช้จากส่วนจัดการรูปภาพที่จะ 'บล็อค' แทน"
+
+#. +> trunk6 stable6
+#: filteropts.cpp:163
+#, kde-format
+msgid "This is the list of URL filters that will be applied to all embedded images and media objects."
+msgstr "นี่เป็นรายการของที่อยู่ URL ที่ต้องการกรอง ซึ่งจะมีผลกับรูปภาพที่ฝังแนบอยู่ และวัตถุที่เป็นสื่อประสมทั้งหมด "
+
+#. +> trunk6 stable6
+#: filteropts.cpp:167
+#, kde-format
+msgid ""
+"<qt>"
+"<p>Enter an expression to filter. Filters can be defined as either:"
+"<ul>"
+"<li>a shell-style wildcard, e.g. <tt>http://www.example.com/ads*</tt>, the wildcards <tt>*?[]</tt> may be used</li>"
+"<li>a full regular expression by surrounding the string with '<tt>/</tt>', e.g. <tt>/\\/(ad|banner)\\./</tt></li>"
+"</ul>"
+"<p>Any filter string can be preceded by '<tt>@@</tt>' to whitelist (allow) any matching URL, which takes priority over any blacklist (blocking) filter."
+msgstr ""
+"<qt>"
+"<p>ป้อนเงื่อนไขที่จะใช้กับตัวกรอง ตัวกรองสามารถนิยามได้ทั้ง:"
+"<ul>"
+"<li>ไวล์การ์ด เช่น <tt>http://www.example.com/ads*</tt>, อาจใช้ไวล์การ์ด <tt>*?[]</tt> ได้</li>"
+"<li>เงื่อนไขเต็ม ๆ จะล้อมรอบข้อความด้วย '<tt>/</tt>' เช่น <tt>/\\/(ad|banner)\\./</tt></li>"
+"</ul>"
+" "
+"<p>ข้อความตัวกรองใด ๆ สามารถจะนำหน้าด้วย '<tt>@@</tt>' ได้เพื่ออนุญาตที่อยู่ URL ที่เข้าเงื่อนไข, ซึ่งจะถูกจัดความสำคัญให้อยู่เหนือรายการตัวกรองแบล็กลิสต์ (การบล็อค)"
+
+#. +> trunk6 stable6
+#: filteropts.cpp:183
+#, kde-format
+msgid ""
+"<qt>"
+"<p>The filter import format is a plain text file. Blank lines, comment lines starting with '<tt>!</tt>' and the header line <tt>[AdBlock]</tt> are ignored. Any other line is added as a filter expression."
+msgstr ""
+"<qt>"
+"<p>รูปแบบของตัวกรองการนำเข้านั้นเป็นแฟ้มข้อความธรรมดา บรรทัดว่าง, บรรทัดหมายเหตุ จะเริ่มหัวบรรทัดด้วย '<tt>!</tt>' โดยจะไม่สนใจกับบรรทัดส่วนหัว <tt>[AdBlock]</tt> ส่วนบรรทัดอื่น ๆ จะใช้เป็นเงื่อนไขของตัวกรอง"
+
+#. +> trunk6 stable6
+#: filteropts.cpp:188
+#, kde-format
+msgid ""
+"<qt>"
+"<p>The filter export format is a plain text file. The file begins with a header line <tt>[AdBlock]</tt>, then all of the filters follow each on a separate line."
+msgstr ""
+"<qt>"
+"<p>รูปแบบของตัวกรองการส่งออกนั้นเป็นแฟ้มข้อความธรรมดา โดยแฟ้มจะเริ่มด้วยบรรทัดส่วนหัว <tt>[AdBlock]</tt> แล้วตามด้วยตัวกรองทั้งหมดโดยแยกแต่ละตัวกรองออกเป็นแต่ละบรรทัด"
+
+#. +> trunk6 stable6
+#: filteropts.cpp:256
+#, fuzzy, kde-format
+#| msgid "Automatic Filter"
+msgid "Import Filters"
+msgstr "กรองอัตโนมัติ"
+
+#. +> trunk6 stable6
+#: filteropts.cpp:300
+#, fuzzy, kde-format
+#| msgid "URL Expressions to Filter"
+msgid "Export Filters"
+msgstr "รูปแบบที่อยู่ URL ที่จะกรอง"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, templates)
+#. +> trunk6 stable6
+#: filteropts.cpp:563 useragent/useragent.ui:58
+#, kde-format
+msgid "Name"
+msgstr "ชื่อ"
+
+#. +> trunk6 stable6
+#: filteropts.cpp:564
+#, kde-format
+msgid "URL"
+msgstr "ที่อยู่ URL"
+
+#. +> trunk6 stable6
+#: generalopts.cpp:54
+#, kde-format
+msgctxt "The user chose to use a custom start page but left the corresponding field empty"
+msgid "Please, insert the custom start page"
+msgstr ""
+
+#. +> trunk6 stable6
+#: generalopts.cpp:60
+#, kde-format
+msgctxt "@label:listbox"
+msgid "When a new &Tab is created"
+msgstr ""
+
+#. +> trunk6 stable6
+#: generalopts.cpp:69
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Show Introduction Page"
+msgstr "แสดงหน้าแนะนำ"
+
+#. +> trunk6 stable6
+#: generalopts.cpp:70
+#, fuzzy, kde-format
+#| msgctxt "@item:inlistbox"
+#| msgid "Show My Home Page"
+msgctxt "@item:inlistbox"
+msgid "Show My Start Page"
+msgstr "แสดงหน้าเว็บหลักของฉัน"
+
+#. +> trunk6 stable6
+#: generalopts.cpp:71
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Show Blank Page"
+msgstr "แสดงหน้าว่าง"
+
+#. +> trunk6 stable6
+#: generalopts.cpp:72
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Show My Bookmarks"
+msgstr "แสดงที่คั่นหน้าของฉัน"
+
+#. +> trunk6 stable6
+#: generalopts.cpp:78
+#, fuzzy, kde-format
+#| msgid "Select Home Page"
+msgctxt "@title:window"
+msgid "Select Start Page"
+msgstr "เลือกหน้าหลัก"
+
+#. +> trunk6 stable6
+#: generalopts.cpp:83
+#, kde-format
+msgid "This is the URL of the web page Konqueror will show when starting."
+msgstr ""
+
+#. +> trunk6 stable6
+#: generalopts.cpp:94
+#, kde-format
+msgid "Home page:"
+msgstr "หน้าหลัก:"
+
+#. +> trunk6 stable6
+#: generalopts.cpp:97
+#, fuzzy, kde-format
+#| msgid "Select Home Page"
+msgctxt "@title:window"
+msgid "Select Home Page"
+msgstr "เลือกหน้าหลัก"
+
+#. +> trunk6 stable6
+#: generalopts.cpp:102
+#, fuzzy, kde-format
+#| msgid "This is the URL of the web page where Konqueror (as web browser) will jump to when the \"Home\" button is pressed. When Konqueror is started as a file manager, that button makes it jump to your local home folder instead."
+msgid "This is the URL of the web page where Konqueror will jump to when the \"Home\" button is pressed."
+msgstr "นี่คือที่อยู่ URL (ตัวอย่างเช่น โฟลเดอร์ หรือหน้าเว็บ) ที่ Konqueror จะเรียกไปเมื่อมีการกดปุ่ม \"หน้าหลัก\" และเมื่อ Konqueror ถูกใช้เป็นตัวจัดการแฟ้ม การกดปุ่มนี้จะเรียกไปยังโฟลเดอร์ส่วนตัวของคุณแทน"
+
+#. +> trunk6 stable6
+#: generalopts.cpp:110
+#, kde-format
+msgid "Default web browser engine:"
+msgstr "กลไกหลักของเว็บเบราวเซอร์:"
+
+#. +> trunk6 stable6
+#: generalopts.cpp:119
+#, kde-format
+msgid "When splitting a view"
+msgstr ""
+
+#. +> trunk6 stable6
+#: generalopts.cpp:123
+#, kde-format
+msgid "Always duplicate current view"
+msgstr ""
+
+#. +> trunk6 stable6
+#: generalopts.cpp:124
+#, kde-format
+msgid "Duplicate current view only for local files"
+msgstr ""
+
+#. +> trunk6 stable6
+#: generalopts.cpp:130
+#, kde-format
+msgid "When starting up, restore state from last time"
+msgstr ""
+
+#. +> trunk6 stable6
+#: htmlopts.cpp:39
+#, kde-format
+msgid "Boo&kmarks"
+msgstr "ที่&คั่นหน้า"
+
+#. +> trunk6 stable6
+#: htmlopts.cpp:42
+#, kde-format
+msgid "Ask for name and folder when adding bookmarks"
+msgstr "ถามชื่อและโฟลเดอร์ด้วยเมื่อมีการเพิ่มคั่นหน้าไปยังที่คั่นหน้า"
+
+#. +> trunk6 stable6
+#: htmlopts.cpp:45
+#, kde-format
+msgid "If this box is checked, Konqueror will allow you to change the title of the bookmark and choose a folder in which to store it when you add a new bookmark."
+msgstr "หากเปิดใช้ตัวเลือกนี้  Konqueror จะให้คุณป้อนชื่อหัวเรื่องและเลือกโฟลเดอร์ที่จะจัดเก็บคั่นหน้าไว้ เมื่อคุณทำการเพิ่มคั่นหน้าใหม่เข้าไปยังที่คั่นหน้า"
+
+#. +> trunk6 stable6
+#: htmlopts.cpp:51
+#, kde-format
+msgid "Show only marked bookmarks in bookmark toolbar"
+msgstr "แสดงเฉพาะคั่นหน้าที่ทำเครื่องหมายไว้ในแถบที่คั่นหน้าเท่านั้น"
+
+#. +> trunk6 stable6
+#: htmlopts.cpp:53
+#, kde-format
+msgid "If this box is checked, Konqueror will show only those bookmarks in the bookmark toolbar which you have marked to do so in the bookmark editor."
+msgstr "หากเปิดใช้ตัวเลือกนี้  Konqueror จะแสดงเฉพาะคั่นหน้าในแถบที่คั่นหน้าที่คุณทำเครื่องหมายไว้บนเครื่องมือแก้ไขที่คั่นหน้าเท่านั้น"
+
+#. i18n("Form Com&pletion"), widget());
+#. m_pFormCompletionCheckBox->setCheckable(true);
+#. QFormLayout *laygroup2 = new QFormLayout(m_pFormCompletionCheckBox);
+#. +> trunk6 stable6
+#: htmlopts.cpp:67
+#, kde-format
+msgid "If this box is checked, Konqueror will remember the data you enter in web forms and suggest it in similar fields for all forms."
+msgstr "เลือกตัวเลือกนี้ เพื่อให้ Konqueror จดจำข้อมูลต่าง ๆ ที่คุณเคยกรอกไว้ในแบบฟอร์มต่าง ๆ บนหน้าเว็บ และนำไปใช้กับแบบฟอร์มทุกแบบฟอร์มที่มีช่องกรอกข้อมูลเหมือนกัน"
+
+#. +> trunk6 stable6
+#: htmlopts.cpp:74
+#, kde-format
+msgid "&Maximum completions:"
+msgstr "จำนวนสูงสุดของการเติมแบบฟอร์มให้สมบูรณ์อัตโนมัติ:"
+
+#. +> trunk6 stable6
+#: htmlopts.cpp:76
+#, kde-format
+msgid "Here you can select how many values Konqueror will remember for a form field."
+msgstr "คุณสามารถเลือกให้ Konqueror จดจำช่องข้อมูลในฟอร์มเป็นจำนวนมากเท่าใด ได้ที่นี่"
+
+#. +> trunk6 stable6
+#: htmlopts.cpp:87
+#, kde-format
+msgid "Mouse Beha&vior"
+msgstr "&พฤติกรรมของเมาส์"
+
+#. +> trunk6 stable6
+#: htmlopts.cpp:90
+#, kde-format
+msgid "M&iddle click opens URL in selection"
+msgstr "คลิกเมาส์ปุ่ม&กลางเพื่อเปิดที่อยู่ URL ของส่วนที่เลือกไว้"
+
+#. +> trunk6 stable6
+#: htmlopts.cpp:93
+#, kde-format
+msgid "If this box is checked, you can open the URL in the selection by middle clicking on a Konqueror view."
+msgstr "เปิดใช้ตัวเลือกนี้เพื่อให้มีการเปิดที่อยู่ URL ของส่วนที่เลือกไว้หากมีการคลิกเมาส์ปุ่มกลางบนพื้นที่แสดงผลของ Konqueror "
+
+#. +> trunk6 stable6
+#: htmlopts.cpp:97
+#, kde-format
+msgid "Right click goes &back in history"
+msgstr "คลิกเมาส์ปุ่มขวาเพื่อ&ย้อนกลับไปยังหน้าเว็บที่เคยเปิดก่อนหน้า"
+
+#. +> trunk6 stable6
+#: htmlopts.cpp:100
+#, kde-format
+msgid "If this box is checked, you can go back in history by right clicking on a Konqueror view. To access the context menu, press the right mouse button and move."
+msgstr "หากเปิดใช้ตัวเลือกนี้ คุณจะสามารถย้อนกลับได้ง่าย ๆ ด้วยการคลิกเมาส์ปุ่มขวาบนพื้นที่แสดงผลของ Konqueror สำหรับการเรียกใช้งานเมนูคลิกขวา จะเปลี่ยนไปใช้การคลิกเมาส์ปุ่มขวาและเคลื่อนเมาส์ไปด้วย "
+
+#. +> trunk6 stable6
+#: htmlopts.cpp:115
+#, kde-format
+msgid "Enable Access Ke&y activation with Ctrl key"
+msgstr "เปิด/ปิด การกระตุ้นการทำงานของปุ่&มเข้าถึงด้วยปุ่มพิมพ์ Ctrl"
+
+#. +> trunk6 stable6
+#: htmlopts.cpp:116
+#, kde-format
+msgid "Pressing the Ctrl key when viewing webpages activates Access Keys. Unchecking this box will disable this accessibility feature. (Konqueror needs to be restarted for this change to take effect.)"
+msgstr "การกดปุ่มพิมพ์ Ctrl เมื่อชมหน้าเว็บ จะเป็นการกระตุ้นการทำงานของปุ่มเข้าถึงของ KDE การยกเลิกการกาตัวเลือกนี้ จะเป็นการปิดคุณสมบัติการช่วยใช้งานนี้ (Konqueror จำเป็นต้องเริ่มงานใหม่ เพื่อให้การเปลี่ยนแปลงนี้มีผล)"
+
+#. +> trunk6 stable6
+#: htmlopts.cpp:121
+#, kde-format
+msgid "Send the DNT header to tell web sites you do not want to be tracked"
+msgstr ""
+
+#. +> trunk6 stable6
+#: htmlopts.cpp:122
+#, kde-format
+msgid ""
+"<p>Check this box if you want to inform a web site that you do not want your web browsing habits tracked.</p>"
+"<p><strong>Warning:</strong> this header is considered obsolete, so it will likely be ignored by most web pages.</p>"
+msgstr ""
+
+#. +> trunk6 stable6
+#: htmlopts.cpp:126
+#, kde-format
+msgid "Offer to save website passwords"
+msgstr ""
+
+#. +> trunk6 stable6
+#: htmlopts.cpp:127
+#, kde-format
+msgid "Uncheck this box to prevent being prompted to save website passwords"
+msgstr ""
+
+#. +> trunk6 stable6
+#: htmlopts.cpp:131
+#, kde-format
+msgid "Display online PDF files using WebEngine"
+msgstr ""
+
+#. +> trunk6 stable6
+#: htmlopts.cpp:132
+#, kde-format
+msgid "Uncheck this box to display online PDF files as configured in System Settings"
+msgstr ""
+
+#. +> trunk6 stable6
+#: htmlopts.cpp:136
+#, kde-format
+msgid "Always display files from web pages in a new tab"
+msgstr ""
+
+#. +> trunk6 stable6
+#: htmlopts.cpp:137
+#, kde-format
+msgid "<p>When showing in Konqueror files from links in web pages, always use a new tab"
+msgstr ""
+
+#. +> trunk6 stable6
+#: jsopts.cpp:57
+#, kde-format
+msgid "Ena&ble JavaScript globally"
+msgstr "เปิดใ&ช้งานจาวาสคริปต์กับทั้งระบบ"
+
+#. +> trunk6 stable6
+#: jsopts.cpp:58
+#, kde-format
+msgid "Enables the execution of scripts written in ECMA-Script (also known as JavaScript) that can be contained in HTML pages. Note that, as with any browser, enabling scripting languages can be a security problem."
+msgstr "เปิดให้สามารถประมวลผลสคริปต์ ที่ถูกเขียนภายใต้ข้อกำหนด ECMA (ซึ่งรู้จักกันในชื่อ จาวาสคริปต์) ได้ โดยมันอาจอยู่ในหน้าเว็บ HTML โปรดใช้ด้วยความระวัง เนื่องจากส่วนรองรับจาวาสคริปต์นี้ยังไม่สมบูรณ์ และควรจำไว้ว่า การใช้งานสคริปต์ อาจมีผลต่อความปลอดภัยบางอย่างด้วย"
+
+#. +> trunk6 stable6
+#: jsopts.cpp:70
+#, kde-format
+msgid "Here you can set specific JavaScript policies for any particular host or domain. To add a new policy, simply click the <i>New...</i> button and supply the necessary information requested by the dialog box. To change an existing policy, click on the <i>Change...</i> button and choose the new policy from the policy dialog box. Clicking on the <i>Delete</i> button will remove the selected policy causing the default policy setting to be used for that domain. The <i>Import</i> and <i>Export</i> button allows you to easily share your policies with other people by allowing you to save and retrieve them from a zipped file."
+msgstr "คุณสามารถตั้งข้อกำหนดการใช้งานจาวาสคริปต์ สำหรับบางโฮสต์หรือบางโดเมนได้ที่นี่ หากต้องการเพิ่มข้อกำหนด ให้คลิกที่ปุ่ม <i>สร้างใหม่...</i> และกรอกข้อมูลที่จำเป็น หากต้องการเปลี่ยนแปลงข้อกำหนด ให้คลิกที่ปุ่ม <i>เปลี่ยน...</i> และเลือกข้อกำหนดใหม่ที่ต้องการจากกล่องโต้ตอบ  คลิกที่ปุ่ม <i>ลบ</i> หากต้องการลบข้อกำหนดที่เลือก และกลับไปใช้ข้อกำหนดโดยปริยายเทน และคลิกที่ปุ่ม <i>นำเข้า</i> และ <i>ส่งออก</i> เพื่อให้สามารถแลกเปลี่ยน ข้อกำหนดของคุณกับคนอื่นได้ง่าย โดยอนุญาตให้คุณใช้งานในรูปแบบแฟ้มบีบอัดได้"
+
+#. +> trunk6 stable6
+#: jsopts.cpp:80
+#, kde-format
+msgid ""
+"<p>This box contains the domains and hosts you have set a specific JavaScript policy for. This policy will be used instead of the default policy for enabling or disabling JavaScript on pages sent by these domains or hosts.</p>"
+"<p>Select a policy and use the controls on the right to modify it.</p>"
+msgstr ""
+"<p>กล่องนี้จะมีโดเมน และโฮสต์ที่คุณได้ตั้งข้อกำหนดเฉพาะสำหรับ JavaScript ไว้ ข้อกำหนดนี้จะถูกใช้แทนข้อกำหนดปริยายในการเปิดหรือปิดการใช้งาน JavaScript บนหน้าที่ถูกส่งมาโดยโดเมน หรือโฮสต์เหล่านี้</p>"
+"<p>เลือกข้อกำหนดและใช้ปุ่มทางด้านขวาเพื่อทำการแก้ไข</p>"
+
+#. +> trunk6 stable6
+#: jsopts.cpp:87
+#, kde-format
+msgid "Click this button to choose the file that contains the JavaScript policies. These policies will be merged with the existing ones. Duplicate entries are ignored."
+msgstr "คลิกที่ปุ่มนี้ เพื่อเลือกแฟ้มที่บรรจุข้อกำหนดการใช้งานจาวาสคริปต์อยู่ และข้อกำหนดการใช้ดังกล่าว จะถูกรวมเข้าไปยังข้อกำหนดที่มีอยู่แล้ว และจะไม่รวมส่วนที่ซ้ำกันเข้าไปด้วย"
+
+#. +> trunk6 stable6
+#: jsopts.cpp:90
+#, kde-format
+msgid "Click this button to save the JavaScript policy to a zipped file. The file, named <b>javascript_policy.tgz</b>, will be saved to a location of your choice."
+msgstr "คลิกที่ปุ่มนี้ เพื่อบันทึกข้อกำหนดการใช้งานจาวาสคริปต์ ไปเป็นแฟ้มบีบอัด ชื่อ <b>javascript_policy.tgz</b> ในตำแหน่งที่คุณเลือก"
+
+#. +> trunk6 stable6
+#: jsopts.cpp:96
+#, kde-format
+msgid "Global JavaScript Policies"
+msgstr "ข้อกำหนดทั่วไปการใช้จาวาสคริปต์"
+
+#. +> trunk6 stable6
+#: jspolicies.cpp:161
+#, kde-format
+msgid "Open new windows:"
+msgstr "เปิดหน้าต่างใหม่:"
+
+#. +> trunk6 stable6
+#: jspolicies.cpp:169 jspolicies.cpp:223 jspolicies.cpp:260 jspolicies.cpp:297
+#: jspolicies.cpp:337
+#, kde-format
+msgid "Use global"
+msgstr "ใช้ค่าทั่วไป"
+
+#. +> trunk6 stable6
+#: jspolicies.cpp:170 jspolicies.cpp:224 jspolicies.cpp:261 jspolicies.cpp:298
+#: jspolicies.cpp:338
+#, kde-format
+msgid "Use setting from global policy."
+msgstr "ใช้การตั้งค่าจากข้อกำหนดทั่วไป"
+
+#. +> trunk6 stable6
+#: jspolicies.cpp:176 jspolicies.cpp:230 jspolicies.cpp:267 jspolicies.cpp:304
+#: jspolicies.cpp:344
+#, kde-format
+msgid "Allow"
+msgstr "อนุญาต"
+
+#. +> trunk6 stable6
+#: jspolicies.cpp:177
+#, kde-format
+msgid "Accept all popup window requests."
+msgstr "ยอมรับการร้องขอเปิดหน้าต่างป๊อปอัปใหม่ทั้งหมด"
+
+#. +> trunk6 stable6
+#: jspolicies.cpp:183
+#, kde-format
+msgid "Prompt every time a popup window is requested."
+msgstr "ให้มีการถามทุกครั้งที่มีการร้องขอเปิดหน้าต่างป๊อปอัปใหม่"
+
+#. +> trunk6 stable6
+#: jspolicies.cpp:188
+#, kde-format
+msgid "Deny"
+msgstr "ปฏิเสธ"
+
+#. +> trunk6 stable6
+#: jspolicies.cpp:189
+#, kde-format
+msgid "Reject all popup window requests."
+msgstr "ปฏิเสธการร้องขอเปิดหน้าต่างป๊อปอัปใหม่ทั้งหมด"
+
+#. +> trunk6 stable6
+#: jspolicies.cpp:194
+#, kde-format
+msgid "Smart"
+msgstr "อย่างฉลาด"
+
+#. +> trunk6 stable6
+#: jspolicies.cpp:195
+#, kde-format
+msgid "Accept popup window requests only when links are activated through an explicit mouse click or keyboard operation."
+msgstr "ยอมรับการร้องขอหน้าต่างป๊อปอัป เมื่อมีการเรียกที่อยู่เชื่อมโยงผ่านการคลิกเมาส์หรือ ผ่านการใช้แป้นพิมพ์เท่านั้น"
+
+#. +> trunk6 stable6
+#: jspolicies.cpp:202
+#, kde-format
+msgid ""
+"If you disable this, Konqueror will stop interpreting the <i>window.open()</i> JavaScript command. This is useful if you regularly visit sites that make extensive use of this command to pop up ad banners.<br />"
+"<br />"
+"<b>Note:</b> Disabling this option might also break certain sites that require <i>window.open()</i> for proper operation. Use this feature carefully."
+msgstr ""
+"หากปิดการใช้งานตัวเลือกนี้ Konqueror จะหยุดการแปลคำสั่งสคริปต์ <i>window.open()</i> ของจาวาสคริปต์ ซึ่งเหมาะสำหรับการเข้าดูไซต์ที่มักจะทำการใช้คำสั่งนี้เพื่อเปิดหน้าต่างโฆษณาขึ้นมา <br />"
+"<br />"
+"<b>ข้อควรจำ:</b> การปิดการใช้งานตัวเลือกนี้จะทำให้บางไซต์ที่ต้องการใช้งานคำสั่ง <i>window.open()</i> ในการปฏิบัติการบางอย่างอาจไม่สามารถทำงานได้ ดังนั้นโปรดใช้ด้วยความระมัดระวัง"
+
+#. +> trunk6 stable6
+#: jspolicies.cpp:216
+#, kde-format
+msgid "Resize window:"
+msgstr "ปรับขนาดหน้าต่าง:"
+
+#. +> trunk6 stable6
+#: jspolicies.cpp:231
+#, kde-format
+msgid "Allow scripts to change the window size."
+msgstr "อนุญาติให้สคริปต์เปลี่ยนขนาดหน้าต่างได้"
+
+#. +> trunk6 stable6
+#: jspolicies.cpp:236 jspolicies.cpp:273 jspolicies.cpp:310 jspolicies.cpp:350
+#, kde-format
+msgid "Ignore"
+msgstr "ไม่สนใจ"
+
+#. +> trunk6 stable6
+#: jspolicies.cpp:237
+#, kde-format
+msgid "Ignore attempts of scripts to change the window size. The web page will <i>think</i> it changed the size but the actual window is not affected."
+msgstr "ไม่สนใจการเปลี่ยนขนาดหน้าต่างของสคริปต์ โดยหน้าเว็บจะ<i>คิดว่า</i> การเปลี่ยนขนาดหน้าต่างที่มันต้องการได้เกิดขึ้นแล้ว แต่จริง ๆ แล้วไม่มีการเปลี่ยนแปลงเลย"
+
+#. +> trunk6 stable6
+#: jspolicies.cpp:244
+#, kde-format
+msgid "Some websites change the window size on their own by using <i>window.resizeBy()</i> or <i>window.resizeTo()</i>. This option specifies the treatment of such attempts."
+msgstr "มีบางเว็บไซต์ที่ต้องการเปลี่ยนขนาดหน้าต่างให้เป็นขนาดที่มันต้องการ โดยใช้ฟังก์ชัน <i>window.resizeBy()</i> หรือ <i>window.resizeTo()</i> ซึ่งตัวเลือกนี้จะตอบสนองมันเหมือนกับว่าขนาดหน้าต่างได้เปลี่ยนไปแล้ว"
+
+#. +> trunk6 stable6
+#: jspolicies.cpp:253
+#, kde-format
+msgid "Move window:"
+msgstr "ย้ายหน้าต่าง:"
+
+#. +> trunk6 stable6
+#: jspolicies.cpp:268
+#, kde-format
+msgid "Allow scripts to change the window position."
+msgstr "อนุญาตให้สคริปต์เปลี่ยนตำแหน่งของหน้าต่าง"
+
+#. +> trunk6 stable6
+#: jspolicies.cpp:274
+#, kde-format
+msgid "Ignore attempts of scripts to change the window position. The web page will <i>think</i> it moved the window but the actual position is not affected."
+msgstr "ไม่สนใจการเปลี่ยนตำแหน่งหน้าต่างของสคริปต์ หน้าเว็บจะ<i>คิดว่า</i> หน้าต่างถูกย้ายไปแล้ว แต่จริง ๆ แล้ว ไม่มีการย้ายเกิดขึ้น"
+
+#. +> trunk6 stable6
+#: jspolicies.cpp:281
+#, kde-format
+msgid "Some websites change the window position on their own by using <i>window.moveBy()</i> or <i>window.moveTo()</i>. This option specifies the treatment of such attempts."
+msgstr "มีบางเว็บไซต์ที่ต้องการย้ายตำแหน่งหน้าต่างไปยังตำแหน่งที่มันต้องการ โดยใช้ฟังก์ชัน <i>window.moveBy()</i> หรือ <i>window.moveTo()</i>ซึ่งตัวเลือกนี้จะตอบสนองมันเหมือนกับว่าหน้าต่างได้ถูกย้ายไปแล้ว"
+
+#. +> trunk6 stable6
+#: jspolicies.cpp:290
+#, kde-format
+msgid "Focus window:"
+msgstr "โฟกัสหน้าต่าง:"
+
+#. +> trunk6 stable6
+#: jspolicies.cpp:305
+#, kde-format
+msgid "Allow scripts to focus the window."
+msgstr "อนุญาตให้โฟกัสไปยังหน้าต่าง"
+
+#. +> trunk6 stable6
+#: jspolicies.cpp:311
+#, kde-format
+msgid "Ignore attempts of scripts to focus the window. The web page will <i>think</i> it brought the focus to the window but the actual focus will remain unchanged."
+msgstr "ไม่สนใจการเปลี่ยนโฟกัสหน้าต่างของสคริปต์ หน้าเว็บจะ<i>คิดว่า</i> หน้าต่างถูกโฟกัสแล้ว แต่จริง ๆ แล้ว ไม่มีการโฟกัสเกิดขึ้น"
+
+#. +> trunk6 stable6
+#: jspolicies.cpp:319
+#, kde-format
+msgid "Some websites set the focus to their browser window on their own by using <i>window.focus()</i>. This usually leads to the window being moved to the front interrupting whatever action the user was dedicated to at that time. This option specifies the treatment of such attempts."
+msgstr "มีบางเว็บไซต์ที่ต้องการโฟกัสหน้าต่างไปยังหน้าต่างที่มันต้องการ โดยใช้ฟังก์ชัน <i>window.focus()</i> ซึ่งตัวเลือกนี้จะตอบสนองมันเหมือนกับว่าหน้าต่างได้ถูกโฟกัสแล้ว"
+
+#. +> trunk6 stable6
+#: jspolicies.cpp:330
+#, kde-format
+msgid "Modify status bar text:"
+msgstr "แก้ไขข้อความสถานะ:"
+
+#. +> trunk6 stable6
+#: jspolicies.cpp:345
+#, kde-format
+msgid "Allow scripts to change the text of the status bar."
+msgstr "อนุญาตให้เปลี่ยนข้อความในแถบสถานะได้"
+
+#. +> trunk6 stable6
+#: jspolicies.cpp:351
+#, kde-format
+msgid "Ignore attempts of scripts to change the status bar text. The web page will <i>think</i> it changed the text but the actual text will remain unchanged."
+msgstr "ไม่สนใจการเปลี่ยนข้อความในแถบสถานะของสคริปต์ หน้าเว็บจะ<i>คิดว่า</i> ข้อความในแถบสถานะเปลี่ยนแล้ว แต่จริง ๆ แล้ว ไม่มีอะไรเกิดขึ้น"
+
+#. +> trunk6 stable6
+#: jspolicies.cpp:359
+#, kde-format
+msgid "Some websites change the status bar text by setting <i>window.status</i> or <i>window.defaultStatus</i>, thus sometimes preventing displaying the real URLs of hyperlinks. This option specifies the treatment of such attempts."
+msgstr "มีบางเว็บไซต์ที่ต้องการเปลี่ยนข้อความในแถบสถานะเป็นที่มันต้องการ โดยใช้ฟังก์ชัน <i>window.status</i> หรือ <i>window.defaultStatus</i>ซึ่งตัวเลือกนี้จะตอบสนองมันเหมือนกับว่าแถบสถานะได้เปลี่ยนไปแล้ว"
+
+#. +> trunk6 stable6
+#: policydlg.cpp:30
+#, fuzzy, kde-format
+#| msgid "Domain-Specific Policies"
+msgctxt "@title:window"
+msgid "Domain-Specific Policies"
+msgstr "ข้อกำหนดสำหรับโดเมน"
+
+#. +> trunk6 stable6
+#: policydlg.cpp:47
+#, kde-format
+msgid "&Host or domain name:"
+msgstr "ชื่อโฮส&ต์หรือชื่อโดเมน:"
+
+#. +> trunk6 stable6
+#: policydlg.cpp:55
+#, kde-format
+msgid "Enter the name of a host (like www.kde.org) or a domain, starting with a dot (like .kde.org or .org)"
+msgstr "เติมชื่อของโฮสต์ (เช่น www.kde.org) หรือโดเมนซึ่งจะต้องเริ่มด้วยจุด (เช่น .kde.org หรือ .org เป็นต้น)"
+
+#. +> trunk6 stable6
+#: policydlg.cpp:139
+#, kde-format
+msgid "You must first enter a domain name."
+msgstr "คุณต้องป้อนชื่อโดเมนเสียก่อน"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, TabsOptions)
+#. +> trunk6 stable6
+#: tabs/tabsoptions.ui:14
+#, fuzzy, kde-format
+#| msgid "Mouse Beha&vior"
+msgid "Tabs Behavior"
+msgstr "&พฤติกรรมของเมาส์"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_4)
+#. +> trunk6 stable6
+#: tabs/tabsoptions.ui:20
+#, kde-format
+msgid "Aspect"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, m_pDynamicTabbarHide)
+#. +> trunk6 stable6
+#: tabs/tabsoptions.ui:26
+#, kde-format
+msgid "This will display the tab bar only if there are two or more tabs. Otherwise it will always be displayed."
+msgstr "ใช้สำหรับให้แสดงแถบของแท็บในกรณีที่มีการเปิดหน้าเว็บตั้งแต่สองแท็บขึ้นไปเท่านั้น หากมีเพียงแท็บเดียวให้ซ่อนแถบของแท็บแทนการแสดง"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_pDynamicTabbarHide)
+#. +> trunk6 stable6
+#: tabs/tabsoptions.ui:29
+#, kde-format
+msgid "Hide the tab bar when only one tab is open"
+msgstr "ซ่อนแถบแสดงแท็บเมื่อมีการเปิดหน้าเว็บเพียงแท็บเดียว"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: tabs/tabsoptions.ui:38
+#, kde-format
+msgid "Tab bar position"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QComboBox, tabbarPosition)
+#. +> trunk6 stable6
+#: tabs/tabsoptions.ui:48
+#, kde-format
+msgid "Choose where to display the tabs bar"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, tabbarPosition)
+#. +> trunk6 stable6
+#: tabs/tabsoptions.ui:52
+#, kde-format
+msgid "Above contents"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, tabbarPosition)
+#. +> trunk6 stable6
+#: tabs/tabsoptions.ui:57
+#, kde-format
+msgid "Below contents"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, tabbarPosition)
+#. +> trunk6 stable6
+#: tabs/tabsoptions.ui:62
+#, kde-format
+msgid "Left of contents"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, tabbarPosition)
+#. +> trunk6 stable6
+#: tabs/tabsoptions.ui:67
+#, kde-format
+msgid "Right of contents"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#. +> trunk6 stable6
+#: tabs/tabsoptions.ui:93
+#, kde-format
+msgid "Usage"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, m_pShowMMBInTabs)
+#. +> trunk6 stable6
+#: tabs/tabsoptions.ui:99
+#, kde-format
+msgid "This will open a new tab instead of a new window in various situations, such as choosing a link or a folder with the middle mouse button."
+msgstr "เป็นการเปิดแท็บใหม่แทนการเปิดหน้าต่างใหม่ ซึ่งเหมาะกับหลายสถานการณ์ เช่นเดียวกับการเลือกที่อยู่เชื่อมโยงหรือโฟลเดอร์โดยการกดเมาส์ปุ่มกลาง"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_pShowMMBInTabs)
+#. +> trunk6 stable6
+#: tabs/tabsoptions.ui:102
+#, kde-format
+msgid "Open &links in new tab instead of in new window"
+msgstr "เปิดที่อยู่เ&ชื่อมโยงในแท็บใหม่แทนการเปิดหน้าต่างใหม่"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, m_pPopupsWithinTabs)
+#. +> trunk6 stable6
+#: tabs/tabsoptions.ui:109
+#, kde-format
+msgid "Whether or not JavaScript popups if allowed shall open in a new tab or in a new window."
+msgstr "ไม่ว่าจะมีการอนุญาตให้ใช้งานป๊อปอับของจาวาสคริปต์ให้เปิดเป็นแท็บใหม่หรือหน้าต่างใหม่หรือไม่ก็ตาม"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_pPopupsWithinTabs)
+#. +> trunk6 stable6
+#: tabs/tabsoptions.ui:112
+#, kde-format
+msgid "Open pop&ups in new tab instead of in new window"
+msgstr "เปิดหน้าต่าง&ป๊อปอับเป็นแท็บใหม่แทนการเปิดเป็นหน้าต่างใหม่"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, m_pKonquerorTabforExternalURL)
+#. +> trunk6 stable6
+#: tabs/tabsoptions.ui:119
+#, kde-format
+msgid "When you click a URL in another KDE program or call kfmclient to open a URL, the current desktop will be searched for a non-minimized Konqueror and, if found, the URL opened as a new tab within it. Otherwise a new Konqueror window will be opened with the required URL."
+msgstr "เมื่อคุณทำการคลิกที่อยู่ URL จากโปรแกรมของ KDE ตัวอื่น ๆ หรือเรียกคำสั่ง kfmclient เพื่อทำการเปิดที่อยู่ URL พื้นที่ทำงานตัวที่ใช้อยู่ในปัจจุบันจะทำการค้นหาโปรแกรม Konqueror ที่ยังไม่ถูกย่อหาย (Minimize) หากพบจะทำการเปิดที่อยู่ URL ให้ โดยจะเปิดเป็นแท็บใหม่ภายในโปรแกรม Konqueror ที่ค้นพบ แต่ถ้าไม่พบโปรแกรม Konqueror ที่ยังไม่ถูกย่อหาย จะทำการเปิดหน้าต่างโปรแกรม Konqueror ตัวใหม่และเรียกไปยังที่อยู่ URL ที่ร้องขอมาให้แทน"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_pKonquerorTabforExternalURL)
+#. +> trunk6 stable6
+#: tabs/tabsoptions.ui:122
+#, kde-format
+msgid "Open as tab in existing Konqueror when URL is called externally"
+msgstr "เปิดในแท็บที่ใช้งานอยู่บน Konqueror เมื่อมีการเรียกเปิดที่อยู่ URL จากภายนอกโปรแกรม"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#. +> trunk6 stable6
+#: tabs/tabsoptions.ui:132
+#, fuzzy, kde-format
+#| msgid "Mouse Beha&vior"
+msgid "New Tab Behavior"
+msgstr "&พฤติกรรมของเมาส์"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, m_pNewTabsInBackground)
+#. +> trunk6 stable6
+#: tabs/tabsoptions.ui:138
+#, kde-format
+msgid ""
+"<html><head/><body>"
+"<p>This will open a new tab in the background, instead of in the foreground.</p>"
+"<p>Press <span style=\" font-family:'Fira Code';\">shift</span> when opening a new tab to reverse this behavior</p>"
+"</body></html>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_pNewTabsInBackground)
+#. +> trunk6 stable6
+#: tabs/tabsoptions.ui:141
+#, kde-format
+msgid "O&pen new tabs in the background"
+msgstr "เปิ&ดแท็บใหม่เป็นให้แท็บเบื้องหลัง"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, m_pOpenAfterCurrentPage)
+#. +> trunk6 stable6
+#: tabs/tabsoptions.ui:148
+#, kde-format
+msgid "This will open a new tab opened from a page after the current tab, instead of after the last tab."
+msgstr "เป็นการเปิดแท็บใหม่ให้เป็นแท็บต่อจากแท็บที่เปิดหน้าเว็บอยู่ในปัจจุบัน แทนการเปิดเป็นแท็บสุดท้าย"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_pOpenAfterCurrentPage)
+#. +> trunk6 stable6
+#: tabs/tabsoptions.ui:151
+#, kde-format
+msgid "Open &new tab after current tab"
+msgstr "เปิดแท็บใ&หม่ต่อจากแท็บปัจจุบัน"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#. +> trunk6 stable6
+#: tabs/tabsoptions.ui:161
+#, kde-format
+msgid "Closing"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, m_pPermanentCloseButton)
+#. +> trunk6 stable6
+#: tabs/tabsoptions.ui:167
+#, fuzzy, kde-format
+#| msgid "This will display close buttons inside each tab instead of websites' icons."
+msgid "This will display close buttons inside each tab."
+msgstr "ใช้สำหรับแสดงปุ่มปิดภายในแต่ละแท็บแทนที่ภาพไอคอนของเว็บไซต์"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_pPermanentCloseButton)
+#. +> trunk6 stable6
+#: tabs/tabsoptions.ui:170
+#, kde-format
+msgid "&Show close button on tabs"
+msgstr "แส&ดงปุ่มปิดแท็บบนแท็บ"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, m_pMiddleClickClose)
+#. +> trunk6 stable6
+#: tabs/tabsoptions.ui:177
+#, fuzzy, kde-format
+#| msgid "When you click on a tab using the middle mouse button or mouse wheel, it will close that tab. (Konqueror needs to be restarted for changes to take effect.)"
+msgid "When you click on a tab using the middle mouse button or mouse wheel, it will close that tab."
+msgstr "เมื่อคุณคลิกเมาส์ปุ่มกลาง (หรือปุ่มลูกล้อ) บนแท็บ จะเป็นการปิดแท็บนั้น ๆ (Konqueror จำเป็นต้องเริ่มงานใหม่ เพื่อให้การเปลี่ยนแปลงมีผล)"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_pMiddleClickClose)
+#. +> trunk6 stable6
+#: tabs/tabsoptions.ui:180
+#, kde-format
+msgid "Middle-click on a tab to close it"
+msgstr "คลิกเมาส์ปุ่มกลางบนแท็บเพื่อปิดแท็บ"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, m_pTabConfirm)
+#. +> trunk6 stable6
+#: tabs/tabsoptions.ui:187
+#, kde-format
+msgid "This will ask you whether you are sure you want to close a window when it has multiple tabs opened in it."
+msgstr "เป็นการถามความแน่ใจของคุณ ก่อนจะทำการปิดหน้าต่างที่มีการเปิดแท็บไว้หลายแท็บ"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_pTabConfirm)
+#. +> trunk6 stable6
+#: tabs/tabsoptions.ui:190
+#, kde-format
+msgid "Confirm &when closing windows with multiple tabs"
+msgstr "ถามยืนยันก่อ&นทำการปิดหน้าต่างที่มีการเปิดแท็บไว้หลายแท็บ"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, m_pTabCloseActivatePrevious)
+#. +> trunk6 stable6
+#: tabs/tabsoptions.ui:197
+#, kde-format
+msgid "When checking this the previous used or opened tab will be activated when you close the current active tab instead of the one right to the current tab."
+msgstr "หากเปิดใช้ตัวเลือกนี้ จะมีการเรียกแท็บที่เคยเปิดใช้ก่อนหน้านี้ขึ้นมาแสดงผลเมื่อคุณทำการปิดแท็บที่ใช้งานอยู่ในปัจจุบันแทนการเรียกแท็บทางขวามือของแท็บที่จะปิด"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_pTabCloseActivatePrevious)
+#. +> trunk6 stable6
+#: tabs/tabsoptions.ui:200
+#, kde-format
+msgid "Activate previously used tab when closing the current tab"
+msgstr "เรียกใช้แท็บที่เคยใช้ก่อนหน้าเมื่อปิดแท็บปัจจุบัน"
+
+#. +> trunk6 stable6
+#: useragent/useragent.cpp:195
+#, kde-format
+msgctxt "@title:window Title of dialog to choose name to given to new User Agent"
+msgid "Choose User Agent name"
+msgstr ""
+
+#. +> trunk6 stable6
+#: useragent/useragent.cpp:196
+#, kde-format
+msgctxt "Name of the new User Agent"
+msgid "User Agent name"
+msgstr ""
+
+#. +> trunk6 stable6
+#: useragent/useragent.cpp:256
+#, kde-format
+msgid "there are templates with empty names"
+msgstr ""
+
+#. +> trunk6 stable6
+#: useragent/useragent.cpp:261
+#, kde-format
+msgid "there are multiple templates with the same name"
+msgstr ""
+
+#. +> trunk6 stable6
+#: useragent/useragent.cpp:284
+#, kde-format
+msgctxt "The user gave a custom user agent string an empty or duplicate name"
+msgid "Invalid user agent names:"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, customUABox)
+#. +> trunk6 stable6
+#: useragent/useragent.ui:20
+#, kde-format
+msgid "Existing identifications"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QTreeWidget, templates)
+#. i18n: ectx: property (toolTip), widget (QPushButton, newTemplateBtn)
+#. i18n: ectx: property (toolTip), widget (QPushButton, useTemplateBtn)
+#. +> trunk6 stable6
+#: useragent/useragent.ui:33 useragent/useragent.ui:78
+#: useragent/useragent.ui:147
+#, kde-format
+msgid ""
+"<html><head/><body>"
+"<p><br/>"
+"</p>"
+"</body></html>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QTreeWidget, templates)
+#. +> trunk6 stable6
+#: useragent/useragent.ui:63
+#, kde-format
+msgid "Content"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, editTemplateBtn)
+#. +> trunk6 stable6
+#: useragent/useragent.ui:94
+#, fuzzy, kde-format
+#| msgid "&Export..."
+msgid "&Edit..."
+msgstr "&ส่งออก..."
+
+#. i18n: ectx: property (text), widget (QPushButton, renameTemplateBtn)
+#. +> trunk6 stable6
+#: useragent/useragent.ui:107
+#, kde-format
+msgid "&Rename..."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, duplicateTemplateBtn)
+#. +> trunk6 stable6
+#: useragent/useragent.ui:120
+#, kde-format
+msgid "Du&plicate..."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, deleteTemplateBtn)
+#. +> trunk6 stable6
+#: useragent/useragent.ui:133
+#, fuzzy, kde-format
+#| msgid "De&lete"
+msgid "&Delete"
+msgstr "&ลบ"
+
+#. i18n: ectx: property (text), widget (QPushButton, useTemplateBtn)
+#. +> trunk6 stable6
+#: useragent/useragent.ui:150
+#, kde-format
+msgid "Choose &selected identification"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, useDefaultUA)
+#. +> trunk6 stable6
+#: useragent/useragent.ui:160
+#, kde-format
+msgid ""
+"<html><head/><body>"
+"<p>If checked, disable choosing a custom identification and use the default one</p>"
+"</body></html>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, useDefaultUA)
+#. +> trunk6 stable6
+#: useragent/useragent.ui:163
+#, kde-format
+msgid "Use &default identification"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: useragent/useragent.ui:178
+#, kde-format
+msgid "&Custom identification"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, userAgentString)
+#. +> trunk6 stable6
+#: useragent/useragent.ui:188
+#, kde-format
+msgid ""
+"<html><head/><body>"
+"<p>The browser identification to use when the default identification is disabled.</p>"
+"<p>You can enter it manually or start from one in the list below and change it according to your needs.</p>"
+"</body></html>"
+msgstr ""

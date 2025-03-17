@@ -1,0 +1,66 @@
+# #-#-#-#-#  desktop_kdeplasmoids_applets.po (desktop_extragear-plasma_applets)  #-#-#-#-#
+# translation of desktop_extragear-plasma_applets.po to Thai
+# #-#-#-#-#  desktop_kdeplasmoids_dataengines.po (desktop_extragear-plasma_dataengines)  #-#-#-#-#
+# translation of desktop_extragear-plasma_dataengines.po to Thai
+# #-#-#-#-#  desktop_kdeplasmoids_desktopthemes.po (desktop_extragear-plasma_desktopthemes)  #-#-#-#-#
+# translation of desktop_extragear-plasma_desktopthemes.po to Thai
+# Sahachart Anukulkitch <drrider@gmail.com>, 2007.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_extragear-plasma_desktopthemes\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-12-16 09:44+0100\n"
+"PO-Revision-Date: 2010-03-07 23:26+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6 stable5
+#: applets/comic/comic.knsrc:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Comic"
+msgctxt "Name"
+msgid "Comics"
+msgstr "หนังสือการ์ตูน"
+
+#. +> trunk6 stable6
+#: applets/timer/plasma_applet_timer.notifyrc:2
+msgctxt "Name"
+msgid "Timer"
+msgstr "เครื่องมือจับเวลา"
+
+#. +> trunk6 stable6
+#: applets/timer/plasma_applet_timer.notifyrc:71
+msgctxt "Name"
+msgid "Timer finished"
+msgstr ""
+
+#. +> trunk6 stable6
+#: applets/timer/plasma_applet_timer.notifyrc:115
+msgctxt "Comment"
+msgid "Your timer has finished"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kdeds/kameleon/kameleonhelper.actions:5
+msgctxt "Name"
+msgid "Kameleon"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kdeds/kameleon/kameleonhelper.actions:46
+msgctxt "Name"
+msgid "Write color"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kdeds/kameleon/kameleonhelper.actions:84
+msgctxt "Description"
+msgid "Allow writing accent color to device LEDs"
+msgstr ""

@@ -1,0 +1,998 @@
+# translation of kuickshow.po to Thai
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kuickshow\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-12-26 08:45+0100\n"
+"PO-Revision-Date: 2008-03-22 11:47+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ถนอมทรัพย์ นพบูรณ์"
+
+#. +> trunk6
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "donga.nb@gmail.com"
+
+#. i18n: ectx: property (text), widget (QLabel, lblAuthors)
+#. +> trunk6
+#: src/aboutwidget.ui:32
+#, kde-format
+msgid "(authors)"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (KuickUrlWidget, urlHomepage)
+#. +> trunk6
+#: src/aboutwidget.ui:45
+#, kde-format
+msgid "(url)"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, lblCopyright)
+#. +> trunk6
+#: src/aboutwidget.ui:55
+#, kde-format
+msgid "(copyright)"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, DefaultsWidget)
+#. +> trunk6
+#: src/defaultswidget.ui:14
+#, fuzzy, kde-format
+#| msgid "&Modifications"
+msgid "Modifications"
+msgstr "การแก้ไข"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbEnableMods)
+#. +> trunk6
+#: src/defaultswidget.ui:23
+#, kde-format
+msgid "Apply default image modifications"
+msgstr "ปรับใช้การแก้ไขรูปภาพปริยาย"
+
+#. i18n: ectx: property (title), widget (QGroupBox, gbScale)
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#. +> trunk6
+#: src/defaultswidget.ui:30 src/printing_page.ui:37
+#, kde-format
+msgid "Scaling"
+msgstr "การปรับขนาด"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbUpScale)
+#. +> trunk6
+#: src/defaultswidget.ui:36
+#, kde-format
+msgid "Scale image to screen size, if smaller, up to factor:"
+msgstr "ปรับขนาดภาพให้เต็มขนาดจอหากภาพเล็กกว่าจอ ขึ้นกับองค์ประกอบ:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbDownScale)
+#. +> trunk6
+#: src/defaultswidget.ui:53
+#, kde-format
+msgid "Shrink image to screen size, if larger"
+msgstr "ลดขนาดภาพให้เต็มจอ หากภาพใหญ่กว่าจอ"
+
+#. i18n: ectx: property (title), widget (QGroupBox, gbGeometry)
+#. +> trunk6
+#: src/defaultswidget.ui:63
+#, kde-format
+msgid "Geometry"
+msgstr "มิติรูปภาพ"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbFlipVertically)
+#. +> trunk6
+#: src/defaultswidget.ui:69
+#, kde-format
+msgid "Flip vertically"
+msgstr "พลิกรูปภาพทางแนวตั้ง"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbFlipHorizontally)
+#. +> trunk6
+#: src/defaultswidget.ui:76
+#, kde-format
+msgid "Flip horizontally"
+msgstr "พลิกรูปภาพทางแนวนอน"
+
+#. i18n: ectx: property (text), widget (QLabel, lbRotate)
+#. +> trunk6
+#: src/defaultswidget.ui:85
+#, kde-format
+msgid "Rotate image:"
+msgstr "หมุนรูปภาพ:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, comboRotate)
+#. +> trunk6
+#: src/defaultswidget.ui:93
+#, kde-format
+msgid "0 Degrees"
+msgstr "0 องศา"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, comboRotate)
+#. +> trunk6
+#: src/defaultswidget.ui:98
+#, kde-format
+msgid "90 Degrees"
+msgstr "90 องศา"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, comboRotate)
+#. +> trunk6
+#: src/defaultswidget.ui:103
+#, kde-format
+msgid "180 Degrees"
+msgstr "180 องศา"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, comboRotate)
+#. +> trunk6
+#: src/defaultswidget.ui:108
+#, kde-format
+msgid "270 Degrees"
+msgstr "270 องศา"
+
+#. i18n: ectx: property (title), widget (QGroupBox, gbAdjust)
+#. +> trunk6
+#: src/defaultswidget.ui:134
+#, kde-format
+msgid "Adjustments"
+msgstr "การปรับแก้"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6
+#: src/defaultswidget.ui:140
+#, kde-format
+msgid "Brightness:"
+msgstr "ความสว่าง:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> trunk6
+#: src/defaultswidget.ui:183
+#, kde-format
+msgid "Contrast:"
+msgstr "ความเปรียบต่าง:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. +> trunk6
+#: src/defaultswidget.ui:226
+#, kde-format
+msgid "Gamma:"
+msgstr "ค่าแกมมา:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, gbPreview)
+#. +> trunk6
+#: src/defaultswidget.ui:272
+#, kde-format
+msgid "Preview"
+msgstr "ภาพตัวอย่าง"
+
+#. i18n: ectx: property (text), widget (QLabel, lbImOrig)
+#. +> trunk6
+#: src/defaultswidget.ui:281
+#, kde-format
+msgid "Original"
+msgstr "ดั้งเดิม"
+
+#. i18n: ectx: property (text), widget (QLabel, lbImFiltered)
+#. +> trunk6
+#: src/defaultswidget.ui:288
+#, kde-format
+msgid "Modified"
+msgstr "มีการแก้ไข"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, GeneralWidget)
+#. +> trunk6
+#: src/generalwidget.ui:14
+#, fuzzy, kde-format
+#| msgid "&General"
+msgid "General"
+msgstr "ค่าทั่วไป"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbLastdir)
+#. +> trunk6
+#: src/generalwidget.ui:20
+#, kde-format
+msgid "Remember last folder"
+msgstr "จดจำโฟลเดอร์ล่าสุดที่ใช้"
+
+#. i18n: ectx: property (title), widget (QGroupBox, gbox2)
+#. +> trunk6
+#: src/generalwidget.ui:30
+#, kde-format
+msgid "Quality/Speed"
+msgstr "คุณภาพ/ความเร็ว"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbSmoothScale)
+#. +> trunk6
+#: src/generalwidget.ui:36
+#, fuzzy, kde-format
+#| msgid "Scaling"
+msgid "Smooth scaling"
+msgstr "การปรับขนาด"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbFastRender)
+#. +> trunk6
+#: src/generalwidget.ui:43
+#, kde-format
+msgid "Fast rendering"
+msgstr "วาดภาพเร็ว"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbDither16bit)
+#. +> trunk6
+#: src/generalwidget.ui:50
+#, kde-format
+msgid "Dither in HiColor (15/16bit) modes"
+msgstr "ปรับเกลี่ยภาพในโหมดสีสูง (15/16 บิต)"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbDither8bit)
+#. +> trunk6
+#: src/generalwidget.ui:57
+#, kde-format
+msgid "Dither in LowColor (<=8bit) modes"
+msgstr "ปรับเกลี่ยภาพในโหมดสีต่ำ (<= 8 บิต)"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbOwnPalette)
+#. +> trunk6
+#: src/generalwidget.ui:64
+#, kde-format
+msgid "Use own color palette"
+msgstr "ใช้จานสีของตัวเอง"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbFastRemap)
+#. +> trunk6
+#: src/generalwidget.ui:71
+#, kde-format
+msgid "Fast palette remapping"
+msgstr "จับคู่จานสีอย่างรวดเร็ว"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6
+#: src/generalwidget.ui:78
+#, kde-format
+msgid "Maximum cache size: "
+msgstr "ขนาดแคชใหญ่สุด: "
+
+#. i18n: ectx: property (specialValueText), widget (QSpinBox, maxCacheSpinBox)
+#. +> trunk6
+#: src/generalwidget.ui:88
+#, kde-format
+msgid "Unlimited"
+msgstr "ไม่จำกัด"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, maxCacheSpinBox)
+#. +> trunk6
+#: src/generalwidget.ui:91
+#, kde-format
+msgid " MB"
+msgstr " เมกะไบต์"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbFullscreen)
+#. +> trunk6
+#: src/generalwidget.ui:104
+#, kde-format
+msgid "Fullscreen mode"
+msgstr "โหมดเต็มจอภาพ"
+
+#. i18n: ectx: property (text), widget (QLabel, l0)
+#. +> trunk6
+#: src/generalwidget.ui:114
+#, kde-format
+msgid "Background color:"
+msgstr "สีพื้นหลัง:"
+
+#. i18n: ectx: property (text), widget (QLabel, l1)
+#. +> trunk6
+#: src/generalwidget.ui:121
+#, kde-format
+msgid "Show only files with extension: "
+msgstr "แสดงเฉพาะแฟ้มที่มีส่วนขยายต่อไปนี้: "
+
+#. i18n: ectx: property (tipText), widget (KUrlLabel, logo)
+#. +> trunk6
+#: src/generalwidget.ui:128
+#, kde-format
+msgid "Open KuickShow Website"
+msgstr "เปิดเวบไซต์ของ ดูภาพด่วน K"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbPreload)
+#. +> trunk6
+#: src/generalwidget.ui:138
+#, kde-format
+msgid "Preload next image"
+msgstr "โหลดรูปภาพถัดไปล่วงหน้า"
+
+#. +> trunk6
+#: src/imagewindow.cpp:138
+#, kde-format
+msgid "Duplicate Window"
+msgstr ""
+
+#. +> trunk6
+#: src/imagewindow.cpp:143
+#, kde-format
+msgid "Show Next Image"
+msgstr "แสดงรูปภาพถัดไป"
+
+#. +> trunk6
+#: src/imagewindow.cpp:148
+#, kde-format
+msgid "Show Previous Image"
+msgstr "แสดงรูปภาพก่อนหน้า"
+
+#. +> trunk6
+#: src/imagewindow.cpp:153
+#, kde-format
+msgid "Delete Image"
+msgstr "ลบรูปภาพ"
+
+#. +> trunk6
+#: src/imagewindow.cpp:158
+#, kde-format
+msgid "Move Image to Trash"
+msgstr ""
+
+#. +> trunk6
+#: src/imagewindow.cpp:171
+#, kde-format
+msgid "Restore Original Size"
+msgstr "คืนค่าขนาดเดิมของภาพ"
+
+#. +> trunk6
+#: src/imagewindow.cpp:176
+#, kde-format
+msgid "Maximize"
+msgstr "ใหญ่ที่สุด"
+
+#. +> trunk6
+#: src/imagewindow.cpp:181
+#, kde-format
+msgid "Rotate 90 Degrees"
+msgstr "หมุนภาพ 90 องศา"
+
+#. +> trunk6
+#: src/imagewindow.cpp:186
+#, kde-format
+msgid "Rotate 180 Degrees"
+msgstr "หมุนภาพ 180 องศา"
+
+#. +> trunk6
+#: src/imagewindow.cpp:191
+#, kde-format
+msgid "Rotate 270 Degrees"
+msgstr "หมุนภาพ 270 องศา"
+
+#. +> trunk6
+#: src/imagewindow.cpp:196
+#, kde-format
+msgid "Flip Horizontally"
+msgstr "พลิกภาพทางแนวนอน"
+
+#. +> trunk6
+#: src/imagewindow.cpp:201
+#, kde-format
+msgid "Flip Vertically"
+msgstr "พลิกภาพทางแนวตั้ง"
+
+#. +> trunk6
+#: src/imagewindow.cpp:206 src/kuickshow.cpp:1377
+#, kde-format
+msgid "Print Image..."
+msgstr "พิมพ์รูปภาพ..."
+
+#. +> trunk6
+#: src/imagewindow.cpp:217
+#, fuzzy, kde-format
+#| msgid "Show File Browser"
+msgid "Return to File Browser"
+msgstr "แสดงตัวดูภาพรวม"
+
+#. +> trunk6
+#: src/imagewindow.cpp:223
+#, kde-format
+msgid "More Brightness"
+msgstr "ความสว่างมาก"
+
+#. +> trunk6
+#: src/imagewindow.cpp:228
+#, kde-format
+msgid "Less Brightness"
+msgstr "ความสว่างน้อย"
+
+#. +> trunk6
+#: src/imagewindow.cpp:233
+#, kde-format
+msgid "More Contrast"
+msgstr "ความเปรียบต่างมาก"
+
+#. +> trunk6
+#: src/imagewindow.cpp:238
+#, kde-format
+msgid "Less Contrast"
+msgstr "ความเปรียบต่างน้อย"
+
+#. +> trunk6
+#: src/imagewindow.cpp:243
+#, kde-format
+msgid "More Gamma"
+msgstr "ค่าแกมมามาก"
+
+#. +> trunk6
+#: src/imagewindow.cpp:248
+#, kde-format
+msgid "Less Gamma"
+msgstr "ค่าแกมมาน้อย"
+
+#. +> trunk6
+#: src/imagewindow.cpp:254
+#, kde-format
+msgid "Scroll Up"
+msgstr "เลื่อนขึ้นด้านบน"
+
+#. +> trunk6
+#: src/imagewindow.cpp:259
+#, kde-format
+msgid "Scroll Down"
+msgstr "เลื่อนลงด้านล่าง"
+
+#. +> trunk6
+#: src/imagewindow.cpp:264
+#, kde-format
+msgid "Scroll Left"
+msgstr "เลื่อนมาทางซ้าย"
+
+#. +> trunk6
+#: src/imagewindow.cpp:269
+#, kde-format
+msgid "Scroll Right"
+msgstr "เลื่อนมาทางขวา"
+
+#. +> trunk6
+#: src/imagewindow.cpp:274
+#, kde-format
+msgid "Pause Slideshow"
+msgstr "หยุดการนำเสนอชั่วคราว"
+
+#. +> trunk6
+#: src/imagewindow.cpp:288
+#, kde-format
+msgid "Reload Image"
+msgstr "โหลดรูปภาพอีกครั้ง"
+
+#. +> trunk6
+#: src/imagewindow.cpp:294
+#, kde-format
+msgid "Properties"
+msgstr "คุณสมบัติ"
+
+#. +> trunk6
+#: src/imagewindow.cpp:361
+#, kde-format
+msgctxt "Filename (Imagewidth x Imageheight)"
+msgid "%3 (%1 x %2)"
+msgstr "%3 (%1 x %2)"
+
+#. +> trunk6
+#: src/imagewindow.cpp:426
+#, fuzzy, kde-format
+#| msgid "Unable to print the image."
+msgid "Unable to download the image from %1."
+msgstr "ไม่สามารถพิมพ์รูปภาพได้"
+
+#. +> trunk6
+#: src/imagewindow.cpp:442
+#, kde-format
+msgid ""
+"Unable to load the image %1.\n"
+"Perhaps the file format is unsupported or your Imlib is not installed properly."
+msgstr ""
+"ไม่สามารถโหลดรูปภาพ %1 ได้\n"
+"เป็นไปได้ว่าระบบของคุณไม่รองรับแฟ้มรูปแบบดังกล่าว หรือไลบรารี Imlib อาจจะไม่ได้ติดตั้งอยู่"
+
+#. +> trunk6
+#: src/imagewindow.cpp:851
+#, kde-format
+msgid "Brightness"
+msgstr "ความสว่าง"
+
+#. +> trunk6
+#: src/imagewindow.cpp:855
+#, kde-format
+msgid "Contrast"
+msgstr "ความเปรียบต่าง"
+
+#. +> trunk6
+#: src/imagewindow.cpp:859
+#, kde-format
+msgid "Gamma"
+msgstr "แกมมา"
+
+#. +> trunk6
+#: src/imagewindow.cpp:906
+#, kde-format
+msgid "Unable to print the image."
+msgstr "ไม่สามารถพิมพ์รูปภาพได้"
+
+#. +> trunk6
+#: src/imagewindow.cpp:907
+#, kde-format
+msgid "Printing Failed"
+msgstr "การพิมพ์ล้มเหลว"
+
+#. +> trunk6
+#: src/imagewindow.cpp:924
+#, kde-format
+msgid "Keep original image size"
+msgstr "รักษาขนาดเดิมของภาพไว้"
+
+#. +> trunk6
+#: src/imagewindow.cpp:929
+#, fuzzy, kde-format
+#| msgid "Save As"
+msgid "Save Image As"
+msgstr "บันทึกเป็น"
+
+#. +> trunk6
+#: src/imagewindow.cpp:934 src/kuickshow.cpp:1275
+#, kde-format
+msgid "Image Files (%1)"
+msgstr ""
+
+#. +> trunk6
+#: src/imagewindow.cpp:952
+#, fuzzy, kde-format
+#| msgid ""
+#| "Could not save the file.\n"
+#| "Perhaps the disk is full, or you don't have write permission to the file."
+msgid ""
+"Could not save the file.\n"
+"Perhaps the disk is full, or you do not have write permission to the file."
+msgstr ""
+"ไม่สามารถบันทึกแฟ้มได้\n"
+"อาจจะเนื่องจากพื้นที่ดิสก์เต็ม หรือคุณอาจจะไม่มีสิทธิ์เขียนไปยังแฟ้ม"
+
+#. +> trunk6
+#: src/imagewindow.cpp:955
+#, kde-format
+msgid "File Saving Failed"
+msgstr "การบันทึกแฟ้มล้มเหลว"
+
+#. +> trunk6
+#: src/imagewindow.cpp:1202
+#, kde-format
+msgid ""
+"You are about to view a very large image (%1 x %2 pixels), which can be very resource-consuming and even make your computer hang.\n"
+"Do you want to continue?"
+msgstr ""
+
+#. +> trunk6
+#: src/imlib_imlib1.cpp:157
+#, kde-format
+msgid "Image loading and rendering library"
+msgstr ""
+
+#. +> trunk6
+#: src/imlib_imlib2.cpp:119
+#, kde-format
+msgid "Image processing library"
+msgstr ""
+
+#. +> trunk6
+#: src/kuickconfigdlg.cpp:40
+#, kde-format
+msgid "Configure"
+msgstr "ปรับแต่ง"
+
+#. +> trunk6
+#: src/kuickconfigdlg.cpp:46
+#, kde-format
+msgid "&General"
+msgstr "ค่าทั่วไป"
+
+#. +> trunk6
+#: src/kuickconfigdlg.cpp:50
+#, kde-format
+msgid "&Modifications"
+msgstr "การแก้ไข"
+
+#. +> trunk6
+#: src/kuickconfigdlg.cpp:54
+#, kde-format
+msgid "&Slideshow"
+msgstr "นำเสนอภาพนิ่ง"
+
+#. +> trunk6
+#: src/kuickconfigdlg.cpp:60
+#, kde-format
+msgid "&Viewer Shortcuts"
+msgstr "แป้นพิมพ์ลัดตัวแสดงภาพ"
+
+#. +> trunk6
+#: src/kuickconfigdlg.cpp:63
+#, kde-format
+msgid "Bro&wser Shortcuts"
+msgstr "แป้นพิมพ์ลัดตัวดูภาพรวม"
+
+#. +> trunk6
+#: src/kuickfile.cpp:128
+#, fuzzy, kde-format
+#| msgid "Configure %1..."
+msgid "Downloading %1..."
+msgstr "ปรับแต่ง%1..."
+
+#. +> trunk6
+#: src/kuickfile.cpp:129
+#, kde-format
+msgid ""
+"Please wait while downloading\n"
+"%1"
+msgstr ""
+
+#. +> trunk6
+#: src/kuickshow.cpp:171
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Do you really want to display this 1 image at the same time? This might be quite resource intensive and could overload your computer.<br/>"
+"If you choose <interface>%2</interface>, only the first image will be shown."
+msgid_plural ""
+"Do you really want to display these %1 images at the same time? This might be quite resource intensive and could overload your computer.<br/>"
+"If you choose <interface>%2</interface>, only the first image will be shown."
+msgstr[0] ""
+
+#. +> trunk6
+#: src/kuickshow.cpp:173
+#, kde-format
+msgid "Display Multiple Images?"
+msgstr ""
+
+#. +> trunk6
+#: src/kuickshow.cpp:174
+#, kde-format
+msgid "Display"
+msgstr ""
+
+#. +> trunk6
+#: src/kuickshow.cpp:284
+#, kde-format
+msgid "&File"
+msgstr "แฟ้ม"
+
+#. +> trunk6
+#: src/kuickshow.cpp:298
+#, kde-format
+msgid "&Edit"
+msgstr "แก้ไข"
+
+#. +> trunk6
+#: src/kuickshow.cpp:304
+#, kde-format
+msgid "View"
+msgstr ""
+
+#. +> trunk6
+#: src/kuickshow.cpp:307
+#, kde-format
+msgid "&Settings"
+msgstr "ตั้งค่า"
+
+#. +> trunk6
+#: src/kuickshow.cpp:323
+#, kde-format
+msgid "Main Toolbar"
+msgstr "แถบเครื่องมือหลัก"
+
+#. +> trunk6
+#: src/kuickshow.cpp:607
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Do you really want to permanently delete the file<nl/>"
+"<filename>%1</filename>?"
+msgstr ""
+
+#. +> trunk6
+#: src/kuickshow.cpp:608
+#, fuzzy, kde-format
+#| msgid "Delete Image"
+msgid "Delete File"
+msgstr "ลบรูปภาพ"
+
+#. +> trunk6
+#: src/kuickshow.cpp:633
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Do you really want to trash the file<nl/>"
+"<filename>%1</filename>?"
+msgstr ""
+
+#. +> trunk6
+#: src/kuickshow.cpp:634
+#, kde-format
+msgid "Trash File"
+msgstr ""
+
+#. +> trunk6
+#: src/kuickshow.cpp:635
+#, kde-format
+msgctxt "to trash"
+msgid "&Trash"
+msgstr ""
+
+#. +> trunk6
+#: src/kuickshow.cpp:1150
+#, kde-format
+msgid "Image Error"
+msgstr "รูปภาพผิดพลาด"
+
+#. +> trunk6
+#: src/kuickshow.cpp:1161
+#, kde-format
+msgid ""
+"Unable to initialize the image library \"%2\".\n"
+"\n"
+"More information may be available in the session log file,\n"
+"or can be obtained by starting %1 from a terminal."
+msgstr ""
+
+#. +> trunk6
+#: src/kuickshow.cpp:1165
+#, fuzzy, kde-format
+#| msgid "Fatal Imlib Error"
+msgid "Fatal Initialization Error"
+msgstr "Imlib ทำงานผิดพลาด"
+
+#. +> trunk6
+#: src/kuickshow.cpp:1274
+#, kde-format
+msgid "Select Files or Folder to Open"
+msgstr "เลือกแฟ้มหรือโฟลเดอร์ที่จะเปิด"
+
+#. +> trunk6
+#: src/kuickshow.cpp:1335
+#, kde-format
+msgid "Start Slideshow"
+msgstr "เริ่มการนำเสนอภาพนิ่ง"
+
+#. +> trunk6
+#: src/kuickshow.cpp:1338
+#, kde-format
+msgid "Show File Browser"
+msgstr "แสดงตัวดูภาพรวม"
+
+#. +> trunk6
+#: src/kuickshow.cpp:1339
+#, kde-format
+msgid "Hide File Browser"
+msgstr "ซ่อนตัวดูภาพรวม"
+
+#. +> trunk6
+#: src/kuickshow.cpp:1343
+#, kde-format
+msgid "Configure %1..."
+msgstr "ปรับแต่ง%1..."
+
+#. +> trunk6
+#: src/kuickshow.cpp:1347
+#, kde-format
+msgid "About KuickShow"
+msgstr "เกี่ยวกับดูภาพด่วน K"
+
+#. +> trunk6
+#: src/kuickshow.cpp:1354
+#, kde-format
+msgid "Open Only One Image Window"
+msgstr "เปิดหน้าต่างเดียวเท่านั้น"
+
+#. +> trunk6
+#: src/kuickshow.cpp:1365
+#, kde-format
+msgid "Show Image"
+msgstr "แสดงรูปภาพ"
+
+#. +> trunk6
+#: src/kuickshow.cpp:1369
+#, kde-format
+msgid "Show Image in Active Window"
+msgstr "แสดงรูปภาพในหน้าต่างที่ทำงานอยู่"
+
+#. +> trunk6
+#: src/kuickshow.cpp:1373
+#, kde-format
+msgid "Show Image in Fullscreen Mode"
+msgstr "แสดงรูปภาพในโหมดเต็มจอภาพ"
+
+#. +> trunk6
+#: src/main.cpp:37
+#, kde-format
+msgid "KuickShow"
+msgstr "ดูภาพด่วน K"
+
+#. +> trunk6
+#: src/main.cpp:39
+#, kde-format
+msgid "A fast and versatile image viewer"
+msgstr "เครื่องมือแสดงรูปภาพที่เร็วและอเนกประสงค์"
+
+#. +> trunk6
+#: src/main.cpp:41
+#, fuzzy, kde-format
+#| msgid "(c) 1998-2002, Carsten Pfeiffer"
+msgid "(c) 1998-2009, Carsten Pfeiffer"
+msgstr "(c) 1998-2002, Carsten Pfeiffer"
+
+#. +> trunk6
+#: src/main.cpp:46
+#, kde-format
+msgid "Carsten Pfeiffer"
+msgstr "Carsten Pfeiffer"
+
+#. +> trunk6
+#: src/main.cpp:48
+#, kde-format
+msgid "Rober Hamberger"
+msgstr "Rober Hamberger"
+
+#. +> trunk6
+#: src/main.cpp:49
+#, kde-format
+msgid "Thorsten Scheuermann"
+msgstr "Thorsten Scheuermann"
+
+#. +> trunk6
+#: src/main.cpp:59
+#, kde-format
+msgid "Start in the last visited folder, not the current working folder."
+msgstr "เริ่มการทำงานในโฟลเดอร์ล่าสุดที่เคยใช้ แต่ไม่ใช่โฟลเดอร์ที่กำลังทำงานอยู่ในปัจจุบัน"
+
+#. +> trunk6
+#: src/main.cpp:60
+#, kde-format
+msgid "Optional image filenames/urls to show"
+msgstr "ตัวเลือกสำหรับชื่อแฟ้ม/ตำแหน่งของรูปภาพที่จะแสดง"
+
+#. +> trunk6
+#: src/printing.cpp:52
+#, kde-format
+msgid "Print %1"
+msgstr "พิมพ์ %1"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, KuickPrintDialogPage)
+#. +> trunk6
+#: src/printing_page.ui:14
+#, kde-format
+msgid "Image Settings"
+msgstr "ตั้งค่ารูปภาพ"
+
+#. i18n: ectx: property (text), widget (QCheckBox, addFileName)
+#. +> trunk6
+#: src/printing_page.ui:20
+#, kde-format
+msgid "Print fi&lename below image"
+msgstr "พิมพ์ชื่อแฟ้มใต้รูปภาพ"
+
+#. i18n: ectx: property (text), widget (QCheckBox, blackwhite)
+#. +> trunk6
+#: src/printing_page.ui:30
+#, kde-format
+msgid "Print image in &black and white"
+msgstr "พิมพ์รูปภาพในแบบภาพขาวดำ"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6
+#: src/printing_page.ui:53
+#, kde-format
+msgid "&Width:"
+msgstr "ความกว้าง:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, units)
+#. +> trunk6
+#: src/printing_page.ui:64
+#, kde-format
+msgid "Millimeters"
+msgstr "มิลลิเมตร"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, units)
+#. +> trunk6
+#: src/printing_page.ui:69
+#, kde-format
+msgid "Centimeters"
+msgstr "เซนติเมตร"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, units)
+#. +> trunk6
+#: src/printing_page.ui:74
+#, kde-format
+msgid "Inches"
+msgstr "นิ้ว"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> trunk6
+#: src/printing_page.ui:108
+#, kde-format
+msgid "&Height:"
+msgstr "ความสูง:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, scale)
+#. +> trunk6
+#: src/printing_page.ui:121
+#, kde-format
+msgid "Print e&xact size: "
+msgstr "พิมพ์ขนาด: "
+
+#. i18n: ectx: property (text), widget (QCheckBox, shrinkToFit)
+#. +> trunk6
+#: src/printing_page.ui:141
+#, kde-format
+msgid "Shrink image to &fit, if necessary"
+msgstr "ปรับขนาดรูปภาพให้พอดี หากจำเป็น"
+
+#. +> trunk6
+#: src/slideshowwidget.cpp:46
+#, kde-format
+msgctxt "Run the slideshow until manually stopped"
+msgid "Forever"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, SlideShowWidget)
+#. +> trunk6
+#: src/slideshowwidget.ui:14
+#, fuzzy, kde-format
+#| msgid "&Slideshow"
+msgid "Slideshow"
+msgstr "นำเสนอภาพนิ่ง"
+
+#. i18n: ectx: property (text), widget (QCheckBox, fullScreen)
+#. +> trunk6
+#: src/slideshowwidget.ui:20
+#, kde-format
+msgid "Switch to &full-screen"
+msgstr "สลับเป็นโหมดเต็มจอภาพ"
+
+#. i18n: ectx: property (text), widget (QCheckBox, startWithCurrent)
+#. +> trunk6
+#: src/slideshowwidget.ui:27
+#, kde-format
+msgid "S&tart with current image"
+msgstr "เริ่มด้วยรูปภาพปัจจุบัน"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6
+#: src/slideshowwidget.ui:34
+#, kde-format
+msgid "De&lay between slides:"
+msgstr "หน่วงเวลาก่อนเปลี่ยนภาพ:"
+
+#. i18n: ectx: property (specialValueText), widget (QSpinBox, delayTime)
+#. +> trunk6
+#: src/slideshowwidget.ui:44
+#, kde-format
+msgid "Wait for key"
+msgstr "รอการกดแป้้นพิมพ์"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, delayTime)
+#. +> trunk6
+#: src/slideshowwidget.ui:47
+#, kde-format
+msgid " sec"
+msgstr " วินาที"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> trunk6
+#: src/slideshowwidget.ui:57
+#, fuzzy, kde-format
+#| msgid "&Iterations (0 = infinite):"
+msgid "&Iterations:"
+msgstr "ทำซ้ำ (0 = ไม่จำกัด):"

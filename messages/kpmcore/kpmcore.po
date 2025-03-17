@@ -1,0 +1,4014 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-03-12 07:46+0100\n"
+"PO-Revision-Date: 2010-03-06 19:47+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ถนอมทรัพย์ นพบูรณ์"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "donga.nb@gmail.com"
+
+#. +> trunk6 stable6
+#: core/device.cpp:33
+#, kde-format
+msgid "Unknown Device"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/device.cpp:82
+#, kde-kuit-format
+msgctxt "@item:inlistbox Device name – Capacity (device node)"
+msgid "%1 – %2 (%3)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/lvmdevice.cpp:362
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "An error occurred while running lvdisplay."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/operationstack.cpp:101
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Deleting a partition just created: Undoing the operation to create the partition."
+msgctxt "@info:status"
+msgid "Deleting a partition just created: Undoing the operation to create the partition."
+msgstr "การลบพาร์ทิชันที่เพิ่งสร้างขึ้น: กำลังเลิกทำปฏิบัติการในการสร้างพาร์ทิชัน"
+
+#. +> trunk6 stable6
+#: core/operationstack.cpp:119
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Resizing a partition just created: Updating start and end in existing operation."
+msgctxt "@info:status"
+msgid "Resizing a partition just created: Updating start and end in existing operation."
+msgstr "การปรับขนาดพาร์ทิชันที่เพิ่งสร้างขึ้น: กำลังปรับปรุงส่วนเริ่มต้นและส่วนสิ้นสุดพาร์ทิชัน ในปฏิบัติการที่มีอยู่"
+
+#. +> trunk6 stable6
+#: core/operationstack.cpp:139
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Copying a new partition: Creating a new partition instead."
+msgctxt "@info:status"
+msgid "Copying a new partition: Creating a new partition instead."
+msgstr "การคัดลอกพาร์ทิชันใหม่: กำลังสร้างพาร์ทิชันใหม่ขึ้นมาแทน"
+
+#. +> trunk6 stable6
+#: core/operationstack.cpp:156
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Changing label for a new partition: No new operation required."
+msgctxt "@info:status"
+msgid "Changing label for a new partition: No new operation required."
+msgstr "การเปลี่ยนป้ายชื่อของพาร์ทิชันใหม่: ไม่ต้องการปฏิบัติการตัวใหม่แต่อย่างใด"
+
+#. +> trunk6 stable6
+#: core/operationstack.cpp:169
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Changing file system for a new partition: No new operation required."
+msgctxt "@info:status"
+msgid "Changing file system for a new partition: No new operation required."
+msgstr "การเปลี่ยนระบบแฟ้มของพาร์ทิชันใหม่: ไม่ต้องการปฏิบัติการตัวใหม่แต่อย่างใด"
+
+#. +> trunk6 stable6
+#: core/operationstack.cpp:186
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Changing file system for a new partition: No new operation required."
+msgctxt "@info:status"
+msgid "Checking file systems is automatically done when creating them: No new operation required."
+msgstr "การเปลี่ยนระบบแฟ้มของพาร์ทิชันใหม่: ไม่ต้องการปฏิบัติการตัวใหม่แต่อย่างใด"
+
+#. +> trunk6 stable6
+#: core/operationstack.cpp:233
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Deleting a partition just copied: Removing the copy."
+msgctxt "@info:status"
+msgid "Deleting a partition just copied: Removing the copy."
+msgstr "การลบพาร์ทิชันที่เพิ่งคัดลอกมา: กำลังลบตัวที่คัดลอก"
+
+#. +> trunk6 stable6
+#: core/operationstack.cpp:238
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Deleting a partition just copied over an existing partition: Removing the copy and deleting the existing partition."
+msgctxt "@info:status"
+msgid "Deleting a partition just copied over an existing partition: Removing the copy and deleting the existing partition."
+msgstr "การลบพาร์ทิชันที่เพิ่งคัดลอกมาทับพาร์ทิชันที่มีอยู่ก่อนแล้ว: กำลังลบตัวที่คัดลอก และลบพาร์ทิชันที่มีอยู่ก่อน"
+
+#. +> trunk6 stable6
+#: core/operationstack.cpp:251
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Copying a partition that is itself a copy: Copying the original source partition instead."
+msgctxt "@info:status"
+msgid "Copying a partition that is itself a copy: Copying the original source partition instead."
+msgstr "การคัดลอกพาร์ทิชันที่มีตัวมันเป็นต้นแบบ: กำลังคัดลอกพาร์ทิชันต้นทางดั้งเดิมแทน"
+
+#. +> trunk6 stable6
+#: core/operationstack.cpp:280
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Deleting a partition just restored: Removing the restore operation."
+msgctxt "@info:status"
+msgid "Deleting a partition just restored: Removing the restore operation."
+msgstr "การลบพาร์ทิชันที่เพิ่งเรียกคืนมา: กำลังลบปฏิบัติการเรียกคืน"
+
+#. +> trunk6 stable6
+#: core/operationstack.cpp:285
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Deleting a partition just restored to an existing partition: Removing the restore operation and deleting the existing partition."
+msgctxt "@info:status"
+msgid "Deleting a partition just restored to an existing partition: Removing the restore operation and deleting the existing partition."
+msgstr "การลบพาร์ทิชันที่เพิ่งเรียกคืนมายังพาร์ทิชันที่มีอยู่ก่อนแล้ว: กำลังลบปฏิบัติการเรียกคืน และลบพาร์ทิชันที่มีอยู่ก่อน"
+
+#. +> trunk6 stable6
+#: core/operationstack.cpp:318
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Changing flags again for the same partition: Removing old operation."
+msgctxt "@info:status"
+msgid "Changing flags again for the same partition: Removing old operation."
+msgstr "การเปลี่ยนแฟล็กต่าง ๆ อีกครั้งให้กับพาร์ทิชันเดียวกัน: กำลังลบปฏิบัติการเก่า"
+
+#. +> trunk6 stable6
+#: core/operationstack.cpp:349
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Changing label again for the same partition: Removing old operation."
+msgctxt "@info:status"
+msgid "Changing label again for the same partition: Removing old operation."
+msgstr "การเปลี่ยนป้ายชื่ออีกครั้งให้กับพาร์ทิชันเดียวกัน: กำลังลบปฏิบัติการเก่า"
+
+#. +> trunk6 stable6
+#: core/operationstack.cpp:375
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info:status"
+#| msgid "Create a new and empty partition table on a device."
+msgctxt "@info:status"
+msgid "Creating new partition table, discarding previous operation on device."
+msgstr "สร้างตารางพาร์ทิชันใหม่และล้างตารางพาร์ทิชันเดิมบนอุปกรณ์"
+
+#. +> trunk6 stable6
+#: core/operationstack.cpp:395
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Resizing file system from %1 to %2 sectors."
+msgctxt "@info:status"
+msgid "Resizing Volume Group, nothing to do."
+msgstr "ทำการปรับขนาดระบบแฟ้มจาก %1 เป็น %2 เซกเตอร์"
+
+#. +> trunk6 stable6
+#: core/operationstack.cpp:440
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Add operation: %1"
+msgctxt "@info:status"
+msgid "Add operation: %1"
+msgstr "เพิ่มปฏิบัติการ: %1"
+
+#. +> trunk6 stable6
+#: core/partition.cpp:159
+#, kde-kuit-format
+msgctxt "@item partition name"
+msgid "unallocated"
+msgstr "ยังไม่มีการใช้"
+
+#. +> trunk6 stable6
+#: core/partition.cpp:162
+#, kde-kuit-format
+msgctxt "@item partition name"
+msgid "New Partition"
+msgstr "พาร์ทิชันใหม่"
+
+#. +> trunk6 stable6
+#: core/partition.cpp:165
+#, kde-kuit-format
+msgctxt "@item partition name"
+msgid "Restored Partition"
+msgstr "เรียกคืนพาร์ทิชันแล้ว"
+
+#. +> trunk6 stable6
+#: core/partition.cpp:168
+#, kde-kuit-format
+msgctxt "@item partition name"
+msgid "Copy of %1"
+msgstr "คัดลอกจาก %1"
+
+#. +> trunk6 stable6
+#: core/partitionalignment.cpp:62
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Partition <filename>%1</filename> is not properly aligned (first sector: %2, modulo: %3)."
+msgctxt "@info:status"
+msgid "Partition <filename>%1</filename> is not properly aligned (first sector: %2, modulo: %3)."
+msgstr "พาร์ทิชัน <filename>%1</filename> มีการจัดเรียงอย่างไม่เหมาะสม (เซกเตอร์แรก: %2, โมดูโล: %3)"
+
+#. +> trunk6 stable6
+#: core/partitionalignment.cpp:65
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Partition <filename>%1</filename> is not properly aligned (last sector: %2, modulo: %3)."
+msgctxt "@info:status"
+msgid "Partition <filename>%1</filename> is not properly aligned (last sector: %2, modulo: %3)."
+msgstr "พาร์ทิชัน <filename>%1</filename> มีการจัดเรียงอย่างไม่เหมาะสม (เซกเตอร์สุดท้าย: %2, โมดูโล: %3)"
+
+#. +> trunk6 stable6
+#: core/partitionrole.cpp:17
+#, kde-kuit-format
+msgctxt "@item partition role"
+msgid "unallocated"
+msgstr "ยังไม่มีการใช้"
+
+#. +> trunk6 stable6
+#: core/partitionrole.cpp:20
+#, kde-kuit-format
+msgctxt "@item partition role"
+msgid "logical"
+msgstr "พาร์ทิชันลอจิคัล"
+
+#. +> trunk6 stable6
+#: core/partitionrole.cpp:23
+#, kde-kuit-format
+msgctxt "@item partition role"
+msgid "extended"
+msgstr "พาร์ทิชันขยาย"
+
+#. +> trunk6 stable6
+#: core/partitionrole.cpp:26
+#, kde-kuit-format
+msgctxt "@item partition role"
+msgid "primary"
+msgstr "พาร์ทิชันหลัก"
+
+#. +> trunk6 stable6
+#: core/partitionrole.cpp:29
+#, kde-kuit-format
+msgctxt "@item partition role"
+msgid "LUKS"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/partitionrole.cpp:32
+#, kde-kuit-format
+msgctxt "@item partition role"
+msgid "LVM logical volume"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/partitionrole.cpp:34
+#, kde-kuit-format
+msgctxt "@item partition role"
+msgid "none"
+msgstr "ไม่มี"
+
+#. +> trunk6 stable6
+#: core/partitiontable.cpp:180
+#, kde-kuit-format
+msgctxt "@item partition flag"
+msgid "boot"
+msgstr "boot"
+
+#. +> trunk6 stable6
+#: core/partitiontable.cpp:182
+#, kde-kuit-format
+msgctxt "@item partition flag"
+msgid "root"
+msgstr "root"
+
+#. +> trunk6 stable6
+#: core/partitiontable.cpp:184
+#, kde-kuit-format
+msgctxt "@item partition flag"
+msgid "swap"
+msgstr "swap"
+
+#. +> trunk6 stable6
+#: core/partitiontable.cpp:186
+#, kde-kuit-format
+msgctxt "@item partition flag"
+msgid "hidden"
+msgstr "hidden"
+
+#. +> trunk6 stable6
+#: core/partitiontable.cpp:188
+#, kde-kuit-format
+msgctxt "@item partition flag"
+msgid "raid"
+msgstr "raid"
+
+#. +> trunk6 stable6
+#: core/partitiontable.cpp:190
+#, kde-kuit-format
+msgctxt "@item partition flag"
+msgid "lvm"
+msgstr "lvm"
+
+#. +> trunk6 stable6
+#: core/partitiontable.cpp:192
+#, kde-kuit-format
+msgctxt "@item partition flag"
+msgid "lba"
+msgstr "lba"
+
+#. +> trunk6 stable6
+#: core/partitiontable.cpp:194
+#, kde-kuit-format
+msgctxt "@item partition flag"
+msgid "hpservice"
+msgstr "hpservice"
+
+#. +> trunk6 stable6
+#: core/partitiontable.cpp:196
+#, kde-kuit-format
+msgctxt "@item partition flag"
+msgid "palo"
+msgstr "palo"
+
+#. +> trunk6 stable6
+#: core/partitiontable.cpp:198
+#, kde-kuit-format
+msgctxt "@item partition flag"
+msgid "prep"
+msgstr "prep"
+
+#. +> trunk6 stable6
+#: core/partitiontable.cpp:200
+#, kde-kuit-format
+msgctxt "@item partition flag"
+msgid "msft-reserved"
+msgstr "msft-reserved"
+
+#. +> trunk6 stable6
+#: core/partitiontable.cpp:202
+#, kde-kuit-format
+msgctxt "@item partition flag"
+msgid "bios-grub"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/partitiontable.cpp:204
+#, kde-kuit-format
+msgctxt "@item partition flag"
+msgid "apple-tv-recovery"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/partitiontable.cpp:206
+#, kde-kuit-format
+msgctxt "@item partition flag"
+msgid "diag"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/partitiontable.cpp:208
+#, kde-kuit-format
+msgctxt "@item partition flag"
+msgid "legacy-boot"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/partitiontable.cpp:210
+#, kde-kuit-format
+msgctxt "@item partition flag"
+msgid "msft-data"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/partitiontable.cpp:212
+#, kde-kuit-format
+msgctxt "@item partition flag"
+msgid "irst"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/partitiontable.cpp:499
+#, fuzzy, kde-kuit-format
+#| msgctxt "@item/plain partition table name"
+#| msgid "unknown"
+msgctxt "@item partition table name"
+msgid "unknown"
+msgstr "ไม่ทราบ"
+
+#. +> trunk6 stable6
+#: core/raid/softwareraid.cpp:93
+#, kde-kuit-format
+msgctxt "@item:inlistbox [RAID level]"
+msgid " [RAID %1]"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/raid/softwareraid.cpp:95
+#, kde-kuit-format
+msgctxt "@item:inlistbox [RAID level - Recovering]"
+msgid " [RAID %1 - Recovering]"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/raid/softwareraid.cpp:97
+#, kde-kuit-format
+msgctxt "@item:inlistbox [RAID level - Resyncing]"
+msgid " [RAID %1 - Resyncing]"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:45
+#, kde-kuit-format
+msgctxt "@item:intable"
+msgid "failing"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:48
+#, kde-kuit-format
+msgctxt "@item:intable"
+msgid "has failed"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:51
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info:progress operation"
+#| msgid "Warning"
+msgctxt "@item:intable"
+msgid "warning"
+msgstr "แจ้งเตือน"
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:54
+#, kde-kuit-format
+msgctxt "@item:intable"
+msgid "good"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:58 core/smartattribute.cpp:85
+#, kde-kuit-format
+msgctxt "@item:intable not applicable"
+msgid "N/A"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:72
+#, fuzzy, kde-kuit-format
+#| msgid "1 sector"
+#| msgid_plural "%1 sectors"
+msgctxt "@item:intable"
+msgid "%1 sector"
+msgid_plural "%1 sectors"
+msgstr[0] "%1 เซกเตอร์"
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:101
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Read Error Rate"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:101
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Rate of hardware read errors while reading data from the disk surface."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:102
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Throughput Performance"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:102
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Overall (general) throughput performance of a hard disk drive. If the value of this attribute is decreasing there is a high probability that there is a problem with the disk."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:103
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Spin-Up Time"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:103
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Average time of spindle spin up from zero RPM to fully operational."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:104
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Start/Stop Count"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:104
+#, kde-format
+msgctxt "SMART attr description"
+msgid "A tally of spindle start/stop cycles."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:105
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Reallocated Sectors Count"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:105
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Count of reallocated sectors. When the hard drive finds a read/write/verification error, it marks this sector as &quot;reallocated&quot; and transfers data to a special reserved area (spare area)."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:106
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Read Channel Margin"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:106
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Margin of a channel while reading data. The function of this attribute is not specified."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:107
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Seek Error Rate"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:107
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Rate of seek errors of the magnetic heads. If there is a partial failure in the mechanical positioning system, then seek errors will arise."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:108
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Seek Time Performance"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:108
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Average performance of seek operations of the magnetic heads. If this attribute is decreasing, it is a sign of problems in the mechanical subsystem."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:109
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Power-On Hours"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:109
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Count of hours in power-on state."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:110
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Spin Retry Count"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:110
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Count of retry of spin start attempts if the first attempt was unsuccessful. An increase of this attribute value is a sign of problems in the hard disk mechanical subsystem."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:111
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Recalibration Retries"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:111
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Count of recalibrations requested if the first attempt was unsuccessful. An increase of this attribute value is a sign of problems in the hard disk mechanical subsystem."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:112
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Power Cycle Count"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:112
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Count of full hard disk power on/off cycles."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:113 core/smartattribute.cpp:145
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Soft Read Error Rate"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:113
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Uncorrected read errors reported to the operating system."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:114
+#, fuzzy, kde-format
+#| msgid "Available and Used Space"
+msgctxt "SMART attr name"
+msgid "SSD Available Reserved Space"
+msgstr "พื้นที่ที่เหลืออยู่และพื้นที่ที่ใช้ไปแล้ว"
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:114
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Number of available reserved space as a percentage of reserved space."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:115
+#, kde-format
+msgctxt "SMART attr name"
+msgid "SSD Program Fail Count"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:115 core/smartattribute.cpp:125
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Number of flash program operation failures since the drive was deployed."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:116 core/smartattribute.cpp:126
+#, kde-format
+msgctxt "SMART attr name"
+msgid "SSD Erase Fail Count"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:116
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Number of flash erase operation failures since the drive was deployed."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:117
+#, kde-format
+msgctxt "SMART attr name"
+msgid "SSD Wear Leveling Count"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:117
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Counts the maximum worst erase count on any block."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:118
+#, kde-format
+msgctxt "SMART attr name"
+msgid "SSD Unexpected power loss count"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:118
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Number of shutdowns without STANDBY IMMEDIATE as the last command (regardless of PLI activity using capacitor power). Normalized value is always 100."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:119
+#, kde-format
+msgctxt "SMART attr name"
+msgid "SSD Power Loss Protection Failure"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:119
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Last test result, saturated at its maximum value. Bytes 0-1: last test result as microseconds to discharge cap in range [25, 5000000], lower indicates specific error code. Bytes 2-3: minutes since last test. Bytes 4-5: lifetime number of tests. Normalized value is set to 1 on test failure or 11 if the capacitor has been tested in an excessive temperature condition, otherwise 100."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:120
+#, kde-format
+msgctxt "SMART attr name"
+msgid "SSD Erase Fail Count (chip)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:120
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Number of flash erase command failures."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:121
+#, kde-format
+msgctxt "SMART attr name"
+msgid "SSD Wear Range Delta"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:121
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Delta between most-worn and least-worn flash blocks."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:122 core/smartattribute.cpp:123
+#, kde-format
+msgctxt "SMART attr name"
+msgid "SSD Used Reserved Block Count Total"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:122 core/smartattribute.cpp:123
+#: core/smartattribute.cpp:126
+#, kde-format
+msgctxt "SMART attr description"
+msgid "\"Pre-Fail\" Samsung attribute."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:124
+#, kde-format
+msgctxt "SMART attr name"
+msgid "SSD Unused Reserved Block Count Total"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:124
+#, kde-format
+msgctxt "SMART attr description"
+msgid "\"Pre-Fail\" HP attribute."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:125
+#, kde-format
+msgctxt "SMART attr name"
+msgid "SSD Program Fail Count Total or Non-4K Aligned Access Count"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:127
+#, kde-format
+msgctxt "SMART attr name"
+msgid "SATA Downshift Error Count"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:127
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Western Digital and Samsung attribute."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:128
+#, kde-format
+msgctxt "SMART attr name"
+msgid "End-to-End Error"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:128
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Part of HP's SMART IV technology: After transferring through the cache RAM data buffer the parity data between the host and the hard drive did not match."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:129
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Head Stability"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:129 core/smartattribute.cpp:130
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Western Digital attribute."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:130
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Induced Op-Vibration Detection"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:131
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Reported Uncorrectable Errors"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:131
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Count of errors that could not be recovered using hardware ECC."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:132
+#, fuzzy, kde-format
+#| msgctxt "@info/plain"
+#| msgid "(Command timeout while running)"
+msgctxt "SMART attr name"
+msgid "Command Timeout"
+msgstr "(หมดเวลาของคำสั่งระหว่างการทำงานอยู่)"
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:132
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Count of aborted operations due to HDD timeout."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:133
+#, kde-format
+msgctxt "SMART attr name"
+msgid "High Fly Writes"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:133
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Count of fly height errors detected."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:134
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Temperature Difference From 100"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:134
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Value is equal to (100 &ndash; temp. °C), allowing manufacturer to set a minimum threshold which corresponds to a maximum temperature."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:135
+#, kde-format
+msgctxt "SMART attr name"
+msgid "G-sense Error Rate"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:135
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Count of errors resulting from externally-induced shock and vibration."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:136
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Power Off Retract Count"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:136
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Count of power-off or emergency retract cycles"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:137
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Load Cycle Count"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:137
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Count of load/unload cycles into head landing zone position."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:138 core/smartattribute.cpp:166
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Temperature"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:138
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Current internal temperature."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:139
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Hardware ECC Recovered"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:139
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Count of errors that could be recovered using hardware ECC."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:140
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Reallocation Event Count"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:140
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Count of remap operations. The raw value of this attribute shows the total number of attempts to transfer data from reallocated sectors to a spare area."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:141
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Current Pending Sector Count"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:141
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Number of &quot;unstable&quot; sectors (waiting to be remapped, because of read errors)."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:142
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Uncorrectable Sector Count"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:142
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Count of uncorrectable errors when reading/writing a sector."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:143
+#, kde-format
+msgctxt "SMART attr name"
+msgid "UltraDMA CRC Error Count"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:143
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Count of errors in data transfer via the interface cable as determined by ICRC."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:144
+#, kde-format
+msgctxt "SMART attr name"
+msgid ""
+"Multi-Zone Error Rate<br/>"
+"Write Error Rate"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:144
+#, kde-format
+msgctxt "SMART attr description"
+msgid "The total number of errors when writing a sector."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:145
+#, fuzzy, kde-format
+#| msgid "Number of Sectors"
+msgctxt "SMART attr description"
+msgid "Number of off-track errors."
+msgstr "เซกเตอร์ทั้งหมด"
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:146
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Data Address Mark Errors"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:146
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Number of Data Address Mark errors (or vendor-specific)."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:147
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Run Out Cancel"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:147
+#, fuzzy, kde-format
+#| msgid "Number of Sectors"
+msgctxt "SMART attr description"
+msgid "Number of ECC errors"
+msgstr "เซกเตอร์ทั้งหมด"
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:148
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Soft ECC Correction"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:148
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Number of errors corrected by software ECC"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:149
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Thermal Asperity Rate"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:149
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Number of errors due to high temperature."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:150
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Flying Height"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:150
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Height of heads above the disk surface. A flying height that is too low increases the chances of a head crash while a flying height that is too high increases the chances of a read/write error."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:151
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Spin High Current"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:151
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Amount of surge current used to spin up the drive."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:152
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Spin Buzz"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:152
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Number of buzz routines needed to spin up the drive due to insufficient power."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:153
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Offline Seek Performance"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:153
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Drive's seek performance during its internal tests."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:154
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Vibration During Write"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:154
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Vibration During Write"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:155
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Shock During Write"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:155
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Shock During Write"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:156
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Disk Shift"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:156
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Distance the disk has shifted relative to the spindle (usually due to shock or temperature)."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:157
+#, kde-format
+msgctxt "SMART attr name"
+msgid "G-Sense Error Rate"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:157
+#, kde-format
+msgctxt "SMART attr description"
+msgid "The number of errors resulting from externally-induced shock and vibration."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:158
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Loaded Hours"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:158
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Time spent operating under data load."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:159
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Load/Unload Retry Count"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:159
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Number of times head changes position."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:160
+#, fuzzy, kde-format
+#| msgid "Partition"
+msgctxt "SMART attr name"
+msgid "Load Friction"
+msgstr "พาร์ทิชัน"
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:160
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Resistance caused by friction in mechanical parts while operating."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:161
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Load/Unload Cycle Count"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:161
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Total number of load cycles."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:162
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Load-In Time"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:162
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Total time of loading on the magnetic heads actuator (time not spent in parking area)."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:163
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Torque Amplification Count"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:163
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Number of attempts to compensate for platter speed variations."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:164
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Power-Off Retract Cycle"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:164
+#, kde-format
+msgctxt "SMART attr description"
+msgid "The number of times the magnetic armature was retracted automatically as a result of cutting power."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:165
+#, kde-format
+msgctxt "SMART attr name"
+msgid "GMR Head Amplitude"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:165
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Amplitude of &quot;thrashing&quot; (distance of repetitive forward/reverse head motion)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:166
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Drive Temperature"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:167
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Endurance Remaining"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:167
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Count of physical erase cycles completed on the drive as a percentage of the maximum physical erase cycles the drive supports"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:168
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Power-On Seconds"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:168
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Time elapsed in the power-on state"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:169
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Unrecoverable ECC Count"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:169
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Count of unrecoverable ECC errors"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:170
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Good Block Rate"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:170
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Count of available reserved blocks as percentage of the total number of reserved blocks"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:171
+#, kde-format
+msgctxt "SMART attr name"
+msgid ""
+"Head Flying Hours<br/>"
+"or Transfer Error Rate (Fujitsu)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:171
+#, kde-format
+msgctxt "SMART attr description"
+msgid ""
+"Time while head is positioning<br/>"
+"or counts the number of times the link is reset during a data transfer."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:172
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Total LBAs Written"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:172
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Total LBAs Written"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:173
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Total LBAs Read"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:173
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Total LBAs Read"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:174
+#, kde-format
+msgctxt "SMART attr name"
+msgid "SSD NAND_Writes_1GiB"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:174
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Number of writes to NAND in 1 GB increments"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:175
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Read Error Retry Rate"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:175
+#, fuzzy, kde-format
+#| msgctxt "@title:window"
+#| msgid "Error while reading mount points"
+msgctxt "SMART attr description"
+msgid "Number of errors while reading from a disk"
+msgstr "เกิดข้อผิดพลาดในระหว่างการอ่านจุดเมานท์ต่าง ๆ"
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:176
+#, kde-format
+msgctxt "SMART attr name"
+msgid "Free Fall Protection"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartattribute.cpp:176
+#, kde-format
+msgctxt "SMART attr description"
+msgid "Number of &quot;Free Fall Events&quot; detected"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartstatus.cpp:78
+#, kde-kuit-format
+msgctxt "@item:intable degrees in Celsius and Fahrenheit"
+msgid "%1° C / %2° F"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartstatus.cpp:86
+#, kde-kuit-format
+msgctxt "@item"
+msgid "Aborted"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartstatus.cpp:89
+#, kde-kuit-format
+msgctxt "@item"
+msgid "Interrupted"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartstatus.cpp:92
+#, kde-kuit-format
+msgctxt "@item"
+msgid "Fatal error"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartstatus.cpp:95
+#, kde-kuit-format
+msgctxt "@item"
+msgid "Unknown error"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartstatus.cpp:98
+#, fuzzy, kde-kuit-format
+#| msgid "Read Label"
+msgctxt "@item"
+msgid "Electrical error"
+msgstr "อ่านป้ายชื่อ"
+
+#. +> trunk6 stable6
+#: core/smartstatus.cpp:101
+#, kde-kuit-format
+msgctxt "@item"
+msgid "Servo error"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartstatus.cpp:104
+#, fuzzy, kde-kuit-format
+#| msgid "Read Label"
+msgctxt "@item"
+msgid "Read error"
+msgstr "อ่านป้ายชื่อ"
+
+#. +> trunk6 stable6
+#: core/smartstatus.cpp:107
+#, kde-kuit-format
+msgctxt "@item"
+msgid "Handling error"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartstatus.cpp:110
+#, kde-kuit-format
+msgctxt "@item"
+msgid "Self test in progress"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartstatus.cpp:114
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info:progress job"
+#| msgid "Success"
+msgctxt "@item"
+msgid "Success"
+msgstr "สำเร็จ"
+
+#. +> trunk6 stable6
+#: core/smartstatus.cpp:123
+#, kde-kuit-format
+msgctxt "@item"
+msgid "Healthy"
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartstatus.cpp:126
+#, kde-kuit-format
+msgctxt "@item"
+msgid "Has been used outside of its design parameters in the past."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartstatus.cpp:129
+#, fuzzy, kde-kuit-format
+#| msgctxt "@label device"
+#| msgid "Total sectors:"
+msgctxt "@item"
+msgid "Has some bad sectors."
+msgstr "เซกเตอร์ทั้งหมด:"
+
+#. +> trunk6 stable6
+#: core/smartstatus.cpp:132
+#, kde-kuit-format
+msgctxt "@item"
+msgid "Is being used outside of its design parameters right now."
+msgstr ""
+
+#. +> trunk6 stable6
+#: core/smartstatus.cpp:135
+#, fuzzy, kde-kuit-format
+#| msgctxt "@label device"
+#| msgid "Total sectors:"
+msgctxt "@item"
+msgid "Has many bad sectors."
+msgstr "เซกเตอร์ทั้งหมด:"
+
+#. +> trunk6 stable6
+#: core/smartstatus.cpp:139
+#, kde-kuit-format
+msgctxt "@item"
+msgid "Disk failure is imminent. Backup all data!"
+msgstr ""
+
+#. +> trunk6 stable6
+#: fs/bcachefs.cpp:120
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Resizing JFS file system on partition <filename>%1</filename> failed: Could not create temp dir."
+msgctxt "@info:progress"
+msgid "Resizing Bcachefs file system on partition <filename>%1</filename> failed: Could not create temp dir."
+msgstr "ล้มเหลวในการปรับขนาดระบบแฟ้ม JFS บนพาร์ทิชัน <filename>%1</filename>: ไม่สามารถสร้างไดเรกทอรี temp ได้"
+
+#. +> trunk6 stable6
+#: fs/bcachefs.cpp:136 fs/bcachefs.cpp:158
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Resizing XFS file system on partition <filename>%1</filename> failed: xfs_growfs failed."
+msgctxt "@info:progress"
+msgid "Resizing Bcachefs file system on partition <filename>%1</filename> failed: bcachefs device resize command failed."
+msgstr "ล้มเหลวในการปรับขนาดระบบแฟ้มแบบ XFS บนพาร์ทิชัน <filename>%1</filename>: ฟังก์ชัน xfs_growfs ทำงานล้มเหลว"
+
+#. +> trunk6 stable6
+#: fs/bcachefs.cpp:141
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Warning: Resizing JFS file system on partition <filename>%1</filename>: Unmount failed."
+msgctxt "@info:progress"
+msgid "<warning>Resizing Bcachefs file system on partition <filename>%1</filename>: Unmount failed.</warning>"
+msgstr "คำเตือน: การปรับขนาดระบบแฟ้ม JFS บนพาร์ทิชัน <filename>%1</filename>: ล้มเหลวในการเลิกเมานท์"
+
+#. +> trunk6 stable6
+#: fs/bcachefs.cpp:144
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Resizing JFS file system on partition <filename>%1</filename> failed: Initial mount failed."
+msgctxt "@info:progress"
+msgid "Resizing Bcachefs file system on partition <filename>%1</filename> failed: Initial mount failed."
+msgstr "ล้มเหลวในการปรับขนาดระบบแฟ้ม JFS บนพาร์ทิชัน <filename>%1</filename>: ล้มเหลวในการเตรียมเมานท์"
+
+#. +> trunk6 stable6
+#: fs/btrfs.cpp:166
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Resizing JFS file system on partition <filename>%1</filename> failed: Could not create temp dir."
+msgctxt "@info:progress"
+msgid "Resizing Btrfs file system on partition <filename>%1</filename> failed: Could not create temp dir."
+msgstr "ล้มเหลวในการปรับขนาดระบบแฟ้ม JFS บนพาร์ทิชัน <filename>%1</filename>: ไม่สามารถสร้างไดเรกทอรี temp ได้"
+
+#. +> trunk6 stable6
+#: fs/btrfs.cpp:182 fs/btrfs.cpp:203
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Resizing XFS file system on partition <filename>%1</filename> failed: xfs_growfs failed."
+msgctxt "@info:progress"
+msgid "Resizing Btrfs file system on partition <filename>%1</filename> failed: btrfs file system resize failed."
+msgstr "ล้มเหลวในการปรับขนาดระบบแฟ้มแบบ XFS บนพาร์ทิชัน <filename>%1</filename>: ฟังก์ชัน xfs_growfs ทำงานล้มเหลว"
+
+#. +> trunk6 stable6
+#: fs/btrfs.cpp:187
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Warning: Resizing JFS file system on partition <filename>%1</filename>: Unmount failed."
+msgctxt "@info:progress"
+msgid "<warning>Resizing Btrfs file system on partition <filename>%1</filename>: Unmount failed.</warning>"
+msgstr "คำเตือน: การปรับขนาดระบบแฟ้ม JFS บนพาร์ทิชัน <filename>%1</filename>: ล้มเหลวในการเลิกเมานท์"
+
+#. +> trunk6 stable6
+#: fs/btrfs.cpp:190
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Resizing JFS file system on partition <filename>%1</filename> failed: Initial mount failed."
+msgctxt "@info:progress"
+msgid "Resizing Btrfs file system on partition <filename>%1</filename> failed: Initial mount failed."
+msgstr "ล้มเหลวในการปรับขนาดระบบแฟ้ม JFS บนพาร์ทิชัน <filename>%1</filename>: ล้มเหลวในการเตรียมเมานท์"
+
+#. +> trunk6 stable6
+#: fs/fat12.cpp:141
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Setting label for partition <filename>%1</filename> to %2"
+msgctxt "@info:progress"
+msgid "Setting label for partition <filename>%1</filename> to %2"
+msgstr "ตั้งค่าป้ายชื่อของพาร์ทิชัน <filename>%1</filename> เป็น %2"
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:506
+#, fuzzy, kde-kuit-format
+#| msgctxt "@item/plain partition table name"
+#| msgid "unknown"
+msgctxt "@item filesystem name"
+msgid "unknown"
+msgstr "ไม่ทราบ"
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:507
+#, fuzzy, kde-kuit-format
+#| msgctxt "@item partition role"
+#| msgid "extended"
+msgctxt "@item filesystem name"
+msgid "extended"
+msgstr "พาร์ทิชันขยาย"
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:509
+#, fuzzy, kde-kuit-format
+#| msgctxt "@item/plain filesystem name"
+#| msgid "ext2"
+msgctxt "@item filesystem name"
+msgid "ext2"
+msgstr "ext2"
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:510
+#, fuzzy, kde-kuit-format
+#| msgctxt "@item/plain filesystem name"
+#| msgid "ext3"
+msgctxt "@item filesystem name"
+msgid "ext3"
+msgstr "ext3"
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:511
+#, fuzzy, kde-kuit-format
+#| msgctxt "@item/plain filesystem name"
+#| msgid "ext4"
+msgctxt "@item filesystem name"
+msgid "ext4"
+msgstr "ext4"
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:512
+#, fuzzy, kde-kuit-format
+#| msgctxt "@item/plain filesystem name"
+#| msgid "linuxswap"
+msgctxt "@item filesystem name"
+msgid "linuxswap"
+msgstr "linuxswap"
+
+#. +> trunk6
+#: fs/filesystem.cpp:513
+#, kde-kuit-format
+msgctxt "@item filesystem name"
+msgid "freebsdswap"
+msgstr ""
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:514
+#, fuzzy, kde-kuit-format
+#| msgctxt "@item/plain filesystem name"
+#| msgid "fat16"
+msgctxt "@item filesystem name"
+msgid "fat16"
+msgstr "fat16"
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:515
+#, fuzzy, kde-kuit-format
+#| msgctxt "@item/plain filesystem name"
+#| msgid "fat32"
+msgctxt "@item filesystem name"
+msgid "fat32"
+msgstr "fat32"
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:516
+#, fuzzy, kde-kuit-format
+#| msgctxt "@item/plain filesystem name"
+#| msgid "ntfs"
+msgctxt "@item filesystem name"
+msgid "ntfs"
+msgstr "ntfs"
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:517
+#, fuzzy, kde-kuit-format
+#| msgctxt "@item/plain filesystem name"
+#| msgid "reiser"
+msgctxt "@item filesystem name"
+msgid "reiser"
+msgstr "reiser"
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:518
+#, fuzzy, kde-kuit-format
+#| msgctxt "@item/plain filesystem name"
+#| msgid "reiser4"
+msgctxt "@item filesystem name"
+msgid "reiser4"
+msgstr "reiser4"
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:519
+#, fuzzy, kde-kuit-format
+#| msgctxt "@item/plain filesystem name"
+#| msgid "xfs"
+msgctxt "@item filesystem name"
+msgid "xfs"
+msgstr "xfs"
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:520
+#, fuzzy, kde-kuit-format
+#| msgid "jfs"
+msgctxt "@item filesystem name"
+msgid "jfs"
+msgstr "jfs"
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:521
+#, fuzzy, kde-kuit-format
+#| msgctxt "@item/plain filesystem name"
+#| msgid "hfs"
+msgctxt "@item filesystem name"
+msgid "hfs"
+msgstr "hfs"
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:522
+#, fuzzy, kde-kuit-format
+#| msgctxt "@item/plain filesystem name"
+#| msgid "hfsplus"
+msgctxt "@item filesystem name"
+msgid "hfsplus"
+msgstr "hfsplus"
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:523
+#, fuzzy, kde-kuit-format
+#| msgctxt "@item/plain filesystem name"
+#| msgid "ufs"
+msgctxt "@item filesystem name"
+msgid "ufs"
+msgstr "ufs"
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:524
+#, fuzzy, kde-kuit-format
+#| msgctxt "@item/plain filesystem name"
+#| msgid "unformatted"
+msgctxt "@item filesystem name"
+msgid "unformatted"
+msgstr "ยังไม่ได้ฟอร์แมต"
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:525
+#, fuzzy, kde-kuit-format
+#| msgctxt "@item/plain filesystem name"
+#| msgid "ntfs"
+msgctxt "@item filesystem name"
+msgid "btrfs"
+msgstr "ntfs"
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:526
+#, fuzzy, kde-kuit-format
+#| msgctxt "@item/plain filesystem name"
+#| msgid "hfs"
+msgctxt "@item filesystem name"
+msgid "hpfs"
+msgstr "hfs"
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:527
+#, fuzzy, kde-kuit-format
+#| msgid "ufs:"
+msgctxt "@item filesystem name"
+msgid "luks"
+msgstr "ufs:"
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:528
+#, fuzzy, kde-kuit-format
+#| msgid "xfs:"
+msgctxt "@item filesystem name"
+msgid "ocfs2"
+msgstr "xfs:"
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:529
+#, fuzzy, kde-kuit-format
+#| msgctxt "@item/plain filesystem name"
+#| msgid "xfs"
+msgctxt "@item filesystem name"
+msgid "zfs"
+msgstr "xfs"
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:530
+#, kde-kuit-format
+msgctxt "@item filesystem name"
+msgid "exfat"
+msgstr ""
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:531
+#, fuzzy, kde-kuit-format
+#| msgid "xfs:"
+msgctxt "@item filesystem name"
+msgid "nilfs2"
+msgstr "xfs:"
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:532
+#, kde-kuit-format
+msgctxt "@item filesystem name"
+msgid "lvm2 pv"
+msgstr ""
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:533
+#, kde-kuit-format
+msgctxt "@item filesystem name"
+msgid "f2fs"
+msgstr ""
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:534
+#, fuzzy, kde-kuit-format
+#| msgctxt "@item/plain filesystem name"
+#| msgid "ufs"
+msgctxt "@item filesystem name"
+msgid "udf"
+msgstr "ufs"
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:535
+#, kde-kuit-format
+msgctxt "@item filesystem name"
+msgid "iso9660"
+msgstr ""
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:536
+#, fuzzy, kde-kuit-format
+#| msgid "ufs:"
+msgctxt "@item filesystem name"
+msgid "luks2"
+msgstr "ufs:"
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:537
+#, fuzzy, kde-kuit-format
+#| msgctxt "@item/plain filesystem name"
+#| msgid "fat16"
+msgctxt "@item filesystem name"
+msgid "fat12"
+msgstr "fat16"
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:538
+#, kde-kuit-format
+msgctxt "@item filesystem name"
+msgid "linux_raid_member"
+msgstr ""
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:539
+#, kde-kuit-format
+msgctxt "@item filesystem name"
+msgid "BitLocker"
+msgstr ""
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:540
+#, kde-kuit-format
+msgctxt "@item filesystem name"
+msgid "apfs"
+msgstr ""
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:541
+#, kde-kuit-format
+msgctxt "@item filesystem name"
+msgid "minix"
+msgstr ""
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:542
+#, kde-kuit-format
+msgctxt "@item filesystem name"
+msgid "bcachefs"
+msgstr ""
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:585 fs/luks.cpp:161
+#, kde-kuit-format
+msgctxt "@title:menu"
+msgid "Mount"
+msgstr "เมานท์"
+
+#. +> trunk6 stable6
+#: fs/filesystem.cpp:591 fs/luks.cpp:166
+#, kde-kuit-format
+msgctxt "@title:menu"
+msgid "Unmount"
+msgstr "ยกเลิกเมานท์"
+
+#. +> trunk6 stable6
+#: fs/freebsdswap.cpp:77 fs/linuxswap.cpp:127
+#, kde-kuit-format
+msgctxt "@title:menu"
+msgid "Activate swap"
+msgstr "เรียกใช้ swap"
+
+#. +> trunk6 stable6
+#: fs/freebsdswap.cpp:82 fs/linuxswap.cpp:132
+#, kde-kuit-format
+msgctxt "@title:menu"
+msgid "Deactivate swap"
+msgstr "ปิดการใช้ swap"
+
+#. +> trunk6 stable6
+#: fs/jfs.cpp:155
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Resizing JFS file system on partition <filename>%1</filename> failed: Could not create temp dir."
+msgctxt "@info:progress"
+msgid "Resizing JFS file system on partition <filename>%1</filename> failed: Could not create temp dir."
+msgstr "ล้มเหลวในการปรับขนาดระบบแฟ้ม JFS บนพาร์ทิชัน <filename>%1</filename>: ไม่สามารถสร้างไดเรกทอรี temp ได้"
+
+#. +> trunk6 stable6
+#: fs/jfs.cpp:169 fs/jfs.cpp:188
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Resizing JFS file system on partition <filename>%1</filename> failed: Remount failed."
+msgctxt "@info:progress"
+msgid "Resizing JFS file system on partition <filename>%1</filename> failed: Remount failed."
+msgstr "ล้มเหลวในการปรับขนาดระบบแฟ้ม JFS บนพาร์ทิชัน <filename>%1</filename>: ล้มเหลวในการเมาทน์ใหม่อีกครั้ง"
+
+#. +> trunk6 stable6
+#: fs/jfs.cpp:174
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Warning: Resizing JFS file system on partition <filename>%1</filename>: Unmount failed."
+msgctxt "@info:progress"
+msgid "<warning>Resizing JFS file system on partition <filename>%1</filename>: Unmount failed.</warning>"
+msgstr "คำเตือน: การปรับขนาดระบบแฟ้ม JFS บนพาร์ทิชัน <filename>%1</filename>: ล้มเหลวในการเลิกเมานท์"
+
+#. +> trunk6 stable6
+#: fs/jfs.cpp:176
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Resizing JFS file system on partition <filename>%1</filename> failed: Initial mount failed."
+msgctxt "@info:progress"
+msgid "Resizing JFS file system on partition <filename>%1</filename> failed: Initial mount failed."
+msgstr "ล้มเหลวในการปรับขนาดระบบแฟ้ม JFS บนพาร์ทิชัน <filename>%1</filename>: ล้มเหลวในการเตรียมเมานท์"
+
+#. +> trunk6 stable6
+#: fs/luks.cpp:171
+#, kde-kuit-format
+msgctxt "@title:menu"
+msgid "Unlock"
+msgstr ""
+
+#. +> trunk6 stable6
+#: fs/luks.cpp:176
+#, kde-kuit-format
+msgctxt "@title:menu"
+msgid "Lock"
+msgstr ""
+
+#. +> trunk6 stable6
+#: fs/luks.cpp:257
+#, kde-format
+msgid "Enter passphrase for %1:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: fs/luks.cpp:500 fs/luks.cpp:510 fs/luks2.cpp:95 fs/luks2.cpp:112
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Resizing/moving partition <filename>%1</filename> failed."
+msgctxt "@info:progress"
+msgid "Resizing LUKS crypt on partition <filename>%1</filename>."
+msgstr "ล้มเหลวในการปรับขนาด/การย้ายพาร์ทิชัน <filename>%1</filename>"
+
+#. +> trunk6 stable6
+#: fs/luks.cpp:514 fs/luks2.cpp:123
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Rollback for file system on partition <filename>%1</filename> failed."
+msgctxt "@info:progress"
+msgid "Resizing encrypted file system on partition <filename>%1</filename> failed."
+msgstr "การทำย้อนกลับระบบแฟ้มบนพาร์ทิชัน <filename>%1</filename> ล้มเหลว"
+
+#. +> trunk6 stable6
+#: fs/nilfs2.cpp:137
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Resizing JFS file system on partition <filename>%1</filename> failed: Could not create temp dir."
+msgctxt "@info:progress"
+msgid "Resizing NILFS2 file system on partition <filename>%1</filename> failed: Could not create temp dir."
+msgstr "ล้มเหลวในการปรับขนาดระบบแฟ้ม JFS บนพาร์ทิชัน <filename>%1</filename>: ไม่สามารถสร้างไดเรกทอรี temp ได้"
+
+#. +> trunk6 stable6
+#: fs/nilfs2.cpp:151 fs/nilfs2.cpp:170
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Resizing XFS file system on partition <filename>%1</filename> failed: xfs_growfs failed."
+msgctxt "@info:progress"
+msgid "Resizing NILFS2 file system on partition <filename>%1</filename> failed: NILFS2 file system resize failed."
+msgstr "ล้มเหลวในการปรับขนาดระบบแฟ้มแบบ XFS บนพาร์ทิชัน <filename>%1</filename>: ฟังก์ชัน xfs_growfs ทำงานล้มเหลว"
+
+#. +> trunk6 stable6
+#: fs/nilfs2.cpp:156
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Warning: Resizing JFS file system on partition <filename>%1</filename>: Unmount failed."
+msgctxt "@info:progress"
+msgid "<warning>Resizing NILFS2 file system on partition <filename>%1</filename>: Unmount failed.</warning>"
+msgstr "คำเตือน: การปรับขนาดระบบแฟ้ม JFS บนพาร์ทิชัน <filename>%1</filename>: ล้มเหลวในการเลิกเมานท์"
+
+#. +> trunk6 stable6
+#: fs/nilfs2.cpp:158
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Resizing JFS file system on partition <filename>%1</filename> failed: Initial mount failed."
+msgctxt "@info:progress"
+msgid "Resizing NILFS2 file system on partition <filename>%1</filename> failed: Initial mount failed."
+msgstr "ล้มเหลวในการปรับขนาดระบบแฟ้ม JFS บนพาร์ทิชัน <filename>%1</filename>: ล้มเหลวในการเตรียมเมานท์"
+
+#. +> trunk6 stable6
+#: fs/ntfs.cpp:182
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Updating boot sector for NTFS file system on partition <filename>%1</filename>."
+msgctxt "@info:progress"
+msgid "Updating boot sector for NTFS file system on partition <filename>%1</filename>."
+msgstr "กำลังปรับปรุงเซกเตอร์การบูตของระบบแฟ้ม NTFS บนพาร์ทิชัน <filename>%1</filename>"
+
+#. +> trunk6 stable6
+#: fs/ntfs.cpp:194 fs/ntfs.cpp:202
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not write new start sector to partition <filename>%1</filename> when trying to update the NTFS boot sector."
+msgctxt "@info:progress"
+msgid "Could not write new start sector to partition <filename>%1</filename> when trying to update the NTFS boot sector."
+msgstr "ไม่สามารถเขียนเซกเตอร์เริ่มตัวใหม่ของพาร์ทิชัน <filename>%1</filename> ได้ ในระหว่างพยายามปรับปรุงเซกเตอร์การบูตของระบบแฟ้ม NTFS"
+
+#. +> trunk6 stable6
+#: fs/ntfs.cpp:206
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Updated NTFS boot sector for partition <filename>%1</filename> successfully."
+msgctxt "@info:progress"
+msgid "Updated NTFS boot sector for partition <filename>%1</filename> successfully."
+msgstr "ทำการปรับปรุงเซกเตอร์การบูตของระบบแฟ้ม NTFS ของพาร์ทิชัน <filename>%1</filename> เสร็จเรียบร้อยแล้ว"
+
+#. +> trunk6 stable6
+#: fs/xfs.cpp:159
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Resizing XFS file system on partition <filename>%1</filename> failed: Could not create temp dir."
+msgctxt "@info:progress"
+msgid "Resizing XFS file system on partition <filename>%1</filename> failed: Could not create temp dir."
+msgstr "ล้มเหลวในการปรับขนาดระบบแฟ้มแบบ XFS บนพาร์ทิชัน <filename>%1</filename>: ไม่สามารถสร้างไดเรกทอรี temp ได้"
+
+#. +> trunk6 stable6
+#: fs/xfs.cpp:173 fs/xfs.cpp:192
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Resizing XFS file system on partition <filename>%1</filename> failed: xfs_growfs failed."
+msgctxt "@info:progress"
+msgid "Resizing XFS file system on partition <filename>%1</filename> failed: xfs_growfs failed."
+msgstr "ล้มเหลวในการปรับขนาดระบบแฟ้มแบบ XFS บนพาร์ทิชัน <filename>%1</filename>: ฟังก์ชัน xfs_growfs ทำงานล้มเหลว"
+
+#. +> trunk6 stable6
+#: fs/xfs.cpp:178
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Warning: Resizing XFS file system on partition <filename>%1</filename>: Unmount failed."
+msgctxt "@info:progress"
+msgid "<warning>Resizing XFS file system on partition <filename>%1</filename> failed: Unmount failed.</warning>"
+msgstr "คำเตือน: การปรับขนาดระบบแฟ้ม XFS บนพาร์ทิชัน <filename>%1</filename>: ล้มเหลวในการเลิกเมานท์"
+
+#. +> trunk6 stable6
+#: fs/xfs.cpp:180
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Resizing XFS file system on partition <filename>%1</filename> failed: Initial mount failed."
+msgctxt "@info:progress"
+msgid "Resizing XFS file system on partition <filename>%1</filename> failed: Initial mount failed."
+msgstr "ล้มเหลวในการปรับขนาดระบบแฟ้ม XFS บนพาร์ทิชัน <filename>%1</filename>: การเตรียมการเมานท์ล้มเหลว"
+
+#. +> trunk6 stable6
+#: jobs/backupfilesystemjob.cpp:54
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not open file system on source partition <filename>%1</filename> for backup."
+msgctxt "@info:progress"
+msgid "Could not open file system on source partition <filename>%1</filename> for backup."
+msgstr "ไม่สามารถเปิดระบบแฟ้มบนพาร์ทิชันต้นทาง <filename>%1</filename> เพื่อทำการสำรองข้อมูลได้"
+
+#. +> trunk6 stable6
+#: jobs/backupfilesystemjob.cpp:56
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not create backup file <filename>%1</filename>."
+msgctxt "@info:progress"
+msgid "Could not create backup file <filename>%1</filename>."
+msgstr "ไม่สามารถสร้างแฟ้มสำรองข้อมูฃ <filename>%1</filename> ได้"
+
+#. +> trunk6 stable6
+#: jobs/backupfilesystemjob.cpp:68
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Back up file system on partition <filename>%1</filename> to <filename>%2</filename>"
+msgctxt "@info:progress"
+msgid "Back up file system on partition <filename>%1</filename> to <filename>%2</filename>"
+msgstr "ทำการสำรองข้อมูลระบบแฟ้มบนพาร์ทิชัน <filename>%1</filename> ไปยัง <filename>%2</filename>"
+
+#. +> trunk6 stable6
+#: jobs/changepermissionsjob.cpp:49
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Set label for partition <filename>%1</filename> to \"%2\""
+msgctxt "@info/plain"
+msgid "Change the permissions of: <filename>%1</filename> to %2"
+msgstr "ตั้งค่าป้ายชื่อของพาร์ทิชัน <filename>%1</filename> เป็น \"%2\""
+
+#. +> trunk6 stable6
+#: jobs/checkfilesystemjob.cpp:43
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Check file system on partition <filename>%1</filename>"
+msgctxt "@info:progress"
+msgid "Check file system on partition <filename>%1</filename>"
+msgstr "ตรวจสอบระบบแฟ้มบนพาร์ทิชัน <filename>%1</filename>"
+
+#. +> trunk6 stable6
+#: jobs/copyfilesystemjob.cpp:48
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Cannot copy file system: File system on target partition <filename>%1</filename> is smaller than the file system on source partition <filename>%2</filename>."
+msgctxt "@info:progress"
+msgid "Cannot copy file system: File system on target partition <filename>%1</filename> is smaller than the file system on source partition <filename>%2</filename>."
+msgstr "ไม่สามารถคัดลอกระบบแฟ้มได้: ระบบแฟ้มบนพาร์ทิชันเป้าหมาย <filename>%1</filename> มีขนาดเล็กกว่าระบบแฟ้มบนพาร์ทิชันต้นทาง <filename>%2</filename>."
+
+#. +> trunk6 stable6
+#: jobs/copyfilesystemjob.cpp:56
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not open file system on source partition <filename>%1</filename> for copying."
+msgctxt "@info:progress"
+msgid "Could not open file system on source partition <filename>%1</filename> for copying."
+msgstr "ไม่สามารถเปิดระบบแฟ้มบนพาร์ทิชันต้นทาง <filename>%1</filename> เพื่อทำการคัดลอกได้"
+
+#. +> trunk6 stable6
+#: jobs/copyfilesystemjob.cpp:58
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not open file system on target partition <filename>%1</filename> for copying."
+msgctxt "@info:progress"
+msgid "Could not open file system on target partition <filename>%1</filename> for copying."
+msgstr "ไม่สามารถเปิดระบบแฟ้มบนพาร์ทิชันเป้าหมาย <filename>%1</filename> เพื่อทำการคัดลอกได้"
+
+#. +> trunk6 stable6
+#: jobs/copyfilesystemjob.cpp:61
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Closing device. This may take a few seconds."
+msgctxt "@info:progress"
+msgid "Closing device. This may take a while, especially on slow devices like Memory Sticks."
+msgstr "ทำการปิดอุปกรณ์ การกระทำนี้อาจใช้เวลาบ้าง"
+
+#. +> trunk6 stable6
+#: jobs/copyfilesystemjob.cpp:88
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Copy file system on partition <filename>%1</filename> to partition <filename>%2</filename>"
+msgctxt "@info:progress"
+msgid "Copy file system on partition <filename>%1</filename> to partition <filename>%2</filename>"
+msgstr "คัดลอกระบบแฟ้มบนพาร์ทิชัน <filename>%1</filename> ไปยังพาร์ทิชัน <filename>%2</filename>"
+
+#. +> trunk6 stable6
+#: jobs/createfilesystemjob.cpp:66
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Failed to clobber file system on partition <filename>%1</filename>."
+msgctxt "@info:progress"
+msgid "Failed to set the system type for the file system on partition <filename>%1</filename>."
+msgstr "ล้มเหลวในการ clobbler ระบบแฟ้มบนพาร์ทิชัน <filename>%1</filename> ได้"
+
+#. +> trunk6 stable6
+#: jobs/createfilesystemjob.cpp:68
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not open partition table on device <filename>%1</filename> to delete partition <filename>%2</filename>."
+msgctxt "@info:progress"
+msgid "Could not open partition table on device <filename>%1</filename> to set the system type for partition <filename>%2</filename>."
+msgstr "ไม่สามารถเปิดพาร์ทิชันบนอุปกรณ์ <filename>%1</filename> เพื่อลบพาร์ทิชัน <filename>%2</filename> ได้"
+
+#. +> trunk6 stable6
+#: jobs/createfilesystemjob.cpp:70
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not open device <filename>%1</filename> to set partition flags for partition <filename>%2</filename>."
+msgctxt "@info:progress"
+msgid "Could not open device <filename>%1</filename> to set the system type for partition <filename>%2</filename>."
+msgstr "ไม่สามารถเปิดอุปกรณ์ <filename>%1</filename> เพื่อทำการตั้งค่าแฟล็กต่าง ๆ ให้กับพาร์ทิชัน <filename>%2</filename> ได้"
+
+#. +> trunk6 stable6
+#: jobs/createfilesystemjob.cpp:84
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Restore the file system from file <filename>%1</filename> to partition <filename>%2</filename>"
+msgctxt "@info:progress"
+msgid "Create file system <filename>%1</filename> on partition <filename>%2</filename>"
+msgstr "เรียกคืนระบบแฟ้มจากแฟ้ม <filename>%1</filename> ไปยังพาร์ทิชัน <filename>%2</filename>"
+
+#. +> trunk6 stable6
+#: jobs/createpartitionjob.cpp:72
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Failed to add partition <filename>%1</filename> to device <filename>%2</filename>."
+msgctxt "@info/plain"
+msgid "Failed to add partition <filename>%1</filename> to device <filename>%2</filename>."
+msgstr "ล้มเหลวในการเพิ่มพาร์ทิชัน <filename>%1</filename> ไปยังอุปกรณ์ <filename>%2</filename>"
+
+#. +> trunk6 stable6
+#: jobs/createpartitionjob.cpp:74
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not open partition table on device <filename>%1</filename> to create new partition <filename>%2</filename>."
+msgctxt "@info:progress"
+msgid "Could not open partition table on device <filename>%1</filename> to create new partition <filename>%2</filename>."
+msgstr "ไม่สามารถเปิดตารางพาร์ทิชันบนอุปกรณ์ <filename>%1</filename> เพื่อสร้างพาร์ทิชันใหม่ <filename>%2</filename> ได้"
+
+#. +> trunk6 stable6
+#: jobs/createpartitionjob.cpp:76
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not open device <filename>%1</filename> to create new partition <filename>%2</filename>."
+msgctxt "@info:progress"
+msgid "Could not open device <filename>%1</filename> to create new partition <filename>%2</filename>."
+msgstr "ไม่สามารถเปิดอุปกรณ์ <filename>%1</filename> เพื่อสร้างพาร์ทิชันใหม่ <filename>%2</filename> ได้"
+
+#. +> trunk6 stable6
+#: jobs/createpartitionjob.cpp:94
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Create new partition <filename>%1</filename>"
+msgctxt "@info:progress"
+msgid "Create new partition <filename>%1</filename>"
+msgstr "สร้างพาร์ทิชันใหม่ <filename>%1</filename>"
+
+#. +> trunk6 stable6
+#: jobs/createpartitionjob.cpp:96
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Create new partition on device <filename>%1</filename>"
+msgctxt "@info:progress"
+msgid "Create new partition on device <filename>%1</filename>"
+msgstr "สร้างพาร์ทิชันใหม่บนอุปกรณ์ <filename>%1</filename>"
+
+#. +> trunk6 stable6
+#: jobs/createpartitiontablejob.cpp:49
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Creating partition table failed: Could not open device <filename>%1</filename>."
+msgctxt "@info:progress"
+msgid "Creating partition table failed: Could not open device <filename>%1</filename>."
+msgstr "การสร้างพาร์ทิชันล้มเหลว: ไม่สามารถเปิดอุปกรณ์ <filename>%1</filename> ได้"
+
+#. +> trunk6 stable6
+#: jobs/createpartitiontablejob.cpp:61
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Create new partition table on device <filename>%1</filename>"
+msgctxt "@info:progress"
+msgid "Create new partition table on device <filename>%1</filename>"
+msgstr "สร้างพาร์ทิชันใหม่บนอุปกรณ์ <filename>%1</filename>"
+
+#. +> trunk6 stable6
+#: jobs/createvolumegroupjob.cpp:49
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Create new partition <filename>%1</filename>"
+msgctxt "@info/plain"
+msgid "Create a new Volume Group: <filename>%1</filename> with PV: %2"
+msgstr "สร้างพาร์ทิชันใหม่ <filename>%1</filename>"
+
+#. +> trunk6 stable6
+#: jobs/deactivatelogicalvolumejob.cpp:50
+#, fuzzy, kde-kuit-format
+#| msgctxt "@title:window"
+#| msgid "Device properties: <filename>%1</filename>"
+msgctxt "@info/plain"
+msgid "Deactivate Logical Volumes: <filename>%1</filename>"
+msgstr "คุณสมบัติต่าง ๆ ของอุปกรณ์: <filename>%1</filename>"
+
+#. +> trunk6 stable6
+#: jobs/deactivatevolumegroupjob.cpp:47
+#, fuzzy, kde-kuit-format
+#| msgctxt "@title:window"
+#| msgid "Device properties: <filename>%1</filename>"
+msgctxt "@info/plain"
+msgid "Deactivate Volume Group: <filename>%1</filename>"
+msgstr "คุณสมบัติต่าง ๆ ของอุปกรณ์: <filename>%1</filename>"
+
+#. +> trunk6 stable6
+#: jobs/deletefilesystemjob.cpp:51
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not delete file system on <filename>%1</filename>."
+msgctxt "@info:progress"
+msgid "Could not delete file system: file system on <filename>%1</filename> is mounted."
+msgstr "ไม่สามารถลบระบบแฟ้มบน <filename>%1</filename> ได้"
+
+#. +> trunk6 stable6
+#: jobs/deletefilesystemjob.cpp:76
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not delete file system on <filename>%1</filename>."
+msgctxt "@info:progress"
+msgid "Could not delete file system on <filename>%1</filename>."
+msgstr "ไม่สามารถลบระบบแฟ้มบน <filename>%1</filename> ได้"
+
+#. +> trunk6 stable6
+#: jobs/deletefilesystemjob.cpp:80
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not open partition table on device <filename>%1</filename> to delete file system on <filename>%2</filename>."
+msgctxt "@info:progress"
+msgid "Could not open partition table on device <filename>%1</filename> to delete file system on <filename>%2</filename>."
+msgstr "ไม่สามารถเปิดตารางพาร์ทิชันบนอุปกรณ์ <filename>%1</filename> เพื่อลบระบบแฟ้มบน  <filename>%2</filename> ได้"
+
+#. +> trunk6 stable6
+#: jobs/deletefilesystemjob.cpp:83
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not delete file system signature for partition <filename>%1</filename>: Failed to open device <filename>%2</filename>."
+msgctxt "@info:progress"
+msgid "Could not delete file system signature for partition <filename>%1</filename>: Failed to open device <filename>%2</filename>."
+msgstr "ไม่สามารถลบลายเซ็นของระบบแฟ้มของพาร์ทิชัน <filename>%1</filename> ได้: ล้มเหลวในการเปิดอุปกรณ์ <filename>%2</filename>"
+
+#. +> trunk6 stable6
+#: jobs/deletefilesystemjob.cpp:93
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Delete file system on <filename>%1</filename>"
+msgctxt "@info:progress"
+msgid "Delete file system on <filename>%1</filename>"
+msgstr "ลบระบบแฟ้มบน <filename>%1</filename>"
+
+#. +> trunk6 stable6
+#: jobs/deletepartitionjob.cpp:61 plugins/geom/geompartitiontable.cpp:128
+#: plugins/sfdisk/sfdiskpartitiontable.cpp:100
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not delete partition <filename>%1</filename>."
+msgctxt "@info:progress"
+msgid "Could not delete partition <filename>%1</filename>."
+msgstr "ไม่สามารถลบพาร์ทิชัน <filename>%1</filename> ได้"
+
+#. +> trunk6 stable6
+#: jobs/deletepartitionjob.cpp:65
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not open partition table on device <filename>%1</filename> to delete partition <filename>%2</filename>."
+msgctxt "@info:progress"
+msgid "Could not open partition table on device <filename>%1</filename> to delete partition <filename>%2</filename>."
+msgstr "ไม่สามารถเปิดพาร์ทิชันบนอุปกรณ์ <filename>%1</filename> เพื่อลบพาร์ทิชัน <filename>%2</filename> ได้"
+
+#. +> trunk6 stable6
+#: jobs/deletepartitionjob.cpp:67
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Deleting partition failed: Could not open device <filename>%1</filename>."
+msgctxt "@info:progress"
+msgid "Deleting partition failed: Could not open device <filename>%1</filename>."
+msgstr "การลบพาร์ทิชันล้มเหลว: ไม่สามารถเปิดอุปกรณ์ <filename>%1</filename> ได้"
+
+#. +> trunk6 stable6
+#: jobs/deletepartitionjob.cpp:80
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Delete the partition <filename>%1</filename>"
+msgctxt "@info:progress"
+msgid "Delete the partition <filename>%1</filename>"
+msgstr "ลบพาร์ทิชัน <filename>%1</filename>"
+
+#. +> trunk6 stable6
+#: jobs/job.cpp:45
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Source and target for copying do not overlap: Rollback is not required."
+msgctxt "@info:progress"
+msgid "Source and target for copying do not overlap: Rollback is not required."
+msgstr "ต้นทางและเป้าหมายของการคัดลอกจะต้องไม่ซ้อนเหลื่อมกัน: ต้องการการทำย้อนกลับ"
+
+#. +> trunk6 stable6
+#: jobs/job.cpp:69
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Rollback from: First sector: %1, last sector: %2."
+msgctxt "@info:progress"
+msgid "Rollback from: First byte: %1, last byte: %2."
+msgstr "ทำย้อนกลับจาก: เซกเตอร์แรก: %1, เซกเตอร์สุดท้าย: %2"
+
+#. +> trunk6 stable6
+#: jobs/job.cpp:70
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Rollback to: First sector: %1, last sector: %2."
+msgctxt "@info:progress"
+msgid "Rollback to: First byte: %1, last byte: %2."
+msgstr "ทำย้อนกลับถึง: เซกเตอร์แรก: %1, เซกเตอร์สุดท้าย: %2"
+
+#. +> trunk6 stable6
+#: jobs/job.cpp:74 jobs/job.cpp:80
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not open device <filename>%1</filename> to rollback copying."
+msgctxt "@info:progress"
+msgid "Could not open device <filename>%1</filename> to rollback copying."
+msgstr "ไม่สามารถเปิดอุปกรณ์ <filename>%1</filename> เพื่อทำย้อนกลับการคัดลอกได้"
+
+#. +> trunk6 stable6
+#: jobs/job.cpp:86
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Rollback failed: Source or target are not devices."
+msgctxt "@info:progress"
+msgid "Rollback failed: Source or target are not devices."
+msgstr "การย้อนกลับล้มเหลว: ต้นทางหรือเป้าหมายไม่ใช่อุปกรณ์ใด ๆ"
+
+#. +> trunk6 stable6
+#: jobs/job.cpp:106
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Job: %1"
+msgctxt "@info:progress"
+msgid "Job: %1"
+msgstr "งาน: %1"
+
+#. +> trunk6 stable6
+#: jobs/job.cpp:115
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain job status (error, warning, ...)"
+#| msgid "%1: %2"
+msgctxt "@info:progress job status (error, warning, ...)"
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#. +> trunk6 stable6
+#: jobs/job.cpp:134
+#, kde-kuit-format
+msgctxt "@info:progress job"
+msgid "Pending"
+msgstr "ถูกพักอยู่"
+
+#. +> trunk6 stable6
+#: jobs/job.cpp:135
+#, kde-kuit-format
+msgctxt "@info:progress job"
+msgid "Success"
+msgstr "สำเร็จ"
+
+#. +> trunk6 stable6
+#: jobs/job.cpp:136
+#, kde-kuit-format
+msgctxt "@info:progress job"
+msgid "Error"
+msgstr "ผิดพลาด"
+
+#. +> trunk6 stable6
+#: jobs/movefilesystemjob.cpp:52
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not open file system on partition <filename>%1</filename> for moving."
+msgctxt "@info:progress"
+msgid "Could not open file system on partition <filename>%1</filename> for moving."
+msgstr "ไม่สามารถเปิดระบบแฟ้มบนพาร์ทิชัน <filename>%1</filename> เพื่อทำการย้ายได้"
+
+#. +> trunk6 stable6
+#: jobs/movefilesystemjob.cpp:54
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not create target for moving file system on partition <filename>%1</filename>."
+msgctxt "@info:progress"
+msgid "Could not create target for moving file system on partition <filename>%1</filename>."
+msgstr "ไม่สามารถสร้างเป้าหมายสำหรับทำการย้ายระบบแฟ้มบนพาร์ทิชัน <filename>%1</filename> ได้"
+
+#. +> trunk6 stable6
+#: jobs/movefilesystemjob.cpp:63
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Rollback for file system on partition <filename>%1</filename> failed."
+msgctxt "@info:progress"
+msgid "Rollback for file system on partition <filename>%1</filename> failed."
+msgstr "การทำย้อนกลับระบบแฟ้มบนพาร์ทิชัน <filename>%1</filename> ล้มเหลว"
+
+#. +> trunk6 stable6
+#: jobs/movefilesystemjob.cpp:65 jobs/restorefilesystemjob.cpp:89
+#: jobs/shredfilesystemjob.cpp:66
+#, fuzzy, kde-format, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Closing device. This may take a few seconds."
+msgctxt "@info:progress"
+msgid "Closing device. This may take a few seconds."
+msgstr "ทำการปิดอุปกรณ์ การกระทำนี้อาจใช้เวลาบ้าง"
+
+#. +> trunk6 stable6
+#: jobs/movefilesystemjob.cpp:79
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Move the file system on partition <filename>%1</filename> to sector %2"
+msgctxt "@info:progress"
+msgid "Move the file system on partition <filename>%1</filename> to sector %2"
+msgstr "ย้ายระบบแฟ้มบนพาร์ทิชัน <filename>%1</filename> ไปยังเซกเตอร์ %2"
+
+#. +> trunk6 stable6
+#: jobs/movephysicalvolumejob.cpp:57
+#, kde-kuit-format
+msgctxt "@info/plain"
+msgid "Move used PE in %1 on %2 to other available Physical Volumes"
+msgstr ""
+
+#. +> trunk6 stable6
+#: jobs/removevolumegroupjob.cpp:41
+#, fuzzy, kde-kuit-format
+#| msgctxt "@label partition state"
+#| msgid "mounted on <filename>%1</filename>"
+msgctxt "@info/plain"
+msgid "Remove Volume Group: <filename>%1</filename>"
+msgstr "ถูกเมานท์ไว้ที่ <filename>%1</filename>"
+
+#. +> trunk6 stable6
+#: jobs/resizefilesystemjob.cpp:66
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "The file system on partition <filename>%2</filename> already has the requested length of 1 sector."
+#| msgid_plural "The file system on partition <filename>%2</filename> already has the requested length of %1 sectors."
+msgctxt "@info:progress"
+msgid "The file system on partition <filename>%2</filename> already has the requested length of 1 sector."
+msgid_plural "The file system on partition <filename>%2</filename> already has the requested length of %1 sectors."
+msgstr[0] "ระบบแฟ้มบนพาร์ทิชัน <filename>%2</filename> มีความยาว %1 เซกเตอร์ ตามที่ร้องขอมาอยู่แล้ว"
+
+#. +> trunk6 stable6
+#: jobs/resizefilesystemjob.cpp:69
+#, fuzzy, kde-format
+#| msgctxt "@info/plain"
+#| msgid "Resizing file system from %1 to %2 sectors."
+msgctxt "@info:progress"
+msgid "Resizing file system from %1 to %2 sectors."
+msgstr "ทำการปรับขนาดระบบแฟ้มจาก %1 เป็น %2 เซกเตอร์"
+
+#. +> trunk6 stable6
+#: jobs/resizefilesystemjob.cpp:76
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Resizing a %1 file system using internal backend functions."
+msgctxt "@info:progress"
+msgid "Resizing a %1 file system using internal backend functions."
+msgstr "ทำการปรับขนาดระบบแฟ้ม %1 โดยใช้ฟังก์ชันภายในของแบ็กเอนด์"
+
+#. +> trunk6 stable6
+#: jobs/resizefilesystemjob.cpp:91
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "The file system on partition <filename>%1</filename> cannot be resized because there is no support for it."
+msgctxt "@info:progress"
+msgid "The file system on partition <filename>%1</filename> cannot be resized because there is no support for it."
+msgstr "ระบบแฟ้มบนพาร์ทิชัน <filename>%1</filename> ไม่สามารถทำการปรับขนาดได้ เนื่องจากระบบแฟ้มนี้ไม่รองรับการปรับขนาด"
+
+#. +> trunk6 stable6
+#: jobs/resizefilesystemjob.cpp:119
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Successfully resized file system using internal backend functions."
+msgctxt "@info:progress"
+msgid "Successfully resized file system using internal backend functions."
+msgstr "ทำการปรับขนาดระบบแฟ้มโดยใช้ฟังก์ชันภายในของแบ็กเอนด์เสร็จเรียบร้อยแล้ว"
+
+#. +> trunk6 stable6
+#: jobs/resizefilesystemjob.cpp:123
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not open partition <filename>%1</filename> while trying to resize the file system."
+msgctxt "@info:progress"
+msgid "Could not open partition <filename>%1</filename> while trying to resize the file system."
+msgstr "ไม่สามารถเปิดพาร์ทิชัน <filename>%1</filename> ในระหว่างพยายามปรับขนาดระบบแฟ้มได้"
+
+#. +> trunk6 stable6
+#: jobs/resizefilesystemjob.cpp:126
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not read geometry for partition <filename>%1</filename> while trying to resize the file system."
+msgctxt "@info:progress"
+msgid "Could not read geometry for partition <filename>%1</filename> while trying to resize the file system."
+msgstr "ไม่สามารถอ่านค่าตำแหน่งของพาร์ทิชัน <filename>%1</filename> ได้ ในระหว่างพยายามปรับขนาดระบบแฟ้ม"
+
+#. +> trunk6 stable6
+#: jobs/resizefilesystemjob.cpp:134
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Maximize file system on <filename>%1</filename> to fill the partition"
+msgctxt "@info:progress"
+msgid "Maximize file system on <filename>%1</filename> to fill the partition"
+msgstr "ปรับขนาดระบบแฟ้มบน <filename>%1</filename> ให้ใหญ่ที่สุดเต็มพาร์ทิชัน"
+
+#. +> trunk6 stable6
+#: jobs/resizefilesystemjob.cpp:136
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Resize file system on partition <filename>%2</filename> to 1 sector"
+#| msgid_plural "Resize file system on partition <filename>%2</filename> to %1 sectors"
+msgctxt "@info:progress"
+msgid "Resize file system on partition <filename>%2</filename> to 1 sector"
+msgid_plural "Resize file system on partition <filename>%2</filename> to %1 sectors"
+msgstr[0] "ปรับขนาดระบบแฟ้มบนพาร์ทิชัน <filename>%2</filename> เป็น %1 เซกเตอร์"
+
+#. +> trunk6 stable6
+#: jobs/resizevolumegroupjob.cpp:59
+#, kde-kuit-format
+msgctxt "@info/plain"
+msgid "Adding LVM Physical Volume %2 to %3."
+msgid_plural "Adding LVM Physical Volumes %2 to %3."
+msgstr[0] ""
+
+#. +> trunk6 stable6
+#: jobs/resizevolumegroupjob.cpp:62
+#, kde-kuit-format
+msgctxt "@info/plain"
+msgid "Removing LVM Physical Volume %2 from %3."
+msgid_plural "Removing LVM Physical Volumes %2 from %3."
+msgstr[0] ""
+
+#. +> trunk6 stable6
+#: jobs/resizevolumegroupjob.cpp:64
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Resizing file system from %1 to %2 sectors."
+msgctxt "@info/plain"
+msgid "Resizing Volume Group %1 to %2."
+msgstr "ทำการปรับขนาดระบบแฟ้มจาก %1 เป็น %2 เซกเตอร์"
+
+#. +> trunk6 stable6
+#: jobs/restorefilesystemjob.cpp:62
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not open backup file <filename>%1</filename> to restore from."
+msgctxt "@info:progress"
+msgid "Could not open backup file <filename>%1</filename> to restore from."
+msgstr "ไม่สามารถเปิดแฟ้มสำรองข้อมูล <filename>%1</filename> เพื่อใช้ในการเรียกคืนได้"
+
+#. +> trunk6 stable6
+#: jobs/restorefilesystemjob.cpp:64 jobs/shredfilesystemjob.cpp:63
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not open target partition <filename>%1</filename> to restore to."
+msgctxt "@info:progress"
+msgid "Could not open target partition <filename>%1</filename> to restore to."
+msgstr "ไม่สามารถเปิดพาร์ทิชันเป้าหมาย <filename>%1</filename> เพื่อทำการเรียกคืนได้"
+
+#. +> trunk6 stable6
+#: jobs/restorefilesystemjob.cpp:100
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Restore the file system from file <filename>%1</filename> to partition <filename>%2</filename>"
+msgctxt "@info:progress"
+msgid "Restore the file system from file <filename>%1</filename> to partition <filename>%2</filename>"
+msgstr "เรียกคืนระบบแฟ้มจากแฟ้ม <filename>%1</filename> ไปยังพาร์ทิชัน <filename>%2</filename>"
+
+#. +> trunk6 stable6
+#: jobs/setfilesystemlabeljob.cpp:48
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "File system on partition <filename>%1</filename> does not support setting labels. Job ignored."
+msgctxt "@info:progress"
+msgid "File system on partition <filename>%1</filename> does not support setting labels. Job ignored."
+msgstr "ระบบแฟ้มบนพาร์ทิชัน <filename>%1</filename> ไม่รองรับการตั้งค่าป้ายชื่อ งานถูกเพิกเฉย"
+
+#. +> trunk6 stable6
+#: jobs/setfilesystemlabeljob.cpp:81
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Set the file system label on partition <filename>%1</filename> to \"%2\""
+msgctxt "@info:progress"
+msgid "Set the file system label on partition <filename>%1</filename> to \"%2\""
+msgstr "ตั้งค่าป้ายชื่อระบบแฟ้มบนพาร์ทิชัน <filename>%1</filename> ไปเป็น \"%2\""
+
+#. +> trunk6 stable6
+#: jobs/setpartflagsjob.cpp:65
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain flag turned on, active"
+#| msgid "on"
+msgctxt "@info:progress flag turned on, active"
+msgid "on"
+msgstr "เปิด"
+
+#. +> trunk6 stable6
+#: jobs/setpartflagsjob.cpp:65
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain flag turned off, inactive"
+#| msgid "off"
+msgctxt "@info:progress flag turned off, inactive"
+msgid "off"
+msgstr "ปิด"
+
+#. +> trunk6 stable6
+#: jobs/setpartflagsjob.cpp:65
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "There was an error setting flag %1 for partition <filename>%2</filename> to state %3."
+msgctxt "@info:progress"
+msgid "There was an error setting flag %1 for partition <filename>%2</filename> to state %3."
+msgstr "เกิดข้อผิดพลาดในการตั้งค่าแฟล็ก %1 ให้กับพาร์ทิชัน <filename>%2</filename> เพื่อให้มีสถานะ %3"
+
+#. +> trunk6 stable6
+#: jobs/setpartflagsjob.cpp:74
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not open partition table on device <filename>%1</filename> to set partition flags for partition <filename>%2</filename>."
+msgctxt "@info:progress"
+msgid "Could not open partition table on device <filename>%1</filename> to set partition flags for partition <filename>%2</filename>."
+msgstr "ไม่สามารถเปิดตารางพาร์ทิชันบนอุปกรณ์ <filename>%1</filename> เพื่อทำการตั้งค่าแฟล็กต่าง ๆ ใหักับพาร์ทิชัน <filename>%2</filename> ได้"
+
+#. +> trunk6 stable6
+#: jobs/setpartflagsjob.cpp:76
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not open device <filename>%1</filename> to set partition flags for partition <filename>%2</filename>."
+msgctxt "@info:progress"
+msgid "Could not open device <filename>%1</filename> to set partition flags for partition <filename>%2</filename>."
+msgstr "ไม่สามารถเปิดอุปกรณ์ <filename>%1</filename> เพื่อทำการตั้งค่าแฟล็กต่าง ๆ ให้กับพาร์ทิชัน <filename>%2</filename> ได้"
+
+#. +> trunk6 stable6
+#: jobs/setpartflagsjob.cpp:89
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Clear flags for partition <filename>%1</filename>"
+msgctxt "@info:progress"
+msgid "Clear flags for partition <filename>%1</filename>"
+msgstr "ล้างค่าแฟล็กต่าง ๆ ของพาร์ทิชัน <filename>%1</filename>"
+
+#. +> trunk6 stable6
+#: jobs/setpartflagsjob.cpp:91
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Set the flags for partition <filename>%1</filename> to \"%2\""
+msgctxt "@info:progress"
+msgid "Set the flags for partition <filename>%1</filename> to \"%2\""
+msgstr "ตั้งค่าแฟล็กต่าง ๆ ให้กับพาร์ทิชัน <filename>%1</filename> ไปเป็น \"%2\""
+
+#. +> trunk6 stable6
+#: jobs/setpartgeometryjob.cpp:65
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not open device <filename>%1</filename> while trying to resize/move partition <filename>%2</filename>."
+msgctxt "@info:progress"
+msgid "Could not open device <filename>%1</filename> while trying to resize/move partition <filename>%2</filename>."
+msgstr "ไม่สามารถเปิดอุปกรณ์ <filename>%1</filename> ในระหว่างพยายามทำการปรับขนาด/ย้ายพาร์ทิชัน <filename>%2</filename> ได้"
+
+#. +> trunk6 stable6
+#: jobs/setpartgeometryjob.cpp:81
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Set geometry of partition <filename>%1</filename>: Start sector: %2, length: %3"
+msgctxt "@info:progress"
+msgid "Set geometry of partition <filename>%1</filename>: Start sector: %2, length: %3"
+msgstr "ตั้งค่าตำแหน่งของพาร์ทิชัน <filename>%1</filename>: เซกเตอร์เริ่ม: %2, ความยาว: %3"
+
+#. +> trunk6 stable6
+#: jobs/setpartitionattributesjob.cpp:47
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "File system on partition <filename>%1</filename> does not support setting labels. Job ignored."
+msgctxt "@info:progress"
+msgid "Partition table of partition <filename>%1</filename> does not support setting attributes. Job ignored."
+msgstr "ระบบแฟ้มบนพาร์ทิชัน <filename>%1</filename> ไม่รองรับการตั้งค่าป้ายชื่อ งานถูกเพิกเฉย"
+
+#. +> trunk6 stable6
+#: jobs/setpartitionattributesjob.cpp:59
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Failed to create new partition <filename>%1</filename>."
+msgctxt "@info:progress"
+msgid "Failed to set the attributes for the partition <filename>%1</filename>."
+msgstr "ล้มเหลวในการสร้างพาร์ทิชันใหม่ <filename>%1</filename>"
+
+#. +> trunk6 stable6
+#: jobs/setpartitionattributesjob.cpp:61
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not open partition table on device <filename>%1</filename> to delete partition <filename>%2</filename>."
+msgctxt "@info:progress"
+msgid "Could not open partition table on device <filename>%1</filename> to set the attributes for the partition <filename>%2</filename>."
+msgstr "ไม่สามารถเปิดพาร์ทิชันบนอุปกรณ์ <filename>%1</filename> เพื่อลบพาร์ทิชัน <filename>%2</filename> ได้"
+
+#. +> trunk6 stable6
+#: jobs/setpartitionattributesjob.cpp:63
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not open device <filename>%1</filename> to set partition flags for partition <filename>%2</filename>."
+msgctxt "@info:progress"
+msgid "Could not open device <filename>%1</filename> to set the attributes for partition <filename>%2</filename>."
+msgstr "ไม่สามารถเปิดอุปกรณ์ <filename>%1</filename> เพื่อทำการตั้งค่าแฟล็กต่าง ๆ ให้กับพาร์ทิชัน <filename>%2</filename> ได้"
+
+#. +> trunk6 stable6
+#: jobs/setpartitionattributesjob.cpp:74
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Set label for partition <filename>%1</filename> to \"%2\""
+msgctxt "@info:progress"
+msgid "Set the attributes on partition <filename>%1</filename> to \"%2\""
+msgstr "ตั้งค่าป้ายชื่อของพาร์ทิชัน <filename>%1</filename> เป็น \"%2\""
+
+#. +> trunk6 stable6
+#: jobs/setpartitionlabeljob.cpp:47
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "File system on partition <filename>%1</filename> does not support setting labels. Job ignored."
+msgctxt "@info:progress"
+msgid "Partition table of partition <filename>%1</filename> does not support setting names. Job ignored."
+msgstr "ระบบแฟ้มบนพาร์ทิชัน <filename>%1</filename> ไม่รองรับการตั้งค่าป้ายชื่อ งานถูกเพิกเฉย"
+
+#. +> trunk6 stable6
+#: jobs/setpartitionlabeljob.cpp:59
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Failed to create new partition <filename>%1</filename>."
+msgctxt "@info:progress"
+msgid "Failed to set the name for the partition <filename>%1</filename>."
+msgstr "ล้มเหลวในการสร้างพาร์ทิชันใหม่ <filename>%1</filename>"
+
+#. +> trunk6 stable6
+#: jobs/setpartitionlabeljob.cpp:61
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not open partition table on device <filename>%1</filename> to delete partition <filename>%2</filename>."
+msgctxt "@info:progress"
+msgid "Could not open partition table on device <filename>%1</filename> to set the name for the partition <filename>%2</filename>."
+msgstr "ไม่สามารถเปิดพาร์ทิชันบนอุปกรณ์ <filename>%1</filename> เพื่อลบพาร์ทิชัน <filename>%2</filename> ได้"
+
+#. +> trunk6 stable6
+#: jobs/setpartitionlabeljob.cpp:63
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not open device <filename>%1</filename> to set partition flags for partition <filename>%2</filename>."
+msgctxt "@info:progress"
+msgid "Could not open device <filename>%1</filename> to set the name for partition <filename>%2</filename>."
+msgstr "ไม่สามารถเปิดอุปกรณ์ <filename>%1</filename> เพื่อทำการตั้งค่าแฟล็กต่าง ๆ ให้กับพาร์ทิชัน <filename>%2</filename> ได้"
+
+#. +> trunk6 stable6
+#: jobs/setpartitionlabeljob.cpp:74
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Set label for partition <filename>%1</filename> to \"%2\""
+msgctxt "@info:progress"
+msgid "Set the label on partition <filename>%1</filename> to \"%2\""
+msgstr "ตั้งค่าป้ายชื่อของพาร์ทิชัน <filename>%1</filename> เป็น \"%2\""
+
+#. +> trunk6 stable6
+#: jobs/setpartitionuuidjob.cpp:47
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "File system on partition <filename>%1</filename> does not support setting labels. Job ignored."
+msgctxt "@info:progress"
+msgid "Partition table of partition <filename>%1</filename> does not support setting UUIDs. Job ignored."
+msgstr "ระบบแฟ้มบนพาร์ทิชัน <filename>%1</filename> ไม่รองรับการตั้งค่าป้ายชื่อ งานถูกเพิกเฉย"
+
+#. +> trunk6 stable6
+#: jobs/setpartitionuuidjob.cpp:59
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Failed to create new partition <filename>%1</filename>."
+msgctxt "@info:progress"
+msgid "Failed to set the UUID for the partition <filename>%1</filename>."
+msgstr "ล้มเหลวในการสร้างพาร์ทิชันใหม่ <filename>%1</filename>"
+
+#. +> trunk6 stable6
+#: jobs/setpartitionuuidjob.cpp:61
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not open partition table on device <filename>%1</filename> to delete partition <filename>%2</filename>."
+msgctxt "@info:progress"
+msgid "Could not open partition table on device <filename>%1</filename> to set the UUID for the partition <filename>%2</filename>."
+msgstr "ไม่สามารถเปิดพาร์ทิชันบนอุปกรณ์ <filename>%1</filename> เพื่อลบพาร์ทิชัน <filename>%2</filename> ได้"
+
+#. +> trunk6 stable6
+#: jobs/setpartitionuuidjob.cpp:63
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not open device <filename>%1</filename> to set partition flags for partition <filename>%2</filename>."
+msgctxt "@info:progress"
+msgid "Could not open device <filename>%1</filename> to set the UUID for partition <filename>%2</filename>."
+msgstr "ไม่สามารถเปิดอุปกรณ์ <filename>%1</filename> เพื่อทำการตั้งค่าแฟล็กต่าง ๆ ให้กับพาร์ทิชัน <filename>%2</filename> ได้"
+
+#. +> trunk6 stable6
+#: jobs/setpartitionuuidjob.cpp:74
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Set label for partition <filename>%1</filename> to \"%2\""
+msgctxt "@info:progress"
+msgid "Set the UUID on partition <filename>%1</filename> to \"%2\""
+msgstr "ตั้งค่าป้ายชื่อของพาร์ทิชัน <filename>%1</filename> เป็น \"%2\""
+
+#. +> trunk6 stable6
+#: jobs/shredfilesystemjob.cpp:61
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not open random data source to overwrite file system."
+msgctxt "@info:progress"
+msgid "Could not open random data source to overwrite file system."
+msgstr "ไม่สามารถเปิดสุ่มข้อมูลต้นทางเพื่อเขียนทับระบบแฟ้มได้"
+
+#. +> trunk6 stable6
+#: jobs/shredfilesystemjob.cpp:77
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Shred the file system on <filename>%1</filename>"
+msgctxt "@info:progress"
+msgid "Shred the file system on <filename>%1</filename>"
+msgstr "ลบระบบแฟ้มแบบทำลายข้อมูลบน <filename>%1</filename>"
+
+#. +> trunk6 stable6
+#: ops/backupoperation.cpp:39
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Backup partition <filename>%1</filename> (%2, %3) to <filename>%4</filename>"
+msgctxt "@info:status"
+msgid "Backup partition <filename>%1</filename> (%2, %3) to <filename>%4</filename>"
+msgstr "สำรองข้อมูลพาร์ทิชัน <filename>%1</filename> (%2, %3) ไปยัง <filename>%4</filename>"
+
+#. +> trunk6 stable6
+#: ops/checkoperation.cpp:50
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Check and repair partition <filename>%1</filename> (%2, %3)"
+msgctxt "@info:status"
+msgid "Check and repair partition <filename>%1</filename> (%2, %3)"
+msgstr "ตรวจสอบและซ่อมแซมพาร์ทิชัน <filename>%1</filename> (%2, %3)"
+
+#. +> trunk6 stable6
+#: ops/copyoperation.cpp:147 ops/restoreoperation.cpp:131
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Warning: Maximizing file system on target partition <filename>%1</filename> to the size of the partition failed."
+msgctxt "@info:status"
+msgid "<warning>Maximizing file system on target partition <filename>%1</filename> to the size of the partition failed.</warning>"
+msgstr "คำเตือน: ล้มเหลวในกการปรับขนาดระบบแฟ้มให้ใหญ่ที่สุดบนพาร์ทิชันเป้าหมาย <filename>%1</filename>"
+
+#. +> trunk6 stable6
+#: ops/copyoperation.cpp:151
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Checking target partition <filename>%1</filename> after copy failed."
+msgctxt "@info:status"
+msgid "Checking target partition <filename>%1</filename> after copy failed."
+msgstr "ทำการตรวจสอบพาร์ทิชันเป้าหมาย <filename>%1</filename> หลังทำการคัดลอกล้มเหลว"
+
+#. +> trunk6 stable6
+#: ops/copyoperation.cpp:158
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Copying source to target partition failed."
+msgctxt "@info:status"
+msgid "Copying source to target partition failed."
+msgstr "ล้มเหลวในการคัดลอกพาร์ทิชันต้นทางไปยังพาร์ทิชันเป้าหมาย"
+
+#. +> trunk6 stable6
+#: ops/copyoperation.cpp:161
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Creating target partition for copying failed."
+msgctxt "@info:status"
+msgid "Creating target partition for copying failed."
+msgstr "ล้มเหลวในการสร้างพาร์ทิชันเป้าหมายเพื่อทำการคัดลอก"
+
+#. +> trunk6 stable6
+#: ops/copyoperation.cpp:163
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Checking source partition <filename>%1</filename> failed."
+msgctxt "@info:status"
+msgid "Checking source partition <filename>%1</filename> failed."
+msgstr "ล้มเหลวในการสร้างพาร์ทิชันต้นทาง <filename>%1</filename>"
+
+#. +> trunk6 stable6
+#: ops/copyoperation.cpp:170 ops/operation.cpp:174 ops/resizeoperation.cpp:175
+#: ops/restoreoperation.cpp:148
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain job status (error, warning, ...)"
+#| msgid "%1: %2"
+msgctxt "@info:status (success, error, warning...) of operation"
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#. +> trunk6 stable6
+#: ops/copyoperation.cpp:179
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Copy partition <filename>%1</filename> (%2, %3) to <filename>%4</filename> (%5, %6)"
+msgctxt "@info:status"
+msgid "Copy partition <filename>%1</filename> (%2, %3) to <filename>%4</filename> (%5, %6)"
+msgstr "คัดลอกพาร์ทิชัน <filename>%1</filename> (%2, %3) ไปยัง <filename>%4</filename> (%5, %6)"
+
+#. +> trunk6 stable6
+#: ops/copyoperation.cpp:188
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Copy partition <filename>%1</filename> (%2, %3) to <filename>%4</filename> (%5, %6) and grow it to %7"
+msgctxt "@info:status"
+msgid "Copy partition <filename>%1</filename> (%2, %3) to <filename>%4</filename> (%5, %6) and grow it to %7"
+msgstr "คัดลอกพาร์ทิชัน <filename>%1</filename> (%2, %3) ไปยัง <filename>%4</filename> (%5, %6) และขยายพื้นที่มันเป็น %7"
+
+#. +> trunk6 stable6
+#: ops/copyoperation.cpp:200
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Copy partition <filename>%1</filename> (%2, %3) to unallocated space (starting at %4) on <filename>%5</filename>"
+msgctxt "@info:status"
+msgid "Copy partition <filename>%1</filename> (%2, %3) to unallocated space (starting at %4) on <filename>%5</filename>"
+msgstr "คัดลอกพาร์ทิชัน <filename>%1</filename> (%2, %3) ไปยังพื้นที่ที่ยังไม่มีการใช้ (เริ่มที่ %4) บน <filename>%5</filename>"
+
+#. +> trunk6 stable6
+#: ops/copyoperation.cpp:208
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Copy partition <filename>%1</filename> (%2, %3) to unallocated space (starting at %4) on <filename>%5</filename> and grow it to %6"
+msgctxt "@info:status"
+msgid "Copy partition <filename>%1</filename> (%2, %3) to unallocated space (starting at %4) on <filename>%5</filename> and grow it to %6"
+msgstr "คัดลอกพาร์ทิชัน <filename>%1</filename> (%2, %3) ไปยังพื้นที่ที่ยังไม่มีการใช้ (เริ่มที่ %4) บน <filename>%5</filename> แล้วขยายพื้นที่มันเป็น %6"
+
+#. +> trunk6 stable6
+#: ops/createfilesystemoperation.cpp:89
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Create filesystem %1 on partition <filename>%2</filename>"
+msgctxt "@info:status"
+msgid "Create filesystem %1 on partition <filename>%2</filename>"
+msgstr "สร้างระบบแฟ้ม %1 บนพาร์ทิชัน <filename>%2</filename>"
+
+#. +> trunk6 stable6
+#: ops/createpartitiontableoperation.cpp:104
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Create a new partition table (type: %1) on <filename>%2</filename>"
+msgctxt "@info:status"
+msgid "Create a new partition table (type: %1) on <filename>%2</filename>"
+msgstr "สร้างตารางพาร์ทิชันใหม่ (ประเภท: %1) บน <filename>%2</filename>"
+
+#. +> trunk6 stable6
+#: ops/createvolumegroupoperation.cpp:36
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info:status"
+#| msgid "Create a new partition."
+msgctxt "@info/plain"
+msgid "Create a new LVM volume group named '%1'."
+msgstr "สร้างพาร์ทิชันใหม่"
+
+#. +> trunk6 stable6
+#: ops/deactivatevolumegroupoperation.cpp:35
+#, fuzzy, kde-kuit-format
+#| msgctxt "@title:menu"
+#| msgid "Deactivate swap"
+msgctxt "@info/plain"
+msgid "Deactivate volume group."
+msgstr "ปิดการใช้ swap"
+
+#. +> trunk6 stable6
+#: ops/deleteoperation.cpp:87
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Shred partition <filename>%1</filename> (%2, %3)"
+msgctxt "@info:status"
+msgid "Shred partition <filename>%1</filename> (%2, %3)"
+msgstr "ลบพาร์ทิชัน <filename>%1</filename> แบบทำลายข้อมูล (%2, %3)"
+
+#. +> trunk6 stable6
+#: ops/deleteoperation.cpp:89
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Delete partition <filename>%1</filename> (%2, %3)"
+msgctxt "@info:status"
+msgid "Delete partition <filename>%1</filename> (%2, %3)"
+msgstr "ลบพาร์ทิชัน <filename>%1</filename> (%2, %3)"
+
+#. +> trunk6 stable6
+#: ops/newoperation.cpp:205
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Create a new partition (%1, %2) on <filename>%3</filename>"
+msgctxt "@info:status"
+msgid "Create a new partition (%1, %2) on <filename>%3</filename>"
+msgstr "สร้างพาร์ทิชันใหม่ (%1, %2) บน <filename>%3</filename>"
+
+#. +> trunk6 stable6
+#: ops/operation.cpp:75
+#, kde-kuit-format
+msgctxt "@info:progress operation"
+msgid "None"
+msgstr "ไม่มี"
+
+#. +> trunk6 stable6
+#: ops/operation.cpp:76
+#, kde-kuit-format
+msgctxt "@info:progress operation"
+msgid "Pending"
+msgstr "รอทำงานอยู่"
+
+#. +> trunk6 stable6
+#: ops/operation.cpp:77
+#, kde-kuit-format
+msgctxt "@info:progress operation"
+msgid "Running"
+msgstr "ทำงานอยู่"
+
+#. +> trunk6 stable6
+#: ops/operation.cpp:78
+#, kde-kuit-format
+msgctxt "@info:progress operation"
+msgid "Success"
+msgstr "สำเร็จ"
+
+#. +> trunk6 stable6
+#: ops/operation.cpp:79
+#, kde-kuit-format
+msgctxt "@info:progress operation"
+msgid "Warning"
+msgstr "แจ้งเตือน"
+
+#. +> trunk6 stable6
+#: ops/operation.cpp:80
+#, kde-kuit-format
+msgctxt "@info:progress operation"
+msgid "Error"
+msgstr "ผิดพลาด"
+
+#. +> trunk6 stable6
+#: ops/removevolumegroupoperation.cpp:35
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info:status"
+#| msgid "Create a new partition."
+msgctxt "@info/plain"
+msgid "Remove a LVM volume group."
+msgstr "สร้างพาร์ทิชันใหม่"
+
+#. +> trunk6 stable6
+#: ops/resizeoperation.cpp:156
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Moving extended partition <filename>%1</filename> failed."
+msgctxt "@info:status"
+msgid "Moving extended partition <filename>%1</filename> failed."
+msgstr "ล้มเหลวในการย้ายพาร์ทิชันส่วนขยาย <filename>%1</filename>"
+
+#. +> trunk6 stable6
+#: ops/resizeoperation.cpp:165
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Checking partition <filename>%1</filename> after resize/move failed."
+msgctxt "@info:status"
+msgid "Checking partition <filename>%1</filename> after resize/move failed."
+msgstr "ล้มเหลวในการตรวจสอบพาร์ทิชัน <filename>%1</filename> หลังจากทำการปรับขนาด/ย้ายแล้ว"
+
+#. +> trunk6 stable6
+#: ops/resizeoperation.cpp:168
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Resizing/moving partition <filename>%1</filename> failed."
+msgctxt "@info:status"
+msgid "Resizing/moving partition <filename>%1</filename> failed."
+msgstr "ล้มเหลวในการปรับขนาด/การย้ายพาร์ทิชัน <filename>%1</filename>"
+
+#. +> trunk6 stable6
+#: ops/resizeoperation.cpp:171
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Checking partition <filename>%1</filename> before resize/move failed."
+msgctxt "@info:status"
+msgid "Checking partition <filename>%1</filename> before resize/move failed."
+msgstr "ล้มเหลวในการตรวจสอบพาร์ทิชัน <filename>%1</filename> ก่อนทำการปรับขนาด/การย้าย"
+
+#. +> trunk6 stable6
+#: ops/resizeoperation.cpp:201
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain describe resize/move action"
+#| msgid "Move partition <filename>%1</filename> to the left by %2"
+msgctxt "@info:status describe resize/move action"
+msgid "Move partition <filename>%1</filename> to the left by %2"
+msgstr "ย้ายพาร์ทิชัน <filename>%1</filename> ไปทางซ้าย เป็นระยะ %2"
+
+#. +> trunk6 stable6
+#: ops/resizeoperation.cpp:204
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain describe resize/move action"
+#| msgid "Move partition <filename>%1</filename> to the right by %2"
+msgctxt "@info:status describe resize/move action"
+msgid "Move partition <filename>%1</filename> to the right by %2"
+msgstr "ย้ายพาร์ทิชัน <filename>%1</filename> ไปทางขวา เป็นระยะ %2"
+
+#. +> trunk6 stable6
+#: ops/resizeoperation.cpp:207
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain describe resize/move action"
+#| msgid "Grow partition <filename>%1</filename> from %2 to %3"
+msgctxt "@info:status describe resize/move action"
+msgid "Grow partition <filename>%1</filename> from %2 to %3"
+msgstr "ขยายพาร์ทิชัน <filename>%1</filename> จาก %2 เป็น %3"
+
+#. +> trunk6 stable6
+#: ops/resizeoperation.cpp:210
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain describe resize/move action"
+#| msgid "Shrink partition <filename>%1</filename> from %2 to %3"
+msgctxt "@info:status describe resize/move action"
+msgid "Shrink partition <filename>%1</filename> from %2 to %3"
+msgstr "ลดขนาดพาร์ทิชัน <filename>%1</filename> จาก %2 เป็น %3"
+
+#. +> trunk6 stable6
+#: ops/resizeoperation.cpp:213
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain describe resize/move action"
+#| msgid "Move partition <filename>%1</filename> to the left by %2 and grow it from %3 to %4"
+msgctxt "@info:status describe resize/move action"
+msgid "Move partition <filename>%1</filename> to the left by %2 and grow it from %3 to %4"
+msgstr "ย้ายพาร์ทิชัน <filename>%1</filename> ไปทางซ้าย เป็นระยะ %2 และขยายพื้นที่มันจากเดิม %3 เป็น %4"
+
+#. +> trunk6 stable6
+#: ops/resizeoperation.cpp:216
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain describe resize/move action"
+#| msgid "Move partition <filename>%1</filename> to the right by %2 and grow it from %3 to %4"
+msgctxt "@info:status describe resize/move action"
+msgid "Move partition <filename>%1</filename> to the right by %2 and grow it from %3 to %4"
+msgstr "ย้ายพาร์ทิชัน <filename>%1</filename> ไปทางขวา เป็นระยะ %2 และขยายพื้นที่มันจากเดิม %3 เป็น %4"
+
+#. +> trunk6 stable6
+#: ops/resizeoperation.cpp:219
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain describe resize/move action"
+#| msgid "Move partition <filename>%1</filename> to the left by %2 and shrink it from %3 to %4"
+msgctxt "@info:status describe resize/move action"
+msgid "Move partition <filename>%1</filename> to the left by %2 and shrink it from %3 to %4"
+msgstr "ย้ายพาร์ทิชัน <filename>%1</filename> ไปทางซ้าย เป็นระยะ %2 และลดขนาดพื้นที่มันจากเดิม %3 เป็น %4"
+
+#. +> trunk6 stable6
+#: ops/resizeoperation.cpp:222
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain describe resize/move action"
+#| msgid "Move partition <filename>%1</filename> to the right by %2 and shrink it from %3 to %4"
+msgctxt "@info:status describe resize/move action"
+msgid "Move partition <filename>%1</filename> to the right by %2 and shrink it from %3 to %4"
+msgstr "ย้ายพาร์ทิชัน <filename>%1</filename> ไปทางขวา เป็นระยะ %2 และลดขนาดพื้นที่มันจากเดิม %3 เป็น %4"
+
+#. +> trunk6 stable6
+#: ops/resizeoperation.cpp:229
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain describe resize/move action"
+#| msgid "Unknown resize/move action."
+msgctxt "@info:status describe resize/move action"
+msgid "Unknown resize/move action."
+msgstr "การกระทำการปรับขนาด/การย้าย ที่ไม่รู้จัก"
+
+#. +> trunk6 stable6
+#: ops/resizeoperation.cpp:258
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Resize/move failed: Could not resize file system to shrink partition <filename>%1</filename>."
+msgctxt "@info:status"
+msgid "Resize/move failed: Could not resize file system to shrink partition <filename>%1</filename>."
+msgstr "ล้มเหลวในการปรับขนาด/ย้าย: ไม่สามารถปรับขนาดระบบแฟ้มเพื่อลดขนาดพาร์ทิชัน <filename>%1</filename> ได้"
+
+#. +> trunk6 stable6
+#: ops/resizeoperation.cpp:263
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Resize/move failed: Could not shrink partition <filename>%1</filename>."
+msgctxt "@info:status"
+msgid "Resize/move failed: Could not shrink partition <filename>%1</filename>."
+msgstr "ล้มเหลวในการปรับขนาด/ย้าย: ไม่สามารถลดขนาดพาร์ทิชัน <filename>%1</filename> ได้"
+
+#. +> trunk6 stable6
+#: ops/resizeoperation.cpp:282
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Moving partition <filename>%1</filename> failed."
+msgctxt "@info:status"
+msgid "Moving partition <filename>%1</filename> failed."
+msgstr "ล้มเหลวในการย้ายพาร์ทิชัน <filename>%1</filename>"
+
+#. +> trunk6 stable6
+#: ops/resizeoperation.cpp:287
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Moving the filesystem for partition <filename>%1</filename> failed. Rolling back."
+msgctxt "@info:status"
+msgid "Moving the filesystem for partition <filename>%1</filename> failed. Rolling back."
+msgstr "ล้มเหลวในการย้ายระบบแฟ้มของพาร์ทิชัน <filename>%1</filename> ทำการย้อนกลับ"
+
+#. +> trunk6 stable6
+#: ops/resizeoperation.cpp:291
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Moving back partition <filename>%1</filename> to its original position failed."
+msgctxt "@info:status"
+msgid "Moving back partition <filename>%1</filename> to its original position failed."
+msgstr "ล้มเหลวในการย้ายกลับพาร์ทิชัน <filename>%1</filename> ไปยังตำแหน่งเดิมของมัน"
+
+#. +> trunk6 stable6
+#: ops/resizeoperation.cpp:304
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Resize/move failed: Could not grow partition <filename>%1</filename>."
+msgctxt "@info:status"
+msgid "Resize/move failed: Could not grow partition <filename>%1</filename>."
+msgstr "ล้มเหลวในการปรับขนาด/ย้าย: ไม่สามารถขยายขนาดพาร์ทิชัน <filename>%1</filename> ได้"
+
+#. +> trunk6 stable6
+#: ops/resizeoperation.cpp:309
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Resize/move failed: Could not resize the file system on partition <filename>%1</filename>"
+msgctxt "@info:status"
+msgid "Resize/move failed: Could not resize the file system on partition <filename>%1</filename>"
+msgstr "ล้มเหลวในการปรับขนาด/ย้าย: ไม่สามารถปรับขนาดระบบแฟ้มบนพาร์ทิชัน <filename>%1</filename> ได้"
+
+#. +> trunk6 stable6
+#: ops/resizeoperation.cpp:312
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not restore old partition size for partition <filename>%1</filename>."
+msgctxt "@info:status"
+msgid "Could not restore old partition size for partition <filename>%1</filename>."
+msgstr "ไม่สามารถเรียกคืนขนาดพาร์ทิชันเดิมของพาร์ทิชัน <filename>%1</filename> ได้"
+
+#. +> trunk6 stable6
+#: ops/resizevolumegroupoperation.cpp:108
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Copying remainder of block size %1 from  %2 to %3."
+msgctxt "@info/plain"
+msgid "Resize volume %1 from %2 to %3"
+msgstr "กำลังคัดลอกส่วนที่เหลือของขนาดบล็อค %1 จาก  %2 เป็น %3"
+
+#. +> trunk6 stable6
+#: ops/restoreoperation.cpp:133
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Checking target file system on partition <filename>%1</filename> after the restore failed."
+msgctxt "@info:status"
+msgid "Checking target file system on partition <filename>%1</filename> after the restore failed."
+msgstr "ล้มเหลวในการตรวจสอบระบบแฟ้มบนพาร์ทิชัน <filename>%1</filename> หลังจากการทำการเรียกคืน"
+
+#. +> trunk6 stable6
+#: ops/restoreoperation.cpp:138
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Restoring file system failed."
+msgctxt "@info:status"
+msgid "Restoring file system failed."
+msgstr "ล้มเหลวในการเรียกคืนระบบแฟ้ม"
+
+#. +> trunk6 stable6
+#: ops/restoreoperation.cpp:141
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Creating the destination partition to restore to failed."
+msgctxt "@info:status"
+msgid "Creating the destination partition to restore to failed."
+msgstr "ล้มเหลวในการการสร้างพาร์ทิชันเป้าหมายเพื่อทำการเรียกคืน"
+
+#. +> trunk6 stable6
+#: ops/restoreoperation.cpp:156
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Restore partition from <filename>%1</filename> to <filename>%2</filename>"
+msgctxt "@info:status"
+msgid "Restore partition from <filename>%1</filename> to <filename>%2</filename>"
+msgstr "เรียกคืนพาร์ทิชันจาก <filename>%1</filename> ไปยัง <filename>%2</filename>"
+
+#. +> trunk6 stable6
+#: ops/restoreoperation.cpp:158
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Restore partition on <filename>%1</filename> at %2 from <filename>%3</filename>"
+msgctxt "@info:status"
+msgid "Restore partition on <filename>%1</filename> at %2 from <filename>%3</filename>"
+msgstr "เรียกคืนพาร์ทิชันบน <filename>%1</filename> ที่ %2 จาก <filename>%3</filename>"
+
+#. +> trunk6 stable6
+#: ops/setfilesystemlabeloperation.cpp:58
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Set label for partition <filename>%1</filename> to \"%2\""
+msgctxt "@info:status"
+msgid "Set label for partition <filename>%1</filename> to \"%2\""
+msgstr "ตั้งค่าป้ายชื่อของพาร์ทิชัน <filename>%1</filename> เป็น \"%2\""
+
+#. +> trunk6 stable6
+#: ops/setfilesystemlabeloperation.cpp:60
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Set label for partition <filename>%1</filename> from \"%2\" to \"%3\""
+msgctxt "@info:status"
+msgid "Set label for partition <filename>%1</filename> from \"%2\" to \"%3\""
+msgstr "ตั้งค่าป้ายชื่อของพาร์ทิชัน <filename>%1</filename> จากเดิม \"%2\" เป็น \"%3\""
+
+#. +> trunk6 stable6
+#: ops/setpartflagsoperation.cpp:62
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Clear flags for partition <filename>%1</filename>"
+msgctxt "@info:status"
+msgid "Clear flags for partition <filename>%1</filename>"
+msgstr "ล้างค่าแฟล็กต่าง ๆ ของพาร์ทิชัน <filename>%1</filename>"
+
+#. +> trunk6 stable6
+#: ops/setpartflagsoperation.cpp:64
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Set flags for partition <filename>%1</filename> to \"%2\""
+msgctxt "@info:status"
+msgid "Set flags for partition <filename>%1</filename> to \"%2\""
+msgstr "ตั้งค่าแฟล็กต่าง ๆ ให้กับพาร์ทิชัน <filename>%1</filename> ไปเป็น \"%2\""
+
+#. +> trunk6 stable6
+#: ops/setpartlabeloperation.cpp:59
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Set label for partition <filename>%1</filename> to \"%2\""
+msgctxt "@info:status"
+msgid "Set GPT partition label <filename>%1</filename> to \"%2\""
+msgstr "ตั้งค่าป้ายชื่อของพาร์ทิชัน <filename>%1</filename> เป็น \"%2\""
+
+#. +> trunk6 stable6
+#: plugins/geom/geompartitiontable.cpp:91
+#: plugins/sfdisk/sfdiskpartitiontable.cpp:65
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Unknown partition role for new partition <filename>%1</filename> (roles: %2)"
+msgctxt "@info:progress"
+msgid "Unknown partition role for new partition <filename>%1</filename> (roles: %2)"
+msgstr "ไม่รู้จักบทบาทพาร์ทิชันของพาร์ทิชันใหม่ <filename>%1</filename> (บทบาท: %2)"
+
+#. +> trunk6 stable6
+#: plugins/geom/geompartitiontable.cpp:109
+#: plugins/sfdisk/sfdiskpartitiontable.cpp:89
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Failed to add partition <filename>%1</filename> to device <filename>%2</filename>."
+msgctxt "@info:progress"
+msgid "Failed to add partition <filename>%1</filename> to device <filename>%2</filename>."
+msgstr "ล้มเหลวในการเพิ่มพาร์ทิชัน <filename>%1</filename> ไปยังอุปกรณ์ <filename>%2</filename>"
+
+#. +> trunk6 stable6
+#: plugins/sfdisk/sfdiskbackend.cpp:243
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Device found: %1"
+msgctxt "@info:status"
+msgid "Software RAID Device found: %1"
+msgstr "อุปกรณ์ที่พบ: %1"
+
+#. +> trunk6 stable6
+#: plugins/sfdisk/sfdiskbackend.cpp:273
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Device found: %1"
+msgctxt "@info:status"
+msgid "Device found: %1"
+msgstr "อุปกรณ์ที่พบ: %1"
+
+#. +> trunk6 stable6
+#: plugins/sfdisk/sfdiskpartitiontable.cpp:114
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not set geometry for partition <filename>%1</filename> while trying to resize/move it."
+msgctxt "@info:progress"
+msgid "Could not set geometry for partition <filename>%1</filename> while trying to resize/move it."
+msgstr "ไม่สามารถตั้งค่าตำแหน่งของพาร์ทิชัน <filename>%1</filename> ได้ ในระหว่างพยายามปรับขนาด/ย้ายมัน"
+
+#. +> trunk6 stable6
+#: plugins/sfdisk/sfdiskpartitiontable.cpp:124
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Failed to erase reiser4 signature on partition <filename>%1</filename>."
+msgctxt "@info:progress"
+msgid "Failed to erase filesystem signature on partition <filename>%1</filename>."
+msgstr "ล้มเหลวในการลบลายเซ็นของระบบแฟ้ม reiser4 บนพาร์ทิชัน <filename>%1</filename>"
+
+#. +> trunk6 stable6
+#: plugins/sfdisk/sfdiskpartitiontable.cpp:157
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not determine file system of partition at sector %1 on device <filename>%2</filename>."
+msgctxt "@info:progress"
+msgid "Could not determine file system of partition at sector %1 on device <filename>%2</filename>."
+msgstr "ไม่สามารถระบุถึงระบบแฟ้มของพาร์ทิชันที่ตำแหน่งเซกเตอร์ %1 บนอุปกรณ์ <filename>%2</filename> ได้"
+
+#. +> trunk6 stable6
+#: util/capacity.cpp:100
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain unit"
+#| msgid "Byte"
+msgctxt "@item:intext unit"
+msgid "Byte"
+msgid_plural "Bytes"
+msgstr[0] "ไบต์"
+
+#. +> trunk6 stable6
+#: util/capacity.cpp:101
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain unit"
+#| msgid "KiB"
+msgctxt "@item:intext unit"
+msgid "KiB"
+msgstr "กิโลไบต์"
+
+#. +> trunk6 stable6
+#: util/capacity.cpp:102
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain unit"
+#| msgid "MiB"
+msgctxt "@item:intext unit"
+msgid "MiB"
+msgstr "เมกะไบต์"
+
+#. +> trunk6 stable6
+#: util/capacity.cpp:103
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain unit"
+#| msgid "GiB"
+msgctxt "@item:intext unit"
+msgid "GiB"
+msgstr "กิกะไบต์"
+
+#. +> trunk6 stable6
+#: util/capacity.cpp:104
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain unit"
+#| msgid "TiB"
+msgctxt "@item:intext unit"
+msgid "TiB"
+msgstr "เทระไบต์"
+
+#. +> trunk6 stable6
+#: util/capacity.cpp:105
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain unit"
+#| msgid "PiB"
+msgctxt "@item:intext unit"
+msgid "PiB"
+msgstr "เพตะไบต์"
+
+#. +> trunk6 stable6
+#: util/capacity.cpp:106
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain unit"
+#| msgid "EiB"
+msgctxt "@item:intext unit"
+msgid "EiB"
+msgstr "เอกซะไบต์"
+
+#. +> trunk6 stable6
+#: util/capacity.cpp:107
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain unit"
+#| msgid "ZiB"
+msgctxt "@item:intext unit"
+msgid "ZiB"
+msgstr "เซตะไบต์"
+
+#. +> trunk6 stable6
+#: util/capacity.cpp:108
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain unit"
+#| msgid "YiB"
+msgctxt "@item:intext unit"
+msgid "YiB"
+msgstr "ยอตตะไบต์"
+
+#. +> trunk6 stable6
+#: util/capacity.cpp:112
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain unit"
+#| msgid "(unknown unit)"
+msgctxt "@item:intext unit"
+msgid "(unknown unit)"
+msgstr "(ไม่ทราบหน่วยขนาด)"
+
+#. +> trunk6 stable6
+#: util/externalcommand.cpp:114 util/externalcommand.cpp:118
+#: util/externalcommand.cpp:241
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Command: %1 %2"
+msgctxt "@info:status"
+msgid "Command: %1 %2"
+msgstr "คำสั่ง: %1 %2"
+
+#. +> trunk6 stable6
+#: util/externalcommandhelper.cpp:82
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info"
+#| msgid "Could not open file <filename>%1</filename> for writing."
+msgid "Could not open device <filename>%1</filename> for reading."
+msgstr "ไม่สามารถเปิดแฟ้ม <filename>%1</filename> เพื่อทำการเขียนได้"
+
+#. +> trunk6 stable6
+#: util/externalcommandhelper.cpp:89 util/externalcommandhelper.cpp:120
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not access device <filename>%1</filename>"
+msgid "Could not seek position %1 on device <filename>%2</filename>."
+msgstr "ไม่สามารถเข้าใช้งานอุปกรณ์ <filename>%1</filename> ได้"
+
+#. +> trunk6 stable6
+#: util/externalcommandhelper.cpp:96
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not access device <filename>%1</filename>"
+msgid "Could not read from device <filename>%1</filename>."
+msgstr "ไม่สามารถเข้าใช้งานอุปกรณ์ <filename>%1</filename> ได้"
+
+#. +> trunk6 stable6
+#: util/externalcommandhelper.cpp:114
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info"
+#| msgid "Could not open file <filename>%1</filename> for writing."
+msgid "Could not open device <filename>%1</filename> for writing."
+msgstr "ไม่สามารถเปิดแฟ้ม <filename>%1</filename> เพื่อทำการเขียนได้"
+
+#. +> trunk6 stable6
+#: util/externalcommandhelper.cpp:125
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not access device <filename>%1</filename>"
+msgid "Could not write to device <filename>%1</filename>."
+msgstr "ไม่สามารถเข้าใช้งานอุปกรณ์ <filename>%1</filename> ได้"
+
+#. +> trunk6 stable6
+#: util/externalcommandhelper.cpp:151
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info"
+#| msgid "Could not open file <filename>%1</filename> for writing."
+msgid "Could not open file <filename>%1</filename> for writing."
+msgstr "ไม่สามารถเปิดแฟ้ม <filename>%1</filename> เพื่อทำการเขียนได้"
+
+#. +> trunk6 stable6
+#: util/externalcommandhelper.cpp:156
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Could not access device <filename>%1</filename>"
+msgid "Could not write to file <filename>%1</filename>."
+msgstr "ไม่สามารถเข้าใช้งานอุปกรณ์ <filename>%1</filename> ได้"
+
+#. +> trunk6 stable6
+#: util/externalcommandhelper.cpp:237
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Copying %1 blocks (%2 sectors) from %3 to %4, direction: %5."
+msgctxt "@info:progress"
+msgid "Copying %1 chunks (%2 bytes) from %3 to %4, direction: %5."
+msgstr "กำลังคัดลอก %1 บล็อค (%2 เซกเตอร์) จาก %3 ไปยัง %4, ทิศทาง: %5"
+
+#. +> trunk6 stable6
+#: util/externalcommandhelper.cpp:238
+#, kde-format
+msgctxt "direction: left"
+msgid "left"
+msgstr ""
+
+#. +> trunk6 stable6
+#: util/externalcommandhelper.cpp:239
+#, kde-format
+msgctxt "direction: right"
+msgid "right"
+msgstr ""
+
+#. +> trunk6 stable6
+#: util/externalcommandhelper.cpp:261
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Copying %1 MiB/second, estimated time left: %2"
+msgctxt "@info:progress"
+msgid "Copying %1 MiB/second, estimated time left: %2"
+msgstr "กำลังคัดลอก %1 เมกะไบต์/วินาที, เวลาที่เหลือประมาณ: %2"
+
+#. +> trunk6 stable6
+#: util/externalcommandhelper.cpp:274
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain"
+#| msgid "Copying remainder of block size %1 from  %2 to %3."
+msgctxt "@info:progress"
+msgid "Copying remainder of chunk size %1 from %2 to %3."
+msgstr "กำลังคัดลอกส่วนที่เหลือของขนาดบล็อค %1 จาก  %2 เป็น %3"
+
+#. +> trunk6 stable6
+#: util/externalcommandhelper.cpp:288
+#, kde-format
+msgid "1 byte"
+msgid_plural "%1 bytes"
+msgstr[0] ""
+
+#. +> trunk6 stable6
+#: util/externalcommandhelper.cpp:288
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info/plain argument 2 is a string such as 7 sectors (localized accordingly)"
+#| msgid "Copying 1 block (%2) finished."
+#| msgid_plural "Copying %1 blocks (%2) finished."
+msgctxt "@info:progress argument 2 is a string such as 7 bytes (localized accordingly)"
+msgid "Copying 1 chunk (%2) finished."
+msgid_plural "Copying %1 chunks (%2) finished."
+msgstr[0] "ทำการคัดลอก %1 บล็อค (%2) เสร็จสิ้นแล้ว"
+
+#. +> trunk6 stable6
+#: util/helpers.cpp:49
+#, fuzzy, kde-kuit-format
+#| msgctxt "@action:button"
+#| msgid "&Quit <application>%1</application>"
+msgctxt "@title"
+msgid "<application>KPMcore</application>"
+msgstr "&ออกจาก <application>%1</application>"
+
+#. +> trunk6 stable6
+#: util/helpers.cpp:50
+#, kde-kuit-format
+msgctxt "@title"
+msgid "Library for managing partitions"
+msgstr ""
+
+#. +> trunk6 stable6
+#: util/helpers.cpp:51
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "&copy; 2008-2022 KPMcore developers"
+msgstr ""
+
+#. +> trunk6 stable6
+#: util/helpers.cpp:56
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Volker Lanz"
+msgstr "Volker Lanz"
+
+#. +> trunk6 stable6
+#: util/helpers.cpp:56
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Former maintainer"
+msgstr ""
+
+#. +> trunk6 stable6
+#: util/helpers.cpp:57
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Andrius Štikonas"
+msgstr ""
+
+#. +> trunk6 stable6
+#: util/helpers.cpp:57
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Maintainer"
+msgstr ""
+
+#. +> trunk6 stable6
+#: util/helpers.cpp:58
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Teo Mrnjavac"
+msgstr ""
+
+#. +> trunk6 stable6
+#: util/helpers.cpp:58
+#, kde-format
+msgctxt "@info:credit"
+msgid "Former Calamares maintainer"
+msgstr ""
+
+#. +> trunk6 stable6
+#: util/helpers.cpp:59
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Chantara Tith"
+msgstr ""
+
+#. +> trunk6 stable6
+#: util/helpers.cpp:59
+#, kde-format
+msgctxt "@info:credit"
+msgid "LVM support"
+msgstr ""
+
+#. +> trunk6 stable6
+#: util/helpers.cpp:60
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Pali Rohár"
+msgstr ""
+
+#. +> trunk6 stable6
+#: util/helpers.cpp:60
+#, kde-format
+msgctxt "@info:credit"
+msgid "UDF support"
+msgstr ""
+
+#. +> trunk6 stable6
+#: util/helpers.cpp:61
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Adriaan de Groot"
+msgstr ""
+
+#. +> trunk6 stable6
+#: util/helpers.cpp:61
+#, kde-format
+msgctxt "@info:credit"
+msgid "Calamares maintainer"
+msgstr ""
+
+#. +> trunk6 stable6
+#: util/helpers.cpp:62
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Caio Jordão Carvalho"
+msgstr ""
+
+#. +> trunk6 stable6
+#: util/helpers.cpp:62
+#, kde-format
+msgctxt "@info:credit"
+msgid "Improved SMART support"
+msgstr ""
+
+#. +> trunk6 stable6
+#: util/helpers.cpp:63
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "David Edmundson"
+msgstr ""
+
+#. +> trunk6 stable6
+#: util/helpers.cpp:63
+#, kde-format
+msgctxt "@info:credit"
+msgid "Port from KAuth to Polkit"
+msgstr ""
+
+#. +> trunk6 stable6
+#: util/htmlreport.cpp:51 util/htmlreport.cpp:58
+#, fuzzy, kde-format
+#| msgctxt "@label"
+#| msgid "Status:"
+msgid "%1: SMART Status Report"
+msgstr "สถานะ:"
+
+#. +> trunk6 stable6
+#: util/htmlreport.cpp:66
+#, kde-format
+msgid "Date:"
+msgstr "วันที่:"
+
+#. +> trunk6 stable6
+#: util/htmlreport.cpp:67
+#, kde-format
+msgid "Program version:"
+msgstr "รุ่นของโปรแกรม:"
+
+#. +> trunk6 stable6
+#: util/htmlreport.cpp:68
+#, kde-format
+msgid "Backend:"
+msgstr "แบ็กเอนด์:"
+
+#. +> trunk6 stable6
+#: util/htmlreport.cpp:69
+#, fuzzy, kde-format
+#| msgid "KDE version:"
+msgid "KDE Frameworks version:"
+msgstr "KDE รุ่น:"
+
+#. +> trunk6 stable6
+#: util/htmlreport.cpp:70
+#, kde-format
+msgid "Machine:"
+msgstr "เครื่อง:"

@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-mobile\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-03 09:12+0200\n"
+"PO-Revision-Date: 2025-03-17 14:55+0700\n"
+"Last-Translator: Thai Translator <none>\n"
+"Language-Team: Thai <kde-i18n-docs@kde.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. +> trunk6 stable6 stable5
+#: package/contents/ui/main.qml:17
+#, kde-format
+msgid "Record Screen"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: package/contents/ui/main.qml:19
+#, kde-format
+msgid "Recording…"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: package/contents/ui/main.qml:21
+#, kde-format
+msgid "Writing…"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: package/contents/ui/main.qml:25
+#, kde-format
+msgid "Tap to start recording"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: package/contents/ui/main.qml:27
+#, kde-format
+msgid "Screen is being captured…"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: package/contents/ui/main.qml:29
+#, kde-format
+msgid "Please wait…"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: package/contents/ui/main.qml:49
+#, kde-format
+msgid "New Screen Recording"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: package/contents/ui/main.qml:49
+#, kde-format
+msgid "New Screen Recording saved in %1"
+msgstr ""
