@@ -1,56 +1,61 @@
+# SPDX-FileCopyrightText: 2025 veer 66
+# SPDX-FileCopyrightText: 2025 veer 66
+# SPDX-FileCopyrightText: 2025 veer 66
+# SPDX-FileCopyrightText: 2025 veer66 <vsatayamas@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-12-16 09:44+0100\n"
-"PO-Revision-Date: 2025-03-17 14:53+0700\n"
-"Last-Translator: Thai Translator <none>\n"
-"Language-Team: Thai <kde-i18n-docs@kde.org>\n"
+"PO-Revision-Date: 2025-03-17 20:33+0700\n"
+"Last-Translator: veer66 <vsatayamas@gmail.com>\n"
+"Language-Team: Thai <kde-i18n-doc@kde.org>\n"
 "Language: th\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 24.12.0\n"
 
 #. +> trunk6 stable6
 #: kclockd.notifyrc:10 org.kde.kclock.desktop:9
 #: org.kde.kclockd-autostart.desktop:8
 msgctxt "Name"
 msgid "Clock"
-msgstr ""
+msgstr "นาฬิกา"
 
 #. +> trunk6 stable6
 #: kclockd.notifyrc:55
 msgctxt "Name"
 msgid "Timer finished"
-msgstr ""
+msgstr "หมดเวลา"
 
 #. +> trunk6 stable6
 #: kclockd.notifyrc:97
 msgctxt "Comment"
 msgid "Your timer has finished!"
-msgstr ""
+msgstr "หมดเวลาแล้ว"
 
 #. +> trunk6 stable6
 #: kclockd.notifyrc:143
 msgctxt "Name"
 msgid "Alarm"
-msgstr ""
+msgstr "ตั้งปลุก"
 
 #. +> trunk6 stable6
 #: org.kde.kclock.desktop:52
 msgctxt "Comment"
 msgid "Set alarms and timers, use a stopwatch, and manage world clocks"
-msgstr ""
+msgstr "ตั้งปลุก ตั้งเวลาถอยหลัง จับเวลา และจัดการนาฬิกาเวลาโลก"
 
 #. +> trunk6 stable6
 #: org.kde.kclock.desktop:95
 msgctxt "Keywords"
 msgid "kclock;timer;stopwatch;alarm;timezone;time zone;world clock;"
-msgstr ""
+msgstr "kclock;จับเวลาถอยหลัง;จับเวลา;ตั้งปลุก;เขตเวลา;นาฬิกาเวลาโลก"
 
 #. +> trunk6 stable6
 #: org.kde.kclockd-autostart.desktop:51
 msgctxt "Comment"
 msgid "A simple clock application in Kirigami."
-msgstr ""
+msgstr "แอปพลิเคชันนาฬิกาแบบเรียบง่ายใน Kirigami"
