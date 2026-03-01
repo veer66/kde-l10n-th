@@ -39,7 +39,7 @@ msgstr "Welcome Center"
 #: org.kde.plasma-welcome.desktop:88
 msgctxt "Keywords"
 msgid "Welcome;Wizard;Onboarding;Contribute;Get involved;"
-msgstr "ยินดีต้อนรับ;ตัวช่วย;การเริ่มต้นใช้งาน;การช่วยเหลือ;การมีส่วนร่วม"
+msgstr "ยินดีต้อนรับ;ตัวช่วย;การเริ่มต้นใช้งาน;การช่วยเหลือ;การมีส่วนร่วม;"
 
 #. +> trunk6 stable6 stable5
 #: org.kde.plasma-welcome.desktop:134
