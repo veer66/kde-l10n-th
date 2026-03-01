@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Krita Manual 5.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-14 09:48+0200\n"
+"POT-Creation-Date: 2026-02-25 09:27+0100\n"
 "PO-Revision-Date: 2025-03-17 14:52+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -40,12 +40,27 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/canvas_input_settings.rst:21
+msgid "Profile"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/preferences/canvas_input_settings.rst:21
 msgid "The user can make different profiles of combinations and save them."
 msgstr ""
 
 #. +> trunk5
-#: ../../reference_manual/preferences/canvas_input_settings.rst:22
-msgid "Profile"
+#: ../../reference_manual/preferences/canvas_input_settings.rst:25
+msgid "Same as Activate, but with the tool treating the foreground and background colors as if they were flipped."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/preferences/canvas_input_settings.rst:26
+msgid "Tool Invocation"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/preferences/canvas_input_settings.rst:26
+msgid "Activate with Other Color"
 msgstr ""
 
 #. +> trunk5

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_wallpaper_image\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-13 14:38+0100\n"
+"POT-Creation-Date: 2026-02-06 08:32+0100\n"
 "PO-Revision-Date: 2010-12-17 21:19+0700\n"
 "Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
 "Language-Team: Thai <thai-l10n@googlegroups.com>\n"
@@ -30,7 +30,7 @@ msgid "Your emails"
 msgstr "donga.nb@gmail.com"
 
 #. +> trunk6 stable6
-#: imagepackage/contents/ui/AddFileDialog.qml:59
+#: imagepackage/contents/ui/AddFileDialog.qml:56
 #, fuzzy, kde-format
 #| msgid "Open Wallpaper Image"
 msgctxt "@title:window"
@@ -38,7 +38,7 @@ msgid "Open Image"
 msgstr "เปิดภาพพื้นหลัง"
 
 #. +> trunk6 stable6
-#: imagepackage/contents/ui/AddFileDialog.qml:71
+#: imagepackage/contents/ui/AddFileDialog.qml:68
 #, kde-format
 msgctxt "@title:window"
 msgid "Directory with the wallpaper to show slides from"
@@ -51,7 +51,7 @@ msgid "Tiled"
 msgstr "ปูภาพ"
 
 #. +> trunk6 stable6
-#: imagepackage/contents/ui/config.qml:159
+#: imagepackage/contents/ui/config.qml:156
 #, fuzzy, kde-format
 #| msgid "&Positioning:"
 msgctxt "@label:listbox"
@@ -66,7 +66,7 @@ msgid "Positioning:"
 msgstr "ตำแ&หน่งภาพ:"
 
 #. +> trunk6 stable6
-#: imagepackage/contents/ui/config.qml:162
+#: imagepackage/contents/ui/config.qml:159
 #, fuzzy, kde-format
 #| msgid "Scaled & Cropped"
 msgctxt "@item:inlistbox"
@@ -81,7 +81,7 @@ msgid "Scaled and Cropped"
 msgstr "ปรับขนาดให้เต็มจอและตัดส่วนล้น"
 
 #. +> trunk6 stable6
-#: imagepackage/contents/ui/config.qml:166
+#: imagepackage/contents/ui/config.qml:163
 #, fuzzy, kde-format
 #| msgid "Scaled"
 msgctxt "@item:inlistbox"
@@ -95,7 +95,7 @@ msgid "Scaled"
 msgstr "ปรับขนาดให้เต็มจอ"
 
 #. +> trunk6 stable6
-#: imagepackage/contents/ui/config.qml:170
+#: imagepackage/contents/ui/config.qml:167
 #, fuzzy, kde-format
 #| msgid "Scaled, keep proportions"
 msgctxt "@item:inlistbox"
@@ -110,7 +110,7 @@ msgid "Scaled, Keep Proportions"
 msgstr "ปรับขนาดให้เต็มจอ โดยรักษาสัดส่วนภาพด้วย"
 
 #. +> trunk6 stable6
-#: imagepackage/contents/ui/config.qml:174
+#: imagepackage/contents/ui/config.qml:171
 #, fuzzy, kde-format
 #| msgid "Centered"
 msgctxt "@item:inlistbox"
@@ -124,12 +124,19 @@ msgid "Centered"
 msgstr "จัดกึ่งกลาง"
 
 #. +> trunk6 stable6
-#: imagepackage/contents/ui/config.qml:202
+#: imagepackage/contents/ui/config.qml:199
 #, fuzzy, kde-format
 #| msgid "Get New Wallpapers..."
 msgctxt "@label:listbox part of a sentence: 'Switch dynamic wallpapers [based on]'"
 msgid "Switch dynamic wallpapers:"
 msgstr "หาภาพพื้นหลังใหม่ ๆ ..."
+
+#. +> trunk6 stable6
+#: imagepackage/contents/ui/config.qml:207
+#, kde-format
+msgctxt "@item:inlistbox part of a sentence: 'Switch dynamic wallpapers'"
+msgid "Based on whether the Plasma style is light or dark "
+msgstr ""
 
 #. +> stable5
 #: imagepackage/contents/ui/config.qml:207
@@ -138,17 +145,17 @@ msgid "Add Image…"
 msgstr ""
 
 #. +> trunk6 stable6
-#: imagepackage/contents/ui/config.qml:210
-#, kde-format
-msgctxt "@item:inlistbox part of a sentence: 'Switch dynamic wallpapers'"
-msgid "Based on whether the Plasma style is light or dark "
-msgstr ""
-
-#. +> trunk6 stable6
-#: imagepackage/contents/ui/config.qml:212
+#: imagepackage/contents/ui/config.qml:209
 #, kde-format
 msgctxt "@item:inlistbox part of a sentence: 'Switch dynamic wallpapers'"
 msgid "Based on the day-night cycle"
+msgstr ""
+
+#. +> trunk6 stable6
+#: imagepackage/contents/ui/config.qml:213
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Always use light variant"
 msgstr ""
 
 #. +> stable5
@@ -160,46 +167,39 @@ msgid "Get New Wallpapers…"
 msgstr "หาภาพพื้นหลังใหม่ ๆ ..."
 
 #. +> trunk6 stable6
-#: imagepackage/contents/ui/config.qml:216
-#, kde-format
-msgctxt "@item:inlistbox"
-msgid "Always use light variant"
-msgstr ""
-
-#. +> trunk6 stable6
-#: imagepackage/contents/ui/config.qml:220
+#: imagepackage/contents/ui/config.qml:217
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Always use dark variant"
 msgstr ""
 
 #. +> trunk6 stable6
-#: imagepackage/contents/ui/config.qml:234
+#: imagepackage/contents/ui/config.qml:231
 #, kde-format
 msgctxt "@action:button Configure day-night cycle times"
 msgid "Configure…"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: imagepackage/contents/ui/config.qml:245
+#: imagepackage/contents/ui/config.qml:242
 #, kde-format
 msgid "Background:"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: imagepackage/contents/ui/config.qml:246
+#: imagepackage/contents/ui/config.qml:243
 #, kde-format
 msgid "Blur"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: imagepackage/contents/ui/config.qml:255
+#: imagepackage/contents/ui/config.qml:252
 #, kde-format
 msgid "Solid color"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: imagepackage/contents/ui/config.qml:266
+#: imagepackage/contents/ui/config.qml:263
 #, kde-format
 msgid "Select Background Color"
 msgstr ""
@@ -351,7 +351,7 @@ msgid "The file passed to be set as wallpaper does not exist, or we cannot ident
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: plugin/imagebackend.cpp:38
+#: plugin/imagebackend.cpp:42
 #, kde-format
 msgid "Next Wallpaper Image"
 msgstr "ภาพพื้นหลังภาพถัดไป"
@@ -371,7 +371,7 @@ msgstr "เปิดภาพพื้นหลัง"
 
 #. i18n people, this isn't a "word puzzle". there is a specific string format for QFileDialog::setNameFilters
 #. +> trunk6 stable6
-#: plugin/imagebackend.cpp:354
+#: plugin/imagebackend.cpp:384
 #, fuzzy, kde-format
 #| msgid "Images"
 msgid "Media Files"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bluedevil\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-12-02 10:43+0100\n"
+"POT-Creation-Date: 2026-01-28 11:19+0100\n"
 "PO-Revision-Date: 2025-03-17 14:51+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -48,8 +48,8 @@ msgstr ""
 #. +> trunk6 stable6
 #: applet/devicesstateproxymodel.cpp:273
 #, kde-format
-msgctxt "@label %1 is human-readable device name, %2 is low-level device address"
-msgid "%1 (%2)"
+msgctxt "@label %1 is the name of a Bluetooth device"
+msgid "Could not connect to device “%1”"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -112,6 +112,13 @@ msgstr ""
 msgid "Previous Maintainer"
 msgstr ""
 
+#. +> trunk6 stable6
+#: kded/helpers/requestauthorization.cpp:25
+#, kde-format
+msgctxt "@label %1 is the name of a Bluetooth device"
+msgid "Access request from device “%1”"
+msgstr ""
+
 #. +> trunk6 stable6 stable5
 #: kded/helpers/requestauthorization.cpp:29
 #, kde-format
@@ -140,6 +147,13 @@ msgctxt "Deny access to a remote bluetooth device"
 msgid "Deny"
 msgstr ""
 
+#. +> trunk6 stable6
+#: kded/helpers/requestconfirmation.cpp:24
+#, kde-format
+msgctxt "@label %1 is the name of a Bluetooth device"
+msgid "Verify PIN for device “%1”"
+msgstr ""
+
 #. +> trunk6 stable6 stable5
 #: kded/helpers/requestconfirmation.cpp:28
 #, kde-format
@@ -159,6 +173,13 @@ msgstr ""
 #, kde-format
 msgctxt "Notification button to say that the PIN is wrong"
 msgid "PIN incorrect"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kded/helpers/requestpin.cpp:32
+#, kde-format
+msgctxt "@label %1 is the name of a Bluetooth device"
+msgid "PIN for device “%1”"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
@@ -201,6 +222,13 @@ msgstr ""
 #: kded/helpers/requestpin.ui:65
 #, kde-format
 msgid "1234"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kded/receivefilejob.cpp:131
+#, kde-format
+msgctxt "%1 is the name of a Bluetooth device"
+msgid "Incoming file from device “%1”"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
@@ -601,31 +629,31 @@ msgid "Connecting to %1…"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: wizard/pages/pairing.cpp:96
+#: wizard/pages/pairing.cpp:91
 #, kde-format
 msgid "Please introduce the PIN in your keyboard when it appears and press Enter"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: wizard/pages/pairing.cpp:98
+#: wizard/pages/pairing.cpp:93
 #, kde-format
 msgid "Please introduce the PIN in your device when it appears"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: wizard/pages/pairing.cpp:114
+#: wizard/pages/pairing.cpp:109
 #, kde-format
 msgid "Matches"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: wizard/pages/pairing.cpp:118
+#: wizard/pages/pairing.cpp:113
 #, kde-format
 msgid "Does not match"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: wizard/pages/pairing.cpp:133
+#: wizard/pages/pairing.cpp:128
 #, kde-format
 msgid "Please, confirm that the PIN displayed on %1 matches the wizard one."
 msgstr ""

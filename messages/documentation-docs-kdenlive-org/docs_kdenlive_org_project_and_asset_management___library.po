@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kdenlive Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-13 14:37+0100\n"
+"POT-Creation-Date: 2026-02-13 09:59+0100\n"
 "PO-Revision-Date: 2025-03-17 14:52+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -13,22 +13,22 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. +> trunk5
-#: ../../<rst_epilog>:38
+#: ../../<rst_epilog>:42
 msgid "bookmark"
 msgstr ""
 
 #. +> trunk5
-#: ../../<rst_epilog>:178
+#: ../../<rst_epilog>:182
 msgid "folder-new"
 msgstr ""
 
 #. +> trunk5
-#: ../../<rst_epilog>:242
+#: ../../<rst_epilog>:246
 msgid "input-mouse-click-right"
 msgstr ""
 
 #. +> trunk5
-#: ../../<rst_epilog>:258
+#: ../../<rst_epilog>:262
 msgid "kdenlive-add-clip"
 msgstr ""
 

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdegames\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-09-09 08:57+0200\n"
+"POT-Creation-Date: 2026-01-24 08:21+0100\n"
 "PO-Revision-Date: 2002-07-09 11:56+0700\n"
 "Last-Translator: Thanomsub Noppaburana <donga_n@yahoo.com>\n"
 "Language-Team: Thai "
@@ -185,7 +185,7 @@ msgid "Chains"
 msgstr "Name=จีน"
 
 #. +> trunk6 stable6
-#: layouts/chains.desktop:53
+#: layouts/chains.desktop:54
 msgctxt "Description"
 msgid "Four chains making up a single structure"
 msgstr ""

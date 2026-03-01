@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_extragear-multimedia_amarok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-11-09 15:43+0100\n"
+"POT-Creation-Date: 2026-02-17 10:07+0100\n"
 "PO-Revision-Date: 2010-03-07 19:43+0700\n"
 "Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
 "Language-Team: Thai <thai-l10n@googlegroups.com>\n"
@@ -118,7 +118,7 @@ msgid "Librivox.org"
 msgstr ""
 
 #. +> trunk6
-#: src/scripting/scripts/librivox_service/script.desktop:49
+#: src/scripting/scripts/librivox_service/script.desktop:50
 msgctxt "Comment"
 msgid "A scripted service that lets you search, stream and download free, public domain, audio books from Librivox.org"
 msgstr ""
@@ -130,7 +130,7 @@ msgid "Cool Streams"
 msgstr ""
 
 #. +> trunk6
-#: src/scripting/scripts/radio_station_service/script.desktop:48
+#: src/scripting/scripts/radio_station_service/script.desktop:49
 msgctxt "Comment"
 msgid "A script that sets up a service with a few cool internet radio stations"
 msgstr ""
@@ -145,7 +145,7 @@ msgid "Amarok Script Console"
 msgstr "แอพเพล็ตจาวาสคริปต์ของแอมอะร็อก"
 
 #. +> trunk6
-#: src/scripting/scripts/script_console/script.desktop:47
+#: src/scripting/scripts/script_console/script.desktop:48
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Amarok JavaScript Applet"

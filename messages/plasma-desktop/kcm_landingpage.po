@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-desktop\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-13 14:38+0100\n"
+"POT-Creation-Date: 2026-01-30 06:29+0100\n"
 "PO-Revision-Date: 2025-03-17 14:55+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -57,14 +57,14 @@ msgid "Animation speed"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/LookAndFeelBox.qml:101
+#: ui/LookAndFeelBox.qml:99
 #, kde-format
 msgctxt "@action:button"
 msgid "Change global theme"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/LookAndFeelBox.qml:178
+#: ui/LookAndFeelBox.qml:180
 #, kde-format
 msgctxt "@label accessible"
 msgid "Global theme"
@@ -84,23 +84,23 @@ msgid "Theme:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/main.qml:91
+#: ui/main.qml:94
 #, kde-format
 msgctxt "Switch between dark and light look and feel packages automatically"
 msgid "Automatic"
-msgstr ""
-
-#. +> trunk6 stable6
-#: ui/main.qml:93
-#, kde-format
-msgctxt "@info:tooltip 1 is the name of a light global theme, 2 is the name of a dark global theme"
-msgid "Use “%1” during the day and “%2” at night"
 msgstr ""
 
 #. +> stable5
 #: package/contents/ui/main.qml:116
 #, kde-format
 msgid "Change Wallpaper…"
+msgstr ""
+
+#. +> trunk6 stable6
+#: ui/main.qml:120
+#, kde-format
+msgctxt "@info:tooltip 1 is the name of a light global theme, 2 is the name of a dark global theme"
+msgid "Use “%1” during the day and “%2” at night"
 msgstr ""
 
 #. +> stable5
@@ -110,14 +110,14 @@ msgid "More Appearance Settings…"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/main.qml:136
+#: ui/main.qml:134
 #, kde-format
 msgctxt "@title:group translate as short as possible"
 msgid "More appearance settings:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/main.qml:183
+#: ui/main.qml:181
 #, kde-format
 msgctxt "@title:slider"
 msgid "Animation speed:"
@@ -130,7 +130,7 @@ msgid "Animation speed:"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: ui/main.qml:192
+#: ui/main.qml:190
 #, kde-format
 msgctxt "Animation speed"
 msgid "Slow"
@@ -143,7 +143,7 @@ msgid "More Behavior Settings…"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: ui/main.qml:199
+#: ui/main.qml:197
 #, kde-format
 msgctxt "Animation speed"
 msgid "Instant"
@@ -156,21 +156,21 @@ msgid "Most Used Pages:"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: ui/main.qml:213
+#: ui/main.qml:211
 #, kde-format
 msgctxt "part of a sentence: 'Clicking files or folders [opens them/selects them]'"
 msgid "Clicking files or folders:"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: ui/main.qml:221
+#: ui/main.qml:219
 #, kde-format
 msgctxt "part of a sentence: 'Clicking files or folders selects them'"
 msgid "Selects them"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/main.qml:226
+#: ui/main.qml:224
 #, kde-format
 msgctxt "@info:usagetip"
 msgid "Open by double-clicking instead"
@@ -183,14 +183,14 @@ msgid "Open by double-clicking instead"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: ui/main.qml:254
+#: ui/main.qml:252
 #, kde-format
 msgctxt "part of a sentence: 'Clicking files or folders opens them'"
 msgid "Opens them"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/main.qml:259
+#: ui/main.qml:257
 #, kde-format
 msgctxt "@info:usagetip"
 msgid "Select by clicking on item's selection marker"
@@ -203,14 +203,14 @@ msgid "Select by clicking on item's selection marker"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/main.qml:285
+#: ui/main.qml:283
 #, kde-format
 msgctxt "@title:group translate as short as possible"
 msgid "More behavior settings:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/main.qml:299
+#: ui/main.qml:297
 #, kde-format
 msgctxt "@title:group for grid of buttons opening kcms"
 msgid "Most used pages:"

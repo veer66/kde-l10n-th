@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcminput\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-10-14 12:46+0200\n"
+"POT-Creation-Date: 2026-02-05 10:04+0100\n"
 "PO-Revision-Date: 2025-03-03 20:07+0700\n"
 "Last-Translator: Pongsakorn S. <kde@xerusion.me>\n"
 "Language-Team: Thai\n"
@@ -159,18 +159,46 @@ msgstr ""
 msgid "(Current theme for this Plasma session)"
 msgstr ""
 
-#. +> trunk6 stable6 stable5
+#. +> stable6 stable5
 #: ui/Delegate.qml:43
 #, kde-format
 msgid "Remove Theme"
 msgstr "ลบชุดตกแต่งออก"
 
-#. +> trunk6 stable6 stable5
+#. +> trunk6
+#: ui/Delegate.qml:48
+#, fuzzy, kde-format
+#| msgid "Cursor Theme"
+msgctxt "@info:tooltip"
+msgid "Remove cursor theme"
+msgstr "ชุดตกแต่งเคอร์เซอร์"
+
+#. +> trunk6
+#: ui/Delegate.qml:50
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Cannot delete the active cursor theme"
+msgstr ""
+
+#. +> stable6 stable5
 #: ui/Delegate.qml:50
 #, fuzzy, kde-format
 #| msgid "Cursor Theme"
 msgid "Restore Cursor Theme"
 msgstr "ชุดตกแต่งเคอร์เซอร์"
+
+#. +> trunk6
+#: ui/Delegate.qml:52
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Cannot delete system-installed cursor themes"
+msgstr ""
+
+#. +> trunk6
+#: ui/Delegate.qml:60
+#, kde-format
+msgid "Don’t delete this cursor theme"
+msgstr ""
 
 #. +> trunk6 stable6 stable5
 #: ui/LaunchFeedbackDialog.qml:16
@@ -256,7 +284,7 @@ msgid "This module lets you choose the mouse cursor theme."
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/main.qml:91 ui/main.qml:129
+#: ui/main.qml:109 ui/main.qml:147
 #, kde-format
 msgid "Size: %1"
 msgstr ""
@@ -268,21 +296,21 @@ msgid "Size:"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: ui/main.qml:144
+#: ui/main.qml:162
 #, kde-format
 msgctxt "@action:button"
 msgid "&Configure Launch Feedback…"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: ui/main.qml:159
+#: ui/main.qml:177
 #, fuzzy, kde-format
 #| msgid "Install New Theme..."
 msgid "&Install from File…"
 msgstr "ติดตั้งชุดตกแต่งใหม่..."
 
 #. +> trunk6 stable6
-#: ui/main.qml:165
+#: ui/main.qml:183
 #, fuzzy, kde-format
 #| msgid "Install New Theme..."
 msgid "&Get New…"
@@ -296,14 +324,14 @@ msgid "&Get New Cursors…"
 msgstr "ติดตั้งชุดตกแต่งใหม่..."
 
 #. +> trunk6 stable6 stable5
-#: ui/main.qml:179
+#: ui/main.qml:197
 #, fuzzy, kde-format
 #| msgid "Remove Theme"
 msgid "Open Theme"
 msgstr "ลบชุดตกแต่งออก"
 
 #. +> trunk6 stable6 stable5
-#: ui/main.qml:181
+#: ui/main.qml:199
 #, kde-format
 msgid "Cursor Theme Files (*.tar.gz *.tar.bz2)"
 msgstr ""

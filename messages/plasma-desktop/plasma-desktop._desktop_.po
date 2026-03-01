@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-12-23 09:05+0100\n"
+"POT-Creation-Date: 2026-02-13 10:00+0100\n"
 "PO-Revision-Date: 2010-12-31 22:16+0700\n"
 "Last-Translator: Phuwanat Sakornsakolpat <narachai@gmail.com>\n"
 "Language-Team: Thai <thai-l10n@googlegroups.com>\n"
@@ -27,19 +27,19 @@ msgid "Emoji Selector"
 msgstr ""
 
 #. +> trunk6 stable6
-#: emojier/app/org.kde.plasma.emojier.desktop:54
+#: emojier/app/org.kde.plasma.emojier.desktop:56
 msgctxt "GenericName"
 msgid "Emoji Selector"
 msgstr ""
 
 #. +> trunk6 stable6
-#: emojier/app/org.kde.plasma.emojier.desktop:89
+#: emojier/app/org.kde.plasma.emojier.desktop:95
 msgctxt "Comment"
 msgid "Copy emojis to the clipboard"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: emojier/app/org.kde.plasma.emojier.desktop:135
+#: emojier/app/org.kde.plasma.emojier.desktop:144
 msgctxt "Keywords"
 msgid "characters;unicode;punctuation;letters;emoji;emoticon;symbols;smiley face;"
 msgstr ""
@@ -165,33 +165,6 @@ msgid "Mouse keys has been enabled or disabled"
 msgstr "การจำลองเมาส์ด้วยแป้นพิมพ์ได้ถูกเปิดหรือปิดการทำงาน"
 
 #. +> trunk6 stable6 stable5
-#: kcms/dateandtime/kcmclock_actions.actions:2
-msgctxt "Name"
-msgid "Date and Time Control Module"
-msgstr "มอดูลควบคุมสำหรับวันและเวลา"
-
-#. +> trunk6 stable6 stable5
-#: kcms/dateandtime/kcmclock_actions.actions:79
-msgctxt "Name"
-msgid "Save the date/time settings"
-msgstr "จัดเก็บการตั้งค่าวันและเวลา"
-
-#. +> trunk6 stable6
-#: kcms/dateandtime/kcmclock_actions.actions:153
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Save the date/time settings"
-msgctxt "Description"
-msgid "Authenticate to change the date or time settings."
-msgstr "จัดเก็บการตั้งค่าวันและเวลา"
-
-#. +> stable5
-#: kcms/dateandtime/kcmclock_actions.actions:151
-msgctxt "Description"
-msgid "System policies prevent you from saving the date/time settings."
-msgstr "นโยบายของระบบเพื่อป้องกันจากการจัดเก็บการตั้งค่าต่าง ๆ ของวันและเวลา"
-
-#. +> trunk6 stable6 stable5
 #: kcms/ksplash/ksplash.knsrc:2
 msgctxt "Name"
 msgid "Splash Screens"
@@ -219,19 +192,19 @@ msgid "Plugged"
 msgstr "เสียบอยู่"
 
 #. +> trunk6 stable6 stable5
-#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:215
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:216
 msgctxt "Name"
 msgid "Rechargeable"
 msgstr "สามารถประจุไฟใหม่ได้"
 
 #. +> trunk6 stable6 stable5
-#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:289
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:290
 msgctxt "Name"
 msgid "Type"
 msgstr "ประเภท"
 
 #. +> trunk6 stable6 stable5
-#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:368
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:369
 #: kcms/solid_actions/device-actions/solid-device-Block.desktop:229
 #: kcms/solid_actions/device-actions/solid-device-Camera.desktop:155
 #: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:922
@@ -452,9 +425,9 @@ msgid "Touchpad"
 msgstr ""
 
 #. +> trunk6 stable6
-#: kcms/touchpad/org.kde.touchpadshortcuts.desktop:65
-#: kcms/touchpad/org.kde.touchpadshortcuts.desktop:107
-#: kcms/touchpad/org.kde.touchpadshortcuts.desktop:149
+#: kcms/touchpad/org.kde.touchpadshortcuts.desktop:67
+#: kcms/touchpad/org.kde.touchpadshortcuts.desktop:113
+#: kcms/touchpad/org.kde.touchpadshortcuts.desktop:159
 msgctxt "Name"
 msgid "Enable Touchpad"
 msgstr ""
@@ -478,7 +451,7 @@ msgid "Breeze"
 msgstr ""
 
 #. +> trunk6 stable6
-#: sddm-theme/metadata.desktop:47
+#: sddm-theme/metadata.desktop:50
 msgctxt "Description"
 msgid "Breeze"
 msgstr ""
@@ -490,13 +463,40 @@ msgid "Default panel toolbox for the Plasma desktop shell"
 msgstr "เครื่องมือของพาเนลปริยายสำหรับเชลล์พื้นที่ทำงานพลาสมา"
 
 #. +> trunk6 stable6 stable5
-#: toolboxes/plasma-toolbox-paneltoolbox.desktop:66
+#: toolboxes/plasma-toolbox-paneltoolbox.desktop:67
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Panel toolbox"
 msgctxt "Name"
 msgid "Panel toolbox"
 msgstr "เครื่องมือของพาเนล"
+
+#. +> stable6 stable5
+#: kcms/dateandtime/kcmclock_actions.actions:2
+msgctxt "Name"
+msgid "Date and Time Control Module"
+msgstr "มอดูลควบคุมสำหรับวันและเวลา"
+
+#. +> stable6 stable5
+#: kcms/dateandtime/kcmclock_actions.actions:79
+msgctxt "Name"
+msgid "Save the date/time settings"
+msgstr "จัดเก็บการตั้งค่าวันและเวลา"
+
+#. +> stable6
+#: kcms/dateandtime/kcmclock_actions.actions:153
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Save the date/time settings"
+msgctxt "Description"
+msgid "Authenticate to change the date or time settings."
+msgstr "จัดเก็บการตั้งค่าวันและเวลา"
+
+#. +> stable5
+#: kcms/dateandtime/kcmclock_actions.actions:151
+msgctxt "Description"
+msgid "System policies prevent you from saving the date/time settings."
+msgstr "นโยบายของระบบเพื่อป้องกันจากการจัดเก็บการตั้งค่าต่าง ๆ ของวันและเวลา"
 
 #. +> stable5
 #: kcms/solid_actions/solid-device-type.desktop:4
@@ -505,31 +505,31 @@ msgid "Solid Device Type"
 msgstr "ประเภทอุปกรณ์ของ Solid"
 
 #. +> stable5
-#: kcms/touchpad/kded/kcm_touchpad.notifyrc:56
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:57
 msgctxt "Comment"
 msgid "Touchpad"
 msgstr ""
 
 #. +> stable5
-#: kcms/touchpad/kded/kcm_touchpad.notifyrc:111
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:112
 msgctxt "Name"
 msgid "Touchpad was disabled"
 msgstr ""
 
 #. +> stable5
-#: kcms/touchpad/kded/kcm_touchpad.notifyrc:163
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:164
 msgctxt "Comment"
 msgid "Touchpad was disabled because mouse is detected"
 msgstr ""
 
 #. +> stable5
-#: kcms/touchpad/kded/kcm_touchpad.notifyrc:219
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:220
 msgctxt "Name"
 msgid "Touchpad was enabled"
 msgstr ""
 
 #. +> stable5
-#: kcms/touchpad/kded/kcm_touchpad.notifyrc:271
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:272
 msgctxt "Comment"
 msgid "Touchpad was enabled because the mouse was unplugged"
 msgstr ""

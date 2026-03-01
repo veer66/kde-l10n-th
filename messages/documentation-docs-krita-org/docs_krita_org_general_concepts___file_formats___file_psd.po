@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Krita Manual 5.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-14 09:48+0200\n"
+"POT-Creation-Date: 2026-02-25 09:27+0100\n"
 "PO-Revision-Date: 2025-03-17 14:52+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -49,7 +49,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../general_concepts/file_formats/file_psd.rst:23
-msgid "Krita supports loading and saving raster layers, blending modes, layerstyles, layer groups, and transparency masks from PSD. It will likely never support vector and text layers, as these are just too difficult to program properly."
+msgid "Krita supports loading and saving raster layers, blending modes, layer styles, vector shapes, text layers, layer groups, and transparency masks from PSD."
 msgstr ""
 
 #. +> trunk5

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-01-11 09:45+0100\n"
+"POT-Creation-Date: 2026-01-23 10:52+0100\n"
 "PO-Revision-Date: 2010-07-07 15:20+0700\n"
 "Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
 "Language-Team: Thai <thai-l10n@googlegroups.com>\n"
@@ -29,7 +29,21 @@ msgid "Your emails"
 msgstr "donga.nb@gmail.com"
 
 #. i18n: ectx: property (whatsThis), widget (QTreeView, deviceView)
-#. +> trunk6 stable6 stable5
+#. +> trunk6
+#: DeviceAutomounterKCM.ui:17
+#, fuzzy, kde-format
+#| msgid ""
+#| "This list contains the storage devices known to KDE. If \"Automount on Login\" is checked, the device will be automatically mounted even though \"Mount all removable media at login\" is unchecked. The same applies for \"Automount on Attach\".\n"
+#| "\n"
+#| "If \"Enable automatic mounting of removable media\" is unchecked, the overrides do not apply and no devices will be automatically mounted."
+msgid "This list contains the storage devices known to the system. If \"Automount on Login\" is checked, devices will be automatically mounted even though \"Mount all removable media at login\" is unchecked. The same applies for \"Automount on Attach\"."
+msgstr ""
+"รายการนี้บรรจุอุปกรณ์จัดเก็บข้อมูลต่าง ๆ ที่ KDE รู้จัก หากตัวเลือก \"เมานท์อัตโนมัติเมื่อล็อกอิน\" ถูกกาเลือก อุปกรณ์จะถูกทำการเมานท์ให้โดยอัตโนมัติ แม้ว่าจะไม่ได้กาเลือกตัวเลือก \"เมานท์สื่อแบบถอดได้ทั้งหมดเมื่อทำการล็อกอิน\" ไว้ก็ตาม ทั้งนี้จะมีผลเช่นเดียวกับตัวเลือก  \"เมานท์อัตโนมัติเมื่อมีการเสียบอุปกรณ์\"\n"
+"\n"
+"หากไม่ได้กาเลือกตัวเลือก \"เปิดใช้การเมาทน์ให้โดยอัตโนมัติกับสื่อแบบถอด/เสียบได้\" การควบคุมเหนืออุปกรณ์จะไม่ถูกปรับใช้ และจะไม่มีอุปกรณ์ใด ๆ ถูกทำการเมานท์ให้โดยอัตโนมัติ"
+
+#. i18n: ectx: property (whatsThis), widget (QTreeView, deviceView)
+#. +> stable6 stable5
 #: DeviceAutomounterKCM.ui:17
 #, fuzzy, kde-format
 #| msgid ""

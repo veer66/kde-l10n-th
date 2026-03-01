@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-12-20 09:13+0100\n"
+"POT-Creation-Date: 2026-02-28 07:31+0100\n"
 "PO-Revision-Date: 2025-03-17 14:55+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -19,7 +19,7 @@ msgid "LightDM KDE Greeter (X11)"
 msgstr ""
 
 #. +> trunk6
-#: greeter/lightdm-kde-greeter-x11.desktop:24
+#: greeter/lightdm-kde-greeter-x11.desktop:31
 msgctxt "Comment"
 msgid "This runs the KDE greeter (X11 session), it should only be run from LightDM"
 msgstr ""
@@ -31,7 +31,7 @@ msgid "LightDM KDE Greeter"
 msgstr ""
 
 #. +> trunk6
-#: greeter/lightdm-kde-greeter.desktop:37
+#: greeter/lightdm-kde-greeter.desktop:38
 msgctxt "Comment"
 msgid "This runs the KDE greeter, it should only be run from LightDM"
 msgstr ""
@@ -43,13 +43,13 @@ msgid "LightDM"
 msgstr ""
 
 #. +> trunk6
-#: kcm/kcm_lightdm.actions:42
+#: kcm/kcm_lightdm.actions:43
 msgctxt "Name"
 msgid "Save Settings"
 msgstr ""
 
 #. +> trunk6
-#: kcm/kcm_lightdm.actions:75
+#: kcm/kcm_lightdm.actions:77
 msgctxt "Description"
 msgid "Save Settings in LightDM"
 msgstr ""
@@ -61,7 +61,7 @@ msgid "User Bar"
 msgstr ""
 
 #. +> trunk6
-#: themes/userbar/theme.desktop:36
+#: themes/userbar/theme.desktop:37
 msgctxt "Comment"
 msgid "Pick your user from the user bar."
 msgstr ""

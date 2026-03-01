@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pimcommon\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-12-23 09:05+0100\n"
+"POT-Creation-Date: 2026-02-25 09:29+0100\n"
 "PO-Revision-Date: 2025-03-17 14:55+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -13,14 +13,14 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. +> trunk6 stable6
-#: pimcommon-activities/configureactivitieswidget.cpp:56
+#: pimcommon-activities/configureactivitieswidget.cpp:54
 #, kde-format
 msgctxt "@option:check"
 msgid "Limit to the selected activities:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: pimcommon-activities/configureactivitieswidget.cpp:62
+#: pimcommon-activities/configureactivitieswidget.cpp:60
 #, kde-format
 msgctxt "@label:textbox"
 msgid "If you limit this account to activity, it will be shown only when you are in those activities. Furthermore, when you switch to an activity it should not be available in, it will automatically be hidden."
@@ -40,45 +40,45 @@ msgid "%1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: pimcommon/shareserviceurl/shareserviceurlmanager.cpp:83
+#: pimcommon/shareserviceurl/shareserviceurlmanager.cpp:81
 #, kde-format
 msgid "Facebook"
 msgstr ""
 
 #. +> trunk6 stable6
-#: pimcommon/shareserviceurl/shareserviceurlmanager.cpp:86
+#: pimcommon/shareserviceurl/shareserviceurlmanager.cpp:84
 #, kde-format
 msgid "Twitter"
 msgstr ""
 
 #. +> trunk6 stable6
-#: pimcommon/shareserviceurl/shareserviceurlmanager.cpp:89
+#: pimcommon/shareserviceurl/shareserviceurlmanager.cpp:87
 #, kde-format
 msgid "Mail"
 msgstr ""
 
 #. +> trunk6 stable6
-#: pimcommon/shareserviceurl/shareserviceurlmanager.cpp:92
+#: pimcommon/shareserviceurl/shareserviceurlmanager.cpp:90
 #, kde-format
 msgid "LinkedIn"
 msgstr ""
 
 #. +> trunk6 stable6
-#: pimcommon/shareserviceurl/shareserviceurlmanager.cpp:95
+#: pimcommon/shareserviceurl/shareserviceurlmanager.cpp:93
 #, kde-format
 msgid "Evernote"
 msgstr ""
 
 #. +> trunk6 stable6
+#: pimcommon/shareserviceurl/shareserviceurlmanager.cpp:96
+#, kde-format
+msgid "LiveJournal"
+msgstr ""
+
+#. +> stable6
 #: pimcommon/shareserviceurl/shareserviceurlmanager.cpp:98
 #, kde-format
 msgid "Pocket"
-msgstr ""
-
-#. +> trunk6 stable6
-#: pimcommon/shareserviceurl/shareserviceurlmanager.cpp:101
-#, kde-format
-msgid "LiveJournal"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -395,7 +395,7 @@ msgid "&Customize..."
 msgstr ""
 
 #. +> trunk6 stable6
-#: pimcommon/widgets/simplestringlisteditor.cpp:309
+#: pimcommon/widgets/simplestringlisteditor.cpp:308
 #: pimcommonakonadi/acl/aclmanager.cpp:283
 #: pimcommonakonadi/acl/aclmanager.cpp:290
 #: pimcommonakonadi/addressline/recentaddress/recentaddresswidget.cpp:135
@@ -599,7 +599,7 @@ msgstr ""
 
 #. +> trunk6 stable6
 #: pimcommonakonadi/addressline/addresslineedit/addresseelineedit.cpp:624
-#: pimcommonakonadi/addressline/completionorder/completionorderwidget.cpp:313
+#: pimcommonakonadi/addressline/completionorder/completionorderwidget.cpp:312
 #, kde-format
 msgid "Recent Addresses"
 msgstr ""
@@ -799,14 +799,14 @@ msgid "LDAP server %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: pimcommonakonadi/addressline/completionorder/completionorderwidget.cpp:261
+#: pimcommonakonadi/addressline/completionorder/completionorderwidget.cpp:260
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Move Up"
 msgstr ""
 
 #. +> trunk6 stable6
-#: pimcommonakonadi/addressline/completionorder/completionorderwidget.cpp:270
+#: pimcommonakonadi/addressline/completionorder/completionorderwidget.cpp:269
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Move Down"

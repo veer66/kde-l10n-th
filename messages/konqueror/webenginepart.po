@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: webkitkde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-12 10:01+0100\n"
+"POT-Creation-Date: 2026-02-23 08:05+0100\n"
 "PO-Revision-Date: 2010-03-06 09:46+0700\n"
 "Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
 "Language-Team: Thai <thai-l10n@googlegroups.com>\n"
@@ -574,7 +574,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, header)
 #. +> trunk6 stable6
 #: src/cookies/cookiealertdlg.ui:20
-#, no-c-format, kde-format
+#, kde-format, no-c-format
 msgid ""
 "<html><head/><body>"
 "<p>You received a cookie from %1</p>"
@@ -1169,7 +1169,7 @@ msgid "An error occurred while saving a PDF version of the page as %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/webenginepage.cpp:880
+#: src/webenginepage.cpp:888
 #, fuzzy, kde-format
 #| msgid ""
 #| "This site is attempting to submit form data via email.\n"
@@ -1182,7 +1182,7 @@ msgstr ""
 "คุณต้องการจะทำต่อไปหรือไม่ ?"
 
 #. +> trunk6 stable6
-#: src/webenginepage.cpp:882
+#: src/webenginepage.cpp:890
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt>This untrusted page links to<br/>"
@@ -1199,13 +1199,13 @@ msgstr ""
 " คุณต้องการจะเรียกไปยังตำแหน่งที่เชื่อมโยงไปนี้หรือไม่ ?</qt>"
 
 #. +> trunk6 stable6
-#: src/webenginepage.cpp:885
+#: src/webenginepage.cpp:893
 #, kde-format
 msgid "Javascript Popup Confirmation"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/webenginepage.cpp:886
+#: src/webenginepage.cpp:894
 #, fuzzy, kde-format
 #| msgctxt "follow link despite of security warning"
 #| msgid "Follow"
@@ -1213,7 +1213,7 @@ msgid "Allow"
 msgstr "เรียกไป"
 
 #. +> trunk6 stable6
-#: src/webenginepage.cpp:886
+#: src/webenginepage.cpp:894
 #, kde-format
 msgid "Do Not Allow"
 msgstr ""

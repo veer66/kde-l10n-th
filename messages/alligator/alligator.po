@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: alligator\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-11-28 09:58+0100\n"
+"POT-Creation-Date: 2026-02-27 08:25+0100\n"
 "PO-Revision-Date: 2025-03-17 14:51+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -55,43 +55,43 @@ msgid "Error while parsing feed"
 msgstr ""
 
 #. +> trunk6 stable6
-#: main.cpp:76 qml/AlligatorGlobalDrawer.qml:56
+#: main.cpp:78 qml/AlligatorGlobalDrawer.qml:56
 #, kde-format
 msgid "Alligator"
 msgstr ""
 
 #. +> trunk6 stable6
-#: main.cpp:78
+#: main.cpp:80
 #, kde-format
 msgid "Feed Reader"
 msgstr ""
 
 #. +> trunk6 stable6
-#: main.cpp:80
+#: main.cpp:82
 #, kde-format
 msgid "© 2020-2024 KDE Community"
 msgstr ""
 
 #. +> trunk6 stable6
-#: main.cpp:81
+#: main.cpp:83
 #, kde-format
 msgid "Tobias Fella"
 msgstr ""
 
 #. +> trunk6 stable6
-#: main.cpp:92
+#: main.cpp:96
 #, kde-format
 msgid "RSS/Atom Feed Reader"
 msgstr ""
 
 #. +> trunk6 stable6
-#: main.cpp:94
+#: main.cpp:98
 #, kde-format
 msgid "Adds a new feed to database."
 msgstr ""
 
 #. +> trunk6 stable6
-#: main.cpp:95
+#: main.cpp:99
 #, kde-format
 msgid "feed URL"
 msgstr ""
@@ -103,13 +103,13 @@ msgid "Add Feed"
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/AddFeedDialog.qml:40
+#: qml/AddFeedDialog.qml:44
 #, kde-format
 msgid "URL:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/AddFeedDialog.qml:46
+#: qml/AddFeedDialog.qml:50
 #, kde-format
 msgid "Mark entries as read"
 msgstr ""

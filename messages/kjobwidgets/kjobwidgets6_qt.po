@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2025-10-05 14:52+0200\n"
+"POT-Creation-Date: 2026-02-28 07:31+0100\n"
 "PO-Revision-Date: 2010-12-31 22:47+0700\n"
 "Last-Translator: Phuwanat Sakornsakolpat <narachai@gmail.com>\n"
 "Language-Team: Thai <thai-l10n@googlegroups.com>\n"
@@ -95,12 +95,19 @@ msgstr "%1 %2"
 
 #. Job name, e.g. Copying has failed
 #. +> trunk6
-#: knotificationjobuidelegate.cpp:28
+#: knotificationjobuidelegate.cpp:29
 #, fuzzy, qt-format
 #| msgid "%1 (Link)"
 msgctxt "KNotificationJobUiDelegate|"
 msgid "%1 (Failed)"
 msgstr "%1 (ส่วนเชื่อมโยง)"
+
+#. +> trunk6
+#: knotificationjobuidelegate.cpp:63
+#, qt-format
+msgctxt "KNotificationJobUiDelegate|"
+msgid "An unknown error occurred while executing a job: %1"
+msgstr ""
 
 #. +> trunk6 trunk5
 #: kstatusbarjobtracker.cpp:161

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeconnect-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-12-22 09:07+0100\n"
+"POT-Creation-Date: 2026-02-27 08:25+0100\n"
 "PO-Revision-Date: 2025-03-17 14:53+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -141,80 +141,86 @@ msgid "Presentation Remote"
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/DevicePage.qml:147 qml/volume.qml:16
+#: qml/DevicePage.qml:148 qml/volume.qml:16
 #, kde-format
 msgid "Volume control"
 msgstr ""
 
+#. +> trunk6
+#: qml/DevicePage.qml:158
+#, kde-format
+msgid "SMS Messages"
+msgstr ""
+
 #. +> trunk6 stable6
-#: qml/DevicePage.qml:157 qml/mousepad.qml:44
+#: qml/DevicePage.qml:166 qml/mousepad.qml:44
 #, kde-format
 msgid "Lock"
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/DevicePage.qml:157
+#: qml/DevicePage.qml:166
 #, kde-format
 msgid "Unlock"
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/DevicePage.qml:165
+#: qml/DevicePage.qml:174
 #, kde-format
 msgid "Find Device"
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/DevicePage.qml:173
+#: qml/DevicePage.qml:182
 #, kde-format
 msgid "Send Clipboard"
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/DevicePage.qml:180
+#: qml/DevicePage.qml:189
 #, kde-format
 msgid "Share File"
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/DevicePage.qml:188
+#: qml/DevicePage.qml:197
 #, kde-format
 msgid "Browse this device"
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/DevicePage.qml:196
+#: qml/DevicePage.qml:205
 #, kde-format
 msgid "Stop virtual monitor session"
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/DevicePage.qml:196
+#: qml/DevicePage.qml:205
 #, kde-format
 msgid "Use device as an external monitor"
 msgstr ""
 
 #. +> trunk6
-#: qml/DevicePage.qml:211
+#: qml/DevicePage.qml:220
 #, kde-format
 msgid "Address: %1 via %2"
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/DevicePage.qml:220
+#: qml/DevicePage.qml:229
 #, kde-format
 msgid "This device is not paired."
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/DevicePage.qml:224
+#: qml/DevicePage.qml:233
 #, kde-format
 msgctxt "Request pairing with a given device"
 msgid "Pair"
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/DevicePage.qml:231 qml/DevicePage.qml:240
+#: qml/DevicePage.qml:240 qml/DevicePage.qml:249
 #, kde-format
 msgid ""
 "Pair requested\n"
@@ -222,25 +228,25 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/DevicePage.qml:246
+#: qml/DevicePage.qml:255
 #, kde-format
 msgid "Accept"
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/DevicePage.qml:252
+#: qml/DevicePage.qml:261
 #, kde-format
 msgid "Reject"
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/DevicePage.qml:263
+#: qml/DevicePage.qml:272
 #, kde-format
 msgid "This device is not reachable"
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/DevicePage.qml:271
+#: qml/DevicePage.qml:280
 #, kde-format
 msgid "Please choose a file"
 msgstr ""
@@ -259,38 +265,45 @@ msgid "Refresh"
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/Main.qml:97
+#: qml/Main.qml:98
 #, kde-format
 msgctxt "@action:button accessible"
 msgid "Refresh Devices"
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/Main.qml:133
+#: qml/Main.qml:134
 #, kde-format
 msgid "Remembered"
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/Main.qml:135
+#: qml/Main.qml:136
 #, kde-format
 msgid "Available"
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/Main.qml:137
+#: qml/Main.qml:138
 #, kde-format
 msgid "Connected"
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/Main.qml:142
+#: qml/Main.qml:143
 #, kde-format
 msgid "No devices found"
 msgstr ""
 
+#. +> trunk6
+#: qml/Main.qml:215
+#, kde-format
+msgctxt "@action:button"
+msgid "Settings"
+msgstr ""
+
 #. +> trunk6 stable6
-#: qml/Main.qml:214 qml/Main.qml:229
+#: qml/Main.qml:230
 #, kde-format
 msgid "Settings"
 msgstr ""
@@ -358,6 +371,20 @@ msgstr ""
 msgid "Enable Full-Screen"
 msgstr ""
 
+#. +> trunk6
+#: qml/presentationRemote.qml:39
+#, kde-format
+msgctxt "@action:button accessible"
+msgid "Previous Slide"
+msgstr ""
+
+#. +> trunk6
+#: qml/presentationRemote.qml:47
+#, kde-format
+msgctxt "@action:button accessible"
+msgid "Next Slide"
+msgstr ""
+
 #. +> trunk6 stable6
 #: qml/runcommand.qml:23
 #, kde-format
@@ -377,20 +404,20 @@ msgid "No commands defined"
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/Settings.qml:13
+#: qml/Settings.qml:15
 #, kde-format
 msgctxt "@title:window"
 msgid "Settings"
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/Settings.qml:21
+#: qml/Settings.qml:27
 #, kde-format
 msgid "Device name"
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/Settings.qml:33
+#: qml/Settings.qml:39
 #, kde-format
 msgctxt "@title:group"
 msgid "Backends"
@@ -418,15 +445,21 @@ msgid "Network"
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/Settings.qml:66
+#: qml/Settings.qml:72
 #, kde-format
 msgid "About KDE Connect"
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/Settings.qml:74
+#: qml/Settings.qml:80
 #, kde-format
 msgid "About KDE"
+msgstr ""
+
+#. +> trunk6
+#: qml/Settings.qml:91
+#, kde-format
+msgid "Close"
 msgstr ""
 
 #. +> trunk6 stable6

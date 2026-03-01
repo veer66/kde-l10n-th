@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio._desktop_.po\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-12-25 05:20+0100\n"
+"POT-Creation-Date: 2026-02-18 10:20+0100\n"
 "PO-Revision-Date: 2026-02-11 15:25+0700\n"
 "Last-Translator: Atirut Wattanamongkol <atirut.wattanamongkol@gmail.com>\n"
 "Language-Team: Thai\n"
@@ -36,7 +36,7 @@ msgid "Folder..."
 msgstr "โฟลเดอร์..."
 
 #. +> trunk6 trunk5
-#: src/new_file_templates/Directory.desktop:96
+#: src/new_file_templates/Directory.desktop:97
 msgctxt "Comment"
 msgid "Enter folder name:"
 msgstr "ป้อนชื่อโฟลเดอร์:"
@@ -48,9 +48,7 @@ msgid "Empty File..."
 msgstr "ไฟล์ว่าง..."
 
 #. +> trunk6
-#: src/new_file_templates/EmptyFile.desktop:60
-#| msgctxt "Comment"
-#| msgid "Enter text filename:"
+#: src/new_file_templates/EmptyFile.desktop:61
 msgctxt "Comment"
 msgid "Enter name for empty file:"
 msgstr "ป้อนชื่อไฟล์ข้อความ:"
@@ -62,7 +60,7 @@ msgid "HTML File..."
 msgstr "ไฟล์ HTML..."
 
 #. +> trunk6 trunk5
-#: src/new_file_templates/HTMLFile.desktop:96
+#: src/new_file_templates/HTMLFile.desktop:97
 msgctxt "Comment"
 msgid "Enter HTML filename:"
 msgstr "ป้อนชื่อไฟล์ HTML:"
@@ -74,7 +72,7 @@ msgid "Link to File or Directory..."
 msgstr "ลิงค์ไปยังไฟล์หรือไดเรกทอรี..."
 
 #. +> trunk6 trunk5
-#: src/new_file_templates/linkPath.desktop:63
+#: src/new_file_templates/linkPath.desktop:64
 msgctxt "Comment"
 msgid "File or directory to link to:"
 msgstr "ไฟล์หรือไดเรกทอรีที่จะลิงค์"
@@ -86,7 +84,7 @@ msgid "Link to Application..."
 msgstr "ลิงค์ไปยังแอปพลิเคชัน..."
 
 #. +> trunk6 trunk5
-#: src/new_file_templates/linkProgram.desktop:93
+#: src/new_file_templates/linkProgram.desktop:94
 msgctxt "Comment"
 msgid "New Link to Application"
 msgstr "ลิงค์ใหม่ไปยังแอปพลิเคชัน"
@@ -98,7 +96,7 @@ msgid "Link to Location (URL)..."
 msgstr "ลิงค์ไปยังที่อยู่ (URL)..."
 
 #. +> trunk6 trunk5
-#: src/new_file_templates/linkURL.desktop:95
+#: src/new_file_templates/linkURL.desktop:96
 msgctxt "Comment"
 msgid "URL location to link to:"
 msgstr "ที่อยู่ URL ที่จะลิงค์"
@@ -110,7 +108,7 @@ msgid "Text File..."
 msgstr "ไฟล์ข้อความ..."
 
 #. +> trunk6 trunk5
-#: src/new_file_templates/TextFile.desktop:95
+#: src/new_file_templates/TextFile.desktop:96
 msgctxt "Comment"
 msgid "Enter text filename:"
 msgstr "ป้อนชื่อไฟล์ข้อความ:"
@@ -188,7 +186,7 @@ msgid "Arch Linux Package Search"
 msgstr "ค้นหาแพ็กเกจของ Arch Linux"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/archpkg.desktop:68
+#: src/urifilters/ikws/searchproviders/archpkg.desktop:69
 msgctxt "Query"
 msgid "https://www.archlinux.org/packages/?q=\\\\{@}"
 msgstr "https://www.archlinux.org/packages/?q=\\\\{@}"
@@ -200,7 +198,7 @@ msgid "ArchWiki"
 msgstr "ArchWiki"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/archwiki.desktop:64
+#: src/urifilters/ikws/searchproviders/archwiki.desktop:65
 msgctxt "Query"
 msgid "https://wiki.archlinux.org/index.php?search=\\\\{@}"
 msgstr "https://wiki.archlinux.org/index.php?search=\\\\{@}"
@@ -260,7 +258,7 @@ msgid "openSUSE Bugzilla"
 msgstr "openSUSE Bugzilla"
 
 #. +> trunk6
-#: src/urifilters/ikws/searchproviders/boo.desktop:54
+#: src/urifilters/ikws/searchproviders/boo.desktop:55
 msgctxt "Query"
 msgid "https://bugzilla.opensuse.org/show_bug.cgi?id=\\\\{@}"
 msgstr "https://bugzilla.opensuse.org/show_bug.cgi?id=\\\\{@}"
@@ -272,7 +270,7 @@ msgid "KDE Bugs"
 msgstr "KDE Bugs"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/bug.desktop:64
+#: src/urifilters/ikws/searchproviders/bug.desktop:65
 msgctxt "Query"
 msgid "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
 msgstr "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
@@ -296,7 +294,7 @@ msgid "Can I Use…"
 msgstr "Can I Use…"
 
 #. +> trunk6
-#: src/urifilters/ikws/searchproviders/caniuse.desktop:41
+#: src/urifilters/ikws/searchproviders/caniuse.desktop:42
 msgctxt "Query"
 msgid "https://caniuse.com/?search=\\\\{@}"
 msgstr "https://caniuse.com/?search=\\\\{@}"
@@ -332,7 +330,7 @@ msgid "Codeberg"
 msgstr "Codeberg"
 
 #. +> trunk6
-#: src/urifilters/ikws/searchproviders/codeberg.desktop:54
+#: src/urifilters/ikws/searchproviders/codeberg.desktop:55
 msgctxt "Query"
 msgid "https://codeberg.org/explore/repos?sort=recentupdate&language=&q=\\\\{@}&only_show_relevant=true"
 msgstr "https://codeberg.org/explore/repos?sort=recentupdate&language=&q=\\\\{@}&only_show_relevant=true"
@@ -356,7 +354,7 @@ msgid "CPlusPlus"
 msgstr "CPlusPlus"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/cplusplus.desktop:63
+#: src/urifilters/ikws/searchproviders/cplusplus.desktop:64
 msgctxt "Query"
 msgid "http://cplusplus.com/search.do?q=\\\\{@}"
 msgstr "http://cplusplus.com/search.do?q=\\\\{@}"
@@ -368,7 +366,7 @@ msgid "CPP Reference"
 msgstr "คู่มืออ้างอิง C++"
 
 #. +> trunk6
-#: src/urifilters/ikws/searchproviders/cppreference.desktop:62
+#: src/urifilters/ikws/searchproviders/cppreference.desktop:63
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://duckduckgo.com/?q=\\\\{@}&t=kde"
@@ -463,7 +461,7 @@ msgid "DeepL"
 msgstr "DeepL"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/deepl.desktop:64
+#: src/urifilters/ikws/searchproviders/deepl.desktop:65
 msgctxt "Query"
 msgid "https://www.deepl.com/translator#any/any/\\\\{@}"
 msgstr "https://www.deepl.com/translator#any/any/\\\\{@}"
@@ -499,7 +497,7 @@ msgid "Docker Hub"
 msgstr "Docker Hub"
 
 #. +> trunk6
-#: src/urifilters/ikws/searchproviders/dockerhub.desktop:42
+#: src/urifilters/ikws/searchproviders/dockerhub.desktop:44
 msgctxt "Query"
 msgid "https://hub.docker.com/search?q=\\\\{@}"
 msgstr "https://hub.docker.com/search?q=\\\\{@}"
@@ -529,7 +527,7 @@ msgid "Duck Duck Go"
 msgstr "Duck Duck Go"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/duckduckgo.desktop:44
+#: src/urifilters/ikws/searchproviders/duckduckgo.desktop:46
 msgctxt "Query"
 msgid "https://duckduckgo.com/?q=\\\\{@}&t=kde"
 msgstr "https://duckduckgo.com/?q=\\\\{@}&t=kde"
@@ -662,7 +660,7 @@ msgid "Fedora Packages"
 msgstr "แพ็คเกจ Fedora"
 
 #. +> trunk6
-#: src/urifilters/ikws/searchproviders/fedora.desktop:42
+#: src/urifilters/ikws/searchproviders/fedora.desktop:44
 msgctxt "Query"
 msgid "https://packages.fedoraproject.org/search?query=\\\\{@}"
 msgstr "https://packages.fedoraproject.org/search?query=\\\\{@}"
@@ -686,7 +684,7 @@ msgid "Flatpak Documentation"
 msgstr "เอกสารอธิบาย Flatpak"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/flatpak.desktop:63
+#: src/urifilters/ikws/searchproviders/flatpak.desktop:64
 msgctxt "Query"
 msgid "https://docs.flatpak.org/en/latest/search.html?q=\\\\{@}&check_keywords=yes&area=default"
 msgstr "https://docs.flatpak.org/en/latest/search.html?q=\\\\{@}&check_keywords=yes&area=default"
@@ -809,7 +807,7 @@ msgid "GitLab"
 msgstr "GitLab"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/gitlab.desktop:67
+#: src/urifilters/ikws/searchproviders/gitlab.desktop:68
 msgctxt "Query"
 msgid "https://gitlab.com/search?search=\\\\{@}"
 msgstr "https://gitlab.com/search?search=\\\\{@}"
@@ -941,7 +939,7 @@ msgid "Great Dictionary of the Catalan Language (GRan Enciclopèdia Catalana)"
 msgstr "พจนานุกรมที่ยิ่งใหญ่ของภาษาคาตะลาน (GRan Enciclopèdia  Catalana)"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/grec.desktop:68
+#: src/urifilters/ikws/searchproviders/grec.desktop:69
 msgctxt "Query"
 msgid "http://ec.grec.net/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART=\\\\{@}"
 msgstr "http://ec.grec.net/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART=\\\\{@}"
@@ -1025,7 +1023,7 @@ msgid "KDE Invent"
 msgstr "KDE Invent"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/invent.desktop:63
+#: src/urifilters/ikws/searchproviders/invent.desktop:64
 msgctxt "Query"
 msgid "https://invent.kde.org/search?search=\\\\{@}"
 msgstr "https://invent.kde.org/search?search=\\\\{@}"
@@ -1037,7 +1035,7 @@ msgid "KDE Invent Issues"
 msgstr "ปัญหา KDE Invent"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/invent_issues.desktop:61
+#: src/urifilters/ikws/searchproviders/invent_issues.desktop:62
 msgctxt "Query"
 msgid "https://invent.kde.org/search?scope=issues&search=\\\\{@}"
 msgstr "https://invent.kde.org/search?scope=issues&search=\\\\{@}"
@@ -1049,7 +1047,7 @@ msgid "KDE Invent Merge Requests"
 msgstr "KDE Invent คําขอ Merge"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/invent_mr.desktop:60
+#: src/urifilters/ikws/searchproviders/invent_mr.desktop:61
 msgctxt "Query"
 msgid "https://invent.kde.org/search?scope=merge_requests&search=\\\\{@}"
 msgstr "https://invent.kde.org/search?scope=merge_requests&search=\\\\{@}"
@@ -1061,7 +1059,7 @@ msgid "KDE Invent Repositories"
 msgstr "ที่เก็บข้อมูล KDE Invent"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/invent_repo.desktop:63
+#: src/urifilters/ikws/searchproviders/invent_repo.desktop:64
 msgctxt "Query"
 msgid "https://invent.kde.org/explore/projects/starred?name=\\\\{@}"
 msgstr "https://invent.kde.org/explore/projects/starred?name=\\\\{@}"
@@ -1130,7 +1128,7 @@ msgid "KDE App Search"
 msgstr "ค้นหาโปรแกรม KDE"
 
 #. +> trunk6
-#: src/urifilters/ikws/searchproviders/kde_apps.desktop:42
+#: src/urifilters/ikws/searchproviders/kde_apps.desktop:44
 msgctxt "Query"
 msgid "https://store.kde.org/browse?tag=\\\\{@}"
 msgstr "https://store.kde.org/browse?tag=\\\\{@}"
@@ -1163,7 +1161,7 @@ msgid "KDE Store"
 msgstr "KDE Store"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/kde_store.desktop:63
+#: src/urifilters/ikws/searchproviders/kde_store.desktop:64
 msgctxt "Query"
 msgid "https://store.kde.org/content/search.php?search=Search&name=\\\\{@}"
 msgstr "https://store.kde.org/content/search.php?search=Search&name=\\\\{@}"
@@ -1199,7 +1197,7 @@ msgid "KDE Reddit"
 msgstr "KDE Reddit"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/kreddit.desktop:63
+#: src/urifilters/ikws/searchproviders/kreddit.desktop:64
 msgctxt "Query"
 msgid "https://www.reddit.com/r/kde/search/?q=\\\\{@}&restrict_sr=1"
 msgstr "https://www.reddit.com/r/kde/search/?q=\\\\{@}&restrict_sr=1"
@@ -1211,7 +1209,7 @@ msgid "Krita Manual"
 msgstr "คู่มือของ Krita"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/krita.desktop:63
+#: src/urifilters/ikws/searchproviders/krita.desktop:64
 msgctxt "Query"
 msgid "https://docs.krita.org/en/search.html?q=\\\\{@}"
 msgstr "https://docs.krita.org/en/search.html?q=\\\\{@}"
@@ -1223,7 +1221,7 @@ msgid "Learn CPP"
 msgstr "เรียน C++"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/learncpp.desktop:63
+#: src/urifilters/ikws/searchproviders/learncpp.desktop:64
 msgctxt "Query"
 msgid "https://www.learncpp.com/gsearch/?q=\\\\{@}"
 msgstr "https://www.learncpp.com/gsearch/?q=\\\\{@}"
@@ -1247,7 +1245,7 @@ msgid "Linguee"
 msgstr "Linguee"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/linguee.desktop:63
+#: src/urifilters/ikws/searchproviders/linguee.desktop:64
 msgctxt "Query"
 msgid "https://www.linguee.com/search?source=auto&query=\\\\{@}"
 msgstr "https://www.linguee.com/search?source=auto&query=\\\\{@}"
@@ -1271,7 +1269,7 @@ msgid "Mozilla Developer Network (MDN)"
 msgstr "Mozilla Developer Network (MDN)"
 
 #. +> trunk6
-#: src/urifilters/ikws/searchproviders/mdn.desktop:42
+#: src/urifilters/ikws/searchproviders/mdn.desktop:44
 msgctxt "Query"
 msgid "https://developer.mozilla.org/en-US/search?q=\\\\{@}"
 msgstr "https://developer.mozilla.org/en-US/search?q=\\\\{@}"
@@ -1295,7 +1293,7 @@ msgid "Microsoft C++ Documentation"
 msgstr "เอกสารอธิบาย C++ Microsoft"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/microsoft_cpp.desktop:62
+#: src/urifilters/ikws/searchproviders/microsoft_cpp.desktop:63
 msgctxt "Query"
 msgid "https://docs.microsoft.com/search/?terms=\\\\{@}&scope=C%2B%2B"
 msgstr "https://docs.microsoft.com/search/?terms=\\\\{@}&scope=C%2B%2B"
@@ -1403,7 +1401,7 @@ msgid "Nix Packages"
 msgstr "แพ็คเกจ Nix"
 
 #. +> trunk6
-#: src/urifilters/ikws/searchproviders/nixpkgs.desktop:42
+#: src/urifilters/ikws/searchproviders/nixpkgs.desktop:44
 msgctxt "Query"
 msgid "https://search.nixos.org/packages?sort=relevance&type=packages&query=\\\\{@}"
 msgstr "https://search.nixos.org/packages?sort=relevance&type=packages&query=\\\\{@}"
@@ -1439,7 +1437,7 @@ msgid "npm"
 msgstr "npm"
 
 #. +> trunk6
-#: src/urifilters/ikws/searchproviders/npm.desktop:42
+#: src/urifilters/ikws/searchproviders/npm.desktop:44
 msgctxt "Query"
 msgid "https://www.npmjs.com/search?q=\\\\{@}"
 msgstr "https://www.npmjs.com/search?q=\\\\{@}"
@@ -1463,7 +1461,7 @@ msgid "openSUSE Software"
 msgstr "openSUSE Software"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/opensuse.desktop:62
+#: src/urifilters/ikws/searchproviders/opensuse.desktop:63
 msgctxt "Query"
 msgid "https://software.opensuse.org/search?utf8=%E2%9C%93&q=\\\\{@}"
 msgstr "https://software.opensuse.org/search?utf8=%E2%9C%93&q=\\\\{@}"
@@ -1499,7 +1497,7 @@ msgid "ProtonDB"
 msgstr "ProtonDB"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/protondb.desktop:63
+#: src/urifilters/ikws/searchproviders/protondb.desktop:64
 msgctxt "Query"
 msgid "https://www.protondb.com/search?q=\\\\{@}"
 msgstr "https://www.protondb.com/search?q=\\\\{@}"
@@ -1511,7 +1509,7 @@ msgid "PyPI"
 msgstr "PyPi"
 
 #. +> trunk6
-#: src/urifilters/ikws/searchproviders/pypi.desktop:53
+#: src/urifilters/ikws/searchproviders/pypi.desktop:54
 msgctxt "Query"
 msgid "https://pypi.org/search/?q=\\\\{@}"
 msgstr "https://pypi.org/search/?q=\\\\{@}"
@@ -1535,7 +1533,7 @@ msgid "Qt5 Online Documentation"
 msgstr "เอกสารอธิบาย Qt5"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/qt5.desktop:63
+#: src/urifilters/ikws/searchproviders/qt5.desktop:64
 msgctxt "Query"
 msgid "https://doc.qt.io/qt-5/search-results.html?q=\\\\{@}"
 msgstr "https://doc.qt.io/qt-5/search-results.html?q=\\\\{@}"
@@ -1547,7 +1545,7 @@ msgid "Qt6 Online Documentation"
 msgstr "เอกสารอธิบาย Qt6"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/qt6.desktop:63
+#: src/urifilters/ikws/searchproviders/qt6.desktop:64
 msgctxt "Query"
 msgid "https://doc.qt.io/qt-6/search-results.html?q=\\\\{@}"
 msgstr "https://doc.qt.io/qt-6/search-results.html?q=\\\\{@}"
@@ -1559,7 +1557,7 @@ msgid "Qwant"
 msgstr "Qwant"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/qwant.desktop:72
+#: src/urifilters/ikws/searchproviders/qwant.desktop:73
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=web"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=web"
@@ -1571,7 +1569,7 @@ msgid "Qwant Images"
 msgstr "Qwant Images"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/qwant_images.desktop:71
+#: src/urifilters/ikws/searchproviders/qwant_images.desktop:72
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=images"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=images"
@@ -1583,7 +1581,7 @@ msgid "Qwant News"
 msgstr "Qwant News"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/qwant_news.desktop:72
+#: src/urifilters/ikws/searchproviders/qwant_news.desktop:73
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=news"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=news"
@@ -1595,7 +1593,7 @@ msgid "Qwant Shopping"
 msgstr "Qwant Shopping"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:71
+#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:72
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=shopping"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=shopping"
@@ -1607,7 +1605,7 @@ msgid "Qwant Social"
 msgstr "Qwant Social"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/qwant_social.desktop:72
+#: src/urifilters/ikws/searchproviders/qwant_social.desktop:73
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=social"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=social"
@@ -1619,7 +1617,7 @@ msgid "Qwant Videos"
 msgstr "Qwant Videos"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:71
+#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:72
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=videos"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=videos"
@@ -1655,7 +1653,7 @@ msgid "Reddit"
 msgstr "Reddit"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/reddit.desktop:62
+#: src/urifilters/ikws/searchproviders/reddit.desktop:63
 msgctxt "Query"
 msgid "https://www.reddit.com/search/?q=\\\\{@}"
 msgstr "https://www.reddit.com/search/?q=\\\\{@}"
@@ -1703,7 +1701,7 @@ msgid "Rust STD Documentation"
 msgstr "เอกสารอธิบาย Rust STD"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/rust.desktop:61
+#: src/urifilters/ikws/searchproviders/rust.desktop:62
 msgctxt "Query"
 msgid "https://doc.rust-lang.org/std/index.html?search=\\\\{@}"
 msgstr "https://doc.rust-lang.org/std/index.html?search=\\\\{@}"
@@ -1715,7 +1713,7 @@ msgid "Soundcloud"
 msgstr "Soundcloud"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/soundcloud.desktop:69
+#: src/urifilters/ikws/searchproviders/soundcloud.desktop:70
 msgctxt "Query"
 msgid "https://soundcloud.com/search?q=\\\\{@}"
 msgstr "https://soundcloud.com/search?q=\\\\{@}"
@@ -1787,7 +1785,7 @@ msgid "Ubuntu Package Search"
 msgstr "ค้นหาแพ็กเกจของ Ubuntu"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/ubuntu.desktop:63
+#: src/urifilters/ikws/searchproviders/ubuntu.desktop:64
 msgctxt "Query"
 msgid "https://packages.ubuntu.com/\\\\{@}"
 msgstr "https://packages.ubuntu.com/\\\\{@}"
@@ -1877,7 +1875,7 @@ msgid "Wikipedia - The Free Encyclopedia"
 msgstr "วิกิพีเดีย - สารานุกรมเสรี"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/wikipedia.desktop:44
+#: src/urifilters/ikws/searchproviders/wikipedia.desktop:46
 msgctxt "Query"
 msgid "https://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
 msgstr "https://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
@@ -1901,7 +1899,7 @@ msgid "WineHQ Database"
 msgstr "ฐานข้อมูล WineHQ"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/wine.desktop:63
+#: src/urifilters/ikws/searchproviders/wine.desktop:64
 msgctxt "Query"
 msgid "https://www.winehq.org/search?q=\\\\{@}"
 msgstr "https://www.winehq.org/search?q=\\\\{@}"
@@ -1997,7 +1995,7 @@ msgid "Yandex"
 msgstr "Yandex"
 
 #. +> trunk6 trunk5
-#: src/urifilters/ikws/searchproviders/yandex.desktop:61
+#: src/urifilters/ikws/searchproviders/yandex.desktop:62
 msgctxt "Query"
 msgid "https://yandex.ru/search/?text=\\\\{@}"
 msgstr "https://dict.leo.org/?search=\\\\{@}"
@@ -2027,7 +2025,7 @@ msgid "C++ Worker (KF6)"
 msgstr "C++ Worker (KF6)"
 
 #. +> trunk6 trunk5
-#: templates/kioworker6/kioworker6.kdevtemplate:46
+#: templates/kioworker6/kioworker6.kdevtemplate:47
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr "KIO Worker Template"
@@ -2083,13 +2081,13 @@ msgid "Cookies"
 msgstr "คุกกี้"
 
 #. +> trunk5
-#: src/kcms/cookies/cookies.desktop:77
+#: src/kcms/cookies/cookies.desktop:78
 msgctxt "Comment"
 msgid "Configure the way cookies work"
 msgstr "ปรับแต่งวิธีการทำงานของคุกกี้"
 
 #. +> trunk5
-#: src/kcms/cookies/cookies.desktop:171
+#: src/kcms/cookies/cookies.desktop:172
 msgctxt "X-KDE-Keywords"
 msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 msgstr ""

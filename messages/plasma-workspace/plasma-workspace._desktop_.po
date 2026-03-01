@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-13 14:38+0100\n"
+"POT-Creation-Date: 2026-02-20 16:37+0100\n"
 "PO-Revision-Date: 2025-03-04 15:02+0700\n"
 "Last-Translator: Pongsakorn S. <kde@xerusion.me>\n"
 "Language-Team: Thai\n"
@@ -53,20 +53,20 @@ msgstr "ปลั๊กอินวอลเปเปอร์"
 
 #. +> trunk6 stable6
 #: donationmessage/donationmessage.notifyrc:6
-#: donationmessage/donationmessage.notifyrc:162
+#: donationmessage/donationmessage.notifyrc:165
 msgctxt "Name"
 msgid "Request for Donation"
 msgstr "ขอรับบริจาค"
 
 #. +> trunk6 stable6
-#: donationmessage/donationmessage.notifyrc:52
-#: donationmessage/donationmessage.notifyrc:209
+#: donationmessage/donationmessage.notifyrc:53
+#: donationmessage/donationmessage.notifyrc:213
 msgctxt "Comment"
 msgid "Shows a yearly request to donate to KDE"
 msgstr "แสดงคําขอบริจาครายปีให้กับ KDE"
 
 #. +> trunk6 stable6 stable5
-#: donationmessage/donationmessage.notifyrc:98
+#: donationmessage/donationmessage.notifyrc:100
 msgctxt "Name"
 msgid "Application"
 msgstr "แอปพลิเคชัน"
@@ -132,13 +132,13 @@ msgid "Color scheme editor"
 msgstr "ตัวแก้ไขชุดสี"
 
 #. +> trunk6 stable6 stable5
-#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:55
+#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:56
 msgctxt "Name"
 msgid "KColorSchemeEditor"
 msgstr "KColorSchemeEditor"
 
 #. +> trunk6 stable6 stable5
-#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:109
+#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:111
 msgctxt "Comment"
 msgid "Plasma color scheme editor"
 msgstr "ตัวแก้ไขชุดสี Plasma"
@@ -174,7 +174,7 @@ msgid "KFontInst"
 msgstr "KFontInst"
 
 #. +> trunk6 stable6
-#: kcms/kfontinst/apps/org.kde.kfontinst.desktop:53
+#: kcms/kfontinst/apps/org.kde.kfontinst.desktop:54
 msgctxt "GenericName"
 msgid "Font Installer"
 msgstr "ตัวติดตั้งฟอนต์"
@@ -186,7 +186,7 @@ msgid "KFontView"
 msgstr "KFontView"
 
 #. +> trunk6 stable6 stable5
-#: kcms/kfontinst/apps/org.kde.kfontview.desktop:60
+#: kcms/kfontinst/apps/org.kde.kfontview.desktop:61
 msgctxt "GenericName"
 msgid "Font Viewer"
 msgstr "โปรแกรมแสดงฟอนต์"
@@ -198,13 +198,13 @@ msgid "Font Installer"
 msgstr "ตัวติดตั้งฟอนต์"
 
 #. +> trunk6 stable6 stable5
-#: kcms/kfontinst/dbus/fontinst.actions:59
+#: kcms/kfontinst/dbus/fontinst.actions:60
 msgctxt "Name"
 msgid "Manage system-wide fonts."
 msgstr "จัดการฟอนต์ทั่วระบบ"
 
 #. +> trunk6 stable6 stable5
-#: kcms/kfontinst/dbus/fontinst.actions:112
+#: kcms/kfontinst/dbus/fontinst.actions:114
 msgctxt "Description"
 msgid "Modifying the system-wide font configuration requires privileges."
 msgstr "การแก้ไขการกําหนดค่าฟอนต์ทั้งระบบต้องใช้สิทธิ์การใช้งาน"
@@ -235,7 +235,7 @@ msgid "Trash"
 msgstr "ถังขยะ"
 
 #. +> trunk6 stable6 stable5
-#: kioworkers/desktop/directory.trash:63
+#: kioworkers/desktop/directory.trash:64
 msgctxt "Comment"
 msgid "Contains removed files"
 msgstr "มีไฟล์ที่ถูกลบออก"
@@ -265,7 +265,7 @@ msgid "KRunner"
 msgstr "KRunner"
 
 #. +> trunk6 stable6 stable5
-#: krunner/org.kde.krunner.desktop.cmake:76
+#: krunner/org.kde.krunner.desktop.cmake:77
 msgctxt "Name"
 msgid "Run command on clipboard contents"
 msgstr "เรียกใช้คําสั่งบนเนื้อหาคลิปบอร์ด"
@@ -283,7 +283,7 @@ msgid "Notification Manager"
 msgstr "จัดการการแจ้งเตือน"
 
 #. +> trunk6 stable6
-#: libnotificationmanager/libnotificationmanager.notifyrc:48
+#: libnotificationmanager/libnotificationmanager.notifyrc:49
 msgctxt "Name"
 msgid "Summary for unread inhibited notifications"
 msgstr "สรุปการแจ้งเตือนที่ถูกยับยั้งซึ่งไม่ได้อ่าน"
@@ -295,10 +295,10 @@ msgid "Plasma (Development, Wayland ${CMAKE_INSTALL_FULL_BINDIR})"
 msgstr "Plasma (Development, Wayland ${CMAKE_INSTALL_FULL_BINDIR})"
 
 #. +> trunk6 stable6 stable5
-#: login-sessions/plasmawayland-dev.desktop.cmake:56
-#: login-sessions/plasmawayland.desktop.cmake:61
-#: login-sessions/plasmax11-dev.desktop.cmake:57
-#: login-sessions/plasmax11.desktop.cmake:60
+#: login-sessions/plasmawayland-dev.desktop.cmake:57
+#: login-sessions/plasmawayland.desktop.cmake:62
+#: login-sessions/plasmax11-dev.desktop.cmake:58
+#: login-sessions/plasmax11.desktop.cmake:61
 msgctxt "Comment"
 msgid "Plasma by KDE"
 msgstr "Plasma โดย KDE"
@@ -539,7 +539,7 @@ msgid "Desktop"
 msgstr "เดสก์ท็อป"
 
 #. +> trunk6 stable6 stable5
-#: menu/desktop/kf5-utilities-desktop.directory:68
+#: menu/desktop/kf5-utilities-desktop.directory:69
 msgctxt "Comment"
 msgid "Desktop"
 msgstr "เดสก์ท็อป"
@@ -551,7 +551,7 @@ msgid "File"
 msgstr "ไฟล์"
 
 #. +> trunk6 stable6 stable5
-#: menu/desktop/kf5-utilities-file.directory:69
+#: menu/desktop/kf5-utilities-file.directory:70
 msgctxt "Comment"
 msgid "File"
 msgstr "ไฟล์"
@@ -587,7 +587,7 @@ msgid "X-Utilities"
 msgstr "X-Utilities"
 
 #. +> trunk6 stable6 stable5
-#: menu/desktop/kf5-utilities-xutils.directory:66
+#: menu/desktop/kf5-utilities-xutils.directory:67
 msgctxt "Comment"
 msgid "X Window Utilities"
 msgstr "โปรแกรมอรรถประโยชน์ต่าง ๆ ของระบบ X Window"
@@ -599,7 +599,7 @@ msgid "Utilities"
 msgstr "Utilities"
 
 #. +> trunk6 stable6 stable5
-#: menu/desktop/kf5-utilities.directory:67
+#: menu/desktop/kf5-utilities.directory:68
 msgctxt "Comment"
 msgid "Utilities"
 msgstr "Utilities"
@@ -611,19 +611,19 @@ msgid "Linux Kernel"
 msgstr "Linux Kernel"
 
 #. +> trunk6 stable6
-#: oom-notifier/oom-notifier.notifyrc:49
+#: oom-notifier/oom-notifier.notifyrc:50
 msgctxt "Comment"
 msgid "The core of the operating system"
 msgstr "แกนหลักของระบบปฏิบัติการ"
 
 #. +> trunk6 stable6
-#: oom-notifier/oom-notifier.notifyrc:96
+#: oom-notifier/oom-notifier.notifyrc:98
 msgctxt "Name"
 msgid "Catastrophe"
 msgstr "ภัยพิบัติ"
 
 #. +> trunk6 stable6
-#: oom-notifier/oom-notifier.notifyrc:144
+#: oom-notifier/oom-notifier.notifyrc:147
 msgctxt "Comment"
 msgid "A very serious error has occurred"
 msgstr "เกิดข้อผิดพลาดร้ายแรงมาก"
@@ -635,7 +635,7 @@ msgid "Plasma Windowed"
 msgstr "หน้าต่าง Plasma"
 
 #. +> trunk6 stable6 stable5
-#: plasma-windowed/org.kde.plasmawindowed.desktop.cmake:60
+#: plasma-windowed/org.kde.plasmawindowed.desktop.cmake:61
 msgctxt "Comment"
 msgid "Run Plasmoids as simple applications"
 msgstr "เรียกใช้ Plasmoid เป็นแอปพลิเคชันง่ายๆ"
@@ -657,7 +657,7 @@ msgid "Desktop Search"
 msgstr "วาระงานของพื้นที่ทำงาน"
 
 #. +> trunk6 stable6
-#: runners/baloo/plasma-runner-baloosearch.desktop:50
+#: runners/baloo/plasma-runner-baloosearch.desktop:51
 msgctxt "Comment"
 msgid "Searches for files by name and content"
 msgstr "ค้นหาไฟล์ตามชื่อและเนื้อหา"

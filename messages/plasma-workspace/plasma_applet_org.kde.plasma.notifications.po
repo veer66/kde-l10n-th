@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-11 08:13+0100\n"
+"POT-Creation-Date: 2026-02-21 07:45+0100\n"
 "PO-Revision-Date: 2010-11-27 11:49+0700\n"
 "Last-Translator: Phuwanat Sakornsakolpat <narachai@gmail.com>\n"
 "Language-Team: Thai <thai-l10n@googlegroups.com>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. +> trunk6 stable6 stable5
-#: components/ActionContainer.qml:81
+#: components/ActionContainer.qml:96
 #, kde-format
 msgctxt "Reply to message"
 msgid "Reply"
@@ -468,13 +468,21 @@ msgid "Notifications are currently provided by '%1 %2'"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: globalshortcuts.cpp:23
+#: globalshortcuts.cpp:24
 #, kde-format
 msgid "Toggle do not disturb"
 msgstr ""
 
+#. +> trunk6
+#: globalshortcuts.cpp:33
+#, fuzzy, kde-format
+#| msgid "Notifications"
+msgctxt "@action"
+msgid "Clear Notification History"
+msgstr "การแจ้งเตือน"
+
 #. +> trunk6 stable6 stable5
-#: globalshortcuts.cpp:42
+#: globalshortcuts.cpp:52
 #, fuzzy, kde-format
 #| msgid "Notifications"
 msgctxt "OSD popup, keep short"
@@ -482,11 +490,19 @@ msgid "Notifications Off"
 msgstr "การแจ้งเตือน"
 
 #. +> trunk6 stable6 stable5
-#: globalshortcuts.cpp:43
+#: globalshortcuts.cpp:53
 #, fuzzy, kde-format
 #| msgid "Notifications"
 msgctxt "OSD popup, keep short"
 msgid "Notifications On"
+msgstr "การแจ้งเตือน"
+
+#. +> trunk6
+#: globalshortcuts.cpp:68
+#, fuzzy, kde-format
+#| msgid "Notifications"
+msgctxt "@label OSD popup, keep short"
+msgid "Notification history cleared"
 msgstr "การแจ้งเตือน"
 
 #. +> trunk6 stable6 stable5
@@ -550,14 +566,14 @@ msgid "Middle-click to enter do not disturb mode"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: main.qml:238
+#: main.qml:245
 #, fuzzy, kde-format
 #| msgid "Notifications"
 msgid "Clear All Notifications"
 msgstr "การแจ้งเตือน"
 
 #. +> trunk6 stable6 stable5
-#: main.qml:257
+#: main.qml:264
 #, kde-format
 msgid "&Configure Event Notifications and Actions…"
 msgstr ""

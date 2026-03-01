@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-08-03 10:48+0200\n"
+"POT-Creation-Date: 2026-02-28 07:31+0100\n"
 "PO-Revision-Date: 2025-03-17 14:55+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -32,7 +32,7 @@ msgid "Aditya Mehra"
 msgstr ""
 
 #. +> trunk6
-#: containments/homescreen/plugin/metadata.json
+#: containments/homescreen/plugin/metadata.json lookandfeel/metadata.json
 msgctxt "Name"
 msgid "Plasma Bigscreen"
 msgstr ""
@@ -152,21 +152,33 @@ msgid "Connect to Wi-Fi networks"
 msgstr ""
 
 #. +> trunk6
-#: lookandfeel/metadata.json shell/metadata.json
+#: kded/start/kded_plasma_bigscreen_start.json
 msgctxt "Name"
-msgid "Plasma Big Screen"
+msgid "Plasma Bigscreen Start"
+msgstr ""
+
+#. +> trunk6
+#: kded/start/kded_plasma_bigscreen_start.json
+msgctxt "Description"
+msgid "Run initial tasks for Plasma Bigscreen during session startup"
 msgstr ""
 
 #. +> trunk6
 #: lookandfeel/metadata.json
 msgctxt "Description"
-msgid "Plasma Plasma Big Screen look and feel"
+msgid "Plasma Bigscreen look and feel"
 msgstr ""
 
 #. +> trunk6
 #: lookandfeel/metadata.json shell/metadata.json
 msgctxt "Authors Name"
 msgid "Marco Martin"
+msgstr ""
+
+#. +> trunk6
+#: shell/metadata.json
+msgctxt "Name"
+msgid "Plasma Big Screen"
 msgstr ""
 
 #. +> trunk6

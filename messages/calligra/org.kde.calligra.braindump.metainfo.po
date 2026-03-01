@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: org.kde.calligra.braindump.metainfo\n"
-"POT-Creation-Date: 2024-11-09 11:24+0100\n"
+"POT-Creation-Date: 2026-02-14 09:56+0100\n"
 "PO-Revision-Date: 2025-03-17 14:51+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -33,4 +33,16 @@ msgstr ""
 #. +> trunk6 stable6
 #: org.kde.calligra.braindump.metainfo.xml:24
 msgid "Main window of Braindump showing a music partition and many other shapes"
+msgstr ""
+
+#. (itstool) path: description/p
+#. +> trunk6 stable6
+#: org.kde.calligra.braindump.metainfo.xml:58
+msgid "This release add flatpak support to the Calligra Office suite."
+msgstr ""
+
+#. (itstool) path: description/p
+#. +> trunk6 stable6
+#: org.kde.calligra.braindump.metainfo.xml:64
+msgid "The most significant changes are that Calligra has been fully transitioned to Qt6 and KF6, along with a major overhaul of its user interface."
 msgstr ""

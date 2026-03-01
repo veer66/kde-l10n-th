@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_tasks\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-13 14:38+0100\n"
+"POT-Creation-Date: 2026-01-24 08:21+0100\n"
 "PO-Revision-Date: 2010-12-17 16:16+0700\n"
 "Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
 "Language-Team: Thai <thai-l10n@googlegroups.com>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. +> trunk6 stable6
-#: backend.cpp:284
+#: backend.cpp:288
 #, kde-format
 msgctxt "Show all user Places"
 msgid "%1 more Place…"
@@ -34,46 +34,46 @@ msgid_plural "%1 more Places"
 msgstr[0] ""
 
 #. +> trunk6 stable6 stable5
-#: backend.cpp:368
+#: backend.cpp:372
 #, kde-format
 msgid "Recent Downloads"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: backend.cpp:370
+#: backend.cpp:374
 #, kde-format
 msgid "Recent Connections"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: backend.cpp:372
+#: backend.cpp:376
 #, kde-format
 msgid "Recent Places"
-msgstr ""
-
-#. +> trunk6 stable6 stable5
-#: backend.cpp:381
-#, kde-format
-msgctxt "@action:inmenu"
-msgid "Forget Recent Downloads"
-msgstr ""
-
-#. +> trunk6 stable6 stable5
-#: backend.cpp:383
-#, kde-format
-msgctxt "@action:inmenu"
-msgid "Forget Recent Connections"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
 #: backend.cpp:385
 #, kde-format
 msgctxt "@action:inmenu"
-msgid "Forget Recent Places"
+msgid "Forget Recent Downloads"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
 #: backend.cpp:387
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Forget Recent Connections"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: backend.cpp:389
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Forget Recent Places"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: backend.cpp:391
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Forget Recent Files"
@@ -110,15 +110,15 @@ msgstr ""
 #. +> trunk6 stable6 stable5
 #: qml/Badge.qml:52
 #, kde-format
-msgctxt "Invalid number of new messages, overlay, keep short"
-msgid "—"
-msgstr ""
-
-#. +> trunk6 stable6 stable5
-#: qml/Badge.qml:54
-#, kde-format
 msgctxt "Over 9999 new messages, overlay, keep short"
 msgid "9,999+"
+msgstr ""
+
+#. +> stable6 stable5
+#: qml/Badge.qml:52
+#, kde-format
+msgctxt "Invalid number of new messages, overlay, keep short"
+msgid "—"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -1186,14 +1186,14 @@ msgid "&Close"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: qml/Task.qml:153
+#: qml/Task.qml:155
 #, kde-format
 msgctxt "@info:usagetip %1 application name"
 msgid "Launch %1"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: qml/Task.qml:158
+#: qml/Task.qml:160
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "There is %1 new message."
@@ -1201,7 +1201,7 @@ msgid_plural "There are %1 new messages."
 msgstr[0] ""
 
 #. +> trunk6 stable6 stable5
-#: qml/Task.qml:166
+#: qml/Task.qml:168
 #, fuzzy, kde-format
 #| msgid "Show tooltips"
 msgctxt "@info:usagetip %1 task name"
@@ -1209,21 +1209,21 @@ msgid "Show Task tooltip for %1"
 msgstr "แสดงทูลทิป"
 
 #. +> trunk6 stable6 stable5
-#: qml/Task.qml:170
+#: qml/Task.qml:172
 #, kde-format
 msgctxt "@info:usagetip %1 task name"
 msgid "Show windows side by side for %1"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: qml/Task.qml:175
+#: qml/Task.qml:177
 #, kde-format
 msgctxt "@info:usagetip %1 task name"
 msgid "Open textual list of windows for %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/Task.qml:179
+#: qml/Task.qml:181
 #, kde-format
 msgctxt "@info:usagetip %1 task name"
 msgid "Activate %1"

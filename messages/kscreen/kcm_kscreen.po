@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kscreen\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-13 14:38+0100\n"
+"POT-Creation-Date: 2026-02-21 07:44+0100\n"
 "PO-Revision-Date: 2025-03-17 14:54+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -84,7 +84,7 @@ msgid "Keep display configuration?"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: ui/main.qml:65
+#: ui/main.qml:67
 #, kde-format
 msgid "Will revert to previous configuration in %1 second."
 msgid_plural "Will revert to previous configuration in %1 seconds."
@@ -92,114 +92,114 @@ msgstr[0] ""
 msgstr[1] ""
 
 #. +> trunk6 stable6 stable5
-#: ui/main.qml:82
+#: ui/main.qml:84
 #, kde-format
 msgid "&Keep"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: ui/main.qml:95
+#: ui/main.qml:97
 #, kde-format
 msgid "&Revert"
-msgstr ""
-
-#. +> trunk6 stable6 stable5
-#: ui/main.qml:115
-#, kde-format
-msgctxt "@info"
-msgid "All displays are disabled. Enable at least one."
 msgstr ""
 
 #. +> trunk6 stable6 stable5
 #: ui/main.qml:117
 #, kde-format
 msgctxt "@info"
+msgid "All displays are disabled. Enable at least one."
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: ui/main.qml:119
+#, kde-format
+msgctxt "@info"
 msgid "Gaps between displays are not supported. Make sure all displays are touching."
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/main.qml:122
+#: ui/main.qml:124
 #, kde-format
 msgctxt "The argument contains the reason for the failure"
 msgid "Couldn’t apply display configuration: %1"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: ui/main.qml:131
+#: ui/main.qml:133
 #, kde-format
 msgid "A new output has been added. Settings have been reloaded."
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: ui/main.qml:133
+#: ui/main.qml:135
 #, kde-format
 msgid "An output has been removed. Settings have been reloaded."
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: ui/main.qml:187
+#: ui/main.qml:189
 #, kde-format
 msgid "No KScreen backend found. Please check your KScreen installation."
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: ui/main.qml:196
+#: ui/main.qml:198
 #, kde-format
 msgid "Outputs could not be saved due to error."
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: ui/main.qml:205
+#: ui/main.qml:207
 #, kde-format
 msgid "Global scale changes will come into effect after the system is restarted."
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: ui/main.qml:211
+#: ui/main.qml:213
 #, kde-format
 msgid "Restart"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: ui/main.qml:229
+#: ui/main.qml:231
 #, kde-format
 msgid "Display configuration reverted."
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: ui/main.qml:243
+#: ui/main.qml:245
 #, kde-format
 msgctxt "@title:window"
 msgid "Change Priorities"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: ui/main.qml:273 ui/OutputPanel.qml:48
+#: ui/main.qml:275 ui/OutputPanel.qml:48
 #, kde-format
 msgid "Primary"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: ui/main.qml:278
+#: ui/main.qml:280
 #, kde-format
 msgid "Raise priority"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: ui/main.qml:288
+#: ui/main.qml:290
 #, kde-format
 msgid "Lower priority"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/main.qml:400
+#: ui/main.qml:402
 #, kde-format
 msgctxt "@action:button Shrink the height of a view"
 msgid "Collapse"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/main.qml:401
+#: ui/main.qml:403
 #, kde-format
 msgctxt "@action:button Edit the arrangement of display outputs"
 msgid "Edit Arrangement"
@@ -526,41 +526,48 @@ msgid "HDR allows compatible applications to show brighter and more vivid colors
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/OutputPanel.qml:372
+#: ui/OutputPanel.qml:375
 #, kde-format
 msgctxt "@action:button"
 msgid "Calibrate HDR Brightness…"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/OutputPanel.qml:385
+#: ui/OutputPanel.qml:389
 #, kde-format
 msgid "Opens a window to calibrate HDR brightness"
 msgstr ""
 
+#. +> trunk6
+#: ui/OutputPanel.qml:394
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "HDR calibration can only be started if all settings are applied."
+msgstr ""
+
 #. +> trunk6 stable6
-#: ui/OutputPanel.qml:392
+#: ui/OutputPanel.qml:401
 #, kde-format
 msgctxt "@label:listbox"
 msgid "Color accuracy:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/OutputPanel.qml:401
+#: ui/OutputPanel.qml:410
 #, kde-format
 msgctxt "@item:inlistbox tradeoff between efficiency and color accuracy"
 msgid "Prefer efficiency"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/OutputPanel.qml:402
+#: ui/OutputPanel.qml:411
 #, kde-format
 msgctxt "@item:inlistbox tradeoff between efficiency and color accuracy"
 msgid "Prefer color accuracy"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/OutputPanel.qml:412
+#: ui/OutputPanel.qml:421
 #, kde-kuit-format
 msgctxt "@info:tooltip"
 msgid ""
@@ -570,7 +577,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/OutputPanel.qml:419
+#: ui/OutputPanel.qml:428
 #, kde-kuit-format
 msgctxt "@info:tooltip"
 msgid ""
@@ -580,35 +587,35 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/OutputPanel.qml:427
+#: ui/OutputPanel.qml:436
 #, kde-format
 msgctxt "@label:listbox"
 msgid "Limit color resolution to:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/OutputPanel.qml:448
+#: ui/OutputPanel.qml:457
 #, kde-format
 msgctxt "@item:inlistbox color resolution"
 msgid "Automatic  (%1 bits per color)"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/OutputPanel.qml:450 ui/OutputPanel.qml:463
+#: ui/OutputPanel.qml:459 ui/OutputPanel.qml:472
 #, kde-format
 msgctxt "@item:inlistbox color resolution"
 msgid "%1 bits per color"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/OutputPanel.qml:461
+#: ui/OutputPanel.qml:470
 #, kde-format
 msgctxt "@item:inlistbox color resolution"
 msgid "Automatic (%1 bits per color)"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/OutputPanel.qml:473
+#: ui/OutputPanel.qml:482
 #, kde-kuit-format
 msgctxt "@info:tooltip"
 msgid ""
@@ -620,7 +627,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/OutputPanel.qml:477
+#: ui/OutputPanel.qml:486
 #, kde-kuit-format
 msgctxt "@info:tooltip"
 msgid ""
@@ -632,90 +639,90 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/OutputPanel.qml:492
+#: ui/OutputPanel.qml:501
 #, kde-format
 msgctxt "@label"
 msgid "sRGB color intensity:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/OutputPanel.qml:523
+#: ui/OutputPanel.qml:532
 #, kde-format
 msgctxt "Color intensity factor expressed in percentage form"
 msgid "%1%"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/OutputPanel.qml:531
+#: ui/OutputPanel.qml:540
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Increases the intensity of sRGB content on the screen."
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/OutputPanel.qml:540
+#: ui/OutputPanel.qml:549
 #, kde-format
 msgctxt "@label"
 msgid "Brightness:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/OutputPanel.qml:546
+#: ui/OutputPanel.qml:555
 #, kde-format
 msgctxt "@option:check"
 msgid "Control hardware brightness with DDC/CI"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/OutputPanel.qml:552
+#: ui/OutputPanel.qml:561
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "DDC/CI is a feature supported by many monitors. Plasma can use it to adjust screen brightness with desktop controls, as if using the monitor's own hardware buttons and OSD menu."
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/OutputPanel.qml:586
+#: ui/OutputPanel.qml:595
 #, kde-format
 msgctxt "Brightness expressed in percentage form"
 msgid "%1%"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/OutputPanel.qml:600
+#: ui/OutputPanel.qml:609
 #, kde-format
 msgid "Automatically adapt to environment"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/OutputPanel.qml:605
+#: ui/OutputPanel.qml:614
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Automatically adjust the screen’s brightness based on the lighting level of the environment, as detected by the device’s ambient light sensor. If you adjust the brightness manually, those adjustments will be remembered and taken into account."
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/OutputPanel.qml:617
+#: ui/OutputPanel.qml:626
 #, kde-format
 msgctxt "@label"
 msgid "Sharpness:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/OutputPanel.qml:646
+#: ui/OutputPanel.qml:655
 #, kde-format
 msgctxt "@label"
 msgid "Extended Dynamic Range:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/OutputPanel.qml:651
+#: ui/OutputPanel.qml:660
 #, kde-format
 msgctxt "@option:check"
 msgid "Enable EDR"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/OutputPanel.qml:657
+#: ui/OutputPanel.qml:666
 #, kde-kuit-format
 msgctxt "@info:tooltip"
 msgid ""
@@ -725,7 +732,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: ui/OutputPanel.qml:662
+#: ui/OutputPanel.qml:671
 #, kde-format
 msgid "Replica of:"
 msgstr ""

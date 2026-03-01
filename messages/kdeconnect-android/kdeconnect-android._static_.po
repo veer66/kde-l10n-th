@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-01-01 10:14+0100\n"
+"POT-Creation-Date: 2026-02-19 10:17+0100\n"
 "PO-Revision-Date: 2025-03-17 14:53+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -1626,6 +1626,11 @@ msgid "Notifications from other devices"
 msgstr ""
 
 #. +> trunk5
+msgctxt "findmyphone_preference_title_flashlight"
+msgid "Flash flashlight"
+msgstr ""
+
+#. +> trunk5
 msgctxt "no_app_for_opening"
 msgid "No suitable app found to open this file"
 msgstr ""
@@ -2100,6 +2105,16 @@ msgid "The notifications permission is needed so the phone can ring when the app
 msgstr ""
 
 #. +> trunk5
+msgctxt "findmyphone_camera_explanation"
+msgid "Camera permission allows the flashlight to flash when finding your phone"
+msgstr ""
+
+#. +> trunk5
+msgctxt "findmyphone_open_settings_for_camera"
+msgid "Grant camera permission in app settings to use the flashlight"
+msgstr ""
+
+#. +> trunk5
 msgctxt "no_notifications"
 msgid "Notifications are disabled, you won't receive incoming pairing request notifications."
 msgstr ""
@@ -2153,4 +2168,29 @@ msgstr ""
 #. +> trunk5
 msgctxt "enable_fullscreen"
 msgid "Enable fullscreen"
+msgstr ""
+
+#. +> trunk5
+msgctxt "pref_presenter_enable_volume_keys_title"
+msgid "Volume keys change slides"
+msgstr ""
+
+#. +> trunk5
+msgctxt "pref_presenter_sensitivity_title"
+msgid "Pointer sensitivity"
+msgstr ""
+
+#. +> trunk5
+msgctxt "pref_presenter_enable_volume_keys_summary"
+msgid "On standby not supported on Android version between 13 and 15"
+msgstr ""
+
+#. +> trunk5
+msgctxt "presenter_volume_keys_foreground_tip"
+msgid "You can leave the screen on to use the volume keys to go to the previous/next slide"
+msgstr ""
+
+#. +> trunk5
+msgctxt "presenter_volume_keys_tip"
+msgid "You can leave the screen on or lock your device to use the volume keys to go to the previous/next slide"
 msgstr ""

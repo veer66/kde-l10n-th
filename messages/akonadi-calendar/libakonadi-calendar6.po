@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: akonadi-calendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-14 12:37+0100\n"
+"POT-Creation-Date: 2026-02-25 09:27+0100\n"
 "PO-Revision-Date: 2025-03-17 14:51+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -307,7 +307,7 @@ msgstr ""
 
 #. +> trunk6 stable6
 #: calendarutils.cpp:103 calendarutils.cpp:120 calendarutils.cpp:168
-#: todomodel.cpp:485
+#: todomodel.cpp:484
 #, kde-format
 msgid "Calendar"
 msgstr ""
@@ -497,7 +497,7 @@ msgid "Unable to publish the free/busy data: %1"
 msgstr ""
 
 #. +> trunk6
-#: freebusymanager.cpp:748
+#: freebusymanager.cpp:747
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -516,14 +516,14 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: freebusymanager.cpp:753
+#: freebusymanager.cpp:752
 #, kde-format
 msgctxt "@title:window"
 msgid "No Free/Busy Upload URL"
 msgstr ""
 
 #. +> trunk6
-#: freebusymanager.cpp:763
+#: freebusymanager.cpp:762
 #, kde-format
 msgctxt "@info"
 msgid "The target URL <link>%1</link> provided is invalid."
@@ -536,7 +536,7 @@ msgid "<qt>The target URL '%1' provided is invalid.</qt>"
 msgstr ""
 
 #. +> trunk6 stable6
-#: freebusymanager.cpp:764
+#: freebusymanager.cpp:763
 #, kde-format
 msgctxt "@title:window"
 msgid "Invalid URL"
@@ -570,61 +570,61 @@ msgid "%1 modification"
 msgstr ""
 
 #. +> trunk6 stable6
-#: icalimporter.cpp:84
+#: icalimporter.cpp:82
 #, kde-format
 msgid "Error creating ical resource: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: icalimporter.cpp:94
+#: icalimporter.cpp:92
 #, kde-format
 msgid "Failed to obtain D-Bus interface for remote configuration."
 msgstr ""
 
 #. +> trunk6 stable6
-#: icalimporter.cpp:119
+#: icalimporter.cpp:117
 #, kde-format
 msgid "Could not download remote file."
 msgstr ""
 
 #. +> trunk6 stable6
-#: icalimporter.cpp:142 icalimporter.cpp:163
+#: icalimporter.cpp:140 icalimporter.cpp:161
 #, kde-format
 msgid "An import task is already in progress."
 msgstr ""
 
 #. +> trunk6 stable6
-#: icalimporter.cpp:168
+#: icalimporter.cpp:166
 #, kde-format
 msgid "Empty filename. Will not import ical file."
 msgstr ""
 
 #. +> trunk6 stable6
-#: icalimporter.cpp:173
+#: icalimporter.cpp:171
 #, kde-format
 msgid "Url to import is malformed."
 msgstr ""
 
 #. +> trunk6 stable6
-#: icalimporter.cpp:180
+#: icalimporter.cpp:178
 #, kde-format
 msgid "The selected file is not a readable file."
 msgstr ""
 
 #. +> trunk6 stable6
-#: icalimporter.cpp:188
+#: icalimporter.cpp:186
 #, kde-format
 msgid "The selected file is not properly formatted, or in a format not supported by this software."
 msgstr ""
 
 #. +> trunk6 stable6
-#: icalimporter.cpp:196
+#: icalimporter.cpp:194
 #, kde-format
 msgid "The selected file is empty."
 msgstr ""
 
 #. +> trunk6 stable6
-#: icalimporter.cpp:214
+#: icalimporter.cpp:212
 #, kde-format
 msgid "Merge ical file into existing calendar."
 msgstr ""
@@ -758,14 +758,14 @@ msgid "Message Not Sent"
 msgstr ""
 
 #. +> trunk6 stable6
-#: itiphandler.h:118 itiphandler.h:136 itiphandler.h:152 itiphandler.h:165
+#: itiphandler.h:123 itiphandler.h:141 itiphandler.h:157 itiphandler.h:170
 #, kde-format
 msgctxt "@action:button dialog positive answer"
 msgid "Send Email"
 msgstr ""
 
 #. +> trunk6 stable6
-#: itiphandler.h:119 itiphandler.h:137 itiphandler.h:153 itiphandler.h:166
+#: itiphandler.h:124 itiphandler.h:142 itiphandler.h:158 itiphandler.h:171
 #, kde-format
 msgctxt "@action:button dialog negative answer"
 msgid "Do Not Send"
@@ -978,43 +978,43 @@ msgid "Abort Update"
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:382 mailclient_p.cpp:420
+#: mailclient_p.cpp:381 mailclient_p.cpp:419
 #, kde-format
 msgid "There are no attendees to e-mail"
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:428
+#: mailclient_p.cpp:427
 #, kde-format
 msgid "Free Busy Object"
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:462 mailclient_p.cpp:493
+#: mailclient_p.cpp:461 mailclient_p.cpp:492
 #, kde-format
 msgid "Free Busy Message"
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:638
+#: mailclient_p.cpp:629
 #, kde-format
 msgid "Error while creating transport"
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:656
+#: mailclient_p.cpp:647
 #, kde-format
 msgid "Error fetching transport. Unable to send invitations"
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:679
+#: mailclient_p.cpp:670
 #, kde-format
 msgid "Error queuing message in outbox: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:711
+#: mailclient_p.cpp:702
 #, kde-format
 msgid ""
 "Examination of the recipient's signing preferences yielded that you be asked whether or not to sign this message.\n"
@@ -1022,27 +1022,27 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:716 mailclient_p.cpp:742
+#: mailclient_p.cpp:707 mailclient_p.cpp:733
 #, kde-format
 msgid "Sign Message?"
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:717 mailclient_p.cpp:743
+#: mailclient_p.cpp:708 mailclient_p.cpp:734
 #, kde-format
 msgctxt "to sign"
 msgid "&Sign"
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:718 mailclient_p.cpp:744
+#: mailclient_p.cpp:709 mailclient_p.cpp:735
 #, kde-format
 msgctxt "@action:button"
 msgid "Do &Not Sign"
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:738
+#: mailclient_p.cpp:729
 #, kde-format
 msgid ""
 "There are conflicting signing preferences for these recipients.\n"
@@ -1050,27 +1050,27 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:763
+#: mailclient_p.cpp:754
 #, kde-format
 msgid "You have requested to sign this message, but no valid signing keys have been configured for this identity."
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:766
+#: mailclient_p.cpp:757
 #, kde-format
 msgctxt "@title:window"
 msgid "Send Unsigned?"
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:766
+#: mailclient_p.cpp:757
 #, kde-format
 msgctxt "@action:button"
 msgid "Send &Unsigned"
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:780
+#: mailclient_p.cpp:771
 #, kde-format
 msgid ""
 "Some parts of this message will not be signed.\n"
@@ -1079,7 +1079,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:784
+#: mailclient_p.cpp:775
 #, kde-format
 msgid ""
 "This message will not be signed.\n"
@@ -1088,33 +1088,33 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:787
+#: mailclient_p.cpp:778
 #, kde-format
 msgid "&Sign All Parts"
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:787
+#: mailclient_p.cpp:778
 #, kde-format
 msgid "&Sign"
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:789
+#: mailclient_p.cpp:780
 #, kde-format
 msgctxt "@title:window"
 msgid "Unsigned-Message Warning"
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:791
+#: mailclient_p.cpp:782
 #, kde-format
 msgctxt "@action:button"
 msgid "Send &As Is"
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:844
+#: mailclient_p.cpp:835
 #, kde-format
 msgid ""
 "Valid trusted encryption keys were found for all recipients.\n"
@@ -1122,7 +1122,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:847
+#: mailclient_p.cpp:838
 #, kde-format
 msgid ""
 "Examination of the recipient's encryption preferences yielded that you be asked whether or not to encrypt this message.\n"
@@ -1130,38 +1130,38 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:852
+#: mailclient_p.cpp:843
 #, kde-format
 msgctxt "@title:window"
 msgid "Encrypt Message?"
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:853
+#: mailclient_p.cpp:844
 #, kde-format
 msgid "Sign && &Encrypt"
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:853 mailclient_p.cpp:926
+#: mailclient_p.cpp:844 mailclient_p.cpp:917
 #, kde-format
 msgid "&Encrypt"
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:854 mailclient_p.cpp:930
+#: mailclient_p.cpp:845 mailclient_p.cpp:921
 #, kde-format
 msgid "&Sign Only"
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:854 mailclient_p.cpp:930
+#: mailclient_p.cpp:845 mailclient_p.cpp:921
 #, kde-format
 msgid "&Send As-Is"
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:874
+#: mailclient_p.cpp:865
 #, kde-format
 msgid ""
 "There are conflicting encryption preferences for these recipients.\n"
@@ -1169,46 +1169,46 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:878
+#: mailclient_p.cpp:869
 #, kde-format
 msgid "Encrypt Message?"
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:879
+#: mailclient_p.cpp:870
 #, kde-format
 msgctxt "@action:button"
 msgid "&Encrypt"
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:880
+#: mailclient_p.cpp:871
 #, kde-format
 msgctxt "@action:button"
 msgid "Do &Not Encrypt"
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:899
+#: mailclient_p.cpp:890
 #, kde-format
 msgid "You have requested to encrypt this message, and to encrypt a copy to yourself, but no valid trusted encryption keys have been configured for this identity."
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:903
+#: mailclient_p.cpp:894
 #, kde-format
 msgid "Send Unencrypted?"
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:903
+#: mailclient_p.cpp:894
 #, kde-format
 msgctxt "@action:button"
 msgid "Send &Unencrypted"
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:917
+#: mailclient_p.cpp:908
 #, kde-format
 msgid ""
 "Some parts of this message will not be encrypted.\n"
@@ -1217,7 +1217,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:922
+#: mailclient_p.cpp:913
 #, kde-format
 msgid ""
 "This message will not be encrypted.\n"
@@ -1226,13 +1226,13 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:926
+#: mailclient_p.cpp:917
 #, kde-format
 msgid "&Encrypt All Parts"
 msgstr ""
 
 #. +> trunk6 stable6
-#: mailclient_p.cpp:928
+#: mailclient_p.cpp:919
 #, kde-format
 msgid "Unencrypted Message Warning"
 msgstr ""
@@ -2112,61 +2112,61 @@ msgid "Edit Journal…"
 msgstr ""
 
 #. +> trunk6 stable6
-#: standardcalendaractionmanager.cpp:528
+#: standardcalendaractionmanager.cpp:533
 #, kde-format
 msgid "New E&vent…"
 msgstr ""
 
 #. +> trunk6 stable6
-#: standardcalendaractionmanager.cpp:529
+#: standardcalendaractionmanager.cpp:534
 #, kde-format
 msgid "Create a new event"
 msgstr ""
 
 #. +> trunk6 stable6
-#: standardcalendaractionmanager.cpp:539
+#: standardcalendaractionmanager.cpp:544
 #, kde-format
 msgid "New &To-do…"
 msgstr ""
 
 #. +> trunk6 stable6
-#: standardcalendaractionmanager.cpp:540
+#: standardcalendaractionmanager.cpp:545
 #, kde-format
 msgid "Create a new To-do"
 msgstr ""
 
 #. +> trunk6 stable6
-#: standardcalendaractionmanager.cpp:549
+#: standardcalendaractionmanager.cpp:554
 #, kde-format
 msgid "New Su&b-to-do…"
 msgstr ""
 
 #. +> trunk6 stable6
-#: standardcalendaractionmanager.cpp:550
+#: standardcalendaractionmanager.cpp:555
 #, kde-format
 msgid "Create a new Sub-to-do"
 msgstr ""
 
 #. +> trunk6 stable6
-#: standardcalendaractionmanager.cpp:560
+#: standardcalendaractionmanager.cpp:565
 #, kde-format
 msgid "New &Journal…"
 msgstr ""
 
 #. +> trunk6 stable6
-#: standardcalendaractionmanager.cpp:561
+#: standardcalendaractionmanager.cpp:566
 #, kde-format
 msgid "Create a new Journal"
 msgstr ""
 
 #. +> trunk6 stable6
-#: standardcalendaractionmanager.cpp:570
+#: standardcalendaractionmanager.cpp:575
 #, kde-format
 msgid "&Edit…"
 msgstr ""
 
 #. +> trunk6 stable6
-#: standardcalendaractionmanager.cpp:571
+#: standardcalendaractionmanager.cpp:576
 #, kde-format
 msgid "Edit the selected incidence."
 msgstr ""
@@ -2200,57 +2200,57 @@ msgid ","
 msgstr ""
 
 #. +> trunk6 stable6
-#: todomodel.cpp:467
+#: todomodel.cpp:466
 #, kde-format
 msgid "Summary"
 msgstr ""
 
 #. +> trunk6 stable6
-#: todomodel.cpp:469
+#: todomodel.cpp:468
 #, kde-format
 msgid "Recurs"
 msgstr ""
 
 #. +> trunk6 stable6
-#: todomodel.cpp:471
+#: todomodel.cpp:470
 #, kde-format
 msgid "Priority"
 msgstr ""
 
 #. +> trunk6 stable6
-#: todomodel.cpp:473
+#: todomodel.cpp:472
 #, kde-format
 msgctxt "@title:column percent complete"
 msgid "Complete"
 msgstr ""
 
 #. +> trunk6 stable6
-#: todomodel.cpp:475
+#: todomodel.cpp:474
 #, kde-format
 msgid "Start Date"
 msgstr ""
 
 #. +> trunk6 stable6
-#: todomodel.cpp:477
+#: todomodel.cpp:476
 #, kde-format
 msgid "Due Date"
 msgstr ""
 
 #. +> trunk6 stable6
-#: todomodel.cpp:479
+#: todomodel.cpp:478
 #, kde-format
 msgctxt "@title:column date completed"
 msgid "Completed"
 msgstr ""
 
 #. +> trunk6 stable6
-#: todomodel.cpp:481
+#: todomodel.cpp:480
 #, kde-format
 msgid "Tags"
 msgstr ""
 
 #. +> trunk6 stable6
-#: todomodel.cpp:483
+#: todomodel.cpp:482
 #, kde-format
 msgid "Description"
 msgstr ""

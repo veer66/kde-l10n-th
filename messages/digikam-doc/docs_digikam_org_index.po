@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Digikam Manual 8.6.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-26 06:08+0100\n"
+"POT-Creation-Date: 2026-02-27 08:25+0100\n"
 "PO-Revision-Date: 2025-03-17 14:51+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -834,7 +834,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../index.rst:817
-msgid ":ref:`remote_export`"
+msgid ":ref:`file_transfer`"
 msgstr ""
 
 #. +> trunk5
@@ -943,37 +943,37 @@ msgid ":ref:`menu_showfoto`"
 msgstr ""
 
 #. +> trunk5
-#: ../../index.rst:941
-msgid "Context Menu Descriptions"
+#: ../../index.rst:935
+msgid ":ref:`context_menus`"
 msgstr ""
 
 #. +> trunk5
-#: ../../index.rst:953
+#: ../../index.rst:945
 msgid "Credits and License"
 msgstr ""
 
 #. +> trunk5
-#: ../../index.rst:959
+#: ../../index.rst:951
 msgid "Copyrights and Notices for this Document"
 msgstr ""
 
 #. +> trunk5
-#: ../../index.rst:965
+#: ../../index.rst:957
 msgid ":ref:`credits_license`"
 msgstr ""
 
 #. +> trunk5
-#: ../../index.rst:975
+#: ../../index.rst:967
 msgid "Get Involved"
 msgstr ""
 
 #. +> trunk5
-#: ../../index.rst:981
+#: ../../index.rst:973
 msgid "Contribute to the digiKam project"
 msgstr ""
 
 #. +> trunk5
-#: ../../index.rst:987
+#: ../../index.rst:979
 msgid ":ref:`get_involved`"
 msgstr ""
 

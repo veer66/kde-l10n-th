@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: calligraplan\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-12 10:00+0100\n"
+"POT-Creation-Date: 2026-02-01 07:39+0100\n"
 "PO-Revision-Date: 2025-03-17 14:51+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -1409,7 +1409,7 @@ msgid "Autosave"
 msgstr ""
 
 #. +> trunk6
-#: main/KoDocument.cpp:1319 main/KoDocument.cpp:1639 main/KoMainWindow.cpp:713
+#: main/KoDocument.cpp:1319 main/KoDocument.cpp:1639 main/KoMainWindow.cpp:709
 #, kde-format
 msgid "The file %1 does not exist."
 msgstr ""
@@ -1821,25 +1821,25 @@ msgid "Dockers"
 msgstr ""
 
 #. +> trunk6
-#: main/KoMainWindow.cpp:662
+#: main/KoMainWindow.cpp:658
 #, kde-format
 msgid "(write protected)"
 msgstr ""
 
 #. +> trunk6
-#: main/KoMainWindow.cpp:667
+#: main/KoMainWindow.cpp:663
 #, kde-format
 msgid "Save as %1"
 msgstr ""
 
 #. +> trunk6
-#: main/KoMainWindow.cpp:669
+#: main/KoMainWindow.cpp:665
 #, kde-format
 msgid "Save"
 msgstr ""
 
 #. +> trunk6
-#: main/KoMainWindow.cpp:707 main/KoMainWindow.cpp:735
+#: main/KoMainWindow.cpp:703 main/KoMainWindow.cpp:731
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -1848,14 +1848,14 @@ msgid ""
 msgstr ""
 
 #. +> trunk6
-#: main/KoMainWindow.cpp:890 widgets/KoDocumentInfoDlg.cpp:395
+#: main/KoMainWindow.cpp:886 widgets/KoDocumentInfoDlg.cpp:395
 #: widgets/KoDocumentInfoDlg.cpp:439
 #, kde-format
 msgid "%1 (unknown file type)"
 msgstr ""
 
 #. +> trunk6
-#: main/KoMainWindow.cpp:898
+#: main/KoMainWindow.cpp:894
 #, kde-format
 msgid ""
 "<qt>Saving as a %1 may result in some loss of formatting."
@@ -1863,13 +1863,13 @@ msgid ""
 msgstr ""
 
 #. +> trunk6
-#: main/KoMainWindow.cpp:901
+#: main/KoMainWindow.cpp:897
 #, kde-format
 msgid "Confirm Save"
 msgstr ""
 
 #. +> trunk6
-#: main/KoMainWindow.cpp:910
+#: main/KoMainWindow.cpp:906
 #, kde-format
 msgid ""
 "<qt>Exporting as a %1 may result in some loss of formatting."
@@ -1877,20 +1877,20 @@ msgid ""
 msgstr ""
 
 #. +> trunk6
-#: main/KoMainWindow.cpp:913
+#: main/KoMainWindow.cpp:909
 #, kde-format
 msgid "Confirm Export"
 msgstr ""
 
 #. +> trunk6
-#: main/KoMainWindow.cpp:914 ui/reports/reportview.cpp:381
+#: main/KoMainWindow.cpp:910 ui/reports/reportview.cpp:381
 #: ui/reports/reportview.cpp:401 ui/reports/reportview.cpp:423
 #, kde-format
 msgid "Export"
 msgstr ""
 
 #. +> trunk6
-#: main/KoMainWindow.cpp:1032
+#: main/KoMainWindow.cpp:1028
 #, kde-format
 msgid "untitled"
 msgstr ""
@@ -2235,7 +2235,7 @@ msgstr ""
 #: models/kptresourceallocationmodel.cpp:401
 #: models/kptresourceallocationmodel.cpp:432
 #: models/kptresourceallocationmodel.cpp:790
-#, no-c-format, kde-format
+#, kde-format, no-c-format
 msgctxt "<value>%"
 msgid "%1%"
 msgstr ""
@@ -2609,7 +2609,7 @@ msgstr ""
 #: models/kptcalendarmodel.cpp:534 models/kptnodeitemmodel.cpp:2321
 #: models/kptnodeitemmodel.cpp:5466
 #: ui/reportsgenerator/ReportsGeneratorView.cpp:254
-#, kde-kuit-format, kde-format
+#, kde-format, kde-kuit-format
 msgctxt "@title:column"
 msgid "Name"
 msgstr ""
@@ -4752,7 +4752,7 @@ msgstr ""
 
 #. +> trunk6
 #: models/kptnodeitemmodel.cpp:2371
-#, no-c-format, kde-kuit-format
+#, kde-kuit-format, no-c-format
 msgctxt "@title:column"
 msgid "% Completed"
 msgstr ""
@@ -5238,14 +5238,14 @@ msgstr ""
 
 #. +> trunk6
 #: models/kptresourceallocationmodel.cpp:411
-#, no-c-format, kde-kuit-format
+#, kde-kuit-format, no-c-format
 msgctxt "@info:tooltip"
 msgid "Allocated units: %1%"
 msgstr ""
 
 #. +> trunk6
 #: models/kptresourceallocationmodel.cpp:437
-#, no-c-format, kde-format
+#, kde-format, no-c-format
 msgid "Maximum units available: %1%"
 msgstr ""
 
@@ -6669,14 +6669,14 @@ msgid "Calligra Storage"
 msgstr ""
 
 #. +> trunk6
-#: ui/FilterWidget.cpp:38
+#: ui/FilterWidget.cpp:40
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Toggle extended filter options"
 msgstr ""
 
 #. +> trunk6
-#: ui/FilterWidget.cpp:45
+#: ui/FilterWidget.cpp:47
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Filter names"
@@ -7522,7 +7522,7 @@ msgstr ""
 #: ui/kptcpmwidget.ui:98 ui/kpttaskgeneralpanelbase.ui:316
 #: ui/kpttaskgeneralpanelbase.ui:420 ui/resourcedialogbase.ui:259
 #: ui/TasksGeneralPanel.ui:268 ui/TasksGeneralPanel.ui:372
-#, no-c-format, kde-format
+#, kde-format, no-c-format
 msgid "%"
 msgstr ""
 
@@ -9632,7 +9632,7 @@ msgstr ""
 
 #. +> trunk6
 #: ui/kptusedefforteditor.cpp:397
-#, no-c-format, kde-format
+#, kde-format, no-c-format
 msgid "% Completed"
 msgstr ""
 
@@ -10959,7 +10959,7 @@ msgstr ""
 #. +> trunk6
 #: ui/reportsgenerator/ReportsGeneratorView.cpp:509
 #: ui/reportsgenerator/ReportsGeneratorView.cpp:535
-#, kde-kuit-format, kde-format
+#, kde-format, kde-kuit-format
 msgctxt "@title:window"
 msgid "Report Generation"
 msgstr ""

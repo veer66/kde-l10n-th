@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-11 08:12+0100\n"
+"POT-Creation-Date: 2026-02-16 09:20+0100\n"
 "PO-Revision-Date: 2025-03-17 14:53+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #. +> trunk6 stable6
 #: lspclientconfigpage.cpp:105 lspclientconfigpage.cpp:110
-#: lspclientpluginview.cpp:479 lspclientpluginview.cpp:628
+#: lspclientpluginview.cpp:479 lspclientpluginview.cpp:627
 #, kde-format
 msgid "LSP Client"
 msgstr ""
@@ -62,13 +62,13 @@ msgid "Delete all entries"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientplugin.cpp:233
+#: lspclientplugin.cpp:237
 #, kde-format
 msgid "LSP server start requested"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientplugin.cpp:236
+#: lspclientplugin.cpp:240
 #, kde-format
 msgid ""
 "Do you want the LSP server to be started?<br>"
@@ -81,7 +81,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientplugin.cpp:249
+#: lspclientplugin.cpp:253
 #, kde-format
 msgid ""
 "User permanently blocked start of: '%1'.\n"
@@ -89,7 +89,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientpluginview.cpp:444 lspclientpluginview.cpp:691
+#: lspclientpluginview.cpp:444 lspclientpluginview.cpp:688
 #, kde-format
 msgid "LSP"
 msgstr ""
@@ -289,175 +289,175 @@ msgid "Suspend All"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientpluginview.cpp:622
+#: lspclientpluginview.cpp:623
 #, kde-format
 msgid "Go To"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientpluginview.cpp:646
+#: lspclientpluginview.cpp:643
 #, kde-format
 msgid "More options"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientpluginview.cpp:871 lspclientsymbolview.cpp:397
+#: lspclientpluginview.cpp:868 lspclientsymbolview.cpp:397
 #, kde-format
 msgid "Expand All"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientpluginview.cpp:872 lspclientsymbolview.cpp:398
+#: lspclientpluginview.cpp:869 lspclientsymbolview.cpp:398
 #, kde-format
 msgid "Collapse All"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientpluginview.cpp:1079
+#: lspclientpluginview.cpp:1075
 #, kde-format
 msgid "RangeHighLight"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientpluginview.cpp:1361
+#: lspclientpluginview.cpp:1357
 #, kde-format
 msgid "Line: %1: "
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientpluginview.cpp:1513 lspclientpluginview.cpp:1862
-#: lspclientpluginview.cpp:1982
+#: lspclientpluginview.cpp:1509 lspclientpluginview.cpp:1858
+#: lspclientpluginview.cpp:1978
 #, kde-format
 msgid "No results"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientpluginview.cpp:1572
+#: lspclientpluginview.cpp:1568
 #, kde-format
 msgctxt "@title:tab"
 msgid "Definition: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientpluginview.cpp:1578
+#: lspclientpluginview.cpp:1574
 #, kde-format
 msgctxt "@title:tab"
 msgid "Declaration: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientpluginview.cpp:1584
+#: lspclientpluginview.cpp:1580
 #, kde-format
 msgctxt "@title:tab"
 msgid "Type Definition: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientpluginview.cpp:1590
+#: lspclientpluginview.cpp:1586
 #, kde-format
 msgctxt "@title:tab"
 msgid "References: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientpluginview.cpp:1602
+#: lspclientpluginview.cpp:1598
 #, kde-format
 msgctxt "@title:tab"
 msgid "Implementation: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientpluginview.cpp:1615
+#: lspclientpluginview.cpp:1611
 #, kde-format
 msgctxt "@title:tab"
 msgid "Highlight: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientpluginview.cpp:1639 lspclientpluginview.cpp:1650
-#: lspclientpluginview.cpp:1663
+#: lspclientpluginview.cpp:1635 lspclientpluginview.cpp:1646
+#: lspclientpluginview.cpp:1659
 #, kde-format
 msgid "No Actions"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientpluginview.cpp:1654
+#: lspclientpluginview.cpp:1650
 #, kde-format
 msgid "Loading..."
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientpluginview.cpp:1746
+#: lspclientpluginview.cpp:1742
 #, kde-format
 msgid "No edits"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientpluginview.cpp:1821
+#: lspclientpluginview.cpp:1817
 #, kde-format
 msgctxt "@title:window"
 msgid "Rename"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientpluginview.cpp:1822
+#: lspclientpluginview.cpp:1818
 #, kde-format
 msgctxt "@label:textbox"
 msgid "New name (caution: not all references may be replaced)"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientpluginview.cpp:1868
+#: lspclientpluginview.cpp:1864
 #, kde-format
 msgid "Not enough results"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientpluginview.cpp:1937
+#: lspclientpluginview.cpp:1933
 #, kde-format
 msgid "Corresponding Header/Source not found"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientpluginview.cpp:2135 lspclientpluginview.cpp:2178
+#: lspclientpluginview.cpp:2131 lspclientpluginview.cpp:2174
 #, kde-format
 msgctxt "@info"
 msgid "LSP Server"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientpluginview.cpp:2201
+#: lspclientpluginview.cpp:2197
 #, kde-format
 msgctxt "@info"
 msgid "LSP Client"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientpluginview.cpp:2451
+#: lspclientpluginview.cpp:2447
 #, kde-format
 msgid "Question from LSP server"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientservermanager.cpp:617
+#: lspclientservermanager.cpp:630
 #, kde-format
 msgid "Restarting"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientservermanager.cpp:617
+#: lspclientservermanager.cpp:630
 #, kde-format
 msgid "NOT Restarting"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientservermanager.cpp:618
+#: lspclientservermanager.cpp:631
 #, kde-format
 msgid "Server terminated unexpectedly ... %1 [%2] [homepage: %3] "
 msgstr ""
 
 #. +> trunk6
-#: lspclientservermanager.cpp:890
+#: lspclientservermanager.cpp:903
 #, kde-format
 msgid "Failed to find server binary '%1' for language '%2'"
 msgstr ""
@@ -469,19 +469,19 @@ msgid "Failed to find server binary: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientservermanager.cpp:893 lspclientservermanager.cpp:958
+#: lspclientservermanager.cpp:906 lspclientservermanager.cpp:971
 #, kde-format
 msgid "Please check your PATH for the binary"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientservermanager.cpp:894 lspclientservermanager.cpp:959
+#: lspclientservermanager.cpp:907 lspclientservermanager.cpp:972
 #, kde-format
 msgid "See also %1 for installation or details"
 msgstr ""
 
 #. +> trunk6
-#: lspclientservermanager.cpp:955
+#: lspclientservermanager.cpp:968
 #, kde-format
 msgid "Failed to start server '%1' for language '%2'"
 msgstr ""
@@ -493,25 +493,25 @@ msgid "Failed to start server: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientservermanager.cpp:963
+#: lspclientservermanager.cpp:976
 #, kde-format
 msgid "Started server %2: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientservermanager.cpp:1001
+#: lspclientservermanager.cpp:1014
 #, kde-format
 msgid "Failed to parse server configuration '%1': no JSON object"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientservermanager.cpp:1004
+#: lspclientservermanager.cpp:1017
 #, kde-format
 msgid "Failed to parse server configuration '%1': %2"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientservermanager.cpp:1008
+#: lspclientservermanager.cpp:1021
 #, kde-format
 msgid "Failed to read server configuration: %1"
 msgstr ""

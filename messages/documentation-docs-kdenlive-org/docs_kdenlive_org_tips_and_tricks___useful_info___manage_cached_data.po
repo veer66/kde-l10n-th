@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kdenlive Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-12 10:01+0100\n"
+"POT-Creation-Date: 2026-02-13 09:59+0100\n"
 "PO-Revision-Date: 2025-03-17 14:52+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -13,17 +13,17 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. +> trunk5
-#: ../../<rst_epilog>:118
+#: ../../<rst_epilog>:122
 msgid "edit-clear-history"
 msgstr ""
 
 #. +> trunk5
-#: ../../<rst_epilog>:126
+#: ../../<rst_epilog>:130
 msgid "edit-delete"
 msgstr ""
 
 #. +> trunk5
-#: ../../<rst_epilog>:422
+#: ../../<rst_epilog>:426
 msgid "preview-render-on"
 msgstr ""
 

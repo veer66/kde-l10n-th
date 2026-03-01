@@ -1,13 +1,13 @@
 # Copyright (C) YEAR This_file_is_part_of_KDE
 # This file is distributed under the same license as the PACKAGE package.
 # Thanomsub Noppaburana <donga.nb@gmail.com>, 2008, 2010.
-#
 # SPDX-FileCopyrightText: 2026 Atirut Wattanamongkol <atirut.wattanamongkol@gmail.com>
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_folderview\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-13 14:38+0100\n"
+"POT-Creation-Date: 2026-02-28 07:31+0100\n"
 "PO-Revision-Date: 2026-02-11 22:44+0700\n"
 "Last-Translator: Atirut Wattanamongkol <atirut.wattanamongkol@gmail.com>\n"
 "Language-Team: Thai\n"
@@ -965,7 +965,7 @@ msgid "Preview Plugins"
 msgstr "แสดงตัวอย่าง:"
 
 #. +> trunk6 stable6 stable5
-#: package/contents/ui/FolderView.qml:1237
+#: package/contents/ui/FolderView.qml:1236
 #, kde-format
 msgctxt "@info"
 msgid "There are a lot of files and folders on the desktop. This can cause bugs and performance issues. Please consider moving some of them elsewhere."
@@ -996,9 +996,8 @@ msgid "Configure Desktop and Wallpaper…"
 msgstr "&ปรับปรุงพื้นที่ทำงานอีกครั้ง"
 
 #. +> trunk6 stable6
-#: package/contents/ui/main.qml:439
+#: package/contents/ui/main.qml:448
 #, kde-format
-#| msgid "&Refresh Desktop"
 msgctxt "@action:inmenu opens config dialog"
 msgid "Desktop and Wallpaper"
 msgstr "เดสก์ท็อปและวอลเปเปอร์"
@@ -1017,7 +1016,7 @@ msgid "&Refresh Desktop"
 msgstr "&ปรับปรุงพื้นที่ทำงานอีกครั้ง"
 
 #. +> trunk6 stable6 stable5
-#: plugins/folder/foldermodel.cpp:505 plugins/folder/foldermodel.cpp:1742
+#: plugins/folder/foldermodel.cpp:505 plugins/folder/foldermodel.cpp:1741
 #, kde-format
 msgid "&Refresh View"
 msgstr "&ปรับปรุงมุมมองอีกครั้ง"
@@ -1037,14 +1036,14 @@ msgid "<filename>%1</filename> points to <filename>%2</filename>, but that could
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: plugins/folder/foldermodel.cpp:1751
+#: plugins/folder/foldermodel.cpp:1750
 #, fuzzy, kde-format
 #| msgid "&Empty Trash Bin"
 msgid "&Empty Trash"
 msgstr "&เทถังขยะทิ้ง"
 
 #. +> trunk6 stable6
-#: plugins/folder/foldermodel.cpp:1754
+#: plugins/folder/foldermodel.cpp:1753
 #, kde-format
 msgctxt "Restore from trash"
 msgid "Restore to Former Location"
@@ -1059,13 +1058,13 @@ msgid "Restore"
 msgstr "เ&รียกคืน"
 
 #. +> trunk6 stable6 stable5
-#: plugins/folder/foldermodel.cpp:1757
+#: plugins/folder/foldermodel.cpp:1756
 #, kde-format
 msgid "&Open"
 msgstr "เ&ปิด"
 
 #. +> trunk6 stable6
-#: plugins/folder/foldermodel.cpp:1761
+#: plugins/folder/foldermodel.cpp:1760
 #, fuzzy, kde-format
 #| msgid "Show a place:"
 msgctxt "@action:inmenu open file manager showing the target file or folder that this link points to"
@@ -1073,26 +1072,26 @@ msgid "Show Target"
 msgstr "แสดงสถานที่:"
 
 #. +> trunk6 stable6
-#: plugins/folder/foldermodel.cpp:1862
+#: plugins/folder/foldermodel.cpp:1861
 #, kde-format
 msgctxt "@action:inmenu Removes the trash icon on the desktop"
 msgid "Remove Trash Icon"
 msgstr ""
 
 #. +> trunk6 stable6
-#: plugins/folder/foldermodel.cpp:1865
+#: plugins/folder/foldermodel.cpp:1864
 #, kde-format
 msgid "&Move to Trash"
 msgstr "&ทิ้งลงถังขยะ"
 
 #. +> trunk6 stable6 stable5
-#: plugins/folder/foldermodel.cpp:1898
+#: plugins/folder/foldermodel.cpp:1897
 #, kde-format
 msgid "&Paste"
 msgstr "&วาง"
 
 #. +> trunk6 stable6 stable5
-#: plugins/folder/foldermodel.cpp:2049
+#: plugins/folder/foldermodel.cpp:2048
 #, kde-format
 msgid "&Properties"
 msgstr "คุณ&สมบัติ"
@@ -1100,15 +1099,12 @@ msgstr "คุณ&สมบัติ"
 #. +> trunk6 stable6 stable5
 #: plugins/folder/viewpropertiesmenu.cpp:21
 #, kde-format
-#| msgid "Sorting:"
 msgid "Sort By"
 msgstr "เรียงลำดับโดย"
 
 #. +> trunk6 stable6 stable5
 #: plugins/folder/viewpropertiesmenu.cpp:24
 #, kde-format
-#| msgctxt "Sort Icons"
-#| msgid "Unsorted"
 msgctxt "@item:inmenu Sort icons manually"
 msgid "Unsorted"
 msgstr "ไม่มีการเรียงลำดับ"
@@ -1116,8 +1112,6 @@ msgstr "ไม่มีการเรียงลำดับ"
 #. +> trunk6 stable6 stable5
 #: plugins/folder/viewpropertiesmenu.cpp:28
 #, kde-format
-#| msgctxt "Sort icons"
-#| msgid "By Name"
 msgctxt "@item:inmenu Sort icons by name"
 msgid "Name"
 msgstr "ชื่อ"
@@ -1125,7 +1119,6 @@ msgstr "ชื่อ"
 #. +> trunk6 stable6 stable5
 #: plugins/folder/viewpropertiesmenu.cpp:32
 #, kde-format
-#| msgid "Size:"
 msgctxt "@item:inmenu Sort icons by size"
 msgid "Size"
 msgstr "ขนาด"
@@ -1133,8 +1126,6 @@ msgstr "ขนาด"
 #. +> trunk6 stable6 stable5
 #: plugins/folder/viewpropertiesmenu.cpp:36
 #, kde-format
-#| msgctxt "Sort icons"
-#| msgid "By Type"
 msgctxt "@item:inmenu Sort icons by file type"
 msgid "Type"
 msgstr "ชนิด"
@@ -1142,8 +1133,6 @@ msgstr "ชนิด"
 #. +> trunk6 stable6 stable5
 #: plugins/folder/viewpropertiesmenu.cpp:40
 #, kde-format
-#| msgctxt "Sort icons"
-#| msgid "By Date"
 msgctxt "@item:inmenu Sort icons by date"
 msgid "Date"
 msgstr "วันที่"
@@ -1158,8 +1147,6 @@ msgstr ""
 #. +> trunk6 stable6 stable5
 #: plugins/folder/viewpropertiesmenu.cpp:47
 #, kde-format
-#| msgctxt "Sort icons"
-#| msgid "Folders First"
 msgctxt "@item:inmenu Sort icons with folders first"
 msgid "Folders First"
 msgstr "เรียงโฟลเดอร์ก่อน"
@@ -1167,7 +1154,6 @@ msgstr "เรียงโฟลเดอร์ก่อน"
 #. +> trunk6 stable6 stable5
 #: plugins/folder/viewpropertiesmenu.cpp:50
 #, kde-format
-#| msgid "Icon size:"
 msgid "Icon Size"
 msgstr "ขนาดไอคอน"
 
@@ -1181,7 +1167,6 @@ msgstr "เล็กจิ๋ว"
 #. +> trunk6 stable6 stable5
 #: plugins/folder/viewpropertiesmenu.cpp:54
 #, kde-format
-#| msgid "Small"
 msgctxt "@item:inmenu size of the icons"
 msgid "Very Small"
 msgstr "เล็กมาก"
@@ -1211,7 +1196,6 @@ msgstr "ปานกลาง"
 #. +> trunk6 stable6 stable5
 #: plugins/folder/viewpropertiesmenu.cpp:58
 #, kde-format
-#| msgid "Large"
 msgctxt "@item:inmenu size of the icons"
 msgid "Large"
 msgstr "ใหญ่"
@@ -1226,7 +1210,6 @@ msgstr "มหึมา"
 #. +> trunk6 stable6 stable5
 #: plugins/folder/viewpropertiesmenu.cpp:67
 #, kde-format
-#| msgid "Arrange icons:"
 msgctxt "@item:inmenu arrangement of icons"
 msgid "Arrange"
 msgstr "จัดเรียงตาม"
@@ -1248,7 +1231,6 @@ msgstr "บรรทัด"
 #. +> stable5
 #: plugins/folder/viewpropertiesmenu.cpp:71
 #, kde-format
-#| msgid "Top to Bottom, Left to Right"
 msgctxt "@item:inmenu arrangement of icons"
 msgid "Left to Right"
 msgstr "ซ้ายไปขวา"
@@ -1256,7 +1238,6 @@ msgstr "ซ้ายไปขวา"
 #. +> stable5
 #: plugins/folder/viewpropertiesmenu.cpp:72
 #, kde-format
-#| msgid "Top to Bottom, Right to Left"
 msgctxt "@item:inmenu arrangement of icons"
 msgid "Right to Left"
 msgstr "ขวาไปซ้าย"
@@ -1264,7 +1245,6 @@ msgstr "ขวาไปซ้าย"
 #. +> stable5
 #: plugins/folder/viewpropertiesmenu.cpp:76
 #, kde-format
-#| msgid "Top to Bottom, Left to Right"
 msgctxt "@item:inmenu arrangement of icons"
 msgid "Top to Bottom"
 msgstr "บนลงล่าง"
@@ -1285,7 +1265,6 @@ msgstr "เรียงเข้ากับแนวตาราง:"
 #. +> trunk6 stable6
 #: plugins/folder/viewpropertiesmenu.cpp:83
 #, kde-format
-#| msgid "Top to Bottom, Left to Right"
 msgctxt "@item:inmenu alignment of icons"
 msgid "Left-to-Right"
 msgstr "ซ้ายไปขวา"
@@ -1293,7 +1272,6 @@ msgstr "ซ้ายไปขวา"
 #. +> trunk6 stable6
 #: plugins/folder/viewpropertiesmenu.cpp:84
 #, kde-format
-#| msgid "Top to Bottom, Right to Left"
 msgctxt "@item:inmenu alignment of icons"
 msgid "Right-to-Left"
 msgstr "ขวาไปซ้าย"
@@ -1315,7 +1293,6 @@ msgstr ""
 #. +> trunk6 stable6 stable5
 #: plugins/folder/viewpropertiesmenu.cpp:94
 #, kde-format
-#| msgid "Previews:"
 msgid "Show Previews"
 msgstr "แสดงตัวอย่าง"
 

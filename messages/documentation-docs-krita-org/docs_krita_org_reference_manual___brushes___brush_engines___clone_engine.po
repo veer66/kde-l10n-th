@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Krita Manual 5.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-14 09:48+0200\n"
+"POT-Creation-Date: 2026-02-25 09:27+0100\n"
 "PO-Revision-Date: 2025-03-17 14:52+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -130,7 +130,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/brushes/brush_engines/clone_engine.rst:49
-msgid "This will reset the source point everytime you make a new stroke. So if you were cloning a part in one stroke, having this active will allow you to clone the same part again in a single stroke, instead of using the source point as a permanent offset."
+msgid "This will reset the source point every time you make a new stroke. So if you were cloning a part in one stroke, having this active will allow you to clone the same part again in a single stroke, instead of using the source point as a permanent offset."
 msgstr ""
 
 #. +> trunk5

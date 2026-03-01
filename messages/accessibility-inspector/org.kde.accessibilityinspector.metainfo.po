@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: org.kde.accessibilityinspector.metainfo\n"
-"POT-Creation-Date: 2025-08-17 12:04+0200\n"
+"POT-Creation-Date: 2026-02-14 09:56+0100\n"
 "PO-Revision-Date: 2025-03-17 14:51+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -39,4 +39,16 @@ msgstr ""
 #. +> trunk6 stable6
 #: org.kde.accessibilityinspector.metainfo.xml:39
 msgid "The list of all the recent events."
+msgstr ""
+
+#. (itstool) path: description/p
+#. +> trunk6 stable6
+#: org.kde.accessibilityinspector.metainfo.xml:69
+msgid "Update to Qt6"
+msgstr ""
+
+#. (itstool) path: description/p
+#. +> trunk6 stable6
+#: org.kde.accessibilityinspector.metainfo.xml:75
+msgid "Initial version as a standalone component."
 msgstr ""

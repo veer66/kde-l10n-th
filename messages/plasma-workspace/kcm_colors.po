@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmcolors\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-13 14:38+0100\n"
+"POT-Creation-Date: 2026-01-31 15:35+0100\n"
 "PO-Revision-Date: 2025-03-03 20:07+0700\n"
 "Last-Translator: Pongsakorn S. <kde@xerusion.me>\n"
 "Language-Team: Thai\n"
@@ -1069,7 +1069,7 @@ msgstr "การวาดแสงเงา"
 #. i18n: ectx: property (text), widget (KMessageWidget, contrastValueWarning)
 #. +> trunk6 stable6
 #: editor/scmeditoroptions.ui:93
-#, no-c-format, kde-format
+#, kde-format, no-c-format
 msgid "Contrast values below 15% may produce visually awkward effects with some applications and color schemes. Consider yourself warned!"
 msgstr ""
 
@@ -1083,7 +1083,7 @@ msgstr "มากที่สุด"
 #. i18n: ectx: property (suffix), widget (QDoubleSpinBox, contrastPercentageSpinBox)
 #. +> trunk6 stable6
 #: editor/scmeditoroptions.ui:109
-#, no-c-format, kde-format
+#, kde-format, no-c-format
 msgid "%"
 msgstr ""
 
@@ -1462,12 +1462,6 @@ msgctxt "@item:inlistbox User-chosen custom accent color"
 msgid "Custom accent color"
 msgstr "สีของส่วนที่ไม่ได้ทำงานอยู่"
 
-#. +> stable5
-#: package/contents/ui/main.qml:23
-#, kde-format
-msgid "This module lets you choose the color scheme."
-msgstr ""
-
 #. +> trunk6 stable6 stable5
 #: ui/main.qml:90
 #, kde-format
@@ -1614,14 +1608,70 @@ msgstr "อัปโหล&ดชุดสี..."
 msgid "Light Schemes"
 msgstr "&ชุดสี"
 
+#. +> trunk6
+#: ui/main.qml:324
+#, fuzzy, kde-format
+#| msgid "Save Color Scheme"
+msgctxt "@info:tooltip"
+msgid "Remove color scheme"
+msgstr "บันทึกชุดสี"
+
+#. +> trunk6
+#: ui/main.qml:326
+#, fuzzy, kde-format
+#| msgid "Save the current color scheme"
+msgctxt "@info:tooltip"
+msgid "Cannot delete the active color scheme"
+msgstr "บันทึกชุดสีปัจจุบัน"
+
+#. +> trunk6
+#: ui/main.qml:328
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Cannot delete system-installed color schemes"
+msgstr ""
+
+#. +> trunk6
+#: ui/main.qml:336
+#, kde-format
+msgid "Don’t delete this color scheme"
+msgstr ""
+
+#. +> stable5
+#: package/contents/ui/main.qml:23
+#, kde-format
+msgid "This module lets you choose the color scheme."
+msgstr ""
+
 #. +> trunk6 stable6 stable5
+#: ui/main.qml:380
+#, fuzzy, kde-format
+#| msgid "Save Color Scheme"
+msgid "Open Color Scheme"
+msgstr "บันทึกชุดสี"
+
+#. +> stable5
+#: package/contents/ui/main.qml:108
+#, fuzzy, kde-format
+#| msgid "&Upload Scheme..."
+msgid "All Schemes"
+msgstr "อัปโหล&ดชุดสี..."
+
+#. +> stable5
+#: package/contents/ui/main.qml:110
+#, fuzzy, kde-format
+#| msgid "Save Scheme..."
+msgid "Dark Schemes"
+msgstr "บันทึกชุดสี..."
+
+#. +> stable6 stable5
 #: ui/main.qml:323
 #, fuzzy, kde-format
 #| msgid "Save Color Scheme"
 msgid "Remove Color Scheme"
 msgstr "บันทึกชุดสี"
 
-#. +> trunk6 stable6 stable5
+#. +> stable6 stable5
 #: ui/main.qml:330
 #, fuzzy, kde-format
 #| msgid "Import Color Scheme"
@@ -1643,28 +1693,7 @@ msgid "Get New Color Schemes…"
 msgstr "หาชุดสีใ&หม่ ๆ ..."
 
 #. +> trunk6 stable6 stable5
-#: ui/main.qml:374
-#, fuzzy, kde-format
-#| msgid "Save Color Scheme"
-msgid "Open Color Scheme"
-msgstr "บันทึกชุดสี"
-
-#. +> stable5
-#: package/contents/ui/main.qml:108
-#, fuzzy, kde-format
-#| msgid "&Upload Scheme..."
-msgid "All Schemes"
-msgstr "อัปโหล&ดชุดสี..."
-
-#. +> stable5
-#: package/contents/ui/main.qml:110
-#, fuzzy, kde-format
-#| msgid "Save Scheme..."
-msgid "Dark Schemes"
-msgstr "บันทึกชุดสี..."
-
-#. +> trunk6 stable6 stable5
-#: ui/main.qml:376
+#: ui/main.qml:382
 #, kde-format
 msgid "Color Scheme Files (*.colors)"
 msgstr ""

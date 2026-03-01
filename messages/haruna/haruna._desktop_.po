@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-10-09 18:11+0200\n"
+"POT-Creation-Date: 2026-02-06 08:31+0100\n"
 "PO-Revision-Date: 2025-03-17 14:53+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -19,13 +19,13 @@ msgid "Haruna"
 msgstr ""
 
 #. +> trunk6
-#: data/org.kde.haruna.desktop:42
+#: data/org.kde.haruna.desktop:43
 msgctxt "GenericName"
 msgid "Media Player"
 msgstr ""
 
 #. +> trunk6
-#: data/org.kde.haruna.desktop:73
+#: data/org.kde.haruna.desktop:75
 msgctxt "Comment"
 msgid "Open source media player built with Qt/QML and libmpv"
 msgstr ""

@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: org.kde.kup.appdata\n"
-"POT-Creation-Date: 2024-05-18 10:52+0200\n"
+"POT-Creation-Date: 2026-02-23 08:06+0100\n"
 "PO-Revision-Date: 2025-03-17 14:54+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -61,6 +61,6 @@ msgstr ""
 
 #. (itstool) path: component/developer_name
 #. +> trunk5
-#: org.kde.kup.appdata.xml:28
+#: org.kde.kup.appdata.xml:27
 msgid "Simon Persson &lt;simon.persson@mykolab.com&gt;"
 msgstr ""

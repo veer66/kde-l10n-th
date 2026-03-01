@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-bigscreen\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-08-13 09:10+0200\n"
+"POT-Creation-Date: 2026-02-28 07:31+0100\n"
 "PO-Revision-Date: 2025-03-17 14:55+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -28,6 +28,76 @@ msgstr ""
 #: contents/ui/FavoritesManager.qml:119
 #, kde-format
 msgid "Remove Favorites"
+msgstr ""
+
+#. +> trunk6
+#: contents/ui/homeoverlay/MainColumn.qml:114
+#, kde-format
+msgid "Home"
+msgstr ""
+
+#. +> trunk6
+#: contents/ui/homeoverlay/MainColumn.qml:127
+#: contents/ui/indicators/Search.qml:16
+#, kde-format
+msgid "Search"
+msgstr ""
+
+#. +> trunk6
+#: contents/ui/homeoverlay/MainColumn.qml:144
+#, kde-format
+msgctxt "@action:button Opens an overview of all currently running apps"
+msgid "Tasks"
+msgstr ""
+
+#. +> trunk6
+#: contents/ui/homeoverlay/MainColumn.qml:165
+#, kde-format
+msgid "Controller"
+msgstr ""
+
+#. +> trunk6
+#: contents/ui/homeoverlay/MainColumn.qml:166
+#, kde-format
+msgid "Currently capturing keys…"
+msgstr ""
+
+#. +> trunk6
+#: contents/ui/homeoverlay/MainColumn.qml:166
+#, kde-format
+msgid "Key capture off"
+msgstr ""
+
+#. +> trunk6
+#: contents/ui/homeoverlay/MainColumn.qml:186
+#, kde-format
+msgid "On-screen Keyboard"
+msgstr ""
+
+#. +> trunk6 stable5
+#: contents/ui/homeoverlay/MainColumn.qml:200
+#: contents/ui/indicators/Settings.qml:18
+#, kde-format
+msgid "Settings"
+msgstr ""
+
+#. +> trunk6
+#: contents/ui/homeoverlay/TaskDelegate.qml:122
+#, kde-format
+msgid "Hold to close…"
+msgstr ""
+
+#. +> trunk6
+#: contents/ui/homeoverlay/TasksView.qml:111
+#, kde-format
+msgctxt "As in: These apps are currently opened"
+msgid "Open Apps"
+msgstr ""
+
+#. +> trunk6
+#: contents/ui/homeoverlay/TasksView.qml:162
+#, kde-format
+msgid "Close all apps"
 msgstr ""
 
 #. +> trunk6
@@ -73,18 +143,6 @@ msgid "Cancel"
 msgstr ""
 
 #. +> trunk6
-#: contents/ui/indicators/Search.qml:20
-#, kde-format
-msgid "Search"
-msgstr ""
-
-#. +> trunk6 stable5
-#: contents/ui/indicators/Settings.qml:16
-#, kde-format
-msgid "Settings"
-msgstr ""
-
-#. +> trunk6
 #: contents/ui/indicators/Shutdown.qml:15
 #, kde-format
 msgid "Exit Bigscreen"
@@ -97,21 +155,9 @@ msgid "Power"
 msgstr ""
 
 #. +> trunk6
-#: contents/ui/indicators/Tasks.qml:22
-#, kde-format
-msgid "Tasks"
-msgstr ""
-
-#. +> trunk6
 #: contents/ui/indicators/Volume.qml:20
 #, kde-format
 msgid "Audio Settings"
-msgstr ""
-
-#. +> trunk6
-#: contents/ui/indicators/Volume.qml:28
-#, kde-format
-msgid "Audio Volume"
 msgstr ""
 
 #. +> stable5
@@ -151,21 +197,9 @@ msgid "Network"
 msgstr ""
 
 #. +> trunk6
-#: contents/ui/launcher/LauncherHome.qml:78
+#: contents/ui/launcher/LauncherHome.qml:89
 #, kde-format
 msgid "Favorites"
-msgstr ""
-
-#. +> trunk6 stable5
-#: contents/ui/launcher/LauncherHome.qml:97
-#, kde-format
-msgid "Recent"
-msgstr ""
-
-#. +> trunk6
-#: contents/ui/launcher/LauncherHome.qml:126
-#, kde-format
-msgid "Voice Applications"
 msgstr ""
 
 #. +> stable5
@@ -175,40 +209,77 @@ msgid "Voice Apps"
 msgstr ""
 
 #. +> trunk6 stable5
-#: contents/ui/launcher/LauncherHome.qml:153
+#: contents/ui/launcher/LauncherHome.qml:108
+#, kde-format
+msgid "Recent"
+msgstr ""
+
+#. +> trunk6 stable5
+#: contents/ui/launcher/LauncherHome.qml:137
 #, kde-format
 msgid "Applications"
 msgstr ""
 
 #. +> trunk6 stable5
-#: contents/ui/launcher/LauncherHome.qml:181
+#: contents/ui/launcher/LauncherHome.qml:165
 #, kde-format
 msgid "Games"
 msgstr ""
 
 #. +> trunk6
-#: contents/ui/launcher/search/SearchTextField.qml:24
+#: contents/ui/main.qml:101
 #, kde-format
-msgctxt "@info:placeholder"
-msgid "Search…"
+msgid "Controller added: %1"
 msgstr ""
 
-#. +> trunk6 stable5
+#. +> trunk6
+#: contents/ui/main.qml:105
+#, kde-format
+msgid "Controller removed: %1"
+msgstr ""
+
+#. +> trunk6
+#: contents/ui/main.qml:109
+#, kde-format
+msgid "Remote added: %1"
+msgstr ""
+
+#. +> trunk6
+#: contents/ui/main.qml:113
+#, kde-format
+msgid "Remote removed: %1"
+msgstr ""
+
+#. +> trunk6
+#: contents/ui/main.qml:117
+#, kde-format
+msgid "System taking over controller input"
+msgstr ""
+
+#. +> trunk6
+#: contents/ui/main.qml:120
+#, kde-format
+msgid "Application taking over controller input"
+msgstr ""
+
+#. +> trunk6
+#: contents/ui/PowerManagementItem.qml:24
+#, kde-format
+msgctxt "@info"
+msgid "Plasma Bigscreen has enabled system-wide inhibition"
+msgstr ""
+
+#. +> stable5
 #: contents/ui/PowerManagementItem.qml:41
 #, kde-format
 msgid "Bigscreen has enabled system-wide inhibition"
 msgstr ""
 
 #. +> trunk6
-#: contents/ui/TaskWindowView.qml:183
+#: contents/ui/search/SearchTextField.qml:24
 #, kde-format
-msgid "Clear Tasks"
-msgstr ""
-
-#. +> trunk6
-#: contents/ui/TaskWindowView.qml:220
-#, kde-format
-msgid "Close"
+msgctxt "@info:placeholder"
+msgid "Search…"
 msgstr ""
 
 #. +> stable5

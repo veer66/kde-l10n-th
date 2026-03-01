@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kleopatra\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-14 12:37+0100\n"
+"POT-Creation-Date: 2026-02-27 08:25+0100\n"
 "PO-Revision-Date: 2008-07-21 16:42+0700\n"
 "Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
 "Language-Team: Thai <thai-l10n@googlegroups.com>\n"
@@ -257,7 +257,7 @@ msgid "Add ADSK"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/addsubkeycommand.cpp:186
+#: src/commands/addsubkeycommand.cpp:167
 #, kde-format
 msgid ""
 "<p>An error occurred while trying to add a new subkey to <b>%1</b>:</p>"
@@ -265,7 +265,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/addsubkeycommand.cpp:194
+#: src/commands/addsubkeycommand.cpp:175
 #, fuzzy, kde-format
 #| msgid "&Certificates"
 msgid "Subkey added successfully."
@@ -706,7 +706,7 @@ msgstr "ส่งออกใบรับรอง"
 
 #. +> trunk6 stable6
 #: src/commands/changeownertrustcommand.cpp:102
-#: src/commands/importcertificatescommand.cpp:531
+#: src/commands/importcertificatescommand.cpp:586
 #, fuzzy, kde-format
 #| msgid "&Certificates"
 msgctxt "@title:window"
@@ -872,8 +872,8 @@ msgstr ""
 
 #. +> trunk6 stable6
 #: src/commands/changepincommand.cpp:122
-#: src/commands/createcsrforcardkeycommand.cpp:127
-#: src/commands/createopenpgpkeyfromcardkeyscommand.cpp:105
+#: src/commands/createcsrforcardkeycommand.cpp:129
+#: src/commands/createopenpgpkeyfromcardkeyscommand.cpp:104
 #, kde-format
 msgid "Failed to find the smartcard with the serial number: %1"
 msgstr ""
@@ -1002,14 +1002,14 @@ msgid "PIN changed successfully."
 msgstr "ใ&บรับรอง"
 
 #. +> trunk6 stable6
-#: src/commands/changeroottrustcommand.cpp:85
+#: src/commands/changeroottrustcommand.cpp:80
 #, kde-format
 msgctxt "@info"
 msgid "The certificate has been marked as not trusted because the fingerprint did not match."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/changeroottrustcommand.cpp:88
+#: src/commands/changeroottrustcommand.cpp:83
 #, kde-format
 msgid ""
 "Failed to update the trust database:\n"
@@ -1017,7 +1017,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/changeroottrustcommand.cpp:127
+#: src/commands/changeroottrustcommand.cpp:122
 #, fuzzy, kde-format
 #| msgid "Export Certificates"
 msgctxt "@info"
@@ -1025,14 +1025,14 @@ msgid "You are not allowed to mark certificates as trusted or not trusted."
 msgstr "ส่งออกใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/commands/changeroottrustcommand.cpp:203
+#: src/commands/changeroottrustcommand.cpp:198
 #, kde-kuit-format
 msgctxt "@info needed for technical reasons; RTL-languages may have to put the %1 in front"
 msgid "&nbsp;&nbsp;&nbsp;&nbsp;%1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/changeroottrustcommand.cpp:212
+#: src/commands/changeroottrustcommand.cpp:207
 #, kde-kuit-format
 msgctxt "@info used for concatenating multiple lines of indented text with line breaks; RTL-languages may have to put the %2 before the non-breaking space entities"
 msgid ""
@@ -1041,7 +1041,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/changeroottrustcommand.cpp:233
+#: src/commands/changeroottrustcommand.cpp:221
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -1051,7 +1051,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/changeroottrustcommand.cpp:234
+#: src/commands/changeroottrustcommand.cpp:222
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -1061,7 +1061,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/changeroottrustcommand.cpp:236
+#: src/commands/changeroottrustcommand.cpp:224
 #, fuzzy, kde-format
 #| msgid "Export Certificates"
 msgctxt "@title:window"
@@ -1069,7 +1069,7 @@ msgid "Trust Root Certificate"
 msgstr "ส่งออกใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/commands/changeroottrustcommand.cpp:237
+#: src/commands/changeroottrustcommand.cpp:225
 #, fuzzy, kde-format
 #| msgid "Default certificate"
 msgctxt "@title:window"
@@ -1077,14 +1077,14 @@ msgid "Distrust Root Certificate"
 msgstr "ใบรับรองปริยาย"
 
 #. +> trunk6 stable6
-#: src/commands/changeroottrustcommand.cpp:239
+#: src/commands/changeroottrustcommand.cpp:227
 #, kde-format
 msgctxt "@action:button"
 msgid "Yes"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/changeroottrustcommand.cpp:248
+#: src/commands/changeroottrustcommand.cpp:236
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -1095,7 +1095,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/changeroottrustcommand.cpp:254
+#: src/commands/changeroottrustcommand.cpp:242
 #, fuzzy, kde-format
 #| msgid "Fingerprint"
 msgctxt "@title:window"
@@ -1103,53 +1103,53 @@ msgid "Verify Fingerprint"
 msgstr "ลายนิ้วมือ"
 
 #. +> trunk6 stable6
-#: src/commands/changeroottrustcommand.cpp:255
+#: src/commands/changeroottrustcommand.cpp:243
 #, kde-format
 msgctxt "@action:button"
 msgid "Correct"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/changeroottrustcommand.cpp:256
+#: src/commands/changeroottrustcommand.cpp:244
 #, kde-format
 msgctxt "@action:button"
 msgid "Wrong"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/changeroottrustcommand.cpp:300
+#: src/commands/changeroottrustcommand.cpp:288
 #, fuzzy, kde-format
 #| msgid "Could not open file %1 for reading"
 msgid "Cannot open existing file \"%1\" for reading: %2"
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/commands/changeroottrustcommand.cpp:328
+#: src/commands/changeroottrustcommand.cpp:316
 #, fuzzy, kde-format
 #| msgid "Could not open file %1 for reading"
 msgid "Cannot open file \"%1\" for reading and writing: %2"
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/commands/changeroottrustcommand.cpp:331
+#: src/commands/changeroottrustcommand.cpp:319
 #, kde-format
 msgid "Cannot set restrictive permissions on file %1: %2"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/changeroottrustcommand.cpp:391
+#: src/commands/changeroottrustcommand.cpp:379
 #, kde-format
 msgid "Failed to move file %1 to its final destination, %2: %3"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/changeroottrustcommand.cpp:400
+#: src/commands/changeroottrustcommand.cpp:388
 #, kde-format
 msgid "Could not find gpgconf executable"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/changeroottrustcommand.cpp:411
+#: src/commands/changeroottrustcommand.cpp:399
 #, kde-format
 msgid "\"gpgconf --reload gpg-agent\" failed: %1"
 msgstr ""
@@ -1157,7 +1157,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: src/commands/checksumcreatefilescommand.cpp:149
 #: src/commands/checksumverifyfilescommand.cpp:148
-#: src/commands/decryptverifyclipboardcommand.cpp:164
+#: src/commands/decryptverifyclipboardcommand.cpp:158
 #: src/commands/decryptverifyfilescommand.cpp:196
 #: src/commands/signencryptfilescommand.cpp:272
 #, kde-format
@@ -1231,8 +1231,8 @@ msgid "Success"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/createcsrforcardkeycommand.cpp:179
-#: src/commands/createcsrforcardkeycommand.cpp:194
+#: src/commands/createcsrforcardkeycommand.cpp:180
+#: src/commands/createcsrforcardkeycommand.cpp:195
 #, fuzzy, kde-format
 #| msgid "Export Certificates"
 msgctxt "@info"
@@ -1270,7 +1270,7 @@ msgid "New Group"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/createopenpgpkeyfromcardkeyscommand.cpp:114
+#: src/commands/createopenpgpkeyfromcardkeyscommand.cpp:113
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -1280,14 +1280,14 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/createopenpgpkeyfromcardkeyscommand.cpp:119
+#: src/commands/createopenpgpkeyfromcardkeyscommand.cpp:118
 #, kde-format
 msgctxt "@title:window"
 msgid "Create OpenPGP Key"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/createopenpgpkeyfromcardkeyscommand.cpp:132
+#: src/commands/createopenpgpkeyfromcardkeyscommand.cpp:131
 #, fuzzy, kde-format
 #| msgid "User-ID"
 msgctxt "@title:window"
@@ -1295,7 +1295,7 @@ msgid "Enter User ID"
 msgstr "หมายเลขผู้ใช้"
 
 #. +> trunk6 stable6
-#: src/commands/createopenpgpkeyfromcardkeyscommand.cpp:183
+#: src/commands/createopenpgpkeyfromcardkeyscommand.cpp:177
 #, fuzzy, kde-format
 #| msgid "Export Certificates"
 msgctxt "@info"
@@ -1303,13 +1303,13 @@ msgid "Creating an OpenPGP key from the card keys failed: %1"
 msgstr "ส่งออกใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/commands/createopenpgpkeyfromcardkeyscommand.cpp:185
+#: src/commands/createopenpgpkeyfromcardkeyscommand.cpp:179
 #, kde-format
 msgctxt "@info"
 msgid "Successfully generated an OpenPGP key from the card keys."
 msgstr ""
 
-#. +> trunk6 stable6
+#. +> stable6
 #: src/commands/decryptverifyclipboardcommand.cpp:134
 #, fuzzy, kde-format
 #| msgid "Sign and encrypt (OpenPGP only)"
@@ -1318,7 +1318,7 @@ msgid "Decrypting/Verifying clipboard…"
 msgstr "เซ็นและเข้ารหัส (OpenPGP เท่านั้น)"
 
 #. +> trunk6 stable6
-#: src/commands/decryptverifyclipboardcommand.cpp:151
+#: src/commands/decryptverifyclipboardcommand.cpp:145
 #, kde-format
 msgid "The clipboard does not appear to contain signed or encrypted text."
 msgstr ""
@@ -1392,7 +1392,7 @@ msgstr ""
 
 #. +> trunk6 stable6
 #: src/commands/deletecertificatescommand.cpp:275
-#: src/commands/deletecertificatescommand.cpp:384
+#: src/commands/deletecertificatescommand.cpp:376
 #, kde-format
 msgid "Certificate Deletion Failed"
 msgstr ""
@@ -1404,19 +1404,19 @@ msgid "Certificate Deletion Problem"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/deletecertificatescommand.cpp:372
+#: src/commands/deletecertificatescommand.cpp:364
 #, kde-format
 msgid "OpenPGP backend: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/deletecertificatescommand.cpp:376
+#: src/commands/deletecertificatescommand.cpp:368
 #, kde-format
 msgid "CMS backend: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/deletecertificatescommand.cpp:380
+#: src/commands/deletecertificatescommand.cpp:372
 #, kde-format
 msgid ""
 "<qt>"
@@ -1749,7 +1749,7 @@ msgstr "เลือกแฟ้มของใบรับรอง"
 #: src/commands/exportgroupscommand.cpp:271
 #: src/commands/exportsecretkeycommand.cpp:245
 #: src/commands/exportsecretsubkeycommand.cpp:215
-#: src/commands/exportsecretteamkeycommand.cpp:277
+#: src/commands/exportsecretteamkeycommand.cpp:243
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info"
@@ -1822,7 +1822,7 @@ msgstr ""
 
 #. +> trunk6 stable6
 #: src/commands/exportopenpgpcertstoservercommand.cpp:173
-#: src/commands/importcertificatescommand.cpp:513
+#: src/commands/importcertificatescommand.cpp:568
 #, kde-format
 msgid " "
 msgstr ""
@@ -1941,7 +1941,7 @@ msgstr "ส่งออกใบรับรอง"
 #: src/commands/exportsecretkeycommand.cpp:86
 #: src/commands/exportsecretkeycommand.cpp:88
 #: src/commands/exportsecretsubkeycommand.cpp:72
-#: src/commands/exportsecretteamkeycommand.cpp:71
+#: src/commands/exportsecretteamkeycommand.cpp:74
 #, fuzzy, kde-format
 #| msgid "Select File"
 msgctxt "description of filename filter"
@@ -1983,7 +1983,8 @@ msgstr ""
 
 #. +> trunk6 stable6
 #: src/commands/exportsecretkeycommand.cpp:252
-#: src/commands/exportsecretteamkeycommand.cpp:284
+#: src/commands/exportsecretteamkeycommand.cpp:251
+#: src/commands/exportsecretteamkeycommand.cpp:258
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info"
@@ -2058,8 +2059,8 @@ msgid_plural "%1 subkeys were exported successfully."
 msgstr[0] "ใ&บรับรอง"
 
 #. +> trunk6
-#: src/commands/exportsecretteamkeycommand.cpp:68
-#: src/commands/exportsecretteamkeycommand.cpp:289
+#: src/commands/exportsecretteamkeycommand.cpp:71
+#: src/commands/exportsecretteamkeycommand.cpp:263
 #, fuzzy, kde-format
 #| msgid "Export Certificates"
 msgctxt "@title:window"
@@ -2067,7 +2068,7 @@ msgid "Save Secret Team Key"
 msgstr "ส่งออกใบรับรอง"
 
 #. +> trunk6
-#: src/commands/exportsecretteamkeycommand.cpp:139
+#: src/commands/exportsecretteamkeycommand.cpp:147
 #, fuzzy, kde-format
 #| msgid "Export Certificates"
 msgctxt "@title:dialog"
@@ -2075,14 +2076,14 @@ msgid "Save Secret Team Key"
 msgstr "ส่งออกใบรับรอง"
 
 #. +> trunk6
-#: src/commands/exportsecretteamkeycommand.cpp:143
+#: src/commands/exportsecretteamkeycommand.cpp:151
 #, kde-format
 msgctxt "@info"
 msgid "After importing the team key, team members will be able to decrypt data with it."
 msgstr ""
 
 #. +> trunk6
-#: src/commands/exportsecretteamkeycommand.cpp:146
+#: src/commands/exportsecretteamkeycommand.cpp:154
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -2091,21 +2092,21 @@ msgid ""
 msgstr ""
 
 #. +> trunk6
-#: src/commands/exportsecretteamkeycommand.cpp:156
+#: src/commands/exportsecretteamkeycommand.cpp:164
 #, kde-format
 msgctxt "@option:check"
 msgid "Allow team members to sign with the team key"
 msgstr ""
 
 #. +> trunk6
-#: src/commands/exportsecretteamkeycommand.cpp:162
+#: src/commands/exportsecretteamkeycommand.cpp:170
 #, kde-format
 msgctxt "@info"
 msgid "Team members will not be able to change the name, email address, or expiration date of the team key."
 msgstr ""
 
 #. +> trunk6
-#: src/commands/exportsecretteamkeycommand.cpp:251
+#: src/commands/exportsecretteamkeycommand.cpp:217
 #, fuzzy, kde-format
 #| msgid "Export Certificates"
 msgctxt "@info:status"
@@ -2113,14 +2114,14 @@ msgid "Saving secret team key..."
 msgstr "ส่งออกใบรับรอง"
 
 #. +> trunk6
-#: src/commands/exportsecretteamkeycommand.cpp:270
+#: src/commands/exportsecretteamkeycommand.cpp:236
 #, kde-format
 msgctxt "@info"
 msgid "The result is empty. Maybe you entered an empty or a wrong passphrase."
 msgstr ""
 
 #. +> trunk6
-#: src/commands/exportsecretteamkeycommand.cpp:289
+#: src/commands/exportsecretteamkeycommand.cpp:263
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info"
@@ -2128,7 +2129,7 @@ msgid "The secret team key was saved to <filename>%1</filename>"
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6
-#: src/commands/exportsecretteamkeycommand.cpp:297
+#: src/commands/exportsecretteamkeycommand.cpp:271
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -2338,6 +2339,27 @@ msgid "Process finished"
 msgstr ""
 
 #. +> trunk6 stable6
+#: src/commands/importcertificatefromclipboardcommand.cpp:99
+#, kde-format
+msgctxt "@info"
+msgid "The clipboard is empty. Nothing imported."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/commands/importcertificatefromclipboardcommand.cpp:101
+#, kde-format
+msgctxt "@info"
+msgid "Clipboard contents do not look like a certificate. Nothing imported."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/commands/importcertificatefromclipboardcommand.cpp:105
+#, kde-format
+msgctxt "@info"
+msgid "Could not determine certificate type of clipboard contents. Nothing imported."
+msgstr ""
+
+#. +> stable6
 #: src/commands/importcertificatefromclipboardcommand.cpp:96
 #, fuzzy, kde-format
 #| msgid "Export Certificates"
@@ -2346,28 +2368,7 @@ msgid "Importing certificate from clipboard…"
 msgstr "ส่งออกใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatefromclipboardcommand.cpp:104
-#, kde-format
-msgctxt "@info"
-msgid "The clipboard is empty. Nothing imported."
-msgstr ""
-
-#. +> trunk6 stable6
-#: src/commands/importcertificatefromclipboardcommand.cpp:106
-#, kde-format
-msgctxt "@info"
-msgid "Clipboard contents do not look like a certificate. Nothing imported."
-msgstr ""
-
-#. +> trunk6 stable6
-#: src/commands/importcertificatefromclipboardcommand.cpp:110
-#, kde-format
-msgctxt "@info"
-msgid "Could not determine certificate type of clipboard contents. Nothing imported."
-msgstr ""
-
-#. +> trunk6 stable6
-#: src/commands/importcertificatefromclipboardcommand.cpp:112
+#: src/commands/importcertificatefromclipboardcommand.cpp:107
 #: src/utils/clipboardmenu.cpp:41 src/utils/output.cpp:780
 #, kde-format
 msgid "Clipboard"
@@ -2383,7 +2384,7 @@ msgstr ""
 
 #. +> trunk6 stable6
 #: src/commands/importcertificatefromfilecommand.cpp:124
-#: src/commands/importcertificatescommand.cpp:107
+#: src/commands/importcertificatescommand.cpp:109
 #, fuzzy, kde-format
 #| msgid "Export Certificates"
 msgctxt "@title:window"
@@ -2400,8 +2401,8 @@ msgstr[0] "ส่งออกใบรับรอง"
 
 #. +> trunk6 stable6
 #: src/commands/importcertificatefromfilecommand.cpp:132
-#: src/commands/importcertificatescommand.cpp:792
-#: src/commands/importcertificatescommand.cpp:845
+#: src/commands/importcertificatescommand.cpp:847
+#: src/commands/importcertificatescommand.cpp:898
 #, kde-format
 msgid "Certificate Import Failed"
 msgstr "การนำเข้าใบรับรองล้มเหลว"
@@ -2415,7 +2416,7 @@ msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อ�
 
 #. +> trunk6 stable6
 #: src/commands/importcertificatefromfilecommand.cpp:154
-#: src/commands/importcertificatescommand.cpp:156 src/view/keytreeview.cpp:229
+#: src/commands/importcertificatescommand.cpp:158 src/view/keytreeview.cpp:230
 #, fuzzy, kde-format
 #| msgid "&Certificates"
 msgid "Certificates"
@@ -2462,14 +2463,14 @@ msgid "Card Certificate"
 msgstr "ใ&บรับรอง"
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:108
+#: src/commands/importcertificatescommand.cpp:110
 #, fuzzy, kde-format
 #| msgid "Export Certificates"
 msgid "Importing certificates... (this can take a while)"
 msgstr "ส่งออกใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:141
+#: src/commands/importcertificatescommand.cpp:143
 #, kde-format
 msgid ""
 "<tr>"
@@ -2479,7 +2480,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:142
+#: src/commands/importcertificatescommand.cpp:144
 #, kde-format
 msgid ""
 "<tr>"
@@ -2489,7 +2490,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:143
+#: src/commands/importcertificatescommand.cpp:145
 #, kde-format
 msgid ""
 "<tr>"
@@ -2498,171 +2499,216 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:157
-#: src/commands/importcertificatescommand.cpp:197
+#: src/commands/importcertificatescommand.cpp:159
+#: src/commands/importcertificatescommand.cpp:199
 #, kde-format
 msgid "Total number processed:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:158
+#: src/commands/importcertificatescommand.cpp:160
 #, kde-format
 msgid "Imported:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:160
+#: src/commands/importcertificatescommand.cpp:162
 #, kde-format
 msgid "New signatures:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:162
+#: src/commands/importcertificatescommand.cpp:164
 #, kde-format
 msgid "New user IDs:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:164
+#: src/commands/importcertificatescommand.cpp:166
 #, kde-format
 msgid "Certificates without user IDs:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:166
+#: src/commands/importcertificatescommand.cpp:168
 #, kde-format
 msgid "New subkeys:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:168
+#: src/commands/importcertificatescommand.cpp:170
 #, kde-format
 msgid "Newly revoked:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:170
+#: src/commands/importcertificatescommand.cpp:172
 #, kde-format
 msgid "Not imported:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:172
+#: src/commands/importcertificatescommand.cpp:174
 #, kde-format
 msgid "Unchanged:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:174
+#: src/commands/importcertificatescommand.cpp:176
 #, kde-format
 msgid "Secret keys processed:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:176
+#: src/commands/importcertificatescommand.cpp:178
 #, kde-format
 msgid "Secret keys imported:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:180
+#: src/commands/importcertificatescommand.cpp:182
 #, kde-format
 msgid "Secret keys <em>not</em> imported:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:182
+#: src/commands/importcertificatescommand.cpp:184
 #, kde-format
 msgid "Secret keys unchanged:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:184
+#: src/commands/importcertificatescommand.cpp:186
 #, kde-format
 msgid "Deprecated PGP-2 keys skipped:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:196
+#: src/commands/importcertificatescommand.cpp:198
 #, fuzzy, kde-format
 #| msgid "Certificate Import Failed"
 msgid "Certificate Groups"
 msgstr "การนำเข้าใบรับรองล้มเหลว"
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:198
+#: src/commands/importcertificatescommand.cpp:200
 #, kde-format
 msgid "New groups:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:199
+#: src/commands/importcertificatescommand.cpp:201
 #, kde-format
 msgid "Updated groups:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:214
+#: src/commands/importcertificatescommand.cpp:216
 #, kde-format
 msgid "No imports (should not happen, please report a bug)."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:216
+#: src/commands/importcertificatescommand.cpp:218
 #, kde-format
 msgid "Detailed results of importing %1:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:217
+#: src/commands/importcertificatescommand.cpp:219
 #, kde-format
 msgid "Detailed results of import:"
 msgstr ""
 
+#. +> trunk6
+#: src/commands/importcertificatescommand.cpp:276
+#, kde-format
+msgctxt "@info"
+msgid "You have imported a shared secret key."
+msgstr ""
+
+#. +> trunk6
+#: src/commands/importcertificatescommand.cpp:277
+#, kde-format
+msgctxt "@info"
+msgid "In order to use this shared secret key you should certify it. "
+msgstr ""
+
+#. +> trunk6
+#: src/commands/importcertificatescommand.cpp:278
+#, kde-format
+msgctxt "@info"
+msgid "Certification means that you check the fingerprint against a trusted source."
+msgstr ""
+
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:272
+#: src/commands/importcertificatescommand.cpp:279
+#: src/commands/importcertificatescommand.cpp:292
+#, kde-format
+msgid "Do you wish to start this process now?"
+msgstr ""
+
+#. +> trunk6
+#: src/commands/importcertificatescommand.cpp:280
+#, kde-format
+msgctxt "@title"
+msgid "Certify shared secret key?"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/commands/importcertificatescommand.cpp:283
 #, kde-format
 msgid "A phone call to the person."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:273
+#: src/commands/importcertificatescommand.cpp:284
 #, kde-format
 msgid "Using a business card."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:274
+#: src/commands/importcertificatescommand.cpp:285
 #, kde-format
 msgid "Confirming it on a trusted website."
 msgstr ""
 
+#. +> trunk6
+#: src/commands/importcertificatescommand.cpp:287
+#, fuzzy, kde-format
+#| msgid "Default certificate"
+msgctxt "@info"
+msgid "You have imported a new certificate (public key)."
+msgstr "ใบรับรองปริยาย"
+
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:278
+#: src/commands/importcertificatescommand.cpp:288
 #, fuzzy, kde-format
 #| msgid "certificate"
 msgid "In order to mark the certificate as valid it needs to be certified."
 msgstr "ใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:279
+#: src/commands/importcertificatescommand.cpp:289
 #, kde-format
 msgid "Certifying means that you check the Fingerprint."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:280
+#: src/commands/importcertificatescommand.cpp:290
 #, kde-format
 msgid "Some suggestions to do this are:"
 msgstr ""
 
-#. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:282
-#, kde-format
-msgid "Do you wish to start this process now?"
-msgstr ""
+#. +> trunk6
+#: src/commands/importcertificatescommand.cpp:293
+#, fuzzy, kde-format
+#| msgid "<i>No certificate selected</i>"
+msgctxt "@title"
+msgid "Certify new certificate?"
+msgstr "<i>ยังไม่มีการเลือกใบรับรอง</i>"
 
-#. +> trunk6 stable6
+#. +> stable6
 #: src/commands/importcertificatescommand.cpp:283
 #, kde-format
 msgctxt "@title"
@@ -2670,7 +2716,7 @@ msgid "You have imported a new certificate (public key)"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:284
+#: src/commands/importcertificatescommand.cpp:298
 #: src/conf/groupsconfigwidget.cpp:188
 #, fuzzy, kde-format
 #| msgid "&Certificates"
@@ -2679,21 +2725,21 @@ msgid "Certify"
 msgstr "ใ&บรับรอง"
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:337
+#: src/commands/importcertificatescommand.cpp:375
 #, kde-format
 msgctxt "file name (imported with gpg/gpgsm)"
 msgid "%1 (imported with %2)"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:341
+#: src/commands/importcertificatescommand.cpp:379
 #, kde-format
 msgctxt "@info"
 msgid "Audit log is empty."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:343
+#: src/commands/importcertificatescommand.cpp:381
 #, fuzzy, kde-format
 #| msgid "Export Certificates"
 msgctxt "@info"
@@ -2701,7 +2747,7 @@ msgid "Import was canceled."
 msgstr "ส่งออกใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:370
+#: src/commands/importcertificatescommand.cpp:408
 #, fuzzy, kde-format
 #| msgid "Export Certificates"
 msgctxt "@action:button"
@@ -2709,14 +2755,14 @@ msgid "List Imported Certificates"
 msgstr "ส่งออกใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:371
+#: src/commands/importcertificatescommand.cpp:409
 #, kde-format
 msgctxt "@action:button"
 msgid "Show Audit Log"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:394
+#: src/commands/importcertificatescommand.cpp:432
 #, kde-format
 msgid ""
 "<qt>"
@@ -2726,7 +2772,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:399
+#: src/commands/importcertificatescommand.cpp:437
 #, kde-format
 msgid ""
 "<qt>"
@@ -2735,8 +2781,19 @@ msgid ""
 "</qt>"
 msgstr ""
 
+#. +> trunk6
+#: src/commands/importcertificatescommand.cpp:553
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>You have imported a certificate with a secret key.</para>"
+"<para>Fingerprint: %1<nl/>"
+"User ID: %2</para>"
+"<para>Are you the only user of this secret key?</para>"
+msgstr ""
+
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:515
+#: src/commands/importcertificatescommand.cpp:570
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -2744,7 +2801,20 @@ msgid ""
 "<item>%2</item>"
 msgstr ""
 
-#. +> trunk6 stable6
+#. +> trunk6
+#: src/commands/importcertificatescommand.cpp:573
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>You have imported a certificate with a secret key.</para>"
+"<para>Fingerprint: %1</para>"
+"<para>User IDs:"
+"<list>%2</list>"
+"</para>"
+"<para>Are you the only user of this secret key?</para>"
+msgstr ""
+
+#. +> stable6
 #: src/commands/importcertificatescommand.cpp:519
 #, kde-kuit-format
 msgctxt "@info"
@@ -2757,14 +2827,29 @@ msgid ""
 "<para>Is this your own certificate?</para>"
 msgstr ""
 
-#. +> trunk6 stable6
+#. +> trunk6
+#: src/commands/importcertificatescommand.cpp:587
+#: src/dialogs/certifywidget.cpp:193
+#, kde-format
+msgctxt "@action:button"
+msgid "Yes, I am the only user"
+msgstr ""
+
+#. +> trunk6
+#: src/commands/importcertificatescommand.cpp:588
+#, kde-format
+msgctxt "@action:button"
+msgid "No, others also use this key"
+msgstr ""
+
+#. +> stable6
 #: src/commands/importcertificatescommand.cpp:532
 #, kde-format
 msgctxt "@action:button"
 msgid "Yes, It's Mine"
 msgstr ""
 
-#. +> trunk6 stable6
+#. +> stable6
 #: src/commands/importcertificatescommand.cpp:533
 #, kde-format
 msgctxt "@action:button"
@@ -2772,7 +2857,7 @@ msgid "No, It's Not Mine"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:692
+#: src/commands/importcertificatescommand.cpp:747
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -2782,15 +2867,15 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:756
+#: src/commands/importcertificatescommand.cpp:811
 #, kde-format
 msgid "Fetching 1 signer key... (this can take a while)"
 msgid_plural "Fetching %1 signer keys... (this can take a while)"
 msgstr[0] ""
 
 #. +> trunk6 stable6
-#: src/commands/importcertificatescommand.cpp:791
-#: src/commands/importcertificatescommand.cpp:844
+#: src/commands/importcertificatescommand.cpp:846
+#: src/commands/importcertificatescommand.cpp:897
 #, kde-format
 msgid "The type of this certificate (%1) is not supported by this Kleopatra installation."
 msgstr ""
@@ -3256,7 +3341,7 @@ msgid "No Directory Servers Configured"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/newcertificatesigningrequestcommand.cpp:130
+#: src/commands/newcertificatesigningrequestcommand.cpp:129
 #: src/commands/newopenpgpcertificatecommand.cpp:166
 #, fuzzy, kde-format
 #| msgid "Could not open file %1 for reading"
@@ -3264,7 +3349,7 @@ msgid "Could not start key pair creation: %1"
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/commands/newcertificatesigningrequestcommand.cpp:140
+#: src/commands/newcertificatesigningrequestcommand.cpp:139
 #: src/commands/newopenpgpcertificatecommand.cpp:176
 #, kde-format
 msgctxt "@title"
@@ -3272,14 +3357,14 @@ msgid "Creating Key Pair..."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/newcertificatesigningrequestcommand.cpp:141
+#: src/commands/newcertificatesigningrequestcommand.cpp:140
 #: src/commands/newopenpgpcertificatecommand.cpp:177
 #, kde-format
 msgid "The process of creating a key requires large amounts of random numbers. This may require several minutes..."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/newcertificatesigningrequestcommand.cpp:176
+#: src/commands/newcertificatesigningrequestcommand.cpp:171
 #: src/commands/newopenpgpcertificatecommand.cpp:289
 #: src/crypto/newsignencryptemailcontroller.cpp:378
 #: src/crypto/newsignencryptemailcontroller.cpp:380
@@ -3289,7 +3374,7 @@ msgid "Error"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/newcertificatesigningrequestcommand.cpp:182
+#: src/commands/newcertificatesigningrequestcommand.cpp:177
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -3298,7 +3383,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/commands/newcertificatesigningrequestcommand.cpp:219
+#: src/commands/newcertificatesigningrequestcommand.cpp:214
 #: src/kleopatraapplication.cpp:580
 #, fuzzy, kde-format
 #| msgid "Export Certificates"
@@ -3565,7 +3650,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: src/commands/revokecertificationcommand.cpp:104
 #: src/commands/revokecertificationcommand.cpp:118
-#: src/dialogs/useridswidget.cpp:441
+#: src/dialogs/useridswidget.cpp:442
 #, kde-format
 msgctxt "@title:window"
 msgid "Confirm Revocation"
@@ -3900,28 +3985,28 @@ msgid "Disable Certificate"
 msgstr "ใบรับรองปริยาย"
 
 #. +> trunk6 stable6
-#: src/conf/appearanceconfigwidget.cpp:131
+#: src/conf/appearanceconfigwidget.cpp:134
 #, kde-format
 msgctxt "Key filter without user-assigned name"
 msgid "<unnamed>"
 msgstr "<ยังไม่มีชื่อ>"
 
 #. +> trunk6 stable6
-#: src/conf/appearanceconfigwidget.cpp:293
+#: src/conf/appearanceconfigwidget.cpp:296
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "This parameter has been locked down by the system administrator."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/conf/appearanceconfigwidget.cpp:338
+#: src/conf/appearanceconfigwidget.cpp:341
 #, kde-format
 msgctxt "@info"
 msgid "Show the following information in certificate list tooltips:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/conf/appearanceconfigwidget.cpp:341
+#: src/conf/appearanceconfigwidget.cpp:344
 #, fuzzy, kde-format
 #| msgid "Validity"
 msgctxt "@option:check"
@@ -3929,7 +4014,7 @@ msgid "Show validity"
 msgstr "การใช้งานได้"
 
 #. +> trunk6 stable6
-#: src/conf/appearanceconfigwidget.cpp:344
+#: src/conf/appearanceconfigwidget.cpp:347
 #, fuzzy, kde-format
 #| msgid "&Certificates"
 msgctxt "@option:check"
@@ -3937,7 +4022,7 @@ msgid "Show owner information"
 msgstr "ใ&บรับรอง"
 
 #. +> trunk6 stable6
-#: src/conf/appearanceconfigwidget.cpp:347
+#: src/conf/appearanceconfigwidget.cpp:350
 #, fuzzy, kde-format
 #| msgid "Show Details"
 msgctxt "@option:check"
@@ -3945,7 +4030,7 @@ msgid "Show technical details"
 msgstr "แสดงรายละเอียด"
 
 #. +> trunk6 stable6
-#: src/conf/appearanceconfigwidget.cpp:352
+#: src/conf/appearanceconfigwidget.cpp:355
 #, fuzzy, kde-format
 #| msgid "Certificate type"
 msgctxt "@option:check"
@@ -3953,7 +4038,7 @@ msgid "Show upcoming certificate expiration"
 msgstr "ประเภทของใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/conf/appearanceconfigwidget.cpp:359
+#: src/conf/appearanceconfigwidget.cpp:362
 #, fuzzy, kde-format
 #| msgid "Export Certificates"
 msgctxt "@label:spinbox"
@@ -3961,16 +4046,16 @@ msgid "Threshold for own certificates:"
 msgstr "ส่งออกใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/conf/appearanceconfigwidget.cpp:365
-#: src/conf/appearanceconfigwidget.cpp:379
+#: src/conf/appearanceconfigwidget.cpp:368
+#: src/conf/appearanceconfigwidget.cpp:382
 #, kde-format
 msgctxt "@item never show expiry notification"
 msgid "never"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/conf/appearanceconfigwidget.cpp:366
-#: src/conf/appearanceconfigwidget.cpp:380
+#: src/conf/appearanceconfigwidget.cpp:369
+#: src/conf/appearanceconfigwidget.cpp:383
 #, kde-format
 msgctxt "@item:valuesuffix"
 msgid "%v day"
@@ -3978,14 +4063,14 @@ msgid_plural "%v days"
 msgstr[0] ""
 
 #. +> trunk6 stable6
-#: src/conf/appearanceconfigwidget.cpp:368
+#: src/conf/appearanceconfigwidget.cpp:371
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Select the number of days you want to be warned in advance, if your own certificate is about to expire soon."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/conf/appearanceconfigwidget.cpp:373
+#: src/conf/appearanceconfigwidget.cpp:376
 #, fuzzy, kde-format
 #| msgid "Export Certificates"
 msgctxt "@label:spinbox"
@@ -3993,14 +4078,14 @@ msgid "Threshold for other certificates:"
 msgstr "ส่งออกใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/conf/appearanceconfigwidget.cpp:383
+#: src/conf/appearanceconfigwidget.cpp:386
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Select the number of days you want to be warned in advance, if another person's certificate is about to expire soon."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/conf/appearanceconfigwidget.cpp:393
+#: src/conf/appearanceconfigwidget.cpp:396
 #, fuzzy, kde-format
 #| msgid "General"
 msgctxt "@title:tab"
@@ -4008,7 +4093,7 @@ msgid "General"
 msgstr "ทั่วไป"
 
 #. +> trunk6 stable6
-#: src/conf/appearanceconfigwidget.cpp:407
+#: src/conf/appearanceconfigwidget.cpp:410
 #, fuzzy, kde-format
 #| msgid "Certificate usage"
 msgctxt "@label"
@@ -4016,7 +4101,7 @@ msgid "Categories"
 msgstr "การใช้ใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/conf/appearanceconfigwidget.cpp:414
+#: src/conf/appearanceconfigwidget.cpp:417
 #, fuzzy, kde-format
 #| msgid "Set &Icon..."
 msgctxt "@action:button"
@@ -4024,7 +4109,7 @@ msgid "Set Icon..."
 msgstr "ตั้งค่าไอคอน..."
 
 #. +> trunk6 stable6
-#: src/conf/appearanceconfigwidget.cpp:421
+#: src/conf/appearanceconfigwidget.cpp:424
 #, fuzzy, kde-format
 #| msgid "Set &Text Color..."
 msgctxt "@action:button"
@@ -4032,7 +4117,7 @@ msgid "Set Text Color..."
 msgstr "ตั้งค่าสีตัวอักษร..."
 
 #. +> trunk6 stable6
-#: src/conf/appearanceconfigwidget.cpp:428
+#: src/conf/appearanceconfigwidget.cpp:431
 #, fuzzy, kde-format
 #| msgid "Set &Background Color..."
 msgctxt "@action:button"
@@ -4040,7 +4125,7 @@ msgid "Set Background Color..."
 msgstr "ตั้งค่าสีพื้นหลัง..."
 
 #. +> trunk6 stable6
-#: src/conf/appearanceconfigwidget.cpp:435
+#: src/conf/appearanceconfigwidget.cpp:438
 #, fuzzy, kde-format
 #| msgid "Set F&ont..."
 msgctxt "@action:button"
@@ -4048,7 +4133,7 @@ msgid "Set Font..."
 msgstr "ตั้งค่าแบบอักษร..."
 
 #. +> trunk6 stable6
-#: src/conf/appearanceconfigwidget.cpp:442
+#: src/conf/appearanceconfigwidget.cpp:445
 #, fuzzy, kde-format
 #| msgid "Italic"
 msgctxt "@option:check"
@@ -4056,7 +4141,7 @@ msgid "Italic"
 msgstr "ตัวเอียง"
 
 #. +> trunk6 stable6
-#: src/conf/appearanceconfigwidget.cpp:449
+#: src/conf/appearanceconfigwidget.cpp:452
 #, fuzzy, kde-format
 #| msgid "Bold"
 msgctxt "@option:check"
@@ -4064,7 +4149,7 @@ msgid "Bold"
 msgstr "ตัวหนา"
 
 #. +> trunk6 stable6
-#: src/conf/appearanceconfigwidget.cpp:456
+#: src/conf/appearanceconfigwidget.cpp:459
 #, fuzzy, kde-format
 #| msgid "Strikeout"
 msgctxt "@option:check"
@@ -4072,7 +4157,7 @@ msgid "Strikeout"
 msgstr "ตัวขีดเส้นพาดกลาง"
 
 #. +> trunk6 stable6
-#: src/conf/appearanceconfigwidget.cpp:465
+#: src/conf/appearanceconfigwidget.cpp:468
 #, fuzzy, kde-format
 #| msgid "Default Appearance"
 msgctxt "@action:button"
@@ -4080,7 +4165,7 @@ msgid "Default Appearance"
 msgstr "รูปลักษณ์ปริยาย"
 
 #. +> trunk6 stable6
-#: src/conf/appearanceconfigwidget.cpp:473
+#: src/conf/appearanceconfigwidget.cpp:476
 #, fuzzy, kde-format
 #| msgid "Certificate usage"
 msgctxt "@title:tab"
@@ -4088,14 +4173,14 @@ msgid "Certificate Categories"
 msgstr "การใช้ใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/conf/appearanceconfigwidget.cpp:498
+#: src/conf/appearanceconfigwidget.cpp:501
 #, kde-format
 msgid "The preview of colors is disabled because high-contrast mode is active."
 msgstr ""
 
 #. i18n: ectx: label, entry (AttributeOrder), group (DN)
 #. +> trunk6 stable6
-#: src/conf/appearanceconfigwidget.cpp:507 src/kcfg/settings.kcfg:142
+#: src/conf/appearanceconfigwidget.cpp:510 src/kcfg/settings.kcfg:147
 #, kde-format
 msgid "DN-Attribute Order"
 msgstr ""
@@ -4263,7 +4348,7 @@ msgid "Archive command to use when archiving files:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/conf/dirservconfigpage.cpp:163
+#: src/conf/dirservconfigpage.cpp:164
 #, fuzzy, kde-format
 #| msgid "OpenPGP"
 msgctxt "@title"
@@ -4271,14 +4356,14 @@ msgid "OpenPGP Keyserver"
 msgstr "OpenPGP"
 
 #. +> trunk6 stable6
-#: src/conf/dirservconfigpage.cpp:168
+#: src/conf/dirservconfigpage.cpp:169
 #, kde-format
 msgctxt "@label:textbox"
 msgid "Please note that only one OpenPGP keyserver can be configured."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/conf/dirservconfigpage.cpp:171
+#: src/conf/dirservconfigpage.cpp:172
 #, fuzzy, kde-format
 #| msgid "OpenPGP"
 msgctxt "@label:checkbox"
@@ -4286,21 +4371,21 @@ msgid "Use OpenPGP keyserver"
 msgstr "OpenPGP"
 
 #. +> trunk6 stable6
-#: src/conf/dirservconfigpage.cpp:181
+#: src/conf/dirservconfigpage.cpp:182
 #, fuzzy, kde-format
 #| msgid "OpenPGP"
 msgid "OpenPGP keyserver:"
 msgstr "OpenPGP"
 
 #. +> trunk6
-#: src/conf/dirservconfigpage.cpp:187
+#: src/conf/dirservconfigpage.cpp:188
 #, kde-kuit-format
 msgctxt "@info:tooltip"
 msgid "Enter the address of the keyserver to use when searching for OpenPGP certificates and when uploading OpenPGP certificates."
 msgstr ""
 
 #. +> trunk6
-#: src/conf/dirservconfigpage.cpp:192
+#: src/conf/dirservconfigpage.cpp:193
 #, kde-kuit-format
 msgctxt "@info:tooltip"
 msgid "Enter the address of the keyserver to use when searching for OpenPGP certificates and when uploading OpenPGP certificates. If you do not enter an address then an internal default will be used."
@@ -4314,66 +4399,66 @@ msgid "Enter the address of the keyserver to use when searching for OpenPGP cert
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/conf/dirservconfigpage.cpp:215
+#: src/conf/dirservconfigpage.cpp:216
 #, kde-format
 msgctxt "@label:checkbox"
 msgid "Search missing keys when verifying a signature"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/conf/dirservconfigpage.cpp:231
+#: src/conf/dirservconfigpage.cpp:232
 #, kde-format
 msgid "X.509 Directory Services"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/conf/dirservconfigpage.cpp:251
+#: src/conf/dirservconfigpage.cpp:252
 #, kde-format
 msgid "LDAP &timeout (minutes:seconds):"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/conf/dirservconfigpage.cpp:260
+#: src/conf/dirservconfigpage.cpp:261
 #, kde-format
 msgid "&Maximum number of items returned by query:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/conf/dirservconfigpage.cpp:268
+#: src/conf/dirservconfigpage.cpp:269
 #, kde-format
 msgctxt "@option:check"
 msgid "Retrieve missing certification keys when importing new keys"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/conf/dirservconfigpage.cpp:270
+#: src/conf/dirservconfigpage.cpp:271
 #, kde-kuit-format
 msgctxt "@info:tooltip"
 msgid "If enabled, then Kleopatra will automatically try to retrieve the keys that were used to certify the user IDs of newly imported OpenPGP keys."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/conf/dirservconfigpage.cpp:277
+#: src/conf/dirservconfigpage.cpp:278
 #, kde-format
 msgctxt "@option:check"
 msgid "Query certificate directories of providers for all user IDs"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/conf/dirservconfigpage.cpp:279
+#: src/conf/dirservconfigpage.cpp:280
 #, kde-kuit-format
 msgctxt "@info:tooltip"
 msgid "By default, Kleopatra only queries the certificate directories of providers (WKD) for user IDs that were originally retrieved from a WKD when you update an OpenPGP certificate. If this option is enabled, then Kleopatra will query WKDs for all user IDs."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/conf/dirservconfigpage.cpp:520
+#: src/conf/dirservconfigpage.cpp:530
 #, kde-format
 msgid "Backend error: gpgconf does not seem to know the entry for %1/%2"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/conf/dirservconfigpage.cpp:527
+#: src/conf/dirservconfigpage.cpp:537
 #, kde-format
 msgid "Backend error: gpgconf has wrong type for %1/%2: %3 %4"
 msgstr ""
@@ -4400,7 +4485,7 @@ msgid "handout_group-feature_gnupg_en.pdf"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/conf/groupsconfigwidget.cpp:142 src/dialogs/debugdialog.cpp:136
+#: src/conf/groupsconfigwidget.cpp:142 src/dialogs/debugdialog.cpp:138
 #: src/dialogs/editgroupdialog.cpp:189 src/dialogs/editgroupdialog.cpp:278
 #, fuzzy, kde-format
 #| msgid "&Search:"
@@ -4593,7 +4678,7 @@ msgstr ""
 #. i18n: ectx: whatsthis, entry (RefreshInterval), group (SMime Validation)
 #. +> trunk6 stable6
 #: src/conf/smimevalidationconfigurationwidget.ui:18
-#: src/conf/smimevalidationconfigurationwidget.ui:31 src/kcfg/settings.kcfg:249
+#: src/conf/smimevalidationconfigurationwidget.ui:31 src/kcfg/settings.kcfg:254
 #, kde-format
 msgid "This option enables interval checking of certificate validity. You can also choose the checking interval (in hours). Note that validation is performed implicitly whenever significant files in ~/.gnupg change. This option therefore only affects external factors of certificate validity."
 msgstr ""
@@ -5040,7 +5125,7 @@ msgid "Select the file to verify with the signature <filename>%1</filename>"
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifyfilescontroller.cpp:631
+#: src/crypto/decryptverifyfilescontroller.cpp:618
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -5049,7 +5134,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifyfilescontroller.cpp:641
+#: src/crypto/decryptverifyfilescontroller.cpp:628
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info"
@@ -5057,7 +5142,7 @@ msgid "<para>Failed to move <filename>%1</filename> to <filename>%2</filename>.<
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifyfilescontroller.cpp:653
+#: src/crypto/decryptverifyfilescontroller.cpp:641
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info"
@@ -5065,14 +5150,14 @@ msgid "Shall the file be saved with the original file name <filename>%1</filenam
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifyfilescontroller.cpp:654
+#: src/crypto/decryptverifyfilescontroller.cpp:642
 #, kde-format
 msgctxt "@title:window"
 msgid "Use Original File Name?"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifyfilescontroller.cpp:655
+#: src/crypto/decryptverifyfilescontroller.cpp:643
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@action:button"
@@ -5080,7 +5165,7 @@ msgid "No, Save As <filename>%1</filename>"
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifyfilescontroller.cpp:656
+#: src/crypto/decryptverifyfilescontroller.cpp:644
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@action:button"
@@ -5088,7 +5173,7 @@ msgid "Yes, Save As <filename>%1</filename>"
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifyfilescontroller.cpp:679
+#: src/crypto/decryptverifyfilescontroller.cpp:667
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info"
@@ -5096,7 +5181,7 @@ msgid "Failed to delete <filename>%1</filename>."
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifyfilescontroller.cpp:700
+#: src/crypto/decryptverifyfilescontroller.cpp:688
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info"
@@ -5104,7 +5189,7 @@ msgid "Failed to move <filename>%1</filename> to <filename>%2</filename>."
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:142
+#: src/crypto/decryptverifytask.cpp:143
 #, fuzzy, kde-format
 #| msgid "Recipient"
 msgid "Recipient:"
@@ -5113,7 +5198,7 @@ msgstr[0] "ผู้รับ"
 msgstr[1] "ผู้รับ"
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:146
+#: src/crypto/decryptverifytask.cpp:147
 #, fuzzy, kde-format
 #| msgid "Recipient"
 msgctxt "@info"
@@ -5121,7 +5206,7 @@ msgid "One unknown recipient"
 msgstr "ผู้รับ"
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:156
+#: src/crypto/decryptverifytask.cpp:157
 #, kde-format
 msgid "One unknown recipient"
 msgid_plural "%1 unknown recipients"
@@ -5129,7 +5214,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:221
+#: src/crypto/decryptverifytask.cpp:222
 #, fuzzy, kde-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info"
@@ -5137,7 +5222,7 @@ msgid "Decryption and verification of <filename>%1</filename> canceled."
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:224
+#: src/crypto/decryptverifytask.cpp:225
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info 'Unable' meaning that decryption can't be started because there is no secret key"
@@ -5145,7 +5230,7 @@ msgid "Unable to decrypt and verify <filename>%1</filename>:"
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:228
+#: src/crypto/decryptverifytask.cpp:229
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info 'Failed' meaning that there was an error during decryption"
@@ -5153,7 +5238,7 @@ msgid "Failed to decrypt and verify <filename>%1</filename>:"
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:232
+#: src/crypto/decryptverifytask.cpp:233
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info Successfully decrypted and verified <file> as <file>."
@@ -5161,7 +5246,7 @@ msgid "Successfully decrypted and verified <filename>%1</filename> as <filename>
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:238
+#: src/crypto/decryptverifytask.cpp:239
 #, fuzzy, kde-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info"
@@ -5169,7 +5254,7 @@ msgid "Verification of <filename>%1</filename> canceled."
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:240
+#: src/crypto/decryptverifytask.cpp:241
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info Failed to verify <file>:"
@@ -5177,7 +5262,7 @@ msgid "Failed to verify <filename>%1</filename>:"
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:243
+#: src/crypto/decryptverifytask.cpp:244
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info Verified <file> with signature(s) in <file>."
@@ -5186,7 +5271,7 @@ msgid_plural "Verified <filename>%2</filename> with %1 signatures in <filename>%
 msgstr[0] "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:251
+#: src/crypto/decryptverifytask.cpp:252
 #, fuzzy, kde-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info"
@@ -5194,7 +5279,7 @@ msgid "Decryption of <filename>%1</filename> canceled."
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:254
+#: src/crypto/decryptverifytask.cpp:255
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info 'Unable' meaning that decryption can't be started because there is no secret key"
@@ -5202,7 +5287,7 @@ msgid "Unable to decrypt <filename>%1</filename>:"
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:257
+#: src/crypto/decryptverifytask.cpp:258
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info 'Failed' meaning that there was an error during decryption"
@@ -5210,7 +5295,7 @@ msgid "Failed to decrypt <filename>%1</filename>:"
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:260
+#: src/crypto/decryptverifytask.cpp:261
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info Successfully decrypted <file> as <file>."
@@ -5225,13 +5310,13 @@ msgid "The data was not encrypted for any secret key in your certificate list."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:275
+#: src/crypto/decryptverifytask.cpp:273
 #, kde-format
 msgid "No integrity protection (MDC)."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:291
+#: src/crypto/decryptverifytask.cpp:284
 #, fuzzy, kde-format
 #| msgid "Bad signature"
 msgctxt "%1 is a placeholder for the name of a compliance mode. E.g. NATO RESTRICTED compliant or VS-NfD compliant"
@@ -5239,7 +5324,7 @@ msgid "The decryption is %1."
 msgstr "ลายเซ็นใช้ไม่ได้"
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:294
+#: src/crypto/decryptverifytask.cpp:287
 #, fuzzy, kde-format
 #| msgid "Bad signature"
 msgctxt "%1 is a placeholder for the name of a compliance mode. E.g. NATO RESTRICTED compliant or VS-NfD compliant"
@@ -5247,25 +5332,32 @@ msgid "The decryption <b>is not</b> %1."
 msgstr "ลายเซ็นใช้ไม่ได้"
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:304
-#, kde-format
-msgid "Embedded file name: '%1'"
-msgstr ""
-
-#. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:310
-#, kde-format
-msgid "<b>Note:</b> You cannot be sure who encrypted this message as it is not signed."
-msgstr ""
-
-#. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:316
+#: src/crypto/decryptverifytask.cpp:294
 #, kde-format
 msgctxt "Integrity protection was missing because an old cipher was used."
 msgid "<b>Hint:</b> If this file was encrypted before the year 2003 it is likely that the file is legitimate.  This is because back then integrity protection was not widely used."
 msgstr ""
 
+#. +> trunk6
+#: src/crypto/decryptverifytask.cpp:299
+#, kde-format
+msgctxt "@info"
+msgid "If you are confident that the file was not manipulated then you can decrypt it with gpg on the command line using the option <tt>--ignore-mdc-error</tt>. After decryption you should re-encrypt the file with your current key."
+msgstr ""
+
 #. +> trunk6 stable6
+#: src/crypto/decryptverifytask.cpp:311
+#, kde-format
+msgid "Embedded file name: '%1'"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/crypto/decryptverifytask.cpp:317
+#, kde-format
+msgid "<b>Note:</b> You cannot be sure who encrypted this message as it is not signed."
+msgstr ""
+
+#. +> stable6
 #: src/crypto/decryptverifytask.cpp:321
 #, kde-format
 msgctxt "The user is offered to force decrypt a non integrity protected message. With the strong advice to re-encrypt it."
@@ -5273,21 +5365,21 @@ msgid "If you are confident that the file was not manipulated you should re-encr
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:537
+#: src/crypto/decryptverifytask.cpp:532
 #, kde-format
 msgctxt "@info"
 msgid "Failed to decrypt the notepad: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:540
+#: src/crypto/decryptverifytask.cpp:535
 #, kde-format
 msgctxt "@info"
 msgid "Failed to verify the notepad: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:544
+#: src/crypto/decryptverifytask.cpp:539
 #, fuzzy, kde-format
 #| msgid "certificate"
 msgctxt "@info"
@@ -5295,35 +5387,35 @@ msgid "Successfully decrypted and verified the notepad"
 msgstr "ใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:547
+#: src/crypto/decryptverifytask.cpp:542
 #, kde-format
 msgctxt "@info"
 msgid "Successfully decrypted the notepad"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:550
+#: src/crypto/decryptverifytask.cpp:545
 #, kde-format
 msgctxt "@info"
 msgid "Successfully verified the notepad"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:555
+#: src/crypto/decryptverifytask.cpp:550
 #, kde-format
 msgctxt "@info"
 msgid "Failed to decrypt the clipboard: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:558
+#: src/crypto/decryptverifytask.cpp:553
 #, kde-format
 msgctxt "@info"
 msgid "Failed to verify the clipboard: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:562
+#: src/crypto/decryptverifytask.cpp:557
 #, fuzzy, kde-format
 #| msgid "certificate"
 msgctxt "@info"
@@ -5331,7 +5423,7 @@ msgid "Successfully decrypted and verified the clipboard"
 msgstr "ใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:565
+#: src/crypto/decryptverifytask.cpp:560
 #, fuzzy, kde-format
 #| msgid "certificate"
 msgctxt "@info"
@@ -5339,7 +5431,7 @@ msgid "Successfully decrypted the clipboard"
 msgstr "ใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:568
+#: src/crypto/decryptverifytask.cpp:563
 #, fuzzy, kde-format
 #| msgid "certificate"
 msgctxt "@info"
@@ -5356,19 +5448,19 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:740 src/crypto/decryptverifytask.cpp:948
-#: src/crypto/decryptverifytask.cpp:1028 src/crypto/decryptverifytask.cpp:1129
-#: src/crypto/decryptverifytask.cpp:1181 src/crypto/decryptverifytask.cpp:1349
-#: src/crypto/decryptverifytask.cpp:1426 src/crypto/decryptverifytask.cpp:1560
+#: src/crypto/decryptverifytask.cpp:739 src/crypto/decryptverifytask.cpp:916
+#: src/crypto/decryptverifytask.cpp:993 src/crypto/decryptverifytask.cpp:1094
+#: src/crypto/decryptverifytask.cpp:1146 src/crypto/decryptverifytask.cpp:1305
+#: src/crypto/decryptverifytask.cpp:1380 src/crypto/decryptverifytask.cpp:1506
 #, kde-format
 msgid "Caught exception: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:743 src/crypto/decryptverifytask.cpp:950
-#: src/crypto/decryptverifytask.cpp:1031 src/crypto/decryptverifytask.cpp:1131
-#: src/crypto/decryptverifytask.cpp:1184 src/crypto/decryptverifytask.cpp:1351
-#: src/crypto/decryptverifytask.cpp:1428 src/crypto/decryptverifytask.cpp:1562
+#: src/crypto/decryptverifytask.cpp:742 src/crypto/decryptverifytask.cpp:918
+#: src/crypto/decryptverifytask.cpp:996 src/crypto/decryptverifytask.cpp:1096
+#: src/crypto/decryptverifytask.cpp:1149 src/crypto/decryptverifytask.cpp:1307
+#: src/crypto/decryptverifytask.cpp:1382 src/crypto/decryptverifytask.cpp:1508
 #: src/uiserver/assuanserverconnection.cpp:1356
 #: src/uiserver/assuanserverconnection.cpp:1405
 #, kde-format
@@ -5376,45 +5468,45 @@ msgid "Caught unknown exception"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:797
+#: src/crypto/decryptverifytask.cpp:796
 #, kde-format
 msgid "Could not determine whether this is an S/MIME or an OpenPGP signature/ciphertext - maybe it is neither ciphertext nor a signature?"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:805
+#: src/crypto/decryptverifytask.cpp:804
 #, fuzzy, kde-format
 #| msgid "String"
 msgid "Decrypting %1..."
 msgstr "ข้อความ"
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:1084
+#: src/crypto/decryptverifytask.cpp:1049
 #, kde-format
 msgid "Could not determine whether this was S/MIME- or OpenPGP-encrypted - maybe it is not ciphertext at all?"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:1092
+#: src/crypto/decryptverifytask.cpp:1057
 #, kde-format
 msgid "Decrypting: %1..."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:1238 src/crypto/decryptverifytask.cpp:1490
+#: src/crypto/decryptverifytask.cpp:1203 src/crypto/decryptverifytask.cpp:1444
 #, kde-format
 msgid "Could not determine whether this is an S/MIME or an OpenPGP signature - maybe it is not a signature at all?"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:1246
+#: src/crypto/decryptverifytask.cpp:1211
 #, fuzzy, kde-format
 #| msgid "String"
 msgid "Verifying %1..."
 msgstr "ข้อความ"
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:1508
+#: src/crypto/decryptverifytask.cpp:1462
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "Verification of a detached signature in progress. The first file contains the data.The second file is the signature file."
@@ -5422,7 +5514,7 @@ msgid "Verifying <filename>%1</filename> with <filename>%2</filename>..."
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/decryptverifytask.cpp:1512
+#: src/crypto/decryptverifytask.cpp:1466
 #, fuzzy, kde-format
 #| msgid "&Certificates"
 msgid "Verifying signature %1..."
@@ -5462,14 +5554,14 @@ msgid "Encryption succeeded."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/gui/certificatelineedit.cpp:291
+#: src/crypto/gui/certificatelineedit.cpp:297
 #, kde-format
 msgctxt "@info:placeholder"
 msgid "Please enter a name or email address..."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/gui/certificatelineedit.cpp:308
+#: src/crypto/gui/certificatelineedit.cpp:314
 #, fuzzy, kde-format
 #| msgid "Certificate type"
 msgctxt "@info:tooltip"
@@ -5477,14 +5569,14 @@ msgid "Show certificate list"
 msgstr "ประเภทของใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/crypto/gui/certificatelineedit.cpp:309
+#: src/crypto/gui/certificatelineedit.cpp:315
 #, fuzzy, kde-format
 #| msgid "Certificate type"
 msgid "Show certificate list"
 msgstr "ประเภทของใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/crypto/gui/certificatelineedit.cpp:328
+#: src/crypto/gui/certificatelineedit.cpp:334
 #, fuzzy, kde-format
 #| msgid "Show Details"
 msgctxt "@action:inmenu"
@@ -5492,35 +5584,49 @@ msgid "Show Details"
 msgstr "แสดงรายละเอียด"
 
 #. +> trunk6 stable6
-#: src/crypto/gui/certificatelineedit.cpp:644
+#: src/crypto/gui/certificatelineedit.cpp:663
 #, fuzzy, kde-format
 #| msgid "Signing Certificates"
 msgid "No matching certificates or groups found"
 msgstr "การเซ็นใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/crypto/gui/certificatelineedit.cpp:646
+#: src/crypto/gui/certificatelineedit.cpp:665
 #, fuzzy, kde-format
 #| msgid "Signing Certificates"
 msgid "Multiple matching certificates or groups found"
 msgstr "การเซ็นใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/crypto/gui/certificatelineedit.cpp:648
+#: src/crypto/gui/certificatelineedit.cpp:667
 #, fuzzy, kde-format
 #| msgid "Certificate type"
 msgid "This certificate is expired"
 msgstr "ประเภทของใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/crypto/gui/certificatelineedit.cpp:650
+#: src/crypto/gui/certificatelineedit.cpp:669
 #, fuzzy, kde-format
 #| msgid "Certificate type"
 msgid "This certificate is revoked"
 msgstr "ประเภทของใบรับรอง"
 
+#. +> trunk6
+#: src/crypto/gui/certificatelineedit.cpp:671
+#, fuzzy, kde-format
+#| msgid "Certificate type"
+msgid "This certificate is disabled"
+msgstr "ประเภทของใบรับรอง"
+
+#. +> trunk6
+#: src/crypto/gui/certificatelineedit.cpp:673
+#, fuzzy, kde-format
+#| msgid "Certificate type"
+msgid "This certificate is unusable"
+msgstr "ประเภทของใบรับรอง"
+
 #. +> trunk6 stable6
-#: src/crypto/gui/certificatelineedit.cpp:730 src/dialogs/expirydialog.cpp:217
+#: src/crypto/gui/certificatelineedit.cpp:757 src/dialogs/expirydialog.cpp:217
 #: src/view/smartcardwidget.cpp:370
 #, fuzzy, kde-format
 #| msgid "Input file:"
@@ -5596,33 +5702,33 @@ msgid "Encrypt Text"
 msgstr "เข้ารหัสเท่านั้น"
 
 #. +> trunk6 stable6
-#: src/crypto/gui/newresultpage.cpp:96
+#: src/crypto/gui/newresultpage.cpp:95
 #, kde-format
 msgid "%1: All operations completed."
 msgstr "%1: ปฏิบัติการทั้งหมดเสร็จสมบูรณ์แล้ว"
 
 #. +> trunk6 stable6
-#: src/crypto/gui/newresultpage.cpp:98
+#: src/crypto/gui/newresultpage.cpp:97
 #, kde-format
 msgid "All operations completed."
 msgstr "ปฏิบัติการทั้งหมดเสร็จสมบูรณ์แล้ว"
 
 #. +> trunk6 stable6
-#: src/crypto/gui/newresultpage.cpp:119 src/crypto/gui/resultpage.cpp:99
+#: src/crypto/gui/newresultpage.cpp:118 src/crypto/gui/resultpage.cpp:99
 #, kde-format
 msgctxt "number, operation description"
 msgid "Operation %1: %2"
 msgstr "ปฏิบัติการ %1: %2"
 
 #. +> trunk6 stable6
-#: src/crypto/gui/newresultpage.cpp:121 src/crypto/gui/resultpage.cpp:101
+#: src/crypto/gui/newresultpage.cpp:120 src/crypto/gui/resultpage.cpp:101
 #, kde-format
 msgctxt "tag( \"OpenPGP\" or \"CMS\"),  operation description"
 msgid "%1: %2"
 msgstr "%1: %2"
 
 #. +> trunk6 stable6
-#: src/crypto/gui/newresultpage.cpp:129 src/crypto/gui/resultpage.cpp:109
+#: src/crypto/gui/newresultpage.cpp:128 src/crypto/gui/resultpage.cpp:109
 #, kde-format
 msgid "<b>Results</b>"
 msgstr "<b>ผลลัพธ์</b>"
@@ -5707,6 +5813,26 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
+#: src/crypto/gui/resultitemwidget.cpp:135
+#, kde-format
+msgid "Diagnostics"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/crypto/gui/resultitemwidget.cpp:136
+#, kde-format
+msgctxt "The Audit Log is a detailed error log from the gnupg backend"
+msgid "Show Audit Log"
+msgstr ""
+
+#. +> trunk6
+#: src/crypto/gui/resultitemwidget.cpp:207
+#, kde-format
+msgctxt "@action:button"
+msgid "Close"
+msgstr ""
+
+#. +> stable6
 #: src/crypto/gui/resultitemwidget.cpp:120
 #, fuzzy, kde-format
 #| msgid "Encrypt only"
@@ -5715,27 +5841,14 @@ msgid "Force decryption"
 msgstr "เข้ารหัสเท่านั้น"
 
 #. +> trunk6 stable6
-#: src/crypto/gui/resultitemwidget.cpp:154
-#, kde-format
-msgid "Diagnostics"
-msgstr ""
-
-#. +> trunk6 stable6
-#: src/crypto/gui/resultitemwidget.cpp:155
-#, kde-format
-msgctxt "The Audit Log is a detailed error log from the gnupg backend"
-msgid "Show Audit Log"
-msgstr ""
-
-#. +> trunk6 stable6
-#: src/crypto/gui/resultitemwidget.cpp:261
+#: src/crypto/gui/resultitemwidget.cpp:208
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Close message"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/gui/resultlistwidget.cpp:118
+#: src/crypto/gui/resultlistwidget.cpp:117
 #, fuzzy, kde-format
 #| msgid "Show Details"
 msgctxt "@action:button"
@@ -6241,7 +6354,7 @@ msgstr "เข้ารหัสเท่านั้น"
 
 #. +> trunk6 stable6
 #: src/crypto/gui/signencryptfilesdialog.cpp:605
-#: src/dialogs/signencryptclipboarddialog.cpp:246
+#: src/dialogs/signencryptclipboarddialog.cpp:235
 #, fuzzy, kde-format
 #| msgid "&Next"
 msgctxt "@action:button"
@@ -6323,38 +6436,47 @@ msgid "recipient key"
 msgstr "ผู้รับ"
 
 #. +> trunk6 stable6
-#: src/crypto/gui/signencryptwidget.cpp:523
+#: src/crypto/gui/signencryptwidget.cpp:449
+#: src/crypto/gui/signencryptwidget.cpp:760
+#, fuzzy, kde-format
+#| msgid "Issuer Certificate Not Found (%1)"
+msgctxt "@info"
+msgid "This certificate cannot be used for encryption."
+msgstr "ไม่พบผู้ออกใบรับรอง (%1)"
+
+#. +> trunk6 stable6
+#: src/crypto/gui/signencryptwidget.cpp:524
 #, fuzzy, kde-format
 #| msgid "Encrypt only"
 msgid "Usable for Signing"
 msgstr "เข้ารหัสเท่านั้น"
 
 #. +> trunk6 stable6
-#: src/crypto/gui/signencryptwidget.cpp:524
+#: src/crypto/gui/signencryptwidget.cpp:525
 #, fuzzy, kde-format
 #| msgid "Issuer Certificate Not Found (%1)"
 msgid "Certificates that can be used for signing"
 msgstr "ไม่พบผู้ออกใบรับรอง (%1)"
 
 #. +> trunk6 stable6
-#: src/crypto/gui/signencryptwidget.cpp:527
-#: src/crypto/gui/signencryptwidget.cpp:561 src/dialogs/editgroupdialog.cpp:216
+#: src/crypto/gui/signencryptwidget.cpp:528
+#: src/crypto/gui/signencryptwidget.cpp:562 src/dialogs/editgroupdialog.cpp:216
 #, fuzzy, kde-format
 #| msgid "Encrypt only"
 msgid "Usable for Encryption"
 msgstr "เข้ารหัสเท่านั้น"
 
 #. +> trunk6 stable6
-#: src/crypto/gui/signencryptwidget.cpp:528
-#: src/crypto/gui/signencryptwidget.cpp:562 src/dialogs/editgroupdialog.cpp:217
+#: src/crypto/gui/signencryptwidget.cpp:529
+#: src/crypto/gui/signencryptwidget.cpp:563 src/dialogs/editgroupdialog.cpp:217
 #, fuzzy, kde-format
 #| msgid "Issuer Certificate Not Found (%1)"
 msgid "Certificates that can be used for encryption"
 msgstr "ไม่พบผู้ออกใบรับรอง (%1)"
 
 #. +> trunk6 stable6
-#: src/crypto/gui/signencryptwidget.cpp:749
-#: src/crypto/gui/signencryptwidget.cpp:1044
+#: src/crypto/gui/signencryptwidget.cpp:750
+#: src/crypto/gui/signencryptwidget.cpp:1045
 #, fuzzy, kde-format
 #| msgid "Certificate type"
 msgctxt "@info"
@@ -6362,7 +6484,7 @@ msgid "This certificate is expired."
 msgstr "ประเภทของใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/crypto/gui/signencryptwidget.cpp:752
+#: src/crypto/gui/signencryptwidget.cpp:753
 #, fuzzy, kde-format
 #| msgid "Certificate type"
 msgctxt "@info"
@@ -6370,7 +6492,7 @@ msgid "This certificate expires today."
 msgstr "ประเภทของใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/crypto/gui/signencryptwidget.cpp:754
+#: src/crypto/gui/signencryptwidget.cpp:755
 #, fuzzy, kde-format
 #| msgid "Certificate type"
 msgctxt "@info"
@@ -6379,15 +6501,7 @@ msgid_plural "This certificate expires in %1 days."
 msgstr[0] "ประเภทของใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/crypto/gui/signencryptwidget.cpp:759
-#, fuzzy, kde-format
-#| msgid "Issuer Certificate Not Found (%1)"
-msgctxt "@info"
-msgid "This certificate cannot be used for encryption."
-msgstr "ไม่พบผู้ออกใบรับรอง (%1)"
-
-#. +> trunk6 stable6
-#: src/crypto/gui/signencryptwidget.cpp:761
+#: src/crypto/gui/signencryptwidget.cpp:762
 #, fuzzy, kde-format
 #| msgid "Issuer Certificate Not Found (%1)"
 msgctxt "@info"
@@ -6395,28 +6509,28 @@ msgid "This certificate cannot be used for signing."
 msgstr "ไม่พบผู้ออกใบรับรอง (%1)"
 
 #. +> trunk6 stable6
-#: src/crypto/gui/signencryptwidget.cpp:990
+#: src/crypto/gui/signencryptwidget.cpp:991
 #, kde-kuit-format
 msgctxt "@info translate 'Encrypt for others' the same way as for the other string in this file"
 msgid "Please choose at least one recipient or deselect <interface>Encrypt for others</interface>."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/gui/signencryptwidget.cpp:1005
+#: src/crypto/gui/signencryptwidget.cpp:1006
 #, fuzzy, kde-format
 #| msgid "Could not open file %1 for reading"
 msgid "Could not find a key for the following recipients:"
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/gui/signencryptwidget.cpp:1007
+#: src/crypto/gui/signencryptwidget.cpp:1008
 #, kde-format
 msgctxt "@title:window"
 msgid "Failed to find some keys"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/gui/signencryptwidget.cpp:1047
+#: src/crypto/gui/signencryptwidget.cpp:1048
 #, fuzzy, kde-format
 #| msgid "Certificate type"
 msgctxt "@info"
@@ -6677,19 +6791,19 @@ msgid "archive"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/signencryptfilescontroller.cpp:702
+#: src/crypto/signencryptfilescontroller.cpp:698
 #, kde-format
 msgid "Caught unexpected exception in SignEncryptFilesController::Private::slotWizardOperationPrepared: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/signencryptfilescontroller.cpp:704
+#: src/crypto/signencryptfilescontroller.cpp:700
 #, kde-format
 msgid "Caught unknown exception in SignEncryptFilesController::Private::slotWizardOperationPrepared"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:147
+#: src/crypto/signencrypttask.cpp:146
 #, fuzzy, kde-format
 #| msgid "Sign and encrypt (OpenPGP only)"
 msgctxt "@info"
@@ -6697,7 +6811,7 @@ msgid "Signing and encryption canceled."
 msgstr "เซ็นและเข้ารหัส (OpenPGP เท่านั้น)"
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:150
+#: src/crypto/signencrypttask.cpp:149
 #, fuzzy, kde-format
 #| msgid "Encrypt only"
 msgctxt "@info"
@@ -6705,7 +6819,7 @@ msgid "Signing canceled."
 msgstr "เข้ารหัสเท่านั้น"
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:153
+#: src/crypto/signencrypttask.cpp:152
 #, fuzzy, kde-format
 #| msgid "Encrypt only"
 msgctxt "@info"
@@ -6713,7 +6827,7 @@ msgid "Encryption canceled."
 msgstr "เข้ารหัสเท่านั้น"
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:159
+#: src/crypto/signencrypttask.cpp:158
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info Failed to sign and encrypt <file>: <reason>"
@@ -6721,7 +6835,7 @@ msgid "Failed to sign and encrypt <filename>%1</filename>: <emphasis strong='tru
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:165
+#: src/crypto/signencrypttask.cpp:164
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info Failed to sign and encrypt <file> and <file>: <reason>"
@@ -6729,7 +6843,7 @@ msgid "Failed to sign and encrypt <filename>%1</filename> and <filename>%2</file
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:171
+#: src/crypto/signencrypttask.cpp:170
 #, kde-kuit-format
 msgctxt "@info Failed to sign and encrypt <file> and <n> other(s): <reason>"
 msgid "Failed to sign and encrypt <filename>%2</filename> and %1 other: <emphasis strong='true'>%3</emphasis>"
@@ -6737,7 +6851,7 @@ msgid_plural "Failed to sign and encrypt <filename>%2</filename> and %1 others: 
 msgstr[0] ""
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:181
+#: src/crypto/signencrypttask.cpp:180
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info Failed to sign <file>: <reason>"
@@ -6745,7 +6859,7 @@ msgid "Failed to sign <filename>%1</filename>: <emphasis strong='true'>%2</empha
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:187
+#: src/crypto/signencrypttask.cpp:186
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info Failed to sign <file> and <file>: <reason>"
@@ -6753,7 +6867,7 @@ msgid "Failed to sign <filename>%1</filename> and <filename>%2</filename>: <emph
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:193
+#: src/crypto/signencrypttask.cpp:192
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info Failed to sign <file> and <n> other(s): <reason>"
@@ -6762,7 +6876,7 @@ msgid_plural "Failed to sign <filename>%2</filename> and %1 others: <emphasis st
 msgstr[0] "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:203
+#: src/crypto/signencrypttask.cpp:202
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info Failed to encrypt <file>: <reason>"
@@ -6770,7 +6884,7 @@ msgid "Failed to encrypt <filename>%1</filename>: <emphasis strong='true'>%2</em
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:209
+#: src/crypto/signencrypttask.cpp:208
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info Failed to encrypt <file> and <file>: <reason>"
@@ -6778,7 +6892,7 @@ msgid "Failed to encrypt <filename>%1</filename> and <filename>%2</filename>: <e
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:215
+#: src/crypto/signencrypttask.cpp:214
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info Failed to encrypt <file> and <n> other(s): <reason>"
@@ -6787,7 +6901,7 @@ msgid_plural "Failed to encrypt <filename>%2</filename> and %1 others: <emphasis
 msgstr[0] "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:225
+#: src/crypto/signencrypttask.cpp:224
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info Successfully signed and encrypted <file> and saved it as <file>."
@@ -6795,14 +6909,14 @@ msgid "Successfully signed and encrypted <filename>%1</filename> and saved it as
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:231
+#: src/crypto/signencrypttask.cpp:230
 #, kde-kuit-format
 msgctxt "@info Successfully signed and encrypted <file> and <file> and saved it as <file>."
 msgid "Successfully signed and encrypted <filename>%1</filename> and <filename>%2</filename> and saved it as <filename>%3</filename>."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:237
+#: src/crypto/signencrypttask.cpp:236
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info Successfully signed and encrypted <file> and <n> other(s) as <file>."
@@ -6811,7 +6925,7 @@ msgid_plural "Successfully signed and encrypted <filename>%2</filename> and %1 o
 msgstr[0] "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:247
+#: src/crypto/signencrypttask.cpp:246
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info Successfully signed <file> and saved the signature in <file>."
@@ -6819,7 +6933,7 @@ msgid "Successfully signed <filename>%1</filename> and saved the signature in <f
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:253
+#: src/crypto/signencrypttask.cpp:252
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info Successfully signed <file> and <file> and saved the signature in <file>."
@@ -6827,7 +6941,7 @@ msgid "Successfully signed <filename>%1</filename> and <filename>%2</filename> a
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:259
+#: src/crypto/signencrypttask.cpp:258
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info Successfully signed <file> and <n> other(s) and saved the signature in <file>."
@@ -6836,7 +6950,7 @@ msgid_plural "Successfully signed <filename>%2</filename> and %1 others and save
 msgstr[0] "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:268
+#: src/crypto/signencrypttask.cpp:267
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info Successfully encrypted <file> and saved it as <file>."
@@ -6844,7 +6958,7 @@ msgid "Successfully encrypted <filename>%1</filename> and saved it as <filename>
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:274
+#: src/crypto/signencrypttask.cpp:273
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info Successfully encrypted <file> and <file> and saved it as <file>."
@@ -6852,7 +6966,7 @@ msgid "Successfully encrypted <filename>%1</filename> and <filename>%2</filename
 msgstr "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:280
+#: src/crypto/signencrypttask.cpp:279
 #, fuzzy, kde-kuit-format
 #| msgid "Could not open file %1 for reading"
 msgctxt "@info Successfully encrypted <file> and <n> other(s) and saved it as <file>."
@@ -6861,34 +6975,34 @@ msgid_plural "Successfully encrypted <filename>%2</filename> and %1 others and s
 msgstr[0] "ไม่สามารถเปิดแฟ้ม %1 เพื่อทำการอ่านได้"
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:299 src/crypto/signencrypttask.cpp:316
-#: src/crypto/signencrypttask.cpp:932
+#: src/crypto/signencrypttask.cpp:298 src/crypto/signencrypttask.cpp:315
+#: src/crypto/signencrypttask.cpp:905
 #, fuzzy, kde-format
 #| msgid "Input file:"
 msgid "Input error: %1"
 msgstr "แฟ้มนำเข้า:"
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:301 src/crypto/signencrypttask.cpp:318
+#: src/crypto/signencrypttask.cpp:300 src/crypto/signencrypttask.cpp:317
 #, kde-format
 msgid "Output error: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:536
+#: src/crypto/signencrypttask.cpp:535
 #, kde-format
 msgid "Cannot determine protocol for task"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:587
+#: src/crypto/signencrypttask.cpp:586
 #, kde-format
 msgctxt "<name of first file>, ..."
 msgid "%1, ..."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:799 src/utils/archivedefinition.cpp:420
+#: src/crypto/signencrypttask.cpp:772 src/utils/archivedefinition.cpp:420
 #, kde-format
 msgid ""
 "Cannot find common base directory for these files:\n"
@@ -6896,7 +7010,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:816
+#: src/crypto/signencrypttask.cpp:789
 #, fuzzy, kde-format
 #| msgid "Sign and encrypt (OpenPGP only)"
 msgctxt "@info"
@@ -6904,63 +7018,63 @@ msgid "Creating signed and encrypted archive ..."
 msgstr "เซ็นและเข้ารหัส (OpenPGP เท่านั้น)"
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:832
+#: src/crypto/signencrypttask.cpp:805
 #, kde-format
 msgctxt "@info"
 msgid "Creating encrypted archive ..."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:848
+#: src/crypto/signencrypttask.cpp:821
 #, kde-format
 msgctxt "@info"
 msgid "Creating signed archive ..."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:975
+#: src/crypto/signencrypttask.cpp:948
 #, kde-format
 msgctxt "@info"
 msgid "Failed to sign the notepad: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:978
+#: src/crypto/signencrypttask.cpp:951
 #, kde-format
 msgctxt "@info"
 msgid "Failed to encrypt the notepad: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:982
+#: src/crypto/signencrypttask.cpp:955
 #, kde-format
 msgctxt "@info"
 msgid "Successfully encrypted and signed the notepad"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:984
+#: src/crypto/signencrypttask.cpp:957
 #, kde-format
 msgctxt "@info"
 msgid "Successfully encrypted the notepad"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:986
+#: src/crypto/signencrypttask.cpp:959
 #, kde-format
 msgctxt "@info"
 msgid "Successfully signed the notepad"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:993
+#: src/crypto/signencrypttask.cpp:966
 #, kde-format
 msgctxt "@info"
 msgid "Failed to sign the clipboard: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:996
+#: src/crypto/signencrypttask.cpp:969
 #, fuzzy, kde-format
 #| msgid "certificate"
 msgctxt "@info"
@@ -6968,7 +7082,7 @@ msgid "Failed to encrypt the clipboard: %1"
 msgstr "ใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:1000
+#: src/crypto/signencrypttask.cpp:973
 #, fuzzy, kde-format
 #| msgid "certificate"
 msgctxt "@info"
@@ -6976,7 +7090,7 @@ msgid "Successfully encrypted and signed the clipboard"
 msgstr "ใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:1002
+#: src/crypto/signencrypttask.cpp:975
 #, fuzzy, kde-format
 #| msgid "certificate"
 msgctxt "@info"
@@ -6984,7 +7098,7 @@ msgid "Successfully encrypted the clipboard"
 msgstr "ใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/crypto/signencrypttask.cpp:1004
+#: src/crypto/signencrypttask.cpp:977
 #, fuzzy, kde-format
 #| msgid "certificate"
 msgctxt "@info"
@@ -7046,7 +7160,7 @@ msgid "Certificate Usage"
 msgstr "ประเภทของใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/dialogs/addsubkeydialog.cpp:105 src/dialogs/createcsrdialog.cpp:449
+#: src/dialogs/addsubkeydialog.cpp:105 src/dialogs/createcsrdialog.cpp:446
 #, fuzzy, kde-format
 #| msgid "Signer:"
 msgctxt "@option:check"
@@ -7054,7 +7168,7 @@ msgid "Signing"
 msgstr "ผู้เซ็น:"
 
 #. +> trunk6 stable6
-#: src/dialogs/addsubkeydialog.cpp:108 src/dialogs/createcsrdialog.cpp:452
+#: src/dialogs/addsubkeydialog.cpp:108 src/dialogs/createcsrdialog.cpp:449
 #, fuzzy, kde-format
 #| msgid "Encrypt only"
 msgctxt "@option:check"
@@ -7120,7 +7234,7 @@ msgid "Enter a name and/or an email address to use for the user ID."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/adduseriddialog.cpp:131 src/dialogs/createcsrdialog.cpp:600
+#: src/dialogs/adduseriddialog.cpp:131 src/dialogs/createcsrdialog.cpp:597
 #, kde-format
 msgid "Enter a name or an email address."
 msgstr ""
@@ -7390,7 +7504,7 @@ msgid "Certificate Dump"
 msgstr "การนำเข้าใบรับรองล้มเหลว"
 
 #. +> trunk6 stable6
-#: src/dialogs/certificatedetailswidget.cpp:284
+#: src/dialogs/certificatedetailswidget.cpp:283
 #, fuzzy, kde-format
 #| msgid "Select File"
 msgctxt "@title:tab"
@@ -7398,22 +7512,22 @@ msgid "Revokers"
 msgstr "เลือกแฟ้ม"
 
 #. +> trunk6 stable6
-#: src/dialogs/certificatedetailswidget.cpp:343
+#: src/dialogs/certificatedetailswidget.cpp:341
 #, kde-format
 msgctxt "Valid until:"
 msgid "unlimited"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/certificatedetailswidget.cpp:350
-#: src/dialogs/subkeyswidget.cpp:414
+#: src/dialogs/certificatedetailswidget.cpp:348
+#: src/dialogs/subkeyswidget.cpp:418
 #, kde-format
 msgctxt "not applicable"
 msgid "n/a"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/certificatedetailswidget.cpp:353
+#: src/dialogs/certificatedetailswidget.cpp:351
 #, fuzzy, kde-format
 #| msgid "Select File"
 msgctxt "As in 'this secret key is stored on smart card <serial number>'"
@@ -7421,7 +7535,7 @@ msgid "smart card %1"
 msgstr "เลือกแฟ้ม"
 
 #. +> trunk6 stable6
-#: src/dialogs/certificatedetailswidget.cpp:355
+#: src/dialogs/certificatedetailswidget.cpp:353
 #, fuzzy, kde-format
 #| msgid "Select File"
 msgctxt "As in 'this secret key is stored on a smart card'"
@@ -7429,15 +7543,15 @@ msgid "smart card"
 msgstr "เลือกแฟ้ม"
 
 #. +> trunk6 stable6
-#: src/dialogs/certificatedetailswidget.cpp:358
-#: src/dialogs/subkeyswidget.cpp:422
+#: src/dialogs/certificatedetailswidget.cpp:356
+#: src/dialogs/subkeyswidget.cpp:426
 #, kde-format
 msgctxt "key is 'offline key', i.e. secret key is not stored on this computer"
 msgid "offline"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/certificatedetailswidget.cpp:361
+#: src/dialogs/certificatedetailswidget.cpp:359
 #, kde-format
 msgctxt "As in 'this key is stored on this computer and on smart card(s)'"
 msgid "On this computer and on a smart card"
@@ -7445,42 +7559,42 @@ msgid_plural "On this computer and on %1 smart cards"
 msgstr[0] ""
 
 #. +> trunk6 stable6
-#: src/dialogs/certificatedetailswidget.cpp:365
+#: src/dialogs/certificatedetailswidget.cpp:363
 #, kde-format
 msgctxt "As in 'this secret key is stored on this computer'"
 msgid "on this computer"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/certificatedetailswidget.cpp:377
+#: src/dialogs/certificatedetailswidget.cpp:375
 #, fuzzy, kde-format
 #| msgid "Encrypt only"
 msgid "encryption"
 msgstr "เข้ารหัสเท่านั้น"
 
 #. +> trunk6 stable6
-#: src/dialogs/certificatedetailswidget.cpp:380
+#: src/dialogs/certificatedetailswidget.cpp:378
 #, fuzzy, kde-format
 #| msgid "Signer:"
 msgid "signing"
 msgstr "ผู้เซ็น:"
 
 #. +> trunk6 stable6
-#: src/dialogs/certificatedetailswidget.cpp:383
+#: src/dialogs/certificatedetailswidget.cpp:381
 #, fuzzy, kde-format
 #| msgid "&Certificates"
 msgid "certification"
 msgstr "ใ&บรับรอง"
 
 #. +> trunk6 stable6
-#: src/dialogs/certificatedetailswidget.cpp:386
+#: src/dialogs/certificatedetailswidget.cpp:384
 #, fuzzy, kde-format
 #| msgid "Animations"
 msgid "authentication"
 msgstr "ภาพเคลื่อนไหว"
 
 #. +> trunk6 stable6
-#: src/dialogs/certificatedetailswidget.cpp:389
+#: src/dialogs/certificatedetailswidget.cpp:387
 #, fuzzy, kde-format
 #| msgid "Bad signature"
 msgctxt "as in: can be used for ..."
@@ -7488,60 +7602,60 @@ msgid "qualified signatures"
 msgstr "ลายเซ็นใช้ไม่ได้"
 
 #. +> trunk6 stable6
-#: src/dialogs/certificatedetailswidget.cpp:392 src/view/cardkeysview.cpp:201
+#: src/dialogs/certificatedetailswidget.cpp:390 src/view/cardkeysview.cpp:201
 #, kde-format
 msgctxt "Separator between words in a list"
 msgid ", "
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/certificatedetailswidget.cpp:501
-#: src/dialogs/useridswidget.cpp:370
+#: src/dialogs/certificatedetailswidget.cpp:499
+#: src/dialogs/useridswidget.cpp:371
 #, fuzzy, kde-format
 #| msgid "Export"
 msgid "Updating..."
 msgstr "ส่งออก"
 
 #. +> trunk6 stable6
-#: src/dialogs/certificatedetailswidget.cpp:577
+#: src/dialogs/certificatedetailswidget.cpp:573
 #, kde-format
 msgid "Common Name"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/certificatedetailswidget.cpp:578
+#: src/dialogs/certificatedetailswidget.cpp:574
 #, fuzzy, kde-format
 #| msgid "Animations"
 msgid "Organization"
 msgstr "ภาพเคลื่อนไหว"
 
 #. +> trunk6 stable6
-#: src/dialogs/certificatedetailswidget.cpp:579
+#: src/dialogs/certificatedetailswidget.cpp:575
 #, kde-format
 msgid "Street"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/certificatedetailswidget.cpp:580
+#: src/dialogs/certificatedetailswidget.cpp:576
 #, kde-format
 msgid "City"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/certificatedetailswidget.cpp:581
+#: src/dialogs/certificatedetailswidget.cpp:577
 #, fuzzy, kde-format
 #| msgid "Status"
 msgid "State"
 msgstr "สถานะ"
 
 #. +> trunk6 stable6
-#: src/dialogs/certificatedetailswidget.cpp:582
+#: src/dialogs/certificatedetailswidget.cpp:578
 #, kde-format
 msgid "Country"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/certificatedetailswidget.cpp:629
+#: src/dialogs/certificatedetailswidget.cpp:625
 #, fuzzy, kde-format
 #| msgid "Issuer Certificate Not Found (%1)"
 msgid "The issuer certificate could not be found locally."
@@ -7710,13 +7824,6 @@ msgstr ""
 msgid "Certify with:"
 msgstr "ใ&บรับรอง"
 
-#. +> trunk6
-#: src/dialogs/certifywidget.cpp:193
-#, kde-format
-msgctxt "@action:button"
-msgid "Yes, I am the only user"
-msgstr ""
-
 #. +> stable6
 #: src/dialogs/certifywidget.cpp:193
 #, kde-format
@@ -7740,7 +7847,7 @@ msgid "One or more certificates cannot be certified."
 msgstr "ใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/dialogs/certifywidget.cpp:216 src/dialogs/useridswidget.cpp:135
+#: src/dialogs/certifywidget.cpp:216 src/dialogs/useridswidget.cpp:136
 #, fuzzy, kde-format
 #| msgid "User-ID"
 msgid "User IDs"
@@ -7875,8 +7982,8 @@ msgstr ""
 
 #. +> trunk6 stable6
 #: src/dialogs/certifywidget.cpp:466
-#: src/dialogs/lookupcertificatesdialog.cpp:239
-#: src/dialogs/revokerswidget.cpp:74 src/dialogs/subkeyswidget.cpp:165
+#: src/dialogs/lookupcertificatesdialog.cpp:249
+#: src/dialogs/revokerswidget.cpp:73 src/dialogs/subkeyswidget.cpp:164
 #: src/view/cardkeysview.cpp:430
 #, fuzzy, kde-format
 #| msgid "Fingerprint"
@@ -7997,33 +8104,33 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/createcsrdialog.cpp:390
+#: src/dialogs/createcsrdialog.cpp:387
 #, kde-format
 msgid "Enter a name and an email address to use for the certificate."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/createcsrdialog.cpp:391
+#: src/dialogs/createcsrdialog.cpp:388
 #, kde-format
 msgid "Enter a name and/or an email address to use for the certificate."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/createcsrdialog.cpp:422
+#: src/dialogs/createcsrdialog.cpp:419
 #, fuzzy, kde-format
 #| msgid "&Settings"
 msgid "Advanced options"
 msgstr "&ตั้งค่า"
 
 #. +> trunk6 stable6
-#: src/dialogs/createcsrdialog.cpp:429
+#: src/dialogs/createcsrdialog.cpp:426
 #, kde-format
 msgctxt "The algorithm and strength of encryption key"
 msgid "Key material"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/createcsrdialog.cpp:444
+#: src/dialogs/createcsrdialog.cpp:441
 #, fuzzy, kde-format
 #| msgid "Certificate type"
 msgctxt "@label"
@@ -8031,20 +8138,20 @@ msgid "Certificate usage"
 msgstr "ประเภทของใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/dialogs/createcsrdialog.cpp:478
+#: src/dialogs/createcsrdialog.cpp:475
 #, kde-format
 msgctxt "@label:textbox"
 msgid "Additional email addresses"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/createcsrdialog.cpp:480
+#: src/dialogs/createcsrdialog.cpp:477
 #, kde-format
 msgid "Enter email addresses in the correct format, like name@example.com."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/createcsrdialog.cpp:488
+#: src/dialogs/createcsrdialog.cpp:485
 #, fuzzy, kde-format
 #| msgctxt "NAME OF TRANSLATORS"
 #| msgid "Your names"
@@ -8053,26 +8160,26 @@ msgid "Domain names"
 msgstr "ถนอมทรัพย์ นพบูรณ์"
 
 #. +> trunk6 stable6
-#: src/dialogs/createcsrdialog.cpp:490
+#: src/dialogs/createcsrdialog.cpp:487
 #, kde-format
 msgid "Enter domain names in the correct format, like www.example.com."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/createcsrdialog.cpp:498
+#: src/dialogs/createcsrdialog.cpp:495
 #, kde-format
 msgctxt "@label:textbox"
 msgid "URIs"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/createcsrdialog.cpp:500
+#: src/dialogs/createcsrdialog.cpp:497
 #, kde-format
 msgid "Enter URIs in the correct format."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/createcsrdialog.cpp:627
+#: src/dialogs/createcsrdialog.cpp:624
 #, fuzzy, kde-format
 #| msgid "Input file:"
 msgctxt "@info Error in Label of input field: Message"
@@ -8080,21 +8187,21 @@ msgid "Error in %1: %2"
 msgstr "แฟ้มนำเข้า:"
 
 #. +> trunk6 stable6
-#: src/dialogs/createcsrdialog.cpp:629
+#: src/dialogs/createcsrdialog.cpp:626
 #, kde-format
 msgctxt "@info"
 msgid "Correct the following errors:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/createcsrdialog.cpp:634
+#: src/dialogs/createcsrdialog.cpp:631
 #, kde-kuit-format
 msgctxt "@info Error in Label of input field: Message"
 msgid "Error in <interface>%1</interface>: <message>%2</message>"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/createcsrdialog.cpp:646
+#: src/dialogs/createcsrdialog.cpp:643
 #, fuzzy, kde-format
 #| msgid "&Certificates"
 msgctxt "title:window"
@@ -8102,7 +8209,7 @@ msgid "Create S/MIME Certificate Signing Request"
 msgstr "ใ&บรับรอง"
 
 #. +> trunk6 stable6
-#: src/dialogs/debugdialog.cpp:67
+#: src/dialogs/debugdialog.cpp:69
 #, fuzzy, kde-format
 #| msgid "Select Certificate File"
 msgctxt "@title:window"
@@ -8110,14 +8217,14 @@ msgid "GnuPG Configuration Overview"
 msgstr "เลือกแฟ้มของใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/dialogs/debugdialog.cpp:106
+#: src/dialogs/debugdialog.cpp:108
 #, kde-format
 msgctxt "@action:button"
 msgid "Run Command"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/debugdialog.cpp:137
+#: src/dialogs/debugdialog.cpp:139
 #, fuzzy, kde-format
 #| msgid "Select Certificate File"
 msgctxt "@info:tooltip"
@@ -8125,7 +8232,7 @@ msgid "Search in output"
 msgstr "เลือกแฟ้มของใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/dialogs/debugdialog.cpp:138 src/view/searchbar.cpp:131
+#: src/dialogs/debugdialog.cpp:140 src/view/searchbar.cpp:131
 #, fuzzy, kde-format
 #| msgid "User-ID"
 msgctxt "@info:placeholder"
@@ -8133,14 +8240,14 @@ msgid "Enter search term"
 msgstr "หมายเลขผู้ใช้"
 
 #. +> trunk6 stable6
-#: src/dialogs/debugdialog.cpp:156
+#: src/dialogs/debugdialog.cpp:158
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Jump to next match"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/debugdialog.cpp:157
+#: src/dialogs/debugdialog.cpp:159
 #, fuzzy, kde-format
 #| msgid "&Next"
 msgctxt "@action:button"
@@ -8148,21 +8255,21 @@ msgid "Find Next"
 msgstr "&ถัดไป"
 
 #. +> trunk6 stable6
-#: src/dialogs/debugdialog.cpp:162
+#: src/dialogs/debugdialog.cpp:164
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Jump to previous match"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/debugdialog.cpp:163
+#: src/dialogs/debugdialog.cpp:165
 #, kde-format
 msgctxt "@action:button"
 msgid "Find Previous"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/debugdialog.cpp:176
+#: src/dialogs/debugdialog.cpp:178
 #, fuzzy, kde-format
 #| msgid "Clipboard"
 msgctxt "@action:button"
@@ -8170,7 +8277,7 @@ msgid "Copy to Clipboard"
 msgstr "คลิปบอร์ด"
 
 #. +> trunk6 stable6
-#: src/dialogs/debugdialog.cpp:182
+#: src/dialogs/debugdialog.cpp:184
 #, fuzzy, kde-format
 #| msgid "Select File"
 msgctxt "@action:button"
@@ -8178,7 +8285,7 @@ msgid "Save to File"
 msgstr "เลือกแฟ้ม"
 
 #. +> trunk6 stable6
-#: src/dialogs/debugdialog.cpp:216
+#: src/dialogs/debugdialog.cpp:218
 #, kde-format
 msgctxt "@info"
 msgid "Exit code: %1"
@@ -8567,19 +8674,19 @@ msgid "Imported Certificates"
 msgstr "ส่งออกใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/dialogs/lookupcertificatesdialog.cpp:171
+#: src/dialogs/lookupcertificatesdialog.cpp:181
 #, kde-format
 msgid "Find:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/lookupcertificatesdialog.cpp:178
+#: src/dialogs/lookupcertificatesdialog.cpp:188
 #, kde-format
 msgid "Search"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/lookupcertificatesdialog.cpp:187
+#: src/dialogs/lookupcertificatesdialog.cpp:197
 #, fuzzy, kde-format
 #| msgid "Result"
 msgctxt "@label"
@@ -8587,32 +8694,32 @@ msgid "Results"
 msgstr "ผลการทดสอบ"
 
 #. +> trunk6 stable6
-#: src/dialogs/lookupcertificatesdialog.cpp:196
+#: src/dialogs/lookupcertificatesdialog.cpp:206
 #, kde-format
 msgid "Select All"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/lookupcertificatesdialog.cpp:201
+#: src/dialogs/lookupcertificatesdialog.cpp:211
 #, kde-format
 msgid "Deselect All"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/lookupcertificatesdialog.cpp:208
+#: src/dialogs/lookupcertificatesdialog.cpp:218
 #, kde-format
 msgid "Details..."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/lookupcertificatesdialog.cpp:213
+#: src/dialogs/lookupcertificatesdialog.cpp:223
 #, kde-format
 msgid "Save As..."
 msgstr "บันทึกเป็น..."
 
 #. +> trunk6 stable6
-#: src/dialogs/lookupcertificatesdialog.cpp:237
-#: src/dialogs/revokerswidget.cpp:75
+#: src/dialogs/lookupcertificatesdialog.cpp:247
+#: src/dialogs/revokerswidget.cpp:74
 #, fuzzy, kde-format
 #| msgid "Name"
 msgctxt "@title:column"
@@ -8620,8 +8727,8 @@ msgid "Name"
 msgstr "ชื่อ"
 
 #. +> trunk6 stable6
-#: src/dialogs/lookupcertificatesdialog.cpp:238
-#: src/dialogs/revokerswidget.cpp:76
+#: src/dialogs/lookupcertificatesdialog.cpp:248
+#: src/dialogs/revokerswidget.cpp:75
 #, fuzzy, kde-format
 #| msgid "EMail"
 msgctxt "@title:column"
@@ -8629,8 +8736,8 @@ msgid "Email"
 msgstr "อีเมล"
 
 #. +> trunk6 stable6
-#: src/dialogs/lookupcertificatesdialog.cpp:240
-#: src/dialogs/subkeyswidget.cpp:167
+#: src/dialogs/lookupcertificatesdialog.cpp:250
+#: src/dialogs/subkeyswidget.cpp:166
 #, fuzzy, kde-format
 #| msgid "Valid From"
 msgctxt "@title:column"
@@ -8638,8 +8745,8 @@ msgid "Valid From"
 msgstr "ใช้ได้ตั้งแต่"
 
 #. +> trunk6 stable6
-#: src/dialogs/lookupcertificatesdialog.cpp:241
-#: src/dialogs/subkeyswidget.cpp:168
+#: src/dialogs/lookupcertificatesdialog.cpp:251
+#: src/dialogs/subkeyswidget.cpp:167
 #, fuzzy, kde-format
 #| msgid "Valid Until"
 msgctxt "@title:column"
@@ -8647,29 +8754,50 @@ msgid "Valid Until"
 msgstr "ใช้ได้จนถึง"
 
 #. +> trunk6 stable6
-#: src/dialogs/lookupcertificatesdialog.cpp:242 src/view/cardkeysview.cpp:429
+#: src/dialogs/lookupcertificatesdialog.cpp:252
+#: src/dialogs/subkeyswidget.cpp:165
+#, fuzzy, kde-format
+#| msgid "Status"
+msgctxt "@title:column"
+msgid "Status"
+msgstr "สถานะ"
+
+#. +> trunk6 stable6
+#: src/dialogs/lookupcertificatesdialog.cpp:253 src/view/cardkeysview.cpp:429
 #, kde-format
 msgctxt "@title:column"
 msgid "Protocol"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/lookupcertificatesdialog.cpp:243
-#: src/dialogs/subkeyswidget.cpp:164
+#: src/dialogs/lookupcertificatesdialog.cpp:254
+#: src/dialogs/subkeyswidget.cpp:163
 #, kde-format
 msgctxt "@title:column"
 msgid "Key ID"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/lookupcertificatesdialog.cpp:244
+#: src/dialogs/lookupcertificatesdialog.cpp:255
 #, kde-format
 msgctxt "@title:column"
 msgid "Origin"
 msgstr ""
 
+#. +> trunk6
+#: src/dialogs/lookupcertificatesdialog.cpp:271
+#: src/dialogs/revokerswidget.cpp:91 src/dialogs/subkeyswidget.cpp:322
+#: src/dialogs/useridswidget.cpp:532 src/dialogs/weboftrustwidget.cpp:318
+#: src/mainwindow.cpp:674 src/view/cardkeysview.cpp:455
+#: src/view/keytreeview.cpp:247
+#, fuzzy, kde-format
+#| msgid "Configure"
+msgctxt "@action:inmenu"
+msgid "Configure columns"
+msgstr "ปรับแต่ง"
+
 #. +> trunk6 stable6
-#: src/dialogs/lookupcertificatesdialog.cpp:265
+#: src/dialogs/lookupcertificatesdialog.cpp:280
 #, fuzzy, kde-format
 #| msgid "Lookup..."
 msgctxt "@title:window"
@@ -8677,34 +8805,59 @@ msgid "Lookup on Server"
 msgstr "ค้นหา..."
 
 #. +> trunk6 stable6
-#: src/dialogs/lookupcertificatesdialog.cpp:272
+#: src/dialogs/lookupcertificatesdialog.cpp:287
 #, kde-format
 msgid "Import"
 msgstr "นำเข้า"
 
 #. +> trunk6 stable6
-#: src/dialogs/lookupcertificatesdialog.cpp:336
+#: src/dialogs/lookupcertificatesdialog.cpp:351
 #, kde-kuit-format
 msgctxt "@info"
 msgid "Enter a search term to search for matching certificates."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/lookupcertificatesdialog.cpp:338
+#: src/dialogs/lookupcertificatesdialog.cpp:353
 #, kde-kuit-format
 msgctxt "@info"
 msgid "Enter an email address to search for matching certificates."
 msgstr ""
 
+#. +> trunk6
+#: src/dialogs/lookupcertificatesdialog.cpp:437
+#, fuzzy, kde-format
+#| msgctxt "unknown trust level"
+#| msgid "unknown"
+msgctxt "@info status of certificate"
+msgid "unknown"
+msgstr "ไม่ทราบ"
+
+#. +> trunk6
+#: src/dialogs/lookupcertificatesdialog.cpp:439
+#, fuzzy, kde-format
+#| msgid "key expired"
+msgctxt "@info status of certificate"
+msgid "expired"
+msgstr "กุญแจหมดอายุแล้ว"
+
+#. +> trunk6
+#: src/dialogs/lookupcertificatesdialog.cpp:441
+#, fuzzy, kde-format
+#| msgid "Select File"
+msgctxt "@info status of certificate"
+msgid "revoked"
+msgstr "เลือกแฟ้ม"
+
 #. +> trunk6 stable6
-#: src/dialogs/lookupcertificatesdialog.cpp:418
-#: src/dialogs/lookupcertificatesdialog.cpp:421
+#: src/dialogs/lookupcertificatesdialog.cpp:500
+#: src/dialogs/lookupcertificatesdialog.cpp:503
 #, kde-format
 msgid "LDAP"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/lookupcertificatesdialog.cpp:423
+#: src/dialogs/lookupcertificatesdialog.cpp:505
 #, fuzzy, kde-format
 #| msgid "OpenPGP"
 msgid "Keyserver"
@@ -8821,7 +8974,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/revokerswidget.cpp:78
+#: src/dialogs/revokerswidget.cpp:77
 #, fuzzy, kde-format
 #| msgid "Select File"
 msgctxt "@label"
@@ -8829,7 +8982,7 @@ msgid "Revokers"
 msgstr "เลือกแฟ้ม"
 
 #. +> trunk6 stable6
-#: src/dialogs/revokerswidget.cpp:131
+#: src/dialogs/revokerswidget.cpp:133
 #, fuzzy, kde-format
 #| msgctxt "unknown trust level"
 #| msgid "unknown"
@@ -8838,7 +8991,7 @@ msgid "unknown name"
 msgstr "ไม่ทราบ"
 
 #. +> trunk6 stable6
-#: src/dialogs/revokerswidget.cpp:132
+#: src/dialogs/revokerswidget.cpp:134
 #, fuzzy, kde-format
 #| msgctxt "EMAIL OF TRANSLATORS"
 #| msgid "Your emails"
@@ -9031,14 +9184,14 @@ msgid "Sign/Encrypt Clipboard"
 msgstr "เข้ารหัสเท่านั้น"
 
 #. +> trunk6 stable6
-#: src/dialogs/signencryptclipboarddialog.cpp:198
+#: src/dialogs/signencryptclipboarddialog.cpp:196
 #, kde-format
 msgctxt "@info"
 msgid "The clipboard does not contain text."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/signencryptclipboarddialog.cpp:224
+#: src/dialogs/signencryptclipboarddialog.cpp:213
 #, fuzzy, kde-format
 #| msgid "Signer:"
 msgctxt "@action:button"
@@ -9046,7 +9199,7 @@ msgid "Sign"
 msgstr "ผู้เซ็น:"
 
 #. +> trunk6 stable6
-#: src/dialogs/signencryptclipboarddialog.cpp:227
+#: src/dialogs/signencryptclipboarddialog.cpp:216
 #, fuzzy, kde-format
 #| msgid "Encrypt only"
 msgctxt "@action:button"
@@ -9054,7 +9207,7 @@ msgid "Encrypt"
 msgstr "เข้ารหัสเท่านั้น"
 
 #. +> trunk6 stable6
-#: src/dialogs/signencryptclipboarddialog.cpp:230
+#: src/dialogs/signencryptclipboarddialog.cpp:219
 #, fuzzy, kde-format
 #| msgid "Encrypt only"
 msgctxt "@action:button"
@@ -9103,7 +9256,7 @@ msgid "Manage Smart Cards"
 msgstr "เลือกแฟ้ม"
 
 #. +> trunk6 stable6
-#: src/dialogs/subkeyswidget.cpp:161
+#: src/dialogs/subkeyswidget.cpp:160
 #, fuzzy, kde-format
 #| msgctxt "@title"
 #| msgid "Subkeys"
@@ -9112,43 +9265,35 @@ msgid "Subkeys"
 msgstr "กุญแจย่อย"
 
 #. +> trunk6 stable6
-#: src/dialogs/subkeyswidget.cpp:166
-#, fuzzy, kde-format
-#| msgid "Status"
-msgctxt "@title:column"
-msgid "Status"
-msgstr "สถานะ"
-
-#. +> trunk6 stable6
-#: src/dialogs/subkeyswidget.cpp:169 src/view/cardkeysview.cpp:432
+#: src/dialogs/subkeyswidget.cpp:168 src/view/cardkeysview.cpp:432
 #, kde-format
 msgctxt "@title:column"
 msgid "Usage"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/subkeyswidget.cpp:170 src/view/cardkeysview.cpp:433
+#: src/dialogs/subkeyswidget.cpp:169 src/view/cardkeysview.cpp:433
 #, kde-format
 msgctxt "@title:column"
 msgid "Algorithm"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/subkeyswidget.cpp:171
+#: src/dialogs/subkeyswidget.cpp:170
 #, kde-format
 msgctxt "@title:column"
 msgid "Storage"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/subkeyswidget.cpp:172 src/view/cardkeysview.cpp:434
+#: src/dialogs/subkeyswidget.cpp:171 src/view/cardkeysview.cpp:434
 #, kde-format
 msgctxt "@title:column"
 msgid "Keygrip"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/subkeyswidget.cpp:179
+#: src/dialogs/subkeyswidget.cpp:178
 #, fuzzy, kde-format
 #| msgctxt "@title"
 #| msgid "Subkeys"
@@ -9157,7 +9302,7 @@ msgid "Add subkey"
 msgstr "กุญแจย่อย"
 
 #. +> trunk6 stable6
-#: src/dialogs/subkeyswidget.cpp:180
+#: src/dialogs/subkeyswidget.cpp:179
 #, fuzzy, kde-format
 #| msgid "Validity"
 msgctxt "@action:button"
@@ -9165,7 +9310,7 @@ msgid "Change validity"
 msgstr "การใช้งานได้"
 
 #. +> trunk6 stable6
-#: src/dialogs/subkeyswidget.cpp:181
+#: src/dialogs/subkeyswidget.cpp:180
 #, fuzzy, kde-format
 #| msgid "Export Certificates"
 msgctxt "@action:button"
@@ -9173,21 +9318,21 @@ msgid "Export OpenSSH key"
 msgstr "ส่งออกใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/dialogs/subkeyswidget.cpp:182
+#: src/dialogs/subkeyswidget.cpp:181
 #, kde-format
 msgctxt "@action:button"
 msgid "Restore printed backup"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/subkeyswidget.cpp:183
+#: src/dialogs/subkeyswidget.cpp:182
 #, kde-format
 msgctxt "@action:button"
 msgid "Transfer to smartcard"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/subkeyswidget.cpp:184
+#: src/dialogs/subkeyswidget.cpp:183
 #, fuzzy, kde-format
 #| msgid "Export Certificates"
 msgctxt "@action:button"
@@ -9195,22 +9340,22 @@ msgid "Export secret subkey"
 msgstr "ส่งออกใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/dialogs/subkeyswidget.cpp:185
+#: src/dialogs/subkeyswidget.cpp:184
 #, kde-format
 msgctxt "@action:button"
 msgid "Add ADSK"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/subkeyswidget.cpp:187
+#: src/dialogs/subkeyswidget.cpp:186
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "<html>Add the ADSK specified in the GnuPG configuration to your certificate. By adding an ADSK to your certificate, you allow the owner of the ADSK to decrypt all new messages that are encrypted for your certificate, if the client encrypting the message supports this functionality.</html>"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/subkeyswidget.cpp:199 src/dialogs/useridswidget.cpp:165
-#: src/dialogs/weboftrustwidget.cpp:133
+#: src/dialogs/subkeyswidget.cpp:198 src/dialogs/useridswidget.cpp:166
+#: src/dialogs/weboftrustwidget.cpp:134
 #, fuzzy, kde-format
 #| msgid "&Settings"
 msgctxt "@info:tooltip"
@@ -9218,34 +9363,34 @@ msgid "Show more options"
 msgstr "&ตั้งค่า"
 
 #. +> trunk6 stable6
-#: src/dialogs/subkeyswidget.cpp:295
+#: src/dialogs/subkeyswidget.cpp:294
 #, fuzzy, kde-format
 #| msgid "Validity"
 msgid "Change validity"
 msgstr "การใช้งานได้"
 
 #. +> trunk6 stable6
-#: src/dialogs/subkeyswidget.cpp:302
+#: src/dialogs/subkeyswidget.cpp:301
 #, fuzzy, kde-format
 #| msgid "Export Certificates"
 msgid "Export OpenSSH key"
 msgstr "ส่งออกใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/dialogs/subkeyswidget.cpp:308
+#: src/dialogs/subkeyswidget.cpp:307
 #, kde-format
 msgid "Transfer to smartcard"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/subkeyswidget.cpp:316
+#: src/dialogs/subkeyswidget.cpp:315
 #, fuzzy, kde-format
 #| msgid "Export Certificates"
 msgid "Export secret subkey"
 msgstr "ส่งออกใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/dialogs/subkeyswidget.cpp:417
+#: src/dialogs/subkeyswidget.cpp:421
 #, fuzzy, kde-format
 #| msgid "Select File"
 msgctxt "smart card <serial number>"
@@ -9253,20 +9398,20 @@ msgid "smart card %1"
 msgstr "เลือกแฟ้ม"
 
 #. +> trunk6 stable6
-#: src/dialogs/subkeyswidget.cpp:419
+#: src/dialogs/subkeyswidget.cpp:423
 #, fuzzy, kde-format
 #| msgid "Select File"
 msgid "smart card"
 msgstr "เลือกแฟ้ม"
 
 #. +> trunk6 stable6
-#: src/dialogs/subkeyswidget.cpp:424
+#: src/dialogs/subkeyswidget.cpp:428
 #, kde-format
 msgid "on this computer"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/subkeyswidget.cpp:426
+#: src/dialogs/subkeyswidget.cpp:430
 #, fuzzy, kde-format
 #| msgctxt "unknown trust level"
 #| msgid "unknown"
@@ -9344,7 +9489,7 @@ msgid "&Get update"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/useridswidget.cpp:149
+#: src/dialogs/useridswidget.cpp:150
 #, fuzzy, kde-format
 #| msgid "User-ID"
 msgctxt "@action:button"
@@ -9352,7 +9497,7 @@ msgid "Add User ID"
 msgstr "หมายเลขผู้ใช้"
 
 #. +> trunk6 stable6
-#: src/dialogs/useridswidget.cpp:152 src/dialogs/useridswidget.cpp:437
+#: src/dialogs/useridswidget.cpp:153 src/dialogs/useridswidget.cpp:438
 #, fuzzy, kde-format
 #| msgid "User-ID"
 msgctxt "@action:button"
@@ -9360,21 +9505,21 @@ msgid "Revoke User ID"
 msgstr "หมายเลขผู้ใช้"
 
 #. +> trunk6 stable6
-#: src/dialogs/useridswidget.cpp:155
+#: src/dialogs/useridswidget.cpp:156
 #, kde-format
 msgctxt "@action:button"
 msgid "Flag as Primary"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/useridswidget.cpp:156
+#: src/dialogs/useridswidget.cpp:157
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Flag the selected user ID as the primary user ID of this key."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/useridswidget.cpp:158
+#: src/dialogs/useridswidget.cpp:159
 #, fuzzy, kde-format
 #| msgid "User-ID"
 msgctxt "@action:button"
@@ -9382,7 +9527,7 @@ msgid "Certify User IDs"
 msgstr "หมายเลขผู้ใช้"
 
 #. +> trunk6 stable6
-#: src/dialogs/useridswidget.cpp:159
+#: src/dialogs/useridswidget.cpp:160
 #, fuzzy, kde-format
 #| msgid "&Certificates"
 msgctxt "@action:button"
@@ -9390,37 +9535,37 @@ msgid "Revoke Certifications"
 msgstr "ใ&บรับรอง"
 
 #. +> trunk6 stable6
-#: src/dialogs/useridswidget.cpp:253
+#: src/dialogs/useridswidget.cpp:254
 #, kde-format
 msgid "Name"
 msgstr "ชื่อ"
 
 #. +> trunk6 stable6
-#: src/dialogs/useridswidget.cpp:254
+#: src/dialogs/useridswidget.cpp:255
 #, kde-format
 msgid "Email"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/useridswidget.cpp:255
+#: src/dialogs/useridswidget.cpp:256
 #, kde-format
 msgid "Trust Level"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/useridswidget.cpp:256
+#: src/dialogs/useridswidget.cpp:257
 #, kde-format
 msgid "Origin"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/useridswidget.cpp:257
+#: src/dialogs/useridswidget.cpp:258
 #, kde-format
 msgid "Tags"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/useridswidget.cpp:278
+#: src/dialogs/useridswidget.cpp:279
 #, fuzzy, kde-format
 #| msgctxt "EMAIL OF TRANSLATORS"
 #| msgid "Your emails"
@@ -9429,43 +9574,43 @@ msgid "no email"
 msgstr "donga.nb@gmail.com"
 
 #. +> trunk6 stable6
-#: src/dialogs/useridswidget.cpp:329
+#: src/dialogs/useridswidget.cpp:330
 #, kde-format
 msgid "never"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/useridswidget.cpp:331
+#: src/dialogs/useridswidget.cpp:332
 #, kde-format
 msgid "Signing"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/useridswidget.cpp:332 src/dialogs/useridswidget.cpp:336
+#: src/dialogs/useridswidget.cpp:333 src/dialogs/useridswidget.cpp:337
 #, kde-format
 msgid "First message"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/useridswidget.cpp:333 src/dialogs/useridswidget.cpp:337
+#: src/dialogs/useridswidget.cpp:334 src/dialogs/useridswidget.cpp:338
 #, kde-format
 msgid "Last message"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/useridswidget.cpp:334 src/dialogs/useridswidget.cpp:338
+#: src/dialogs/useridswidget.cpp:335 src/dialogs/useridswidget.cpp:339
 #, kde-format
 msgid "Message count"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/useridswidget.cpp:335
+#: src/dialogs/useridswidget.cpp:336
 #, kde-format
 msgid "Encryption"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/useridswidget.cpp:435
+#: src/dialogs/useridswidget.cpp:436
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -9474,14 +9619,14 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/useridswidget.cpp:483
+#: src/dialogs/useridswidget.cpp:484
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Flag as Primary User ID"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/useridswidget.cpp:492
+#: src/dialogs/useridswidget.cpp:493
 #, fuzzy, kde-format
 #| msgid "User-ID"
 msgctxt "@action:inmenu"
@@ -9489,7 +9634,7 @@ msgid "Certify User IDs..."
 msgstr "หมายเลขผู้ใช้"
 
 #. +> trunk6 stable6
-#: src/dialogs/useridswidget.cpp:493
+#: src/dialogs/useridswidget.cpp:494
 #, fuzzy, kde-format
 #| msgid "User-ID"
 msgctxt "@action:inmenu"
@@ -9498,7 +9643,7 @@ msgid_plural "Certify User IDs..."
 msgstr[0] "หมายเลขผู้ใช้"
 
 #. +> trunk6 stable6
-#: src/dialogs/useridswidget.cpp:500
+#: src/dialogs/useridswidget.cpp:501
 #, fuzzy, kde-format
 #| msgid "Importing certificate..."
 msgctxt "@action:inmenu"
@@ -9506,7 +9651,7 @@ msgid "Revoke Certifications..."
 msgstr "กำลังนำเข้าใบรับรอง..."
 
 #. +> trunk6 stable6
-#: src/dialogs/useridswidget.cpp:501
+#: src/dialogs/useridswidget.cpp:502
 #, fuzzy, kde-format
 #| msgid "Importing certificate..."
 msgctxt "@action:inmenu"
@@ -9515,14 +9660,14 @@ msgid_plural "Revoke Certifications..."
 msgstr[0] "กำลังนำเข้าใบรับรอง..."
 
 #. +> trunk6 stable6
-#: src/dialogs/useridswidget.cpp:510
+#: src/dialogs/useridswidget.cpp:511
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Publish at Mail Provider ..."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/useridswidget.cpp:525
+#: src/dialogs/useridswidget.cpp:526
 #, fuzzy, kde-format
 #| msgid "User-ID"
 msgctxt "@action:inmenu"
@@ -9530,21 +9675,21 @@ msgid "Revoke User ID"
 msgstr "หมายเลขผู้ใช้"
 
 #. +> trunk6 stable6
-#: src/dialogs/weboftrustwidget.cpp:93
+#: src/dialogs/weboftrustwidget.cpp:94
 #, fuzzy, kde-format
 #| msgid "&Certificates"
 msgid "User IDs and certifications"
 msgstr "ใ&บรับรอง"
 
 #. +> trunk6 stable6
-#: src/dialogs/weboftrustwidget.cpp:99
+#: src/dialogs/weboftrustwidget.cpp:100
 #, kde-format
 msgctxt "@info"
 msgid "Certifications are not available before the certificate is imported."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/weboftrustwidget.cpp:104 src/view/smartcardactions.cpp:101
+#: src/dialogs/weboftrustwidget.cpp:105 src/view/smartcardactions.cpp:101
 #, fuzzy, kde-format
 #| msgid "&Certificates"
 msgctxt "@action"
@@ -9552,7 +9697,7 @@ msgid "Show Certificate Details"
 msgstr "ใ&บรับรอง"
 
 #. +> trunk6 stable6
-#: src/dialogs/weboftrustwidget.cpp:109
+#: src/dialogs/weboftrustwidget.cpp:110
 #, fuzzy, kde-format
 #| msgid "&Certificates"
 msgctxt "@action"
@@ -9560,7 +9705,7 @@ msgid "Add Certification"
 msgstr "ใ&บรับรอง"
 
 #. +> trunk6 stable6
-#: src/dialogs/weboftrustwidget.cpp:115
+#: src/dialogs/weboftrustwidget.cpp:116
 #, fuzzy, kde-format
 #| msgid "&Certificates"
 msgctxt "@action"
@@ -9568,21 +9713,21 @@ msgid "Revoke Certification"
 msgstr "ใ&บรับรอง"
 
 #. +> trunk6 stable6
-#: src/dialogs/weboftrustwidget.cpp:121
+#: src/dialogs/weboftrustwidget.cpp:122
 #, kde-format
 msgctxt "@action:button"
 msgid "Fetch Missing Keys"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/weboftrustwidget.cpp:122
+#: src/dialogs/weboftrustwidget.cpp:123
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Look up and import all keys that were used to certify the user IDs of this key"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/weboftrustwidget.cpp:142
+#: src/dialogs/weboftrustwidget.cpp:143
 #, fuzzy, kde-format
 #| msgid "&Certificates"
 msgctxt "label:checkbox"
@@ -9590,13 +9735,13 @@ msgid "Show only my own certifications"
 msgstr "ใ&บรับรอง"
 
 #. +> trunk6 stable6
-#: src/dialogs/weboftrustwidget.cpp:269
+#: src/dialogs/weboftrustwidget.cpp:270
 #, kde-format
 msgid "You cannot revoke this certification because it wasn't made with one of your keys (or the required secret key is missing)."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/weboftrustwidget.cpp:272
+#: src/dialogs/weboftrustwidget.cpp:273
 #, fuzzy, kde-format
 #| msgid "<i>No certificate selected</i>"
 msgctxt "@info:tooltip"
@@ -9604,7 +9749,7 @@ msgid "Revocation of self-certifications is currently not possible."
 msgstr "<i>ยังไม่มีการเลือกใบรับรอง</i>"
 
 #. +> trunk6 stable6
-#: src/dialogs/weboftrustwidget.cpp:276
+#: src/dialogs/weboftrustwidget.cpp:277
 #, fuzzy, kde-format
 #| msgid "Default certificate"
 msgctxt "@info:tooltip"
@@ -9612,7 +9757,7 @@ msgid "You cannot revoke this revocation certification. (But you can re-certify 
 msgstr "ใบรับรองปริยาย"
 
 #. +> trunk6 stable6
-#: src/dialogs/weboftrustwidget.cpp:279
+#: src/dialogs/weboftrustwidget.cpp:280
 #, fuzzy, kde-format
 #| msgid "Default certificate"
 msgctxt "@info:tooltip"
@@ -9620,7 +9765,7 @@ msgid "You cannot revoke this expired certification."
 msgstr "ใบรับรองปริยาย"
 
 #. +> trunk6 stable6
-#: src/dialogs/weboftrustwidget.cpp:282
+#: src/dialogs/weboftrustwidget.cpp:283
 #, fuzzy, kde-format
 #| msgid "Default certificate"
 msgctxt "@info:tooltip"
@@ -9628,7 +9773,7 @@ msgid "You cannot revoke this invalid certification."
 msgstr "ใบรับรองปริยาย"
 
 #. +> trunk6 stable6
-#: src/dialogs/weboftrustwidget.cpp:285
+#: src/dialogs/weboftrustwidget.cpp:286
 #, fuzzy, kde-format
 #| msgid "Default certificate"
 msgctxt "@info:tooltip"
@@ -9636,21 +9781,21 @@ msgid "You cannot revoke this certification because the required secret key is n
 msgstr "ใบรับรองปริยาย"
 
 #. +> trunk6 stable6
-#: src/dialogs/weboftrustwidget.cpp:293
+#: src/dialogs/weboftrustwidget.cpp:294
 #, fuzzy, kde-format
 #| msgid "Default certificate"
 msgid "You cannot revoke any of the certifications of this user ID. Select any of the certifications for details."
 msgstr "ใบรับรองปริยาย"
 
 #. +> trunk6 stable6
-#: src/dialogs/weboftrustwidget.cpp:423
+#: src/dialogs/weboftrustwidget.cpp:428
 #, kde-kuit-format
 msgctxt "@info"
 msgid "<para>An error occurred while loading the certifications: <message>%1</message></para>"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/dialogs/weboftrustwidget.cpp:426
+#: src/dialogs/weboftrustwidget.cpp:431
 #, fuzzy, kde-format
 #| msgid "Certificate Import Failed"
 msgctxt "@title"
@@ -9954,114 +10099,128 @@ msgstr "ส่งออกใบรับรอง"
 msgid "If false, then Kleopatra will not offer the creation of S/MIME certificate signing requests."
 msgstr "ส่งออกใบรับรอง"
 
+#. i18n: ectx: label, entry, group (CMS)
+#. +> trunk6
+#: src/kcfg/settings.kcfg:114
+#, kde-format
+msgid "Save generated CSR as PEM"
+msgstr ""
+
+#. i18n: ectx: whatsthis, entry, group (CMS)
+#. +> trunk6
+#: src/kcfg/settings.kcfg:115
+#, kde-format
+msgid "If true then the generated S/MIME certificate signing request will be saved using PEM format. Otherwise, it is saved in binary format (PKCS#10)."
+msgstr ""
+
 #. i18n: ectx: label, entry (ShowAppearanceConfiguration), group (ConfigurationDialog)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:116
+#: src/kcfg/settings.kcfg:121
 #, kde-format
 msgid "Show appearance configuration"
 msgstr ""
 
 #. i18n: ectx: label, entry (ShowCryptoOperationsConfiguration), group (ConfigurationDialog)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:120
+#: src/kcfg/settings.kcfg:125
 #, kde-format
 msgid "Show crypto operations configuration"
 msgstr ""
 
 #. i18n: ectx: label, entry (ShowDirectoryServicesConfiguration), group (ConfigurationDialog)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:124
+#: src/kcfg/settings.kcfg:129
 #, kde-format
 msgid "Show directory services configuration"
 msgstr ""
 
 #. i18n: ectx: label, entry (ShowGnuPGSystemConfiguration), group (ConfigurationDialog)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:128
+#: src/kcfg/settings.kcfg:133
 #, kde-format
 msgid "Show GnuPG system configuration"
 msgstr ""
 
 #. i18n: ectx: label, entry (ShowSmartCardsConfiguration), group (ConfigurationDialog)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:132
+#: src/kcfg/settings.kcfg:137
 #, kde-format
 msgid "Show smart cards configuration"
 msgstr ""
 
 #. i18n: ectx: label, entry (ShowSMimeValidationConfiguration), group (ConfigurationDialog)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:136
+#: src/kcfg/settings.kcfg:141
 #, kde-format
 msgid "Show S/MIME validation configuration"
 msgstr ""
 
 #. i18n: ectx: tooltip, entry (AttributeOrder), group (DN)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:143
+#: src/kcfg/settings.kcfg:148
 #, kde-format
 msgid "Specifies the display order of the DN attributes of X.509 certificates."
 msgstr ""
 
 #. i18n: ectx: label, entry (AllowPublicKeyUpload), group (Export)
 #. +> trunk6
-#: src/kcfg/settings.kcfg:149
+#: src/kcfg/settings.kcfg:154
 #, kde-format
 msgid "Allow upload of public keys to keyservers"
 msgstr ""
 
 #. i18n: ectx: whatsthis, entry (AllowPublicKeyUpload), group (Export)
 #. +> trunk6
-#: src/kcfg/settings.kcfg:150
+#: src/kcfg/settings.kcfg:155
 #, kde-format
 msgid "If this option is disabled then Kleopatra only allows the upload of OpenPGP keys for which the user has the secret key."
 msgstr ""
 
 #. i18n: ectx: label, entry (UsePGPFileExt), group (FileOperations)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:156
+#: src/kcfg/settings.kcfg:161
 #, kde-format
 msgid "Use pgp as the default extension for generated OpenPGP files"
 msgstr ""
 
 #. i18n: ectx: whatsthis, entry (UsePGPFileExt), group (FileOperations)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:157
+#: src/kcfg/settings.kcfg:162
 #, kde-format
 msgid "Set this to make kleopatra default to pgp file extensions for OpenPGP files."
 msgstr ""
 
 #. i18n: ectx: label, entry (AutoExtractArchives), group (FileOperations)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:161
+#: src/kcfg/settings.kcfg:166
 #, kde-format
 msgid "Automatically extract archives after decryption."
 msgstr ""
 
 #. i18n: ectx: whatsthis, entry (AutoExtractArchives), group (FileOperations)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:162
+#: src/kcfg/settings.kcfg:167
 #, kde-format
 msgid "If this option is set, then Kleopatra automatically extracts file archives after decryption."
 msgstr ""
 
 #. i18n: ectx: label, entry (ArchiveCommand), group (FileOperations)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:166
+#: src/kcfg/settings.kcfg:171
 #, kde-format
 msgid "Use this command to create file archives."
 msgstr ""
 
 #. i18n: ectx: whatsthis, entry (ArchiveCommand), group (FileOperations)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:167
+#: src/kcfg/settings.kcfg:172
 #, kde-format
 msgid "When encrypting multiple files or a folder Kleopatra creates an encrypted archive with this command."
 msgstr ""
 
 #. i18n: ectx: label, entry (AddASCIIArmor), group (FileOperations)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:171
+#: src/kcfg/settings.kcfg:176
 #, fuzzy, kde-format
 #| msgid "Sign and encrypt (OpenPGP only)"
 msgid "Create signed or encrypted files as text files."
@@ -10069,14 +10228,14 @@ msgstr "เซ็นและเข้ารหัส (OpenPGP เท่าน�
 
 #. i18n: ectx: whatsthis, entry (AddASCIIArmor), group (FileOperations)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:172
+#: src/kcfg/settings.kcfg:177
 #, kde-format
 msgid "Set this option to encode encrypted or signed files as base64 encoded text. So that they can be opened with an editor or sent in a mail body. This will increase file size by one third."
 msgstr ""
 
 #. i18n: ectx: label, entry (DontUseTmpDir), group (FileOperations)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:176
+#: src/kcfg/settings.kcfg:181
 #, fuzzy, kde-format
 #| msgid "Sign and encrypt (OpenPGP only)"
 msgid "Create temporary decrypted files in the folder of the encrypted file."
@@ -10084,42 +10243,42 @@ msgstr "เซ็นและเข้ารหัส (OpenPGP เท่าน�
 
 #. i18n: ectx: whatsthis, entry (DontUseTmpDir), group (FileOperations)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:177
+#: src/kcfg/settings.kcfg:182
 #, kde-format
 msgid "Set this option to avoid using the users temporary directory."
 msgstr ""
 
 #. i18n: ectx: label, entry (SymmetricEncryptionOnly), group (FileOperations)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:181
+#: src/kcfg/settings.kcfg:186
 #, kde-format
 msgid "Use symmetric encryption only."
 msgstr ""
 
 #. i18n: ectx: whatsthis, entry (SymmetricEncryptionOnly), group (FileOperations)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:182
+#: src/kcfg/settings.kcfg:187
 #, kde-format
 msgid "Set this option to disable public key encryption."
 msgstr ""
 
 #. i18n: ectx: label, entry (PublicKeyEncryptionOnly), group (FileOperations)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:186
+#: src/kcfg/settings.kcfg:191
 #, kde-format
 msgid "Use public key encryption only."
 msgstr ""
 
 #. i18n: ectx: whatsthis, entry (PublicKeyEncryptionOnly), group (FileOperations)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:187
+#: src/kcfg/settings.kcfg:192
 #, kde-format
 msgid "Set this option to disable password-based encryption."
 msgstr ""
 
 #. i18n: ectx: label, entry (GroupsEnabled), group (Groups)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:193
+#: src/kcfg/settings.kcfg:198
 #, fuzzy, kde-format
 #| msgid "Show Details"
 msgid "Enable Groups"
@@ -10127,28 +10286,28 @@ msgstr "แสดงรายละเอียด"
 
 #. i18n: ectx: tooltip, entry (GroupsEnabled), group (Groups)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:194
+#: src/kcfg/settings.kcfg:199
 #, kde-format
 msgid "Enable usage of groups of keys."
 msgstr ""
 
 #. i18n: ectx: whatsthis, entry (GroupsEnabled), group (Groups)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:195
+#: src/kcfg/settings.kcfg:200
 #, kde-format
 msgid "Enable usage of groups of keys to create lists of recipients."
 msgstr ""
 
 #. i18n: ectx: label, entry (RetrieveSignerKeysAfterImport), group (Import)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:201
+#: src/kcfg/settings.kcfg:206
 #, kde-format
 msgid "Retrieve signer keys after import"
 msgstr ""
 
 #. i18n: ectx: whatsthis, entry (RetrieveSignerKeysAfterImport), group (Import)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:204
+#: src/kcfg/settings.kcfg:209
 #, kde-format
 msgid ""
 "If enabled, then Kleopatra will automatically try to retrieve the keys\n"
@@ -10158,14 +10317,14 @@ msgstr ""
 
 #. i18n: ectx: label, entry (QueryWKDsForAllUserIDs), group (Import)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:208
+#: src/kcfg/settings.kcfg:213
 #, kde-format
 msgid "Query certificate directories of providers for all user IDs"
 msgstr ""
 
 #. i18n: ectx: whatsthis, entry (QueryWKDsForAllUserIDs), group (Import)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:211
+#: src/kcfg/settings.kcfg:216
 #, kde-format
 msgid ""
 "By default, Kleopatra only queries the certificate directories of providers (WKD)\n"
@@ -10175,7 +10334,7 @@ msgstr ""
 
 #. i18n: ectx: label, entry (ShowExpiryNotifications), group (Notifications)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:217
+#: src/kcfg/settings.kcfg:222
 #, fuzzy, kde-format
 #| msgid "Signing Certificates"
 msgid "Notify about upcoming certificate expiration"
@@ -10183,7 +10342,7 @@ msgstr "การเซ็นใบรับรอง"
 
 #. i18n: ectx: whatsthis, entry (ShowExpiryNotifications), group (Notifications)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:219
+#: src/kcfg/settings.kcfg:224
 #, kde-format
 msgid ""
 "If enabled, then Kleopatra will show notifications in some place when using\n"
@@ -10192,14 +10351,14 @@ msgstr ""
 
 #. i18n: ectx: label, entry (BlockedUrlSchemes), group (Privacy)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:225
+#: src/kcfg/settings.kcfg:230
 #, kde-format
 msgid "URL schemes to block"
 msgstr ""
 
 #. i18n: ectx: whatsthis, entry (BlockedUrlSchemes), group (Privacy)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:227
+#: src/kcfg/settings.kcfg:232
 #, kde-format
 msgid ""
 "This is a list of URL schemes that shall be blocked by the application.\n"
@@ -10208,7 +10367,7 @@ msgstr ""
 
 #. i18n: ectx: label, entry (AlwaysSearchCardOnKeyserver), group (Smartcard)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:233
+#: src/kcfg/settings.kcfg:238
 #, fuzzy, kde-format
 #| msgid "Select Certificate File"
 msgid "Always search smartcard certificates on keyserver"
@@ -10216,7 +10375,7 @@ msgstr "เลือกแฟ้มของใบรับรอง"
 
 #. i18n: ectx: tooltip, entry (AlwaysSearchCardOnKeyserver), group (Smartcard)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:234
+#: src/kcfg/settings.kcfg:239
 #, fuzzy, kde-format
 #| msgid "Select Certificate File"
 msgid "Searches for the certificates belonging the smartcard keys on the configured keyserver."
@@ -10224,7 +10383,7 @@ msgstr "เลือกแฟ้มของใบรับรอง"
 
 #. i18n: ectx: whatsthis, entry (AlwaysSearchCardOnKeyserver), group (Smartcard)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:236
+#: src/kcfg/settings.kcfg:241
 #, kde-format
 msgid ""
 "Searches on keyservers regardless of the protocol for the smartcards key, regardless\n"
@@ -10233,49 +10392,49 @@ msgstr ""
 
 #. i18n: ectx: label, entry (autoLoadP15Certs), group (Smartcard)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:240
+#: src/kcfg/settings.kcfg:245
 #, kde-format
 msgid "Try to load S/MIME certificates from PKCS#15 smartcards"
 msgstr ""
 
 #. i18n: ectx: tooltip, entry (autoLoadP15Certs), group (Smartcard)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:241
+#: src/kcfg/settings.kcfg:246
 #, kde-format
 msgid "Automatically load S/MIME certificates from PKCS#15 (CardOS) smartcards"
 msgstr ""
 
 #. i18n: ectx: whatsthis, entry (autoLoadP15Certs), group (Smartcard)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:242
+#: src/kcfg/settings.kcfg:247
 #, kde-format
 msgid "If true, then Kleopatra will call gpgsm --learn if a PKCS#15 Smartcard is inserted with unknown certificates. This can take a while and blocks the smartcard while the command is running."
 msgstr ""
 
 #. i18n: ectx: label, entry (RefreshInterval), group (SMime Validation)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:248
+#: src/kcfg/settings.kcfg:253
 #, kde-format
 msgid "Certificate refresh interval (in hours). Zero (0) disables."
 msgstr ""
 
 #. i18n: ectx: label, entry (ProfilesDisabled), group (General)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:256
+#: src/kcfg/settings.kcfg:261
 #, kde-format
 msgid "Disable profile settings"
 msgstr ""
 
 #. i18n: ectx: label, entry (AllowCustomDebugCommands), group (General)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:260
+#: src/kcfg/settings.kcfg:265
 #, kde-format
 msgid "Allow custom debug commands"
 msgstr ""
 
 #. i18n: ectx: label, entry (ShowResultsAfterSignEncrypt), group (General)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:264
+#: src/kcfg/settings.kcfg:269
 #, fuzzy, kde-format
 #| msgid "Sign and encrypt (OpenPGP only)"
 msgid "Show results after signing and encrypting files"
@@ -10283,7 +10442,7 @@ msgstr "เซ็นและเข้ารหัส (OpenPGP เท่าน�
 
 #. i18n: ectx: label, entry (RestoreSignEncryptValues), group (General)
 #. +> trunk6
-#: src/kcfg/settings.kcfg:268
+#: src/kcfg/settings.kcfg:273
 #, fuzzy, kde-format
 #| msgid "Sign and encrypt (OpenPGP only)"
 msgid "Use last-used values for the sign/encrypt configuration"
@@ -10291,44 +10450,58 @@ msgstr "เซ็นและเข้ารหัส (OpenPGP เท่าน�
 
 #. i18n: ectx: label, entry (ShowValidity), group (Tooltip)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:274
+#: src/kcfg/settings.kcfg:279
 #, kde-format
 msgid "Show certificate validity"
 msgstr ""
 
 #. i18n: ectx: whatsthis, entry (ShowValidity), group (Tooltip)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:275
+#: src/kcfg/settings.kcfg:280
 #, kde-format
 msgid "Show validity information for certificates in tooltip, such as whether the certificate is expired or revoked."
 msgstr ""
 
 #. i18n: ectx: label, entry (ShowOwnerInformation), group (Tooltip)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:279
+#: src/kcfg/settings.kcfg:284
 #, kde-format
 msgid "Show certificate owner information"
 msgstr ""
 
 #. i18n: ectx: whatsthis, entry (ShowOwnerInformation), group (Tooltip)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:280
+#: src/kcfg/settings.kcfg:285
 #, kde-format
 msgid "Show owner information for certificates in tooltip, such as User IDs, subject and issuers."
 msgstr ""
 
 #. i18n: ectx: label, entry (ShowCertificateDetails), group (Tooltip)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:284
+#: src/kcfg/settings.kcfg:289
 #, kde-format
 msgid "Show certificate details"
 msgstr ""
 
 #. i18n: ectx: whatsthis, entry (ShowCertificateDetails), group (Tooltip)
 #. +> trunk6 stable6
-#: src/kcfg/settings.kcfg:285
+#: src/kcfg/settings.kcfg:290
 #, kde-format
 msgid "Show more certificate details, such as fingerprint, key length and expiration dates"
+msgstr ""
+
+#. i18n: ectx: label, entry (WelcomeText), group (Welcome)
+#. +> trunk6
+#: src/kcfg/settings.kcfg:296
+#, kde-format
+msgid "Custom Welcome text"
+msgstr ""
+
+#. i18n: ectx: whatsthis, entry (WelcomeText), group (Welcome)
+#. +> trunk6
+#: src/kcfg/settings.kcfg:297
+#, kde-format
+msgid "This text is shown on the Welcome page replacing most of the standard text."
 msgstr ""
 
 #. i18n: ectx: Menu (file)
@@ -10341,7 +10514,7 @@ msgstr ""
 #. i18n: ectx: Menu (certMenu)
 #. i18n: ectx: Menu (listview_popup)
 #. +> trunk6 stable6
-#: src/kleopatra.rc:29 src/kleopatra.rc:126
+#: src/kleopatra.rc:29 src/kleopatra.rc:127
 #, kde-format
 msgid "&Certificates"
 msgstr "ใ&บรับรอง"
@@ -10362,28 +10535,28 @@ msgstr "มุ&มมอง"
 
 #. i18n: ectx: Menu (settings)
 #. +> trunk6 stable6
-#: src/kleopatra.rc:85
+#: src/kleopatra.rc:86
 #, kde-format
 msgid "&Settings"
 msgstr "&ตั้งค่า"
 
 #. i18n: ectx: Menu (help)
 #. +> trunk6 stable6
-#: src/kleopatra.rc:89
+#: src/kleopatra.rc:90
 #, kde-format
 msgid "&Help"
 msgstr ""
 
 #. i18n: ectx: Menu (help_more)
 #. +> trunk6 stable6
-#: src/kleopatra.rc:96
+#: src/kleopatra.rc:97
 #, kde-format
 msgid "&More Documentation"
 msgstr ""
 
 #. i18n: ectx: ToolBar (mainToolBar)
 #. +> trunk6 stable6
-#: src/kleopatra.rc:110 src/kwatchgnupg/kwatchgnupgui.rc:13
+#: src/kleopatra.rc:111 src/kwatchgnupg/kwatchgnupgui.rc:13
 #, kde-format
 msgid "Main Toolbar"
 msgstr "แถบเครื่องมือหลัก"
@@ -10672,21 +10845,21 @@ msgid "Invalid arguments: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:111
+#: src/mainwindow.cpp:108
 #, kde-kuit-format
 msgctxt "@action:button"
 msgid "&Quit <application>%1</application>"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:118
+#: src/mainwindow.cpp:115
 #, kde-format
 msgctxt "@action:button"
 msgid "Only &Close Window"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:212
+#: src/mainwindow.cpp:209
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -10695,97 +10868,97 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:215
+#: src/mainwindow.cpp:212
 #, kde-format
 msgctxt "@title:window"
 msgid "Really Quit?"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:306
+#: src/mainwindow.cpp:303
 #, kde-format
 msgid "Could not start the GnuPG Log Viewer (kwatchgnupg). Please check your installation."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:308
+#: src/mainwindow.cpp:305
 #, kde-format
 msgid "Error Starting KWatchGnuPG"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:533
+#: src/mainwindow.cpp:536
 #, kde-format
 msgid "GnuPG Log Viewer"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:545
+#: src/mainwindow.cpp:548
 #, kde-format
 msgid "GnuPG Command Line"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:558
+#: src/mainwindow.cpp:561
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Restart Background Processes"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:559
+#: src/mainwindow.cpp:562
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Restart the background processes, e.g. after making changes to the configuration."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:571
+#: src/mainwindow.cpp:574
 #, kde-format
 msgid "Check for updates"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:584
+#: src/mainwindow.cpp:587
 #, kde-format
 msgctxt "@action show input / output area for encrypting/signing resp. decrypting/verifying text"
 msgid "Notepad"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:585
+#: src/mainwindow.cpp:588
 #, kde-format
 msgid "Show pad for encrypting/decrypting and signing/verifying text"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:595
+#: src/mainwindow.cpp:598
 #, kde-format
 msgctxt "@action show smartcard management view"
 msgid "Smartcards"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:596
+#: src/mainwindow.cpp:599
 #, kde-format
 msgid "Show smartcard management"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:607
+#: src/mainwindow.cpp:610
 #, kde-format
 msgid "Perform Self-Test"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:618
+#: src/mainwindow.cpp:621
 #, fuzzy, kde-format
 #| msgid "Show Details"
 msgid "Manage Groups..."
 msgstr "แสดงรายละเอียด"
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:630
+#: src/mainwindow.cpp:633
 #, fuzzy, kde-format
 #| msgid "Show Details"
 msgctxt "@action:intoolbar"
@@ -10793,178 +10966,186 @@ msgid "Groups"
 msgstr "แสดงรายละเอียด"
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:661
+#: src/mainwindow.cpp:664
 #, kde-format
 msgctxt "@action"
 msgid "Set Focus to Quick Search"
 msgstr ""
 
-#. +> trunk6 stable6
-#: src/mainwindow.cpp:671
+#. +> trunk6
+#: src/mainwindow.cpp:679 src/view/keytreeview.cpp:250
+#, fuzzy, kde-format
+#| msgid "Configure"
+msgctxt "@action:inmenu"
+msgid "Configure sorting"
+msgstr "ปรับแต่ง"
+
+#. +> stable6
+#: src/mainwindow.cpp:672
 #, fuzzy, kde-format
 #| msgid "Configure"
 msgctxt "@action:inmenu"
 msgid "Configure visible columns"
 msgstr "ปรับแต่ง"
 
-#. +> trunk6 stable6
-#: src/mainwindow.cpp:678
+#. +> stable6
+#: src/mainwindow.cpp:679
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Configure table sort order"
 msgstr ""
 
+#. +> stable6
+#: src/mainwindow.cpp:964
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Ascending"
+msgstr ""
+
+#. +> stable6
+#: src/mainwindow.cpp:974
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Descending"
+msgstr ""
+
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:689
+#: src/mainwindow.cpp:698
 #, kde-format
 msgid "Gpg4win Compendium"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:693
+#: src/mainwindow.cpp:702
 #, kde-format
 msgctxt "The Gpg4win compendium is only availableat this point (24.7.2017) in german and english.Please check with Gpg4win before translating this filename."
 msgid "gpg4win-compendium-en.pdf"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:704
+#: src/mainwindow.cpp:713
 #, kde-format
 msgid "&Quick Guide Encrypt and Sign"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:705
+#: src/mainwindow.cpp:714
 #, kde-format
 msgctxt "Only available in German and English. Leave to English for other languages."
 msgid "encrypt_and_sign_gnupgvsd_en.pdf"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:714
+#: src/mainwindow.cpp:723
 #, fuzzy, kde-format
 #| msgid "Certificate Import Failed"
 msgid "Certificate &Groups"
 msgstr "การนำเข้าใบรับรองล้มเหลว"
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:715
+#: src/mainwindow.cpp:724
 #, kde-format
 msgctxt "Only available in German and English. Leave to English for other languages."
 msgid "groupfeature_gnupgvsd_en.pdf"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:724
+#: src/mainwindow.cpp:733
 #, fuzzy, kde-format
 #| msgid "Encryption Options"
 msgid "&Mail Encryption in Outlook"
 msgstr "ตัวเลือกการเข้ารหัส"
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:725
+#: src/mainwindow.cpp:734
 #, kde-format
 msgctxt "Only available in German and English. Leave to English for other languages. Only shown on Windows."
 msgid "gpgol_outlook_addin_en.pdf"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:735
+#: src/mainwindow.cpp:744
 #, fuzzy, kde-format
 #| msgid "&Certificates"
 msgid "&Certification Management"
 msgstr "ใ&บรับรอง"
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:736
+#: src/mainwindow.cpp:745
 #, kde-format
 msgctxt "Only available in German and English. Leave to English for other languages."
 msgid "certification_management_gnupgvsd_en.pdf"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:744
+#: src/mainwindow.cpp:753
 #, fuzzy, kde-format
 #| msgid "Select File"
 msgid "&Smartcard Setup"
 msgstr "เลือกแฟ้ม"
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:745
+#: src/mainwindow.cpp:754
 #, kde-format
 msgctxt "Only available in German and English. Leave to English for other languages."
 msgid "smartcard_setup_gnupgvsd_en.pdf"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:752
+#: src/mainwindow.cpp:761
 #, kde-format
 msgid "GnuPG Command&line"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:762
-#, kde-format
-msgid "Manual for VS-NfD Approval"
-msgstr ""
-
-#. +> trunk6 stable6
-#: src/mainwindow.cpp:763
-#, kde-format
-msgctxt "Only available in German and English. Keep the English file name for other languages."
-msgid "handbuch_zulassung_gnupgvsd_en.pdf"
-msgstr ""
-
-#. +> trunk6 stable6
 #: src/mainwindow.cpp:771
 #, kde-format
-msgid "SecOps for VS-NfD Approval"
+msgid "Manual for VS-NfD Approval"
 msgstr ""
 
 #. +> trunk6 stable6
 #: src/mainwindow.cpp:772
 #, kde-format
 msgctxt "Only available in German and English. Keep the English file name for other languages."
+msgid "handbuch_zulassung_gnupgvsd_en.pdf"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/mainwindow.cpp:780
+#, kde-format
+msgid "SecOps for VS-NfD Approval"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/mainwindow.cpp:781
+#, kde-format
+msgctxt "Only available in German and English. Keep the English file name for other languages."
 msgid "BSI-VSA-10867_ENG_secops.pdf"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:797
+#: src/mainwindow.cpp:806
 #, kde-format
 msgid "There are still some background operations ongoing. These will be terminated when closing the window. Proceed?"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:800
+#: src/mainwindow.cpp:809
 #, kde-format
 msgid "Ongoing Background Tasks"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:931
+#: src/mainwindow.cpp:940
 #, kde-format
 msgid "&Password-based Encryption"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/mainwindow.cpp:932
+#: src/mainwindow.cpp:941
 #, kde-format
 msgctxt "Only available in German and English. Leave to English for other languages."
 msgid "symmetric_encryption_gnupgvsd_en.pdf"
-msgstr ""
-
-#. +> trunk6 stable6
-#: src/mainwindow.cpp:963
-#, kde-format
-msgctxt "@action:inmenu"
-msgid "Ascending"
-msgstr ""
-
-#. +> trunk6 stable6
-#: src/mainwindow.cpp:973
-#, kde-format
-msgctxt "@action:inmenu"
-msgid "Descending"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -12137,17 +12318,24 @@ msgctxt "@action"
 msgid "Decrypt/Verify..."
 msgstr "เซ็นและเข้ารหัส (OpenPGP เท่านั้น)"
 
+#. +> trunk6
+#: src/utils/csrutils.cpp:67
+#, fuzzy, kde-format
+#| msgid "Export Certificates"
+msgid "PEM Certificate Requests"
+msgstr "ส่งออกใบรับรอง"
+
 #. +> trunk6 stable6
-#: src/utils/csrutils.cpp:65
+#: src/utils/csrutils.cpp:67
 #, kde-format
-msgctxt "@title"
-msgid "Save Request"
+msgid "PKCS#10 Requests (*.p10)"
 msgstr ""
 
 #. +> trunk6 stable6
 #: src/utils/csrutils.cpp:68
 #, kde-format
-msgid "PKCS#10 Requests (*.p10)"
+msgctxt "@title"
+msgid "Save Request"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -12313,7 +12501,7 @@ msgid "No input device"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/utils/keyexportdraghandler.cpp:76 src/utils/keyexportdraghandler.cpp:80
+#: src/utils/keyexportdraghandler.cpp:71 src/utils/keyexportdraghandler.cpp:75
 #, fuzzy, kde-kuit-format
 #| msgid "Export Certificates"
 msgctxt "@info"
@@ -12321,7 +12509,7 @@ msgid "Failed to write the certificates to a temporary file."
 msgstr "ส่งออกใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/utils/keyexportdraghandler.cpp:153
+#: src/utils/keyexportdraghandler.cpp:148
 #, fuzzy, kde-format
 #| msgid "certificate"
 msgctxt "A generic filename for exported certificates"
@@ -12686,7 +12874,7 @@ msgid "Actions"
 msgstr "การกระทำ"
 
 #. +> trunk6 stable6
-#: src/view/cardkeysview.cpp:670
+#: src/view/cardkeysview.cpp:679
 #, fuzzy, kde-format
 #| msgid "Actions"
 msgctxt "@action:button"
@@ -12694,14 +12882,14 @@ msgid "Actions"
 msgstr "การกระทำ"
 
 #. +> trunk6 stable6
-#: src/view/cardkeysview.cpp:671
+#: src/view/cardkeysview.cpp:680
 #, kde-format
 msgctxt "@info"
 msgid "Show actions available for this smart card slot"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/view/cardkeysview.cpp:744
+#: src/view/cardkeysview.cpp:753
 #, fuzzy, kde-format
 #| msgid "Export Certificates"
 msgctxt "@info"
@@ -12823,7 +13011,7 @@ msgid "Search for certificates on %1"
 msgstr "เลือกแฟ้มของใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/view/keylistcontroller.cpp:407 src/view/welcomewidget.cpp:178
+#: src/view/keylistcontroller.cpp:407 src/view/welcomewidget.cpp:192
 #, fuzzy, kde-format
 #| msgid "Import"
 msgid "Import..."
@@ -13121,14 +13309,14 @@ msgid "Disable and Hide Certificate"
 msgstr "ใบรับรองปริยาย"
 
 #. +> trunk6 stable6
-#: src/view/keytreeview.cpp:230 src/view/keytreeview.cpp:512
+#: src/view/keytreeview.cpp:231 src/view/keytreeview.cpp:520
 #, fuzzy, kde-format
 #| msgid "Select Certificate File"
 msgid "Hierarchical list of certificates"
 msgstr "เลือกแฟ้มของใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/view/keytreeview.cpp:230 src/view/keytreeview.cpp:512
+#: src/view/keytreeview.cpp:231 src/view/keytreeview.cpp:520
 #, fuzzy, kde-format
 #| msgid "Signing Certificates"
 msgid "List of certificates"
@@ -13987,188 +14175,188 @@ msgid "No matching certificate was found in directory service."
 msgstr "การเซ็นใบรับรอง"
 
 #. +> trunk6 stable6
-#: src/view/tabwidget.cpp:639
+#: src/view/tabwidget.cpp:636
 #, kde-format
 msgid "Rename Tab"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/view/tabwidget.cpp:639
+#: src/view/tabwidget.cpp:636
 #, kde-format
 msgid "New tab title:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/view/tabwidget.cpp:843
+#: src/view/tabwidget.cpp:840
 #, kde-format
 msgid "New Tab"
 msgstr "แท็บใหม่"
 
 #. +> trunk6 stable6
-#: src/view/tabwidget.cpp:844
+#: src/view/tabwidget.cpp:841
 #, kde-format
 msgid "Open a new tab"
 msgstr "เปิดแท็บใหม่"
 
 #. +> trunk6 stable6
-#: src/view/tabwidget.cpp:858
+#: src/view/tabwidget.cpp:855
 #, kde-format
 msgid "Rename Tab..."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/view/tabwidget.cpp:859
+#: src/view/tabwidget.cpp:856
 #, kde-format
 msgid "Rename this tab"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/view/tabwidget.cpp:871
+#: src/view/tabwidget.cpp:868
 #, kde-format
 msgid "Duplicate Tab"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/view/tabwidget.cpp:872
+#: src/view/tabwidget.cpp:869
 #, kde-format
 msgid "Duplicate this tab"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/view/tabwidget.cpp:882
+#: src/view/tabwidget.cpp:879
 #, kde-format
 msgid "Close Tab"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/view/tabwidget.cpp:883
+#: src/view/tabwidget.cpp:880
 #, kde-format
 msgid "Close this tab"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/view/tabwidget.cpp:895
+#: src/view/tabwidget.cpp:892
 #, kde-format
 msgid "Move Tab Left"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/view/tabwidget.cpp:896
+#: src/view/tabwidget.cpp:893
 #, kde-format
 msgid "Move this tab left"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/view/tabwidget.cpp:908
+#: src/view/tabwidget.cpp:905
 #, kde-format
 msgid "Move Tab Right"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/view/tabwidget.cpp:909
+#: src/view/tabwidget.cpp:906
 #, kde-format
 msgid "Move this tab right"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/view/tabwidget.cpp:921
+#: src/view/tabwidget.cpp:918
 #, kde-format
 msgid "Hierarchical Certificate List"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/view/tabwidget.cpp:934
+#: src/view/tabwidget.cpp:931
 #, kde-format
 msgid "Expand All"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/view/tabwidget.cpp:947
+#: src/view/tabwidget.cpp:944
 #, kde-format
 msgid "Collapse All"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/view/welcomewidget.cpp:125
+#: src/view/welcomewidget.cpp:131
 #, kde-format
 msgctxt "%1 is version"
 msgid "Welcome to Kleopatra %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/view/welcomewidget.cpp:126
+#: src/view/welcomewidget.cpp:132
 #, kde-format
 msgid "Kleopatra is a front-end for the crypto software <a href=\"https://gnupg.org\">GnuPG</a>."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/view/welcomewidget.cpp:128
+#: src/view/welcomewidget.cpp:141
 #, kde-format
 msgid "For most actions you need either a public key (certificate) or your own secret key."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/view/welcomewidget.cpp:130
+#: src/view/welcomewidget.cpp:143
 #, kde-format
 msgid "The secret key is needed to decrypt or sign."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/view/welcomewidget.cpp:131
+#: src/view/welcomewidget.cpp:144
 #, kde-format
 msgid "The public key can be used by others to verify your identity or encrypt to you."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/view/welcomewidget.cpp:134
+#: src/view/welcomewidget.cpp:147
 #, kde-format
 msgctxt "More info about public key cryptography, please link to your local version of Wikipedia"
 msgid "https://en.wikipedia.org/wiki/Public-key_cryptography"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/view/welcomewidget.cpp:135
+#: src/view/welcomewidget.cpp:148
 #, kde-format
 msgctxt "%1 is a link to a wiki article"
 msgid "You can learn more about this on <a href=\"%1\">Wikipedia</a>."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/view/welcomewidget.cpp:143
+#: src/view/welcomewidget.cpp:156
 #, kde-format
 msgctxt "@info"
 msgid "With Kleopatra you can encrypt using different methods. Please follow the regulations for classified information of your organization."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/view/welcomewidget.cpp:144
+#: src/view/welcomewidget.cpp:157
 #, kde-format
 msgctxt "@info"
 msgid "For password based encryption see this <a href=\"action:help_doc_symenc\">guide</a>."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/view/welcomewidget.cpp:145
+#: src/view/welcomewidget.cpp:158
 #, kde-format
 msgctxt "@info"
 msgid "For public key encryption you generally have to create your own key pair."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/view/welcomewidget.cpp:147
+#: src/view/welcomewidget.cpp:160
 #, kde-format
 msgctxt "@info"
 msgid "You can find step-by-step instructions for public key encryption in this <a href=\"action:help_doc_quickguide\">guide</a>."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/view/welcomewidget.cpp:174
+#: src/view/welcomewidget.cpp:188
 #, kde-format
 msgid "New Key Pair..."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/view/welcomewidget.cpp:193
+#: src/view/welcomewidget.cpp:207
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -14177,7 +14365,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/view/welcomewidget.cpp:208
+#: src/view/welcomewidget.cpp:222
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -14201,12 +14389,6 @@ msgstr ""
 #~| msgid "Export Certificates"
 #~ msgctxt "@info:tooltip"
 #~ msgid "Imported Certificates from %1"
-#~ msgstr "ส่งออกใบรับรอง"
-
-#, fuzzy, kde-format
-#~| msgid "Export Certificates"
-#~ msgctxt "@title:window"
-#~ msgid "OpenPGP Certificate Refresh"
 #~ msgstr "ส่งออกใบรับรอง"
 
 #, fuzzy, kde-format

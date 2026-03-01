@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: org.kde.ktimetracker.appdata\n"
-"POT-Creation-Date: 2024-06-24 08:25+0200\n"
+"POT-Creation-Date: 2026-02-03 10:28+0100\n"
 "PO-Revision-Date: 2025-03-17 14:54+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -14,30 +14,30 @@ msgstr ""
 #. (itstool) path: component/name
 #. (itstool) path: screenshot/caption
 #. +> trunk6
-#: org.kde.ktimetracker.appdata.xml:16 org.kde.ktimetracker.appdata.xml:28
+#: org.kde.ktimetracker.appdata.xml:28 org.kde.ktimetracker.appdata.xml:37
 msgid "KTimeTracker"
 msgstr ""
 
 #. (itstool) path: component/summary
 #. +> trunk6
-#: org.kde.ktimetracker.appdata.xml:17
+#: org.kde.ktimetracker.appdata.xml:29
 msgid "Personal Time Tracker"
 msgstr ""
 
 #. (itstool) path: description/p
 #. +> trunk6
-#: org.kde.ktimetracker.appdata.xml:19
+#: org.kde.ktimetracker.appdata.xml:31
 msgid "KTimeTracker helps you track your personal time spent on various tasks and projects."
 msgstr ""
 
 #. (itstool) path: description/p
 #. +> trunk6
-#: org.kde.ktimetracker.appdata.xml:20
+#: org.kde.ktimetracker.appdata.xml:32
 msgid "It is useful for tracking billable hours and can report the hours logged by task and day."
 msgstr ""
 
 #. (itstool) path: description/p
 #. +> trunk6
-#: org.kde.ktimetracker.appdata.xml:21
+#: org.kde.ktimetracker.appdata.xml:33
 msgid "With KTimeTracker, you can organize a broken-down project as subtasks with unlimited nesting. The standard keyboard and mouse shortcuts are simple and make the tool really comfortable and intuitive to use."
 msgstr ""

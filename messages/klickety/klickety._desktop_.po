@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdegames\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-12-14 16:14+0100\n"
+"POT-Creation-Date: 2026-01-22 10:15+0100\n"
 "PO-Revision-Date: 2025-03-03 20:07+0700\n"
 "Last-Translator: Pongsakorn S. <kde@xerusion.me>\n"
 "Language-Team: Thai\n"
@@ -55,7 +55,7 @@ msgid "KSame"
 msgstr "Name=แกเลียน"
 
 #. +> trunk6 stable6
-#: themes/ksame.desktop:53
+#: themes/ksame.desktop:54
 msgctxt "Description"
 msgid "Klickety KSame Theme"
 msgstr ""
@@ -67,7 +67,7 @@ msgid "KSame Old"
 msgstr ""
 
 #. +> trunk6 stable6
-#: themes/ksame_old.desktop:53
+#: themes/ksame_old.desktop:54
 msgctxt "Description"
 msgid "Klickety KSame Old Theme"
 msgstr ""

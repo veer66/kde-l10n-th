@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Krita Manual 5.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-14 09:48+0200\n"
+"POT-Creation-Date: 2026-02-25 09:27+0100\n"
 "PO-Revision-Date: 2025-03-17 14:52+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -75,7 +75,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/popup-palette.rst:28
-msgid "The common brush options such as size, opacity, angle et cetera will be shown when you click the **>** icon. A dialog box will appear which will have the sliders to adjust the brush options. You can choose which options are shown in this dialog box by clicking on the settings icon."
+msgid "You can access dockers directly on-canvas by using the **>** icon. By default this is only the :ref:`oncanvas_brush_editor`, but any of Krita's dockers can be added in with the settings button on the top left of the docker area."
 msgstr ""
 
 #. +> trunk5

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-11-02 11:41+0100\n"
+"POT-Creation-Date: 2026-01-24 08:20+0100\n"
 "PO-Revision-Date: 2010-11-27 11:28+0700\n"
 "Last-Translator: Phuwanat Sakornsakolpat <narachai@gmail.com>\n"
 "Language-Team: Thai <thai-l10n@googlegroups.com>\n"
@@ -57,7 +57,7 @@ msgid "activity"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: service/plugins/krunner/ActivityRunner.cpp:67
+#: service/plugins/krunner/ActivityRunner.cpp:87
 #, kde-format
 msgid "Switch to \"%1\""
 msgstr ""

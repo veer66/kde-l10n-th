@@ -94,6 +94,6 @@ msgstr ""
 
 #. +> trunk6 stable6
 #: interactiveconsole.cpp:579
-#, no-c-format, kde-format
+#, kde-format, no-c-format
 msgid "Runtime: %1ms"
 msgstr ""

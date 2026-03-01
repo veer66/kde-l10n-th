@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-11-28 09:59+0100\n"
+"POT-Creation-Date: 2026-02-07 04:44+0100\n"
 "PO-Revision-Date: 2025-03-17 14:53+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -31,7 +31,7 @@ msgid "Example fancy"
 msgstr ""
 
 #. +> trunk6 stable6
-#: examples/messageviewergrantleetheme/themes/example_fancy/header.desktop:37
+#: examples/messageviewergrantleetheme/themes/example_fancy/header.desktop:38
 msgctxt "Description"
 msgid "Create fancy theme with grantlee."
 msgstr ""

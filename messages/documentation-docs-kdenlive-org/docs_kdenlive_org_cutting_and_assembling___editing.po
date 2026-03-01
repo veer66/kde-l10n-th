@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kdenlive Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-12 10:00+0100\n"
+"POT-Creation-Date: 2026-02-13 09:58+0100\n"
 "PO-Revision-Date: 2025-03-17 14:52+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. +> trunk5
-#: ../../<rst_epilog>:70
+#: ../../<rst_epilog>:74
 msgid "distribute-horizontal"
 msgstr ""
 
@@ -28,12 +28,12 @@ msgid "kdenlive-slip"
 msgstr ""
 
 #. +> trunk5
-#: ../../<rst_epilog>:482
+#: ../../<rst_epilog>:486
 msgid "timeline-use-zone-off"
 msgstr ""
 
 #. +> trunk5
-#: ../../<rst_epilog>:486
+#: ../../<rst_epilog>:490
 msgid "timeline-use-zone-on"
 msgstr ""
 

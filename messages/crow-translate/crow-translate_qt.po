@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: crow-translate_qt\n"
-"POT-Creation-Date: 2025-10-23 09:19+0200\n"
+"POT-Creation-Date: 2026-02-07 04:43+0100\n"
 "PO-Revision-Date: 2025-03-17 14:51+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -300,14 +300,14 @@ msgid "Current languages:"
 msgstr ""
 
 #. +> trunk6
-#: src/main.cpp:76
+#: src/main.cpp:77
 #, qt-format
 msgctxt "D-Bus|"
 msgid "D-Bus service %1 is already registered by another application"
 msgstr ""
 
 #. +> trunk6
-#: src/main.cpp:109
+#: src/main.cpp:110
 #, qt-format
 msgctxt "D-Bus|"
 msgid "Unable to register D-Bus object for %1"

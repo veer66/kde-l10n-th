@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libakonadi\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-12-30 07:46+0100\n"
+"POT-Creation-Date: 2026-02-28 07:30+0100\n"
 "PO-Revision-Date: 2010-02-26 23:20+0700\n"
 "Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
 "Language-Team: Thai <thai-l10n@googlegroups.com>\n"
@@ -92,7 +92,7 @@ msgid "Not configured"
 msgstr ""
 
 #. +> trunk6 stable6
-#: agentbase/resourcebase.cpp:533
+#: agentbase/resourcebase.cpp:513
 #, fuzzy, kde-format
 #| msgid "Folder creation failed"
 msgctxt "@label command line option"
@@ -100,7 +100,7 @@ msgid "Resource identifier"
 msgstr "ล้มเหลวในการสร้างโฟลเดอร์"
 
 #. +> trunk6 stable6
-#: agentbase/resourcebase.cpp:539
+#: agentbase/resourcebase.cpp:519
 #, fuzzy, kde-format
 #| msgctxt "@title application name"
 #| msgid "Akonadi Resource"
@@ -108,68 +108,68 @@ msgid "Akonadi Resource"
 msgstr "ทรัพยากรของ Akonadi"
 
 #. +> trunk6 stable6
-#: agentbase/resourcebase.cpp:581
+#: agentbase/resourcebase.cpp:561
 #, kde-format
 msgctxt "@info"
 msgid "Invalid item retrieved"
 msgstr ""
 
 #. +> trunk6 stable6
-#: agentbase/resourcebase.cpp:604
+#: agentbase/resourcebase.cpp:584
 #, kde-format
 msgctxt "@info"
 msgid "Error while creating item: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: agentbase/resourcebase.cpp:628
+#: agentbase/resourcebase.cpp:608
 #, kde-format
 msgctxt "@info"
 msgid "Error while updating collection: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: agentbase/resourcebase.cpp:715
+#: agentbase/resourcebase.cpp:695
 #, kde-format
 msgctxt "@info"
 msgid "Updating local collection failed: %1."
 msgstr ""
 
 #. +> trunk6 stable6
-#: agentbase/resourcebase.cpp:720
+#: agentbase/resourcebase.cpp:700
 #, kde-format
 msgctxt "@info"
 msgid "Updating local items failed: %1."
 msgstr ""
 
 #. +> trunk6 stable6
-#: agentbase/resourcebase.cpp:739
+#: agentbase/resourcebase.cpp:719
 #, kde-format
 msgctxt "@info"
 msgid "Cannot fetch item in offline mode."
 msgstr ""
 
 #. +> trunk6 stable6
-#: agentbase/resourcebase.cpp:921
+#: agentbase/resourcebase.cpp:901
 #, kde-format
 msgctxt "@info:status"
 msgid "Syncing folder '%1'"
 msgstr ""
 
 #. +> trunk6 stable6
-#: agentbase/resourcebase.cpp:941 agentbase/resourcebase.cpp:948
+#: agentbase/resourcebase.cpp:921 agentbase/resourcebase.cpp:928
 #, kde-format
 msgid "Failed to retrieve collection for sync."
 msgstr ""
 
 #. +> trunk6 stable6
-#: agentbase/resourcebase.cpp:989
+#: agentbase/resourcebase.cpp:969
 #, kde-format
 msgid "Failed to retrieve collection for attribute sync."
 msgstr ""
 
 #. +> trunk6 stable6
-#: agentbase/resourcebase.cpp:1035
+#: agentbase/resourcebase.cpp:1015
 #, kde-format
 msgid "The requested item no longer exists"
 msgstr ""
@@ -2925,20 +2925,20 @@ msgid "&Unsubscribe"
 msgstr ""
 
 #. +> trunk6 stable6
-#: widgets/tageditwidget.cpp:119
+#: widgets/tageditwidget.cpp:120
 #, kde-format
 msgid "Failed to create a new tag"
 msgstr ""
 
 #. +> trunk6 stable6
-#: widgets/tageditwidget.cpp:119
+#: widgets/tageditwidget.cpp:120
 #, kde-format
 msgctxt "@title:window"
 msgid "An Error Occurred while Creating a New Tag"
 msgstr ""
 
 #. +> trunk6 stable6
-#: widgets/tageditwidget.cpp:167
+#: widgets/tageditwidget.cpp:168
 #, fuzzy, kde-kuit-format
 #| msgid "Do you really want to delete all selected items?"
 msgctxt "@info"
@@ -2946,7 +2946,7 @@ msgid "Do you really want to remove the tag <resource>%1</resource>?"
 msgstr "คุณต้องการจะลบรายการทั้งหมดที่เลือกไว้จริงหรือไม่ ?"
 
 #. +> trunk6 stable6
-#: widgets/tageditwidget.cpp:168
+#: widgets/tageditwidget.cpp:169
 #, fuzzy, kde-format
 #| msgid "&Delete Item"
 #| msgid_plural "&Delete %1 Items"
@@ -2955,7 +2955,7 @@ msgid "Delete Tag"
 msgstr "&ลบ %1 รายการ"
 
 #. +> trunk6 stable6
-#: widgets/tageditwidget.cpp:193
+#: widgets/tageditwidget.cpp:194
 #, fuzzy, kde-format
 #| msgid "&Delete Item"
 #| msgid_plural "&Delete %1 Items"

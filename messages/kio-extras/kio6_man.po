@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio_man\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-03-26 10:39+0100\n"
+"POT-Creation-Date: 2026-01-19 11:03+0100\n"
 "PO-Revision-Date: 2008-11-24 19:15+0700\n"
 "Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
 "Language-Team: Thai <thai-l10n@googlegroups.com>\n"
@@ -221,7 +221,7 @@ msgid "Generating Index"
 msgstr "กำลังทำการสร้างดัชนี"
 
 #. +> trunk6 trunk5 stable6
-#: kio_man.cpp:1345
+#: kio_man.cpp:1344
 #, fuzzy, kde-kuit-format
 #| msgid "Could not find the sgml2roff program on your system. Please install it, if necessary, and extend the search path by adjusting the environment variable PATH before starting KDE."
 msgctxt "@info"

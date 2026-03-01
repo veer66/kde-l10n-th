@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-10-08 08:08+0200\n"
+"POT-Creation-Date: 2026-02-15 08:20+0100\n"
 "PO-Revision-Date: 2025-03-17 14:54+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -11,48 +11,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-
-#. +> trunk5
-#: old_datasources/dmc/kstdata_dmc.desktop:7
-msgctxt "Name"
-msgid "PLANCK DMC Plugin"
-msgstr ""
-
-#. +> trunk5
-#: old_datasources/dmc/kstdata_dmc.desktop:34
-msgctxt "Comment"
-msgid "Plugin to read PLANCK DMC data."
-msgstr ""
-
-#. +> trunk5
-#: old_datasources/healpix/kstdata_healpix.desktop:7
-msgctxt "Name"
-msgid "Healpix File Reader"
-msgstr ""
-
-#. +> trunk5
-#: old_datasources/healpix/kstdata_healpix.desktop:33
-msgctxt "Comment"
-msgid "Plugin to read Healpix FITS files."
-msgstr ""
-
-#. +> trunk5
-#: old_datasources/lfiio/kstdata_lfiio.desktop:7
-msgctxt "Name"
-msgid "LFIIO Reader"
-msgstr ""
-
-#. +> trunk5
-#: old_datasources/lfiio/kstdata_lfiio.desktop:33
-msgctxt "Comment"
-msgid "Implements support for reading FITS files into Kst."
-msgstr ""
-
-#. +> trunk5
-#: old_datasources/plankIDEF/kstdata_planckIDEF.desktop:7
-msgctxt "Name"
-msgid "Planck IDIS DMC Exchange Format Reader"
-msgstr ""
 
 #. +> trunk5
 #: src/datasources/ascii/kstdata_ascii.desktop:7
@@ -195,11 +153,11 @@ msgstr ""
 #. +> trunk5
 #: src/kst/org.kde.kst.desktop:9
 msgctxt "Name"
-msgid "Kst2"
+msgid "kst"
 msgstr ""
 
 #. +> trunk5
-#: src/kst/org.kde.kst.desktop:37
+#: src/kst/org.kde.kst.desktop:21
 msgctxt "GenericName"
 msgid "Data Viewer"
 msgstr ""

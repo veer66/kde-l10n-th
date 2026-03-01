@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-13 14:38+0100\n"
+"POT-Creation-Date: 2026-01-30 06:28+0100\n"
 "PO-Revision-Date: 2010-12-31 22:16+0700\n"
 "Last-Translator: Phuwanat Sakornsakolpat <narachai@gmail.com>\n"
 "Language-Team: Thai <thai-l10n@googlegroups.com>\n"
@@ -51,19 +51,19 @@ msgid "Crash Reporting System"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/coredump/launcher/drkonqi-coredump-launcher.notifyrc:28
+#: src/coredump/launcher/drkonqi-coredump-launcher.notifyrc:30
 msgctxt "Name"
 msgid "Crash Reporting System"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/coredump/launcher/drkonqi-coredump-launcher.notifyrc:53
+#: src/coredump/launcher/drkonqi-coredump-launcher.notifyrc:57
 msgctxt "Name"
 msgid "Crash"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/coredump/launcher/drkonqi-coredump-launcher.notifyrc:76
+#: src/coredump/launcher/drkonqi-coredump-launcher.notifyrc:82
 msgctxt "Comment"
 msgid "An application or background service crashed"
 msgstr ""

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-09-25 11:12+0200\n"
+"POT-Creation-Date: 2026-02-26 15:29+0100\n"
 "PO-Revision-Date: 2010-03-27 23:18+0700\n"
 "Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
 "Language-Team: Thai <thai-l10n@googlegroups.com>\n"
@@ -328,27 +328,62 @@ msgstr "หน้าต่างที่อยู่บนพื้นที่
 msgid "Visualization"
 msgstr "การนำทาง"
 
-#. i18n: ectx: property (toolTip), widget (QComboBox, effectCombo)
-#. +> trunk6 stable6 stable5
-#: main.ui:645
-#, kde-format
-msgid "The effect to replace the list window when desktop effects are active."
-msgstr "ลูกเล่นที่จะใช้แทนที่รายการหน้าต่างเมื่อมีการเปิดใช้งานลูกเล่นของพื้นที่ทำงาน"
-
 #. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_HighlightWindows)
 #. +> trunk6 stable6 stable5
-#: main.ui:678
+#: main.ui:624
 #, kde-format
 msgid "The currently selected window will be highlighted by fading out all other windows. This option requires desktop effects to be active."
 msgstr "หน้าต่างที่เลือกไว้ในปัจจุบันจะถูกเน้นด้วยการค่อย ๆ จางหายไปจากหน้าต่างอื่น ๆ ตัวเลือกนี้ต้องการการเปิดใช้งานลูกเล่นของพื้นที่ทำงานด้วย"
 
-#. i18n: ectx: property (text), widget (QCheckBox, kcfg_HighlightWindows)
+#. i18n: ectx: property (text), widget (QLabel, label_HighlightWindows)
 #. +> trunk6 stable6 stable5
-#: main.ui:681
+#: main.ui:634
 #, fuzzy, kde-format
 #| msgid "Show outline of selected window"
 msgid "Show selected window"
 msgstr "แสดงเส้นโดยรอบของหน้าต่างที่ถูกเลือก"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_ShowTabBox)
+#. +> trunk6
+#: main.ui:644
+#, kde-format
+msgid "Enable the window list effect"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QComboBox, effectCombo)
+#. +> trunk6 stable6 stable5
+#: main.ui:678
+#, kde-format
+msgid "The effect to replace the list window when desktop effects are active."
+msgstr "ลูกเล่นที่จะใช้แทนที่รายการหน้าต่างเมื่อมีการเปิดใช้งานลูกเล่นของพื้นที่ทำงาน"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, label_DelayTime)
+#. +> trunk6
+#: main.ui:701
+#, kde-format
+msgid "The time in milliseconds to wait before showing the task switcher."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_DelayTime)
+#. +> trunk6
+#: main.ui:704
+#, kde-format
+msgid "Delay:"
+msgstr ""
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_DelayTime)
+#. +> trunk6
+#: main.ui:720
+#, kde-format
+msgid " ms"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_DelayTime)
+#. +> trunk6
+#: main.ui:735
+#, kde-format
+msgid "Delay before the window list appears"
+msgstr ""
 
 #. +> trunk6 stable6
 #: shortcutsettings.cpp:131

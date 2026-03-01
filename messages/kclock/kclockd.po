@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kclock\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-12-14 16:13+0100\n"
+"POT-Creation-Date: 2026-02-16 09:20+0100\n"
 "PO-Revision-Date: 2025-03-17 14:53+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -199,13 +199,13 @@ msgid "Desktop Integration"
 msgstr ""
 
 #. +> trunk6 stable6
-#: timer.cpp:64
+#: timer.cpp:65
 #, kde-format
 msgid "Timer complete"
 msgstr ""
 
 #. +> trunk6 stable6
-#: timer.cpp:65
+#: timer.cpp:296
 #, kde-format
 msgid "Your timer %1 has finished!"
 msgstr ""

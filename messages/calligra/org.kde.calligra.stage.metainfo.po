@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: org.kde.calligra.stage.metainfo\n"
-"POT-Creation-Date: 2024-11-09 11:24+0100\n"
+"POT-Creation-Date: 2026-02-14 09:56+0100\n"
 "PO-Revision-Date: 2025-03-17 14:51+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -63,4 +63,22 @@ msgstr ""
 #. +> trunk6 stable6
 #: org.kde.calligra.stage.metainfo.xml:33
 msgid "Calligra Stage main window"
+msgstr ""
+
+#. (itstool) path: description/p
+#. +> trunk6 stable6
+#: org.kde.calligra.stage.metainfo.xml:68
+msgid "This release add flatpak support to the Calligra Office suite. This also contains some small graphical changes to the slides list and fix the automatic preview of the animations."
+msgstr ""
+
+#. (itstool) path: description/p
+#. +> trunk6 stable6
+#: org.kde.calligra.stage.metainfo.xml:74
+msgid "The most significant changes are that Calligra has been fully transitioned to Qt6 and KF6, along with a major overhaul of its user interface."
+msgstr ""
+
+#. (itstool) path: description/p
+#. +> trunk6 stable6
+#: org.kde.calligra.stage.metainfo.xml:75
+msgid "Stage didn’t really change aside of the sidebar redesign. The tooltip for the slides are also now compatible with Wayland."
 msgstr ""

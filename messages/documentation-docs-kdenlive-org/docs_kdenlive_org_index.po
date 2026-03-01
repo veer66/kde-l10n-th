@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kdenlive Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-03 19:25+0200\n"
+"POT-Creation-Date: 2026-02-21 07:44+0100\n"
 "PO-Revision-Date: 2025-03-17 14:52+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -29,7 +29,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../index.rst:21
-msgid "You can download this manual as an `EPUB <https://docs.kdenlive.org/epub/KdenliveManual.epub>`_."
+msgid "You can download this manual as an `EPUB <epub/KdenliveManual.epub>`_."
 msgstr ""
 
 #. +> trunk5
@@ -239,7 +239,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../index.rst:167
-msgid "`Bug Reports <https://kdenlive.org/en/bug-reports/>`__"
+msgid "`Bug Reports <https://kdenlive.org/bug-reports/>`_"
 msgstr ""
 
 #. +> trunk5
@@ -259,7 +259,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../index.rst:178
-msgid "`Get Involved <https://community.kde.org/Kdenlive/Workgroup/Documentation>`__"
+msgid "`Get Involved <https://community.kde.org/Kdenlive/Workgroup/Documentation/>`_"
 msgstr ""
 
 #. +> trunk5

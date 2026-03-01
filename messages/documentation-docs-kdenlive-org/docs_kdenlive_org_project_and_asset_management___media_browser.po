@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kdenlive Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-12 10:01+0100\n"
+"POT-Creation-Date: 2026-02-13 09:59+0100\n"
 "PO-Revision-Date: 2025-03-17 14:52+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -18,32 +18,32 @@ msgid "application-menu"
 msgstr ""
 
 #. +> trunk5
-#: ../../<rst_epilog>:58
+#: ../../<rst_epilog>:62
 msgid "configure"
 msgstr ""
 
 #. +> trunk5
-#: ../../<rst_epilog>:90
+#: ../../<rst_epilog>:94
 msgid "document-open"
 msgstr ""
 
 #. +> trunk5
-#: ../../<rst_epilog>:178
+#: ../../<rst_epilog>:182
 msgid "folder-new"
 msgstr ""
 
 #. +> trunk5
-#: ../../<rst_epilog>:218
+#: ../../<rst_epilog>:222
 msgid "go-next"
 msgstr ""
 
 #. +> trunk5
-#: ../../<rst_epilog>:222
+#: ../../<rst_epilog>:226
 msgid "go-previous"
 msgstr ""
 
 #. +> trunk5
-#: ../../<rst_epilog>:226
+#: ../../<rst_epilog>:230
 msgid "go-up"
 msgstr ""
 
@@ -53,32 +53,32 @@ msgid "kdenlive-show-video"
 msgstr ""
 
 #. +> trunk5
-#: ../../<rst_epilog>:538
+#: ../../<rst_epilog>:542
 msgid "view-list-details"
 msgstr ""
 
 #. +> trunk5
-#: ../../<rst_epilog>:542
+#: ../../<rst_epilog>:546
 msgid "view-list-icons"
 msgstr ""
 
 #. +> trunk5
-#: ../../<rst_epilog>:546
+#: ../../<rst_epilog>:550
 msgid "view-list-tree"
 msgstr ""
 
 #. +> trunk5
-#: ../../<rst_epilog>:558
+#: ../../<rst_epilog>:562
 msgid "view-preview"
 msgstr ""
 
 #. +> trunk5
-#: ../../<rst_epilog>:562
+#: ../../<rst_epilog>:566
 msgid "view-refresh"
 msgstr ""
 
 #. +> trunk5
-#: ../../<rst_epilog>:570
+#: ../../<rst_epilog>:574
 msgid "view-sort"
 msgstr ""
 

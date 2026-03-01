@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdesdk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-09-27 16:30+0200\n"
+"POT-Creation-Date: 2026-02-16 09:21+0100\n"
 "PO-Revision-Date: 2002-07-09 11:56+0700\n"
 "Last-Translator: Thanomsub Noppaburana <donga_n@yahoo.com>\n"
 "Language-Team: Thai "
@@ -31,14 +31,26 @@ msgctxt "Comment"
 msgid "still very incomplete!!!"
 msgstr ""
 
-#. +> trunk5 stable5
+#. +> trunk5
+#: kasten/controllers/view/structures/examples/okteta/structures/dynamic-array-js/metadata.desktop:6
+msgctxt "Name"
+msgid "Testing dynamic length arrays (JS)"
+msgstr ""
+
+#. +> stable5
 #: kasten/controllers/view/structures/examples/okteta/structures/dynamic-array-js/metadata.desktop:6
 msgctxt "Name"
 msgid "Testing dynamic length arrays (JS). Do not translate, it's a waste of time"
 msgstr ""
 
-#. +> trunk5 stable5
-#: kasten/controllers/view/structures/examples/okteta/structures/dynamic-array-js/metadata.desktop:48
+#. +> trunk5
+#: kasten/controllers/view/structures/examples/okteta/structures/dynamic-array-js/metadata.desktop:21
+msgctxt "Comment"
+msgid "A test structure for dynamic arrays (JS)"
+msgstr ""
+
+#. +> stable5
+#: kasten/controllers/view/structures/examples/okteta/structures/dynamic-array-js/metadata.desktop:47
 msgctxt "Comment"
 msgid "A test structure for dynamic arrays (JS). Do not translate, it's a waste of time"
 msgstr ""
@@ -153,3 +165,9 @@ msgstr ""
 msgctxt "GenericName"
 msgid "Hex Editor"
 msgstr "Name=แก้ไขข้อความ - K"
+
+#. +> trunk5
+#: program/org.kde.okteta.desktop:106
+msgctxt "Keywords"
+msgid "binary;octal;hexadecimal;bit;byte;"
+msgstr ""

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-nm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-09-19 20:20+0200\n"
+"POT-Creation-Date: 2026-02-01 07:40+0100\n"
 "PO-Revision-Date: 2025-03-24 04:39+0700\n"
 "Last-Translator: Diskette Guy <diskette@dailitation.xyz>\n"
 "Language-Team: Thai <kde-i18n-doc@kde.org>\n"
@@ -15,25 +15,25 @@ msgstr ""
 "X-Generator: Lokalize 24.12.3\n"
 
 #. +> trunk6 stable6 stable5
+#: vpnc.cpp:70
+#, kde-format
+msgid "NetworkManager is missing support for Cisco Compatible VPN"
+msgstr "NetworkManager ขาดการรับรองสำหรับ VPN ที่ใช้งานได้กับ Cisco"
+
+#. +> stable6 stable5
 #: vpnc.cpp:73
 #, kde-format
 msgid "Error decrypting the obfuscated password"
 msgstr "การถอดรหัสผิดพลาด"
 
-#. +> trunk6 stable6 stable5
+#. +> stable6 stable5
 #: vpnc.cpp:73
 #, kde-format
 msgid "Error"
 msgstr "ข้อผิดพลาด"
 
 #. +> trunk6 stable6 stable5
-#: vpnc.cpp:118
-#, kde-format
-msgid "NetworkManager is missing support for Cisco Compatible VPN"
-msgstr "NetworkManager ขาดการรับรองสำหรับ VPN ที่ใช้งานได้กับ Cisco"
-
-#. +> trunk6 stable6 stable5
-#: vpnc.cpp:146
+#: vpnc.cpp:98
 #, kde-format
 msgid "%1: file could not be created"
 msgstr "%1: ไม่สามารถสร้างไฟล์ได้"

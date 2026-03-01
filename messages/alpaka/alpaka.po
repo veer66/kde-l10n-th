@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: alpaka\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-02 07:32+0100\n"
+"POT-Creation-Date: 2026-02-27 08:25+0100\n"
 "PO-Revision-Date: 2025-03-17 14:51+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -25,14 +25,14 @@ msgid "Your emails"
 msgstr ""
 
 #. +> trunk6
-#: src/apps/ChatModel.cpp:158
+#: src/apps/ChatModel.cpp:169
 #, kde-format
 msgid "Show model info."
 msgstr ""
 
 #. +> trunk6
-#: src/apps/main.cpp:47 src/apps/qml/ChatView.qml:13
-#: src/apps/qml/MessageDelegate.qml:61
+#: src/apps/main.cpp:47 src/apps/qml/ChatView.qml:14
+#: src/apps/qml/MessageDelegate.qml:67
 #, kde-format
 msgid "Alpaka"
 msgstr ""
@@ -58,77 +58,89 @@ msgstr ""
 #. +> trunk6
 #: src/apps/main.cpp:52
 #, kde-format
-msgid "Maintainer"
+msgid "Creator"
 msgstr ""
 
 #. +> trunk6
 #: src/apps/main.cpp:53
+#, kde-format
+msgid "Siavosh Kasravi"
+msgstr ""
+
+#. +> trunk6
+#: src/apps/main.cpp:53
+#, kde-format
+msgid "Maintainer"
+msgstr ""
+
+#. +> trunk6
+#: src/apps/main.cpp:54
 #, kde-format
 msgid "Laurent Montel"
 msgstr ""
 
 #. +> trunk6
-#: src/apps/main.cpp:53
+#: src/apps/main.cpp:54
 #, kde-format
 msgid "Developer"
 msgstr ""
 
 #. +> trunk6
-#: src/apps/qml/ChatView.qml:31
+#: src/apps/qml/ChatView.qml:32
 #, kde-format
 msgctxt "@action:intoolbar"
 msgid "Start Over"
 msgstr ""
 
 #. +> trunk6
-#: src/apps/qml/ChatView.qml:37
+#: src/apps/qml/ChatView.qml:38
 #, kde-format
 msgctxt "@action:intoolbar"
 msgid "Settings"
 msgstr ""
 
 #. +> trunk6
-#: src/apps/qml/ChatView.qml:52
+#: src/apps/qml/ChatView.qml:53
 #, kde-format
 msgctxt "@action:button"
 msgid "Try Again"
 msgstr ""
 
 #. +> trunk6
-#: src/apps/qml/ChatView.qml:71
+#: src/apps/qml/ChatView.qml:72
 #, kde-format
 msgctxt "@info:placeholder"
-msgid "Enter a message"
+msgid "Enter a message (Use @ to open the attachment menu)"
 msgstr ""
 
 #. +> trunk6
-#: src/apps/qml/ChatView.qml:133
+#: src/apps/qml/ChatView.qml:261
 #, kde-format
 msgid "LLM:"
 msgstr ""
 
 #. +> trunk6
-#: src/apps/qml/ChatView.qml:141
+#: src/apps/qml/ChatView.qml:269
 #, kde-format
 msgctxt "@action:button"
 msgid "Info"
 msgstr ""
 
 #. +> trunk6
-#: src/apps/qml/ChatView.qml:152
+#: src/apps/qml/ChatView.qml:280
 #, kde-format
 msgctxt "@info:placeholder"
 msgid "Interface Not Found"
 msgstr ""
 
 #. +> trunk6
-#: src/apps/qml/ChatView.qml:153
+#: src/apps/qml/ChatView.qml:281
 #, kde-format
 msgid "Make sure Ollama is installed and is running. Visit the project's website for setup information."
 msgstr ""
 
 #. +> trunk6
-#: src/apps/qml/ChatView.qml:156
+#: src/apps/qml/ChatView.qml:284
 #, kde-format
 msgctxt "@action:button"
 msgid "Visit Website"
@@ -191,21 +203,21 @@ msgid "Alpaka"
 msgstr ""
 
 #. +> trunk6
-#: src/apps/qml/MessageDelegate.qml:105
+#: src/apps/qml/MessageDelegate.qml:111
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Copy"
 msgstr ""
 
 #. +> trunk6
-#: src/apps/qml/MessageDelegate.qml:111
+#: src/apps/qml/MessageDelegate.qml:117
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Select All"
 msgstr ""
 
 #. +> trunk6
-#: src/apps/qml/MessageDelegate.qml:127
+#: src/apps/qml/MessageDelegate.qml:133
 #, kde-format
 msgctxt "'toks' is short for 'tokens'"
 msgid "%1 tok/s · %2 tokens · %3 seconds"
@@ -218,7 +230,73 @@ msgid "Ollama server URL"
 msgstr ""
 
 #. +> trunk6
-#: src/core/KLLMInterface.cpp:137
+#: src/apps/qml/OllamaSettingsPage.qml:30
+#, kde-format
+msgid "Advanced Parameters"
+msgstr ""
+
+#. +> trunk6
+#: src/apps/qml/OllamaSettingsPage.qml:34
+#, kde-format
+msgid "Context size"
+msgstr ""
+
+#. +> trunk6
+#: src/apps/qml/OllamaSettingsPage.qml:42
+#, kde-format
+msgid "Repeat penalty lookback tokens"
+msgstr ""
+
+#. +> trunk6
+#: src/apps/qml/OllamaSettingsPage.qml:51
+#, kde-format
+msgid "Repeat penalization factor [scaled x10]"
+msgstr ""
+
+#. +> trunk6
+#: src/apps/qml/OllamaSettingsPage.qml:61
+#, kde-format
+msgid "Temperature [scaled x10]"
+msgstr ""
+
+#. +> trunk6
+#: src/apps/qml/OllamaSettingsPage.qml:71
+#, kde-format
+msgid "Seed (-1 = random)"
+msgstr ""
+
+#. +> trunk6
+#: src/apps/qml/OllamaSettingsPage.qml:79
+#, kde-format
+msgid "Maximum tokens to predict (-1 = unlimited)"
+msgstr ""
+
+#. +> trunk6
+#: src/apps/qml/OllamaSettingsPage.qml:87
+#, kde-format
+msgid "Top K"
+msgstr ""
+
+#. +> trunk6
+#: src/apps/qml/OllamaSettingsPage.qml:95
+#, kde-format
+msgid "Top P [scaled x100]"
+msgstr ""
+
+#. +> trunk6
+#: src/apps/qml/OllamaSettingsPage.qml:105
+#, kde-format
+msgid "Min P [scaled x10]"
+msgstr ""
+
+#. +> trunk6
+#: src/apps/qml/OllamaSettingsPage.qml:115
+#, kde-format
+msgid "Reset to defaults"
+msgstr ""
+
+#. +> trunk6
+#: src/core/KLLMInterface.cpp:144
 #, kde-format
 msgctxt "%1 is an URL, %2 an error description"
 msgid "Failed to connect to interface at %1: %2"

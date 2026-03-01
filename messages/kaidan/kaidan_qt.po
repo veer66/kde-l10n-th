@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kaidan_qt\n"
-"POT-Creation-Date: 2026-01-11 08:12+0100\n"
+"POT-Creation-Date: 2026-02-19 10:17+0100\n"
 "PO-Revision-Date: 2025-03-17 14:53+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -12,109 +12,109 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. +> trunk6 stable6
-#: src/Account.cpp:477
+#: src/Account.cpp:475
 msgctxt "Connection|"
 msgid "Disconnected"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/Account.cpp:479
+#: src/Account.cpp:477
 msgctxt "Connection|"
 msgid "Connecting…"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/Account.cpp:481
+#: src/Account.cpp:479
 msgctxt "Connection|"
 msgid "Connected"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/Account.cpp:492
+#: src/Account.cpp:490
 msgctxt "Connection|"
 msgid "Invalid username or password."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/Account.cpp:494
+#: src/Account.cpp:492
 msgctxt "Connection|"
 msgid "Cannot connect to the server. Please check your internet connection."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/Account.cpp:496
+#: src/Account.cpp:494
 msgctxt "Connection|"
 msgid "Error while trying to connect securely."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/Account.cpp:498
+#: src/Account.cpp:496
 msgctxt "Connection|"
 msgid "The server doesn't support secure connections."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/Account.cpp:500
+#: src/Account.cpp:498
 msgctxt "Connection|"
 msgid "Could not connect to the server. Please check your internet connection or your server name."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/Account.cpp:502
+#: src/Account.cpp:500
 msgctxt "Connection|"
 msgid "The server is offline or blocked by a firewall."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/Account.cpp:504
+#: src/Account.cpp:502
 msgctxt "Connection|"
 msgid "Authentication protocol not supported by the server."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/Account.cpp:506
+#: src/Account.cpp:504
 msgctxt "Connection|"
 msgid "The connection could not be refreshed."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/Account.cpp:508
+#: src/Account.cpp:506
 msgctxt "Connection|"
 msgid "The internet access is not permitted. Please check your system's internet access configuration."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/Account.cpp:510
+#: src/Account.cpp:508
 msgctxt "Connection|"
 msgid "This server does not support registration."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/Account.cpp:512
+#: src/Account.cpp:510
 msgctxt "Connection|"
 msgid "Could not log in. Confirm the email message you received first."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/Account.cpp:514
+#: src/Account.cpp:512
 msgctxt "Connection|"
 msgid "Could not connect to the server."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/AccountMigrationController.cpp:332
+#: src/AccountMigrationController.cpp:331
 msgctxt "AccountMigrationController|"
 msgid "Account could not be migrated: Could not load exported account data"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/AccountMigrationController.cpp:349
+#: src/AccountMigrationController.cpp:348
 msgctxt "AccountMigrationController|"
 msgid "Account could not be migrated: You need to be connected"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/AccountMigrationController.cpp:387
+#: src/AccountMigrationController.cpp:386
 #, qt-format
 msgctxt "AccountMigrationController|"
 msgid "Account '%1' migrated to '%2'"
@@ -151,9 +151,23 @@ msgid "Devices on Servers"
 msgstr ""
 
 #. +> trunk6 stable6
+#: src/ChatController.cpp:176
+#, qt-format
+msgctxt "ChatController|"
+msgid "%1 is typing…"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/ChatController.cpp:178
+#, qt-format
+msgctxt "ChatController|"
+msgid "%1 paused typing"
+msgstr ""
+
+#. +> trunk6 stable6
 #: src/ChatHintModel.cpp:249
 msgctxt "ChatHintModel|"
-msgid "Your account is not enabled - Messages are sent and received once enabled"
+msgid "Your account is disabled - Messages are exchanged once connected"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -262,45 +276,45 @@ msgid "Leaving group chat"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/FileSharingController.cpp:313 src/FileSharingController.cpp:448
+#: src/FileSharingController.cpp:305 src/FileSharingController.cpp:440
 msgctxt "FileSharingController|"
 msgid "Canceled"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/FileSharingController.cpp:344
+#: src/FileSharingController.cpp:336
 #, qt-format
 msgctxt "FileSharingController|"
 msgid "Could not download file: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/FileSharingController.cpp:391
+#: src/FileSharingController.cpp:383
 msgctxt "FileSharingController|"
 msgid "Media sharing support is unknown"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/FileSharingController.cpp:394
+#: src/FileSharingController.cpp:386
 msgctxt "FileSharingController|"
 msgid "Media sharing is unsupported"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/FileSharingController.cpp:517
+#: src/FileSharingController.cpp:509
 #, qt-format
 msgctxt "FileSharingController|"
 msgid "Could not upload file: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/FileSharingController.cpp:632
+#: src/FileSharingController.cpp:624
 msgctxt "FileSharingController|"
 msgid "Transfer canceled"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/FileSharingController.cpp:638
+#: src/FileSharingController.cpp:630
 #, qt-format
 msgctxt "FileSharingController|"
 msgid "Transfer failed: %1"
@@ -358,127 +372,127 @@ msgid "Could not generate QR code: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MediaUtils.cpp:316
+#: src/MediaUtils.cpp:322
 msgctxt "MediaUtils|"
 msgid "Audio"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MediaUtils.cpp:318
+#: src/MediaUtils.cpp:324
 msgctxt "MediaUtils|"
 msgid "Document"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MediaUtils.cpp:320
+#: src/MediaUtils.cpp:326
 msgctxt "MediaUtils|"
 msgid "Location"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MediaUtils.cpp:322
+#: src/MediaUtils.cpp:328
 msgctxt "MediaUtils|"
 msgid "Image"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MediaUtils.cpp:324
+#: src/MediaUtils.cpp:330
 msgctxt "MediaUtils|"
 msgid "Video"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MediaUtils.cpp:328
+#: src/MediaUtils.cpp:334
 msgctxt "MediaUtils|"
 msgid "File"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MediaUtils.cpp:337
+#: src/MediaUtils.cpp:343
 msgctxt "MediaUtils|"
 msgid "Take picture"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MediaUtils.cpp:339
+#: src/MediaUtils.cpp:345
 msgctxt "MediaUtils|"
 msgid "Record video"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MediaUtils.cpp:341
+#: src/MediaUtils.cpp:347
 msgctxt "MediaUtils|"
 msgid "Record voice"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MediaUtils.cpp:343
+#: src/MediaUtils.cpp:349
 msgctxt "MediaUtils|"
 msgid "Send location"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MediaUtils.cpp:381
+#: src/MediaUtils.cpp:387
 msgctxt "MediaUtils|"
 msgid "Choose file"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MediaUtils.cpp:383
+#: src/MediaUtils.cpp:389
 msgctxt "MediaUtils|"
 msgid "Choose image"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MediaUtils.cpp:385
+#: src/MediaUtils.cpp:391
 msgctxt "MediaUtils|"
 msgid "Choose video"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MediaUtils.cpp:387
+#: src/MediaUtils.cpp:393
 msgctxt "MediaUtils|"
 msgid "Choose audio file"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MediaUtils.cpp:389
+#: src/MediaUtils.cpp:395
 msgctxt "MediaUtils|"
 msgid "Choose document"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MediaUtils.cpp:411
+#: src/MediaUtils.cpp:417
 msgctxt "MediaUtils|"
 msgid "All files"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MediaUtils.cpp:413
+#: src/MediaUtils.cpp:419
 msgctxt "MediaUtils|"
 msgid "Images"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MediaUtils.cpp:415
+#: src/MediaUtils.cpp:421
 msgctxt "MediaUtils|"
 msgid "Videos"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MediaUtils.cpp:417
+#: src/MediaUtils.cpp:423
 msgctxt "MediaUtils|"
 msgid "Audio files"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MediaUtils.cpp:419
+#: src/MediaUtils.cpp:425
 msgctxt "MediaUtils|"
 msgid "Documents"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MediaUtils.cpp:444
+#: src/MediaUtils.cpp:450
 #, qt-format
 msgctxt "MediaUtils|"
 msgid "%1 (%2)"
@@ -516,45 +530,45 @@ msgid "Invitation to group %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MessageComposition.cpp:276
+#: src/MessageComposition.cpp:273
 msgctxt "MessageComposition|"
 msgid "Message correction was not successful"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MessageComposition.cpp:512
+#: src/MessageComposition.cpp:503
 msgctxt "FileSelectionModel|"
 msgid "Unknown size"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MessageComposition.cpp:556
+#: src/MessageComposition.cpp:547
 #, qt-format
 msgctxt "FileSelectionModel|"
 msgid "'%1' cannot be sent because it is larger than %2"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MessageController.cpp:279
+#: src/MessageController.cpp:278
 msgctxt "MessageController|"
 msgid "Message could not be sent"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MessageController.cpp:283
+#: src/MessageController.cpp:282
 msgctxt "MessageController|"
 msgid "Message could not be sent."
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MessageController.cpp:625
+#: src/MessageController.cpp:616
 #, qt-format
 msgctxt "MessageController|"
 msgid "This message is encrypted with %1 but could not be decrypted"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MessageController.cpp:1029
+#: src/MessageController.cpp:1019
 #, qt-format
 msgctxt "MessageController|"
 msgid "Reaction could not be sent: %1"
@@ -599,13 +613,13 @@ msgid "Reactions could not be sent: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MessageModel.cpp:1301
+#: src/MessageModel.cpp:1317
 msgctxt "MessageModel|"
 msgid "Today"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MessageModel.cpp:1304
+#: src/MessageModel.cpp:1320
 msgctxt "MessageModel|"
 msgid "Yesterday"
 msgstr ""
@@ -650,95 +664,107 @@ msgid "You aren't allowed to join the group"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MixController.cpp:236 src/MixController.cpp:243
+#: src/MixController.cpp:235 src/MixController.cpp:241
 #, qt-format
 msgctxt "MixController|"
 msgid "%1 could not be invited to %2: %3"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MixController.cpp:269
+#: src/MixController.cpp:267
 #, qt-format
 msgctxt "MixController|"
 msgid "Nodes of %1 could not be retrieved: %2"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MixController.cpp:277
+#: src/MixController.cpp:275
 #, qt-format
 msgctxt "MixController|"
 msgid "Allowed users of %1 could not be retrieved: %2"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MixController.cpp:291
+#: src/MixController.cpp:289
 #, qt-format
 msgctxt "MixController|"
 msgid "Banned users of %1 could not be retrieved: %2"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MixController.cpp:306
+#: src/MixController.cpp:304
 #, qt-format
 msgctxt "MixController|"
 msgid "Joined users of %1 could not be retrieved: %2"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MixController.cpp:321
+#: src/MixController.cpp:319
 #, qt-format
 msgctxt "MixController|"
 msgid "%1 could not be banned from %2: %3"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/MixController.cpp:365
+#: src/MixController.cpp:363
 msgctxt "MixController|"
 msgid "You aren't allowed to delete the group"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/NotificationController.cpp:156
+#: src/NotificationController.cpp:157
 msgctxt "NotificationController|"
 msgid "Requests to receive your personal data"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/NotificationController.cpp:170 src/NotificationController.cpp:335
+#: src/NotificationController.cpp:172 src/NotificationController.cpp:340
 msgctxt "NotificationController|"
 msgid "Open"
 msgstr ""
 
-#. +> trunk6
-#: src/NotificationController.cpp:207
+#. +> trunk6 stable6
+#: src/NotificationController.cpp:209
 #, qt-format
 msgctxt "NotificationController|"
 msgid "Incoming call from %1"
 msgstr ""
 
-#. +> trunk6
-#: src/NotificationController.cpp:209
+#. +> trunk6 stable6
+#: src/NotificationController.cpp:211
 #, qt-format
 msgctxt "NotificationController|"
 msgid "Incoming video call from %1"
 msgstr ""
 
-#. +> trunk6
-#: src/NotificationController.cpp:223
+#. +> trunk6 stable6
+#: src/NotificationController.cpp:227
 msgctxt "NotificationController|"
 msgid "Accept"
 msgstr ""
 
-#. +> trunk6
-#: src/NotificationController.cpp:230
+#. +> trunk6 stable6
+#: src/NotificationController.cpp:234
 msgctxt "NotificationController|"
 msgid "Reject"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/NotificationController.cpp:339
+#: src/NotificationController.cpp:344
 msgctxt "NotificationController|"
 msgid "Mark as read"
+msgstr ""
+
+#. +> trunk6
+#: src/NotificationController.cpp:348
+msgctxt "NotificationController|"
+msgid "Reply"
+msgstr ""
+
+#. +> trunk6
+#: src/NotificationController.cpp:349
+msgctxt "NotificationController|"
+msgid "Reply…"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -817,94 +843,100 @@ msgctxt "AboutPage|"
 msgid "About Kaidan"
 msgstr ""
 
-#. +> trunk6
+#. +> trunk6 stable6
 #: src/qml/CallPage.qml:18
 msgctxt "CallPage|"
 msgid "Call"
 msgstr ""
 
-#. +> trunk6
-#: src/qml/ChatPage.qml:96
+#. +> trunk6 stable6
+#: src/qml/ChatPage.qml:114
 msgctxt "ChatPage|"
 msgid "Open audio call"
 msgstr ""
 
-#. +> trunk6
-#: src/qml/ChatPage.qml:96
+#. +> trunk6 stable6
+#: src/qml/ChatPage.qml:114
 msgctxt "ChatPage|"
 msgid "Start audio call"
 msgstr ""
 
-#. +> trunk6
-#: src/qml/ChatPage.qml:109
+#. +> trunk6 stable6
+#: src/qml/ChatPage.qml:137
 msgctxt "ChatPage|"
 msgid "Open video call"
 msgstr ""
 
-#. +> trunk6
-#: src/qml/ChatPage.qml:109
+#. +> trunk6 stable6
+#: src/qml/ChatPage.qml:137
 msgctxt "ChatPage|"
 msgid "Start video call"
 msgstr ""
 
-#. +> trunk6
-#: src/qml/ChatPage.qml:122
+#. +> trunk6 stable6
+#: src/qml/ChatPage.qml:160
+msgctxt "ChatPage|"
+msgid "Search upwards"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/qml/ChatPage.qml:171
+msgctxt "ChatPage|"
+msgid "Search downwards"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/qml/ChatPage.qml:183
 msgctxt "ChatPage|"
 msgid "Quit search"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/ChatPage.qml:122
+#: src/qml/ChatPage.qml:183
 msgctxt "ChatPage|"
 msgid "Search"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/ChatPage.qml:140
-msgctxt "ChatPage|"
-msgid "Details…"
-msgstr ""
-
-#. +> trunk6 stable6
-#: src/qml/ChatPage.qml:505
+#: src/qml/ChatPage.qml:542
 msgctxt "ChatPage|"
 msgid "Cancel forwarding"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/ChatPage.qml:520
+#: src/qml/ChatPage.qml:557
 msgctxt "ChatPage|"
 msgid "Select a chat to forward the message"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/ChatPage.qml:572
+#: src/qml/ChatPage.qml:609
 msgctxt "ChatPage|"
 msgid "Drop files to be sent"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/ChatPage.qml:777
+#: src/qml/ChatPage.qml:847
 #, qt-format
 msgctxt "ChatPage|"
 msgid "Unblocked %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/ChatPage.qml:777
+#: src/qml/ChatPage.qml:847
 msgctxt "ChatPage|"
 msgid "Undo"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/ChatPage.qml:784
+#: src/qml/ChatPage.qml:854
 #, qt-format
 msgctxt "ChatPage|"
 msgid "Could not block %1: %2"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/ChatPage.qml:788
+#: src/qml/ChatPage.qml:858
 #, qt-format
 msgctxt "ChatPage|"
 msgid "Could not unblock %1: %2"
@@ -1134,19 +1166,19 @@ msgid "Website address copied to clipboard"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/AccountDetailsContent.qml:399
+#: src/qml/details/AccountDetailsContent.qml:400
 msgctxt "AccountDetailsContent|"
 msgid "Open support chat"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/AccountDetailsContent.qml:400
+#: src/qml/details/AccountDetailsContent.qml:401
 msgctxt "AccountDetailsContent|"
 msgid "Start chat with your provider's support contact"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/AccountDetailsContent.qml:406
+#: src/qml/details/AccountDetailsContent.qml:408
 msgctxt "AccountDetailsContent|"
 msgid "Support"
 msgstr ""
@@ -1159,50 +1191,50 @@ msgid "Support %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/AccountDetailsContent.qml:441
+#: src/qml/details/AccountDetailsContent.qml:442
 msgctxt "AccountDetailsContent|"
 msgid "Open support group"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/AccountDetailsContent.qml:442
+#: src/qml/details/AccountDetailsContent.qml:443
 msgctxt "AccountDetailsContent|"
 msgid "Join your provider's public support group"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/AccountDetailsContent.qml:460
+#: src/qml/details/AccountDetailsContent.qml:459
 #, qt-format
 msgctxt "AccountDetailsContent|"
 msgid "Group Support %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/AccountDetailsContent.qml:475
+#: src/qml/details/AccountDetailsContent.qml:474
 msgctxt "AccountDetailsContent|"
 msgid "Blocked Chat Addresses"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/AccountDetailsContent.qml:479
+#: src/qml/details/AccountDetailsContent.qml:478
 msgctxt "AccountDetailsContent|"
 msgid "Block a specific user (e.g., user@example.org) or all users of the same server (e.g., example.org)"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/AccountDetailsContent.qml:507
+#: src/qml/details/AccountDetailsContent.qml:506
 msgctxt "AccountDetailsContent|"
 msgid "You must be connected to block or unblock chat addresses"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/AccountDetailsContent.qml:515
+#: src/qml/details/AccountDetailsContent.qml:514
 msgctxt "AccountDetailsContent|"
 msgid "user@example.org"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/AccountDetailsContent.qml:530
+#: src/qml/details/AccountDetailsContent.qml:529
 msgctxt "AccountDetailsContent|"
 msgid "Block chat address"
 msgstr ""
@@ -1287,7 +1319,7 @@ msgstr ""
 
 #. +> trunk6 stable6
 #: src/qml/details/AccountDetailsContent.qml:731
-#: src/qml/details/AccountDetailsContent.qml:993
+#: src/qml/details/AccountDetailsContent.qml:992
 msgctxt "AccountDetailsContent|"
 msgid "Password"
 msgstr ""
@@ -1433,97 +1465,97 @@ msgid "Scan the QR code by another device to log in on it"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/AccountDetailsContent.qml:980
+#: src/qml/details/AccountDetailsContent.qml:979
 msgctxt "AccountDetailsContent|"
 msgid "Show credentials"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/AccountDetailsContent.qml:981
+#: src/qml/details/AccountDetailsContent.qml:980
 msgctxt "AccountDetailsContent|"
 msgid "Enter the credentials in another device to log in on it"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/AccountDetailsContent.qml:987
+#: src/qml/details/AccountDetailsContent.qml:986
 msgctxt "AccountDetailsContent|"
 msgid "Chat address"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/AccountDetailsContent.qml:1005
+#: src/qml/details/AccountDetailsContent.qml:1004
 msgctxt "AccountDetailsContent|"
 msgid "Migration"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/AccountDetailsContent.qml:1010
+#: src/qml/details/AccountDetailsContent.qml:1009
 msgctxt "AccountDetailsContent|"
 msgid "Migrate account"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/AccountDetailsContent.qml:1011
+#: src/qml/details/AccountDetailsContent.qml:1010
 msgctxt "AccountDetailsContent|"
 msgid "Preparing account migration…"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/AccountDetailsContent.qml:1013
+#: src/qml/details/AccountDetailsContent.qml:1012
 msgctxt "AccountDetailsContent|"
 msgid "This may take a while"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/AccountDetailsContent.qml:1013
+#: src/qml/details/AccountDetailsContent.qml:1012
 msgctxt "AccountDetailsContent|"
 msgid "Migrate account data (except chat history) to another account. Your current account will be removed from this app. Back up your credentials and chat history if needed!"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/AccountDetailsContent.qml:1035
+#: src/qml/details/AccountDetailsContent.qml:1034
 msgctxt "AccountDetailsContent|"
 msgid "Removal"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/AccountDetailsContent.qml:1041
+#: src/qml/details/AccountDetailsContent.qml:1040
 msgctxt "AccountDetailsContent|"
 msgid "Remove from Kaidan"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/AccountDetailsContent.qml:1042
+#: src/qml/details/AccountDetailsContent.qml:1041
 msgctxt "AccountDetailsContent|"
 msgid "Remove account from this app. Back up your credentials and chat history if needed!"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/AccountDetailsContent.qml:1050
+#: src/qml/details/AccountDetailsContent.qml:1049
 msgctxt "AccountDetailsContent|"
 msgid "Removing account…"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/AccountDetailsContent.qml:1057
+#: src/qml/details/AccountDetailsContent.qml:1056
 msgctxt "AccountDetailsContent|"
 msgid "Delete completely"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/AccountDetailsContent.qml:1058
+#: src/qml/details/AccountDetailsContent.qml:1057
 msgctxt "AccountDetailsContent|"
 msgid "Delete account from provider. You will not be able to use your account again!"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/AccountDetailsContent.qml:1066
+#: src/qml/details/AccountDetailsContent.qml:1065
 msgctxt "AccountDetailsContent|"
 msgid "Deleting account…"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/AccountDetailsContent.qml:1073
+#: src/qml/details/AccountDetailsContent.qml:1072
 #, qt-format
 msgctxt "AccountDetailsContent|"
 msgid "Your account could not be deleted from the server. Therefore, it was also not removed from this app: %1"
@@ -1536,7 +1568,7 @@ msgid "Account Details"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/AccountDetailsHeader.qml:15
+#: src/qml/details/AccountDetailsHeader.qml:18
 msgctxt "AccountDetailsHeader|"
 msgid "Change your profile image"
 msgstr ""
@@ -1750,7 +1782,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: src/qml/details/ContactDetailsContent.qml:156
 msgctxt "ContactDetailsContent|"
-msgid "Indicate when you have this conversation open, are typing and stopped typing"
+msgid "Indicate when you are typing"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -1911,37 +1943,37 @@ msgid "Show QR code"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/DetailsContent.qml:182
+#: src/qml/details/DetailsContent.qml:181
 msgctxt "DetailsContent|"
 msgid "Copy QR code"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/DetailsContent.qml:184
+#: src/qml/details/DetailsContent.qml:183
 msgctxt "DetailsContent|"
 msgid "QR code copied to clipboard"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/DetailsContent.qml:189
+#: src/qml/details/DetailsContent.qml:188
 msgctxt "DetailsContent|"
 msgid "Copy chat address"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/DetailsContent.qml:195
+#: src/qml/details/DetailsContent.qml:194
 msgctxt "DetailsContent|"
 msgid "Copy invitation link"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/DetailsContent.qml:197
+#: src/qml/details/DetailsContent.qml:196
 msgctxt "DetailsContent|"
 msgid "Invitation link copied to clipboard"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/DetailsHeader.qml:86
+#: src/qml/details/DetailsHeader.qml:88
 msgctxt "DetailsHeader|"
 msgid "Change name…"
 msgstr ""
@@ -2082,7 +2114,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: src/qml/details/GroupChatDetailsContent.qml:353
 msgctxt "GroupChatDetailsContent|"
-msgid "Indicate when you have this conversation open, are typing and stopped typing"
+msgid "Indicate when you are typing"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -2321,7 +2353,7 @@ msgid "Notes Details"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/NotesChatDetailsHeader.qml:9
+#: src/qml/details/NotesChatDetailsHeader.qml:8
 msgctxt "NotesChatDetailsHeader|"
 msgid "Messages in this chat are synchronized as notes across all your devices"
 msgstr ""
@@ -2363,7 +2395,7 @@ msgid "Provider Details"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/ProviderChatDetailsHeader.qml:9
+#: src/qml/details/ProviderChatDetailsHeader.qml:8
 msgctxt "ProviderChatDetailsHeader|"
 msgid "Messages in this chat are from your service provider"
 msgstr ""
@@ -2405,7 +2437,7 @@ msgid "Add label"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/details/RosterItemDetailsHeader.qml:24
+#: src/qml/details/RosterItemDetailsHeader.qml:21
 msgctxt "RosterItemDetailsHeader|"
 msgid "Maximize avatar"
 msgstr ""
@@ -2531,212 +2563,194 @@ msgid "Spoiler"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ChatMessage.qml:507
+#: src/qml/elements/ChatMessage.qml:520
 msgctxt "ChatMessage|"
 msgid "New"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ChatMessage.qml:535
+#: src/qml/elements/ChatMessage.qml:548
 #, qt-format
 msgctxt "ChatMessage|"
 msgid "%1 has read up to this point"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ChatMessageContextMenu.qml:52
+#: src/qml/elements/ChatMessageContextMenu.qml:59
 msgctxt "ChatMessageContextMenu|"
-msgid "Remove selected file"
+msgid "Remove file"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ChatMessageContextMenu.qml:60
+#: src/qml/elements/ChatMessageContextMenu.qml:67
 msgctxt "ChatMessageContextMenu|"
-msgid "Open selected file's folder"
+msgid "Open file in folder"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ChatMessageContextMenu.qml:73
+#: src/qml/elements/ChatMessageContextMenu.qml:80
 msgctxt "ChatMessageContextMenu|"
 msgid "Resend"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ChatMessageContextMenu.qml:81
+#: src/qml/elements/ChatMessageContextMenu.qml:88
 msgctxt "ChatMessageContextMenu|"
 msgid "React"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ChatMessageContextMenu.qml:103
+#: src/qml/elements/ChatMessageContextMenu.qml:113
 msgctxt "ChatMessageContextMenu|"
 msgid "Reply"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ChatMessageContextMenu.qml:121
+#: src/qml/elements/ChatMessageContextMenu.qml:131
 msgctxt "ChatMessageContextMenu|"
 msgid "Quote"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ChatMessageContextMenu.qml:129
+#: src/qml/elements/ChatMessageContextMenu.qml:139
 msgctxt "ChatMessageContextMenu|"
 msgid "Forward"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ChatMessageContextMenu.qml:137
+#: src/qml/elements/ChatMessageContextMenu.qml:147
 msgctxt "ChatMessageContextMenu|"
 msgid "Copy"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ChatMessageContextMenu.qml:151
+#: src/qml/elements/ChatMessageContextMenu.qml:161
 msgctxt "ChatMessageContextMenu|"
 msgid "Edit"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ChatMessageContextMenu.qml:159
+#: src/qml/elements/ChatMessageContextMenu.qml:172
 msgctxt "ChatMessageContextMenu|"
 msgid "Mark"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ChatMessageContextMenu.qml:167
+#: src/qml/elements/ChatMessageContextMenu.qml:180
 msgctxt "ChatMessageContextMenu|"
 msgid "Remove from this device"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ChatPageSearchView.qml:48
-msgctxt "ChatPageSearchView|"
-msgid "Close search"
-msgstr ""
-
-#. +> trunk6 stable6
-#: src/qml/elements/ChatPageSearchView.qml:81
-msgctxt "ChatPageSearchView|"
-msgid "Search up"
-msgstr ""
-
-#. +> trunk6 stable6
-#: src/qml/elements/ChatPageSearchView.qml:92
-msgctxt "ChatPageSearchView|"
-msgid "Search down"
-msgstr ""
-
-#. +> trunk6 stable6
-#: src/qml/elements/ChatPageSendingPane.qml:95
+#: src/qml/elements/ChatPageSendingPane.qml:100
 msgctxt "ChatPageSendingPane|"
 msgid "Cancel reply"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ChatPageSendingPane.qml:139
+#: src/qml/elements/ChatPageSendingPane.qml:137
 msgctxt "ChatPageSendingPane|"
 msgid "Visible message part"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ChatPageSendingPane.qml:146
+#: src/qml/elements/ChatPageSendingPane.qml:144
 msgctxt "ChatPageSendingPane|"
 msgid "Cancel adding hidden message part"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ChatPageSendingPane.qml:173
+#: src/qml/elements/ChatPageSendingPane.qml:171
 msgctxt "ChatPageSendingPane|"
 msgid "Add an emoji"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ChatPageSendingPane.qml:183
+#: src/qml/elements/ChatPageSendingPane.qml:181
 msgctxt "ChatPageSendingPane|"
 msgid "Mention a participant"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ChatPageSendingPane.qml:215
+#: src/qml/elements/ChatPageSendingPane.qml:213
 msgctxt "ChatPageSendingPane|"
 msgid "Compose <b>encrypted </b> message with hidden part"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ChatPageSendingPane.qml:215
+#: src/qml/elements/ChatPageSendingPane.qml:213
 msgctxt "ChatPageSendingPane|"
 msgid "Compose <b>unencrypted</b> message with hidden part"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ChatPageSendingPane.qml:217
+#: src/qml/elements/ChatPageSendingPane.qml:215
 msgctxt "ChatPageSendingPane|"
 msgid "Compose <b>encrypted</b> message"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ChatPageSendingPane.qml:217
+#: src/qml/elements/ChatPageSendingPane.qml:215
 msgctxt "ChatPageSendingPane|"
 msgid "Compose <b>unencrypted</b> message"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ChatPageSendingPane.qml:331
+#: src/qml/elements/ChatPageSendingPane.qml:309
 msgctxt "ChatPageSendingPane|"
 msgid "Take a picture"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ChatPageSendingPane.qml:338
+#: src/qml/elements/ChatPageSendingPane.qml:316
 msgctxt "ChatPageSendingPane|"
 msgid "Record a video"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ChatPageSendingPane.qml:345
+#: src/qml/elements/ChatPageSendingPane.qml:323
 msgctxt "ChatPageSendingPane|"
 msgid "Share files"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ChatPageSendingPane.qml:355
+#: src/qml/elements/ChatPageSendingPane.qml:333
 msgctxt "ChatPageSendingPane|"
 msgid "Share your location"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ChatPageSendingPane.qml:362
+#: src/qml/elements/ChatPageSendingPane.qml:340
 msgctxt "ChatPageSendingPane|"
 msgid "Add hidden message part"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ChatPageSendingPane.qml:405
+#: src/qml/elements/ChatPageSendingPane.qml:383
 msgctxt "ChatPageSendingPane|"
 msgid "Hide"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ChatPageSendingPane.qml:405
+#: src/qml/elements/ChatPageSendingPane.qml:383
 msgctxt "ChatPageSendingPane|"
 msgid "More"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ChatPageSendingPane.qml:453
+#: src/qml/elements/ChatPageSendingPane.qml:431
 msgctxt "ChatPageSendingPane|"
 msgid "Send a voice message"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ChatPageSendingPane.qml:477
+#: src/qml/elements/ChatPageSendingPane.qml:455
 msgctxt "ChatPageSendingPane|"
 msgid "Send"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/ConfirmationFormButtonArea.qml:47
+#: src/qml/elements/ConfirmationFormButtonArea.qml:46
 msgctxt "ConfirmationFormButtonArea|"
 msgid "Confirm"
 msgstr ""
@@ -3390,19 +3404,19 @@ msgid "Search public groups (%1)"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/PublicGroupChatSearchDialog.qml:72
+#: src/qml/elements/PublicGroupChatSearchDialog.qml:73
 msgctxt "PublicGroupChatSearchDialog|"
 msgid "Downloading…"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/PublicGroupChatSearchDialog.qml:97
+#: src/qml/elements/PublicGroupChatSearchDialog.qml:98
 msgctxt "PublicGroupChatSearchDialog|"
 msgid "Retry"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/PublicGroupChatSearchDialog.qml:179
+#: src/qml/elements/PublicGroupChatSearchDialog.qml:180
 #, qt-format
 msgctxt "PublicGroupChatSearchDialog|"
 msgid "The public groups could not be retrieved: %1"
@@ -3584,9 +3598,15 @@ msgid "Pin"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/elements/SearchBarPage.qml:29
+#: src/qml/elements/SearchBarPage.qml:65
 msgctxt "SearchBarPage|"
-msgid "Search"
+msgid "Open menu"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/qml/elements/SearchBarPage.qml:75
+msgctxt "SearchBarPage|"
+msgid "Go back"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -3602,123 +3622,123 @@ msgid "Record a video"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/EmptyChatPage.qml:23
+#: src/qml/EmptyChatPage.qml:31
 msgctxt "EmptyChatPage|"
 msgid "Select a chat to start"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/GlobalDrawer.qml:54
+#: src/qml/GlobalDrawer.qml:56
 msgctxt "GlobalDrawer|"
 msgid "Accounts"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/GlobalDrawer.qml:118
+#: src/qml/GlobalDrawer.qml:120
 msgctxt "GlobalDrawer|"
 msgid "Password"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/GlobalDrawer.qml:119
+#: src/qml/GlobalDrawer.qml:121
 msgctxt "GlobalDrawer|"
 msgid "Enter your correct password"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/GlobalDrawer.qml:128
+#: src/qml/GlobalDrawer.qml:130
 msgctxt "GlobalDrawer|"
 msgid "Confirm password"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/GlobalDrawer.qml:174
+#: src/qml/GlobalDrawer.qml:176
 msgctxt "GlobalDrawer|"
 msgid "Actions"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/GlobalDrawer.qml:178
+#: src/qml/GlobalDrawer.qml:180
 msgctxt "GlobalDrawer|"
 msgid "Enable your account to use all available actions"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/GlobalDrawer.qml:178
+#: src/qml/GlobalDrawer.qml:180
 msgctxt "GlobalDrawer|"
 msgid "Enable an account to use all available actions"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/GlobalDrawer.qml:183
+#: src/qml/GlobalDrawer.qml:185
 msgctxt "GlobalDrawer|"
 msgid "Add contact by QR code"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/GlobalDrawer.qml:190
+#: src/qml/GlobalDrawer.qml:192
 msgctxt "GlobalDrawer|"
 msgid "Add contact by chat address"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/GlobalDrawer.qml:197
+#: src/qml/GlobalDrawer.qml:199
 msgctxt "GlobalDrawer|"
 msgid "Create group"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/GlobalDrawer.qml:197
+#: src/qml/GlobalDrawer.qml:199
 msgctxt "GlobalDrawer|"
 msgid "Create group (unsupported)"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/GlobalDrawer.qml:223
+#: src/qml/GlobalDrawer.qml:225
 msgctxt "GlobalDrawer|"
 msgid "Join group"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/GlobalDrawer.qml:223
+#: src/qml/GlobalDrawer.qml:225
 msgctxt "GlobalDrawer|"
 msgid "Join group (unsupported)"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/GlobalDrawer.qml:250
+#: src/qml/GlobalDrawer.qml:252
 msgctxt "GlobalDrawer|"
 msgid "Search public groups"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/GlobalDrawer.qml:264
+#: src/qml/GlobalDrawer.qml:266
 msgctxt "GlobalDrawer|"
 msgid "About"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/GlobalDrawer.qml:454
+#: src/qml/GlobalDrawer.qml:462
 #, qt-format
 msgctxt "GlobalDrawer|"
 msgid "Unblocked %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/GlobalDrawer.qml:454
+#: src/qml/GlobalDrawer.qml:462
 msgctxt "GlobalDrawer|"
 msgid "Undo"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/GlobalDrawer.qml:461
+#: src/qml/GlobalDrawer.qml:469
 #, qt-format
 msgctxt "GlobalDrawer|"
 msgid "Could not block %1: %2"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/GlobalDrawer.qml:465
+#: src/qml/GlobalDrawer.qml:473
 #, qt-format
 msgctxt "GlobalDrawer|"
 msgid "Could not unblock %1: %2"
@@ -3767,25 +3787,31 @@ msgid "Connecting…"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/registration/AutomaticRegistrationPage.qml:24
+#: src/qml/registration/AutomaticRegistrationPage.qml:25
 msgctxt "AutomaticRegistrationPage|"
 msgid "Automatic Registration"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/registration/AutomaticRegistrationPage.qml:54
+#: src/qml/registration/AutomaticRegistrationPage.qml:55
 msgctxt "AutomaticRegistrationPage|"
 msgid "Requesting registration…"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/registration/AutomaticRegistrationPage.qml:59
+#: src/qml/registration/AutomaticRegistrationPage.qml:60
 msgctxt "AutomaticRegistrationPage|"
 msgid "Complete the registration!"
 msgstr ""
 
+#. +> trunk6
+#: src/qml/registration/AutomaticRegistrationPage.qml:93
+msgctxt "AutomaticRegistrationPage|"
+msgid "Try another provider"
+msgstr ""
+
 #. +> trunk6 stable6
-#: src/qml/registration/AutomaticRegistrationPage.qml:113
+#: src/qml/registration/AutomaticRegistrationPage.qml:132
 msgctxt "AutomaticRegistrationPage|"
 msgid "Automatic registration failed because of problems with all providers"
 msgstr ""
@@ -4057,14 +4083,14 @@ msgid "Step 2: Log in with your registered account"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/RosterPage.qml:29 src/qml/RosterPage.qml:206
-#: src/qml/RosterPage.qml:219
+#: src/qml/RosterPage.qml:33 src/qml/RosterPage.qml:216
+#: src/qml/RosterPage.qml:229
 msgctxt "RosterPage|"
 msgid "Filter"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/qml/RosterPage.qml:37
+#: src/qml/RosterPage.qml:40
 msgctxt "RosterPage|"
 msgid "Pin & Move"
 msgstr ""
@@ -4109,27 +4135,6 @@ msgstr ""
 #: src/QmlUtils.cpp:223
 msgctxt "QmlUtils|"
 msgid "Unknown size"
-msgstr ""
-
-#. +> trunk6 stable6
-#: src/QmlUtils.cpp:238
-#, qt-format
-msgctxt "QmlUtils|"
-msgid "%1 is online"
-msgstr ""
-
-#. +> trunk6 stable6
-#: src/QmlUtils.cpp:240
-#, qt-format
-msgctxt "QmlUtils|"
-msgid "%1 is typing…"
-msgstr ""
-
-#. +> trunk6 stable6
-#: src/QmlUtils.cpp:242
-#, qt-format
-msgctxt "QmlUtils|"
-msgid "%1 paused typing"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -4191,7 +4196,7 @@ msgid "Notes"
 msgstr ""
 
 #. +> trunk6 stable6
-#: src/RosterModel.cpp:755
+#: src/RosterModel.cpp:758
 msgctxt "RosterModel|"
 msgid "Yesterday"
 msgstr ""

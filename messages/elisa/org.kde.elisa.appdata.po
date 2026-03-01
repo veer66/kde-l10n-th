@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2025-03-09 09:43+0100\n"
+"POT-Creation-Date: 2026-02-25 09:27+0100\n"
 "PO-Revision-Date: 2025-02-28 23:23+0700\n"
 "Last-Translator: Pongsakorn S. <kde@xerusion.me>\n"
 "Language-Team: Thai <kde-i18n-doc@kde.org>\n"
@@ -50,12 +50,12 @@ msgstr "ผ่อนคลายไปกับโหมดปาร์ตี้
 
 #. (itstool) path: screenshot/caption
 #. +> trunk6 stable6
-#: org.kde.elisa.appdata.xml:28
+#: org.kde.elisa.appdata.xml:29
 msgid "The Elisa music player"
 msgstr "เครื่องเล่นเพลง Elisa"
 
 #. (itstool) path: screenshot/caption
 #. +> trunk6 stable6
-#: org.kde.elisa.appdata.xml:32
+#: org.kde.elisa.appdata.xml:33
 msgid "Elisa on Plasma Mobile"
 msgstr "Elisa บน Plasma Mobile"

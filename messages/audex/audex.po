@@ -836,7 +836,7 @@ msgstr ""
 #: dialogs/extractingprogresswidgetUI.ui:115
 #: dialogs/extractingprogresswidgetUI.ui:161
 #: dialogs/extractingprogresswidgetUI.ui:215
-#, no-c-format, kde-format
+#, kde-format, no-c-format
 msgid "%p%"
 msgstr ""
 

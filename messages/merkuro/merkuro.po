@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: merkuro\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-02 07:33+0100\n"
+"POT-Creation-Date: 2026-02-03 10:28+0100\n"
 "PO-Revision-Date: 2025-03-17 14:55+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -190,25 +190,25 @@ msgid "Refresh All"
 msgstr ""
 
 #. +> trunk6 stable6
-#: calendar/calendarmanager.cpp:526
+#: calendar/calendarmanager.cpp:535
 #, kde-format
 msgid "Move occurrence(s)"
 msgstr ""
 
 #. +> trunk6 stable6
-#: calendar/calendarmanager.cpp:531
+#: calendar/calendarmanager.cpp:540
 #, kde-format
 msgid "Unable to add the exception item to the calendar. No change will be done."
 msgstr ""
 
 #. +> trunk6 stable6
-#: calendar/calendarmanager.cpp:571
+#: calendar/calendarmanager.cpp:580
 #, kde-format
 msgid "Delete task and its sub-tasks"
 msgstr ""
 
 #. +> trunk6 stable6
-#: calendar/calendarmanager.cpp:574
+#: calendar/calendarmanager.cpp:583
 #, kde-format
 msgid "Delete task and make sub-tasks independent"
 msgstr ""
@@ -2268,6 +2268,19 @@ msgstr ""
 msgid "Add New Calendar Source…"
 msgstr ""
 
+#. +> trunk6
+#: calendar/qml/Settings/SourceSettingsPage.qml:28
+#, kde-format
+msgid "System Accounts"
+msgstr ""
+
+#. +> trunk6
+#: calendar/qml/Settings/SystemAccountsForm.qml:54
+#, kde-format
+msgctxt "@action:button"
+msgid "Add Account…"
+msgstr ""
+
 #. +> trunk6 stable6
 #: calendar/qml/Settings/ViewSettingsPage.qml:18
 #, kde-format
@@ -2581,20 +2594,6 @@ msgstr ""
 #: components/abstractmerkuroapplication.cpp:37
 #, kde-format
 msgid "Show Menubar"
-msgstr ""
-
-#. +> trunk6 stable6
-#: components/colorproxymodel.cpp:80
-#, kde-format
-msgctxt "@item this is the default calendar"
-msgid "%1 (Offline)"
-msgstr ""
-
-#. +> trunk6 stable6
-#: components/colorproxymodel.cpp:83
-#, kde-format
-msgctxt "@item this is the default calendar"
-msgid "%1 (Default)"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -2967,7 +2966,7 @@ msgid "EMail"
 msgstr ""
 
 #. +> trunk6 stable6
-#: contacts/contactmanager.cpp:188
+#: contacts/contactmanager.cpp:197
 #, kde-format
 msgctxt "@title:window"
 msgid "Properties of Address Book %1"
@@ -4387,6 +4386,20 @@ msgstr ""
 #: calendar/qml/Controls/Tag.qml:111
 #, kde-format
 msgid "Remove Tag"
+msgstr ""
+
+#. +> stable6
+#: components/colorproxymodel.cpp:80
+#, kde-format
+msgctxt "@item this is the default calendar"
+msgid "%1 (Offline)"
+msgstr ""
+
+#. +> stable6
+#: components/colorproxymodel.cpp:83
+#, kde-format
+msgctxt "@item this is the default calendar"
+msgid "%1 (Default)"
 msgstr ""
 
 #. +> stable6

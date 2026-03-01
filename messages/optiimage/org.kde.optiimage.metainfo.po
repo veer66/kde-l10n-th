@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: org.kde.optiimage.metainfo\n"
-"POT-Creation-Date: 2024-12-13 14:11+0100\n"
+"POT-Creation-Date: 2026-02-14 09:57+0100\n"
 "PO-Revision-Date: 2025-03-17 14:55+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -69,4 +69,10 @@ msgstr ""
 #. +> trunk6
 #: org.kde.optiimage.metainfo.xml:46
 msgid "OptiImage main view showing a list of images getting processed"
+msgstr ""
+
+#. (itstool) path: description/p
+#. +> trunk6
+#: org.kde.optiimage.metainfo.xml:53
+msgid "Initial release of OptiImage"
 msgstr ""

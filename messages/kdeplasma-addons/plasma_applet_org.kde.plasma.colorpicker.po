@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_kolourpicker\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-12-01 10:35+0100\n"
+"POT-Creation-Date: 2026-02-17 10:07+0100\n"
 "PO-Revision-Date: 2007-10-20 17:18+1000\n"
 "Last-Translator: Sahachart Anukulkitch <drrider@gmail.com>\n"
 "Language-Team: Thai <thai-l10n@googlegroups.com>\n"
@@ -17,22 +17,29 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+#. +> trunk6
+#: qml/ColorCircle.qml:26
+#, kde-format
+msgctxt "@info"
+msgid "No Saved Colors"
+msgstr ""
+
 #. +> trunk6 stable6
-#: qml/ColorCircle.qml:39
+#: qml/ColorCircle.qml:40
 #, kde-format
 msgctxt "@info:usagetip"
 msgid "Middle-click to copy the color code"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: qml/CompactRepresentation.qml:74
+#: qml/CompactRepresentation.qml:79
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Pick color"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: qml/CompactRepresentation.qml:81
+#: qml/CompactRepresentation.qml:86
 #, kde-kuit-format
 msgctxt "@info:usagetip"
 msgid ""
@@ -91,7 +98,7 @@ msgid "Preview count:"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: qml/main.qml:121
+#: qml/main.qml:122
 #, fuzzy, kde-format
 #| msgid "Copy Color Value"
 msgctxt "@action"
@@ -99,7 +106,7 @@ msgid "Open Color Dialog"
 msgstr "คัดลอกค่าสี"
 
 #. +> trunk6 stable6 stable5
-#: qml/main.qml:126
+#: qml/main.qml:127
 #, fuzzy, kde-format
 #| msgid "Clear History"
 msgctxt "@action"
@@ -107,7 +114,7 @@ msgid "Clear History"
 msgstr "ล้างประวัติ"
 
 #. +> trunk6 stable6 stable5
-#: qml/main.qml:134
+#: qml/main.qml:135
 #, fuzzy, kde-format
 #| msgid "Clear History"
 msgctxt "@action"
@@ -115,56 +122,56 @@ msgid "View History"
 msgstr "ล้างประวัติ"
 
 #. +> trunk6 stable6 stable5
-#: qml/main.qml:142
+#: qml/main.qml:143
 #, kde-format
 msgctxt "@title:menu"
 msgid "Copy to Clipboard"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: qml/main.qml:182
+#: qml/main.qml:183
 #, kde-format
 msgctxt "@info:usagetip"
 msgid "No colors"
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/main.qml:182
+#: qml/main.qml:183
 #, kde-format
 msgctxt "@info:status when color picking is unavailable"
 msgid "Color picking unavailable when compositing is disabled"
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/main.qml:183
+#: qml/main.qml:184
 #, kde-format
 msgctxt "@info:status when color pick is unavailable"
 msgid "Compositing has been manually disabled or blocked by a running application"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: qml/main.qml:190
+#: qml/main.qml:191
 #, kde-format
 msgctxt "@action:button"
 msgid "Pick Color"
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/main.qml:198
+#: qml/main.qml:199
 #, kde-format
 msgctxt "@action:button open kwincompositing KCM"
 msgid "Configure Compositing"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: qml/main.qml:384
+#: qml/main.qml:385
 #, kde-format
 msgctxt "@info:progress just copied a color to clipboard"
 msgid "Copied!"
 msgstr ""
 
 #. +> trunk6 stable6 stable5
-#: qml/main.qml:395
+#: qml/main.qml:396
 #, kde-format
 msgctxt "@action:button"
 msgid "Delete"

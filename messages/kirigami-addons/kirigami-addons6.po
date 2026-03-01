@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kirigami-addons\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-09-23 10:36+0200\n"
+"POT-Creation-Date: 2026-02-25 09:28+0100\n"
 "PO-Revision-Date: 2025-03-17 14:54+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -25,7 +25,7 @@ msgid "Your emails"
 msgstr ""
 
 #. +> trunk6
-#: components/AbstractMaximizeComponent.qml:136
+#: components/AbstractMaximizeComponent.qml:138
 #, kde-format
 msgid "Close"
 msgstr ""
@@ -75,19 +75,19 @@ msgid "Save as"
 msgstr ""
 
 #. +> trunk6
-#: components/AlbumMaximizeComponent.qml:257
+#: components/AlbumMaximizeComponent.qml:256
 #, kde-format
 msgid "Previous image"
 msgstr ""
 
 #. +> trunk6
-#: components/AlbumMaximizeComponent.qml:277
+#: components/AlbumMaximizeComponent.qml:274
 #, kde-format
 msgid "Next image"
 msgstr ""
 
 #. +> trunk6
-#: components/Banner.qml:185 formcard/AboutPage.qml:502
+#: components/Banner.qml:185 formcard/AboutPage.qml:518
 #, kde-format
 msgctxt "@action:button"
 msgid "Close"
@@ -210,20 +210,20 @@ msgid "Go Next"
 msgstr ""
 
 #. +> trunk6
-#: dateandtime/TimePicker.qml:114
+#: dateandtime/TimePicker.qml:118
 #, kde-format
 msgid "Hours"
 msgstr ""
 
 #. +> trunk6
-#: dateandtime/TimePicker.qml:137
+#: dateandtime/TimePicker.qml:141
 #, kde-format
 msgctxt "Time separator"
 msgid ":"
 msgstr ""
 
 #. +> trunk6
-#: dateandtime/TimePicker.qml:152
+#: dateandtime/TimePicker.qml:156
 #, kde-format
 msgid "Minutes"
 msgstr ""
@@ -338,7 +338,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk6
-#: formcard/AboutKDEPage.qml:77 formcard/AboutPage.qml:225
+#: formcard/AboutKDEPage.qml:77 formcard/AboutPage.qml:239
 #, kde-format
 msgid "Homepage"
 msgstr ""
@@ -379,7 +379,7 @@ msgid "You do not have to be a software developer to be a member of the KDE team
 msgstr ""
 
 #. +> trunk6
-#: formcard/AboutKDEPage.qml:129 formcard/AboutPage.qml:253
+#: formcard/AboutKDEPage.qml:129 formcard/AboutPage.qml:267
 #, kde-format
 msgid "Get Involved"
 msgstr ""
@@ -418,32 +418,32 @@ msgid "KDE e.V."
 msgstr ""
 
 #. +> trunk6
-#: formcard/AboutKDEPage.qml:173 formcard/AboutPage.qml:239
+#: formcard/AboutKDEPage.qml:173 formcard/AboutPage.qml:253
 #, kde-format
 msgid "Donate"
 msgstr ""
 
 #. +> trunk6
-#: formcard/AboutPage.qml:91
+#: formcard/AboutPage.qml:98
 #: statefulapplication/abstractkirigamiapplication.cpp:167
 #, kde-format
 msgid "About %1"
 msgstr ""
 
 #. +> trunk6
-#: formcard/AboutPage.qml:136
+#: formcard/AboutPage.qml:144
 #, kde-format
 msgid "Copyright"
 msgstr ""
 
 #. +> trunk6
-#: formcard/AboutPage.qml:144
+#: formcard/AboutPage.qml:152
 #, kde-format
 msgid "Description"
 msgstr ""
 
 #. +> trunk6
-#: formcard/AboutPage.qml:157
+#: formcard/AboutPage.qml:165
 #, kde-format
 msgid "License"
 msgid_plural "Licenses"
@@ -451,57 +451,57 @@ msgstr[0] ""
 msgstr[1] ""
 
 #. +> trunk6
-#: formcard/AboutPage.qml:279
+#: formcard/AboutPage.qml:293
 #, kde-format
 msgid "Report a Bug"
 msgstr ""
 
 #. +> trunk6
-#: formcard/AboutPage.qml:285
+#: formcard/AboutPage.qml:299
 #, kde-format
 msgid "Libraries in use"
 msgstr ""
 
 #. +> trunk6
-#: formcard/AboutPage.qml:288
+#: formcard/AboutPage.qml:303
 #, kde-format
 msgctxt "@action:button"
 msgid "Copy to Clipboard"
 msgstr ""
 
 #. +> trunk6
-#: formcard/AboutPage.qml:292
+#: formcard/AboutPage.qml:307
 #, kde-format
 msgctxt "@info"
 msgid "System information copied to clipboard."
 msgstr ""
 
 #. +> trunk6
-#: formcard/AboutPage.qml:305
+#: formcard/AboutPage.qml:321
 #, kde-format
 msgid "Authors"
 msgstr ""
 
 #. +> trunk6
-#: formcard/AboutPage.qml:320
+#: formcard/AboutPage.qml:336
 #, kde-format
 msgid "Credits"
 msgstr ""
 
 #. +> trunk6
-#: formcard/AboutPage.qml:335
+#: formcard/AboutPage.qml:351
 #, kde-format
 msgid "Translators"
 msgstr ""
 
 #. +> trunk6
-#: formcard/AboutPage.qml:404
+#: formcard/AboutPage.qml:420
 #, kde-format
 msgid "Visit %1's KDE Store page"
 msgstr ""
 
 #. +> trunk6
-#: formcard/AboutPage.qml:413
+#: formcard/AboutPage.qml:429
 #, kde-format
 msgid "Send an email to %1"
 msgstr ""
@@ -528,63 +528,63 @@ msgid "Icon"
 msgstr ""
 
 #. +> trunk6
-#: formcard/FormDateTimeDelegate.qml:202
+#: formcard/FormDateTimeDelegate.qml:213
 #, kde-format
 msgctxt "Displayed in place of the date if the selected day is today"
 msgid "Today"
 msgstr ""
 
 #. +> trunk6
-#: formcard/FormDateTimeDelegate.qml:229 formcard/FormDateTimeDelegate.qml:366
+#: formcard/FormDateTimeDelegate.qml:240 formcard/FormDateTimeDelegate.qml:377
 #, kde-format
 msgctxt "Date is not set"
 msgid "Not set"
 msgstr ""
 
 #. +> trunk6
-#: formcard/FormFileDelegate.qml:180
+#: formcard/FormFileDelegate.qml:191
 #, kde-format
 msgctxt "@info:status"
 msgid "The path doesn't exist."
 msgstr ""
 
 #. +> trunk6
-#: formcard/FormFileDelegate.qml:189
+#: formcard/FormFileDelegate.qml:200
 #, kde-format
 msgctxt "@info:status"
 msgid "The file doesn't exist."
 msgstr ""
 
 #. +> trunk6
-#: formcard/FormFileDelegate.qml:256
+#: formcard/FormFileDelegate.qml:267
 #, kde-format
 msgctxt "@action:button"
 msgid "Select file"
 msgstr ""
 
 #. +> trunk6
-#: formcard/FormFileDelegate.qml:263
+#: formcard/FormFileDelegate.qml:274
 #, kde-format
 msgctxt "@info:placeholderwrapMode"
 msgid "No file selected"
 msgstr ""
 
 #. +> trunk6
-#: formcard/FormFolderDelegate.qml:147
+#: formcard/FormFolderDelegate.qml:158
 #, kde-format
 msgctxt "@info:status"
 msgid "The folder doesn't exist."
 msgstr ""
 
 #. +> trunk6
-#: formcard/FormFolderDelegate.qml:204
+#: formcard/FormFolderDelegate.qml:215
 #, kde-format
 msgctxt "@action:button"
 msgid "Select folder"
 msgstr ""
 
 #. +> trunk6
-#: formcard/FormFolderDelegate.qml:211
+#: formcard/FormFolderDelegate.qml:222
 #, kde-format
 msgctxt "@info:placeholderwrapMode"
 msgid "No folder selected"
@@ -613,7 +613,7 @@ msgstr ""
 
 #. +> trunk6
 #: formcard/FormPasswordFieldDelegate.qml:249
-#: formcard/FormTextAreaDelegate.qml:174 formcard/FormTextFieldDelegate.qml:270
+#: formcard/FormTextAreaDelegate.qml:185 formcard/FormTextFieldDelegate.qml:281
 #, kde-format
 msgctxt "@label %1 is current text length, %2 is maximum length of text field"
 msgid "%1/%2"

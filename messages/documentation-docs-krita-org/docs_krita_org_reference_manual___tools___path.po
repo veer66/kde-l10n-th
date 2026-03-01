@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Krita Manual 5.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-14 09:48+0200\n"
+"POT-Creation-Date: 2026-02-25 09:27+0100\n"
 "PO-Revision-Date: 2025-03-17 14:53+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -33,12 +33,12 @@ msgid ".. image:: /images/icons/Krita_mouse_right.png"
 msgstr ""
 
 #. +> trunk5
-#: ../../<rst_epilog>:34
+#: ../../<rst_epilog>:30
 msgid "toolbeziercurve"
 msgstr ""
 
 #. +> trunk5
-#: ../../<rst_epilog>:34
+#: ../../<rst_epilog>:30
 msgid ".. image:: /images/icons/bezier_curve.svg"
 msgstr ""
 
