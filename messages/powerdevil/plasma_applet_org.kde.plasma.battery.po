@@ -391,7 +391,7 @@ msgstr "ไม่มีแบตเตอรี่"
 #| msgid "<b>Battery:</b> %1% (fully charged)<br />"
 msgctxt "time until fully charged - HH:MM"
 msgid "%1 until fully charged"
-msgstr "1% จนกว่าจะชาร์จเต็ม"
+msgstr "%1 จนกว่าจะชาร์จเต็ม"
 
 #. +> trunk6 stable6 stable5
 #: main.qml:157
