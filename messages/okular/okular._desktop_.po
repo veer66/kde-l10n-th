@@ -83,7 +83,7 @@ msgstr "เครื่องมือแสดงเอกสาร"
 #: generators/comicbook/okularApplication_comicbook.desktop:199
 msgctxt "X-KDE-Keywords"
 msgid "cbr, cbz, cbt, cb7, Comic Book"
-msgstr ""
+msgstr "cbr, cbz, cbt, cb7, หนังสือการ์ตูน"
 
 #. +> trunk6 stable6
 #: generators/comicbook/org.kde.mobile.okular_comicbook.desktop:3
@@ -102,7 +102,7 @@ msgstr ""
 #: generators/xps/org.kde.mobile.okular_xps.desktop:3
 msgctxt "Name"
 msgid "Reader"
-msgstr ""
+msgstr "ตัวอ่าน"
 
 #. +> trunk6 stable6
 #: generators/comicbook/org.kde.mobile.okular_comicbook.desktop:63
@@ -144,13 +144,13 @@ msgstr "เครื่องมือแสดงเอกสาร"
 #: generators/xps/org.kde.mobile.okular_xps.desktop:123
 msgctxt "Comment"
 msgid "Viewer for various types of documents"
-msgstr ""
+msgstr "เครื่องมือแสดงเอกสารประเภทต่าง ๆ"
 
 #. +> trunk6 stable6
 #: generators/comicbook/org.kde.mobile.okular_comicbook.desktop:192
 msgctxt "X-KDE-Keywords"
 msgid "cbr, cbz, cbt, Comic Book"
-msgstr ""
+msgstr "cbr, cbz, cbt, หนังสือการ์ตูน"
 
 #. +> trunk6 stable6
 #: generators/djvu/okularApplication_djvu.desktop:199
@@ -177,21 +177,21 @@ msgstr "เอกสาร dvi"
 #: generators/epub/org.kde.mobile.okular_epub.desktop:192
 msgctxt "X-KDE-Keywords"
 msgid "epub, e-book"
-msgstr ""
+msgstr "epub, e-book"
 
 #. +> trunk6 stable6
 #: generators/fictionbook/okularApplication_fb.desktop:199
 #: generators/fictionbook/org.kde.mobile.okular_fb.desktop:192
 msgctxt "X-KDE-Keywords"
 msgid "FictionBook, e-book, fb2"
-msgstr ""
+msgstr "FictionBook, e-book, fb2"
 
 #. +> trunk6 stable6
 #: generators/markdown/okularApplication_md.desktop:199
 #: generators/markdown/org.kde.mobile.okular_md.desktop:191
 msgctxt "X-KDE-Keywords"
 msgid "Markdown"
-msgstr ""
+msgstr "Markdown"
 
 #. +> trunk6 stable6
 #: generators/mobipocket/okularApplication_mobi.desktop:200
@@ -227,14 +227,14 @@ msgstr "เอกสาร Ghostscript"
 #: generators/txt/org.kde.mobile.okular_txt.desktop:192
 msgctxt "X-KDE-Keywords"
 msgid "txt"
-msgstr ""
+msgstr "txt"
 
 #. +> trunk6 stable6
 #: generators/xps/okularApplication_xps.desktop:198
 #: generators/xps/org.kde.mobile.okular_xps.desktop:192
 msgctxt "X-KDE-Keywords"
 msgid "XPS"
-msgstr ""
+msgstr "XPS"
 
 #~ msgctxt "Comment"
 #~ msgid "File format backend for Okular"
