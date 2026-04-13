@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-04-22 09:35+0200\n"
 "PO-Revision-Date: 2025-03-17 14:55+0700\n"
-"Last-Translator: Thai Translator <none>\n"
+"Last-Translator: Vee Satayamas <vsatayamas@gmail.com>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
 "Language: th\n"
 "MIME-Version: 1.0\n"
@@ -16,20 +16,20 @@ msgstr ""
 #: generators/comicbook/libokularGenerator_comicbook.json
 msgctxt "Name"
 msgid "ComicBook Backend"
-msgstr ""
+msgstr "แบ็กเอนด์ ComicBook"
 
 #. +> trunk6 stable6
 #: generators/comicbook/libokularGenerator_comicbook.json
 msgctxt "Description"
 msgid "A renderer for various comic book formats"
-msgstr ""
+msgstr "ตัวแสดงผลสำหรับรูปแบบหนังสือการ์ตูนต่าง ๆ"
 
 #. +> trunk6 stable6
 #: generators/comicbook/libokularGenerator_comicbook.json
 #: generators/fictionbook/libokularGenerator_fb.json
 msgctxt "Copyright"
 msgid "© 2007-2008 Tobias Koenig"
-msgstr ""
+msgstr "© 2007-2008 Tobias Koenig"
 
 #. +> trunk6 stable6
 #: generators/comicbook/libokularGenerator_comicbook.json
@@ -38,26 +38,26 @@ msgstr ""
 #: generators/kimgio/libokularGenerator_kimgio.json
 msgctxt "Authors Name"
 msgid "Tobias Koenig"
-msgstr ""
+msgstr "Tobias Koenig"
 
 #. +> trunk6 stable6
 #: generators/djvu/libokularGenerator_djvu.json
 msgctxt "Name"
 msgid "DjVu Backend"
-msgstr ""
+msgstr "แบ็กเอนด์ DjVu"
 
 #. +> trunk6 stable6
 #: generators/djvu/libokularGenerator_djvu.json
 msgctxt "Description"
 msgid "DjVu backend based on DjVuLibre"
-msgstr ""
+msgstr "แบ็กเอนด์ DjVu อิงตาม DjVuLibre"
 
 #. +> trunk6 stable6
 #: generators/djvu/libokularGenerator_djvu.json
 #: generators/tiff/libokularGenerator_tiff.json
 msgctxt "Copyright"
 msgid "© 2006-2008 Pino Toscano"
-msgstr ""
+msgstr "© 2006-2008 Pino Toscano"
 
 #. +> trunk6 stable6
 #: generators/djvu/libokularGenerator_djvu.json
@@ -66,97 +66,97 @@ msgstr ""
 #: generators/xps/libokularGenerator_xps.json
 msgctxt "Authors Name"
 msgid "Pino Toscano"
-msgstr ""
+msgstr "Pino Toscano"
 
 #. +> trunk6 stable6
 #: generators/dvi/libokularGenerator_dvi.json
 msgctxt "Name"
 msgid "DVI Backend"
-msgstr ""
+msgstr "แบ็กเอนด์ DVI"
 
 #. +> trunk6 stable6
 #: generators/dvi/libokularGenerator_dvi.json
 msgctxt "Description"
 msgid "A DVI file renderer"
-msgstr ""
+msgstr "ตัวแสดงผลแฟ้ม DVI"
 
 #. +> trunk6 stable6
 #: generators/dvi/libokularGenerator_dvi.json
 msgctxt "Copyright"
 msgid "© 2006 Luigi Toscano"
-msgstr ""
+msgstr "© 2006 Luigi Toscano"
 
 #. +> trunk6 stable6
 #: generators/dvi/libokularGenerator_dvi.json
 msgctxt "Authors Name"
 msgid "Luigi Toscano"
-msgstr ""
+msgstr "Luigi Toscano"
 
 #. +> trunk6 stable6
 #: generators/epub/libokularGenerator_epub.json
 msgctxt "Name"
 msgid "EPub Backend"
-msgstr ""
+msgstr "แบ็กเอนด์ EPub"
 
 #. +> trunk6 stable6
 #: generators/epub/libokularGenerator_epub.json
 msgctxt "Description"
 msgid "An EPub backend"
-msgstr ""
+msgstr "แบ็กเอนด์ EPub"
 
 #. +> trunk6 stable6
 #: generators/epub/libokularGenerator_epub.json
 msgctxt "Copyright"
 msgid "© 2008 Ely Levy"
-msgstr ""
+msgstr "© 2008 Ely Levy"
 
 #. +> trunk6 stable6
 #: generators/epub/libokularGenerator_epub.json
 msgctxt "Authors Name"
 msgid "Ely Levy"
-msgstr ""
+msgstr "Ely Levy"
 
 #. +> trunk6 stable6
 #: generators/fax/libokularGenerator_fax.json
 msgctxt "Name"
 msgid "Fax Backend"
-msgstr ""
+msgstr "แบ็กเอนด์แฟกซ์"
 
 #. +> trunk6 stable6
 #: generators/fax/libokularGenerator_fax.json
 msgctxt "Description"
 msgid "A G3/G4 fax document backend"
-msgstr ""
+msgstr "แบ็กเอนด์เอกสารแฟกซ์ G3/G4"
 
 #. +> trunk6 stable6
 #: generators/fax/libokularGenerator_fax.json
 msgctxt "Copyright"
 msgid "© 2008 Tobias Koenig"
-msgstr ""
+msgstr "© 2008 Tobias Koenig"
 
 #. +> trunk6 stable6
 #: generators/fictionbook/libokularGenerator_fb.json
 msgctxt "Name"
 msgid "Fiction Book Backend"
-msgstr ""
+msgstr "แบ็กเอนด์ FictionBook"
 
 #. +> trunk6 stable6
 #: generators/fictionbook/libokularGenerator_fb.json
 msgctxt "Description"
 msgid "A renderer for FictionBook eBooks"
-msgstr ""
+msgstr "ตัวแสดงผลสำหรับหนังสืออิเล็กทรอนิกส์ FictionBook"
 
 #. +> trunk6 stable6
 #: generators/kimgio/libokularGenerator_kimgio.json
 msgctxt "Name"
 msgid "Image Backend"
-msgstr ""
+msgstr "แบ็กเอนด์จัดการภาพ"
 
 #. +> trunk6 stable6
 #: generators/kimgio/libokularGenerator_kimgio.json
 msgctxt "Description"
 msgid "A simple image backend"
-msgstr ""
+msgstr "แบ็กเอนด์จัดการภาพอย่างง่าย"
 
 #. +> trunk6 stable6
 #: generators/kimgio/libokularGenerator_kimgio.json
@@ -166,6 +166,9 @@ msgid ""
 "© 2006-2007 Pino Toscano\n"
 "© 2006-2007 Tobias Koenig"
 msgstr ""
+"© 2005, 2009 Albert Astals Cid\n"
+"© 2006-2007 Pino Toscano\n"
+"© 2006-2007 Tobias Koenig"
 
 #. +> trunk6 stable6
 #: generators/kimgio/libokularGenerator_kimgio.json
@@ -173,133 +176,133 @@ msgstr ""
 #: generators/spectre/libokularGenerator_ghostview.json
 msgctxt "Authors Name"
 msgid "Albert Astals Cid"
-msgstr ""
+msgstr "Albert Astals Cid"
 
 #. +> trunk6 stable6
 #: generators/markdown/libokularGenerator_md.json
 msgctxt "Name"
 msgid "Markdown Backend"
-msgstr ""
+msgstr "แบ็กเอนด์ Markdown"
 
 #. +> trunk6 stable6
 #: generators/markdown/libokularGenerator_md.json
 msgctxt "Copyright"
 msgid "© 2017 Julian Wolff"
-msgstr ""
+msgstr "© 2017 Julian Wolff"
 
 #. +> trunk6 stable6
 #: generators/markdown/libokularGenerator_md.json
 msgctxt "Authors Name"
 msgid "Julian Wolff"
-msgstr ""
+msgstr "Julian Wolff"
 
 #. +> trunk6 stable6
 #: generators/mobipocket/libokularGenerator_mobi.json
 msgctxt "Name"
 msgid "Mobipocket Backend"
-msgstr ""
+msgstr "แบ็กเอนด์ Mobipocket"
 
 #. +> trunk6 stable6
 #: generators/mobipocket/libokularGenerator_mobi.json
 msgctxt "Description"
 msgid "A mobipocket backend"
-msgstr ""
+msgstr "แบ็กเอนด์ mobipocket"
 
 #. +> trunk6 stable6
 #: generators/mobipocket/libokularGenerator_mobi.json
 msgctxt "Copyright"
 msgid "© 2008-2009 Jakub Stachowski"
-msgstr ""
+msgstr "© 2008-2009 Jakub Stachowski"
 
 #. +> trunk6 stable6
 #: generators/mobipocket/libokularGenerator_mobi.json
 msgctxt "Authors Name"
 msgid "Jakub Stachowski"
-msgstr ""
+msgstr "Jakub Stachowski"
 
 #. +> trunk6 stable6
 #: generators/poppler/libokularGenerator_poppler.json
 msgctxt "Name"
 msgid "PDF Backend"
-msgstr ""
+msgstr "แบ็กเอนด์ PDF"
 
 #. +> trunk6 stable6
 #: generators/poppler/libokularGenerator_poppler.json
 msgctxt "Description"
 msgid "A PDF file renderer"
-msgstr ""
+msgstr "ตัวแสดงผลแฟ้ม PDF"
 
 #. +> trunk6 stable6
 #: generators/poppler/libokularGenerator_poppler.json
 msgctxt "Copyright"
 msgid "© 2005-2008 Albert Astals Cid"
-msgstr ""
+msgstr "© 2005-2008 Albert Astals Cid"
 
 #. +> trunk6 stable6
 #: generators/spectre/libokularGenerator_ghostview.json
 msgctxt "Name"
 msgid "PS Backend"
-msgstr ""
+msgstr "แบ็กเอนด์ PS"
 
 #. +> trunk6 stable6
 #: generators/spectre/libokularGenerator_ghostview.json
 msgctxt "Description"
 msgid "A PostScript file renderer based on the Spectre library"
-msgstr ""
+msgstr "ตัวแสดงผลแฟ้มโพสต์สคริปต์อิงตามไลบรารี Spectre"
 
 #. +> trunk6 stable6
 #: generators/spectre/libokularGenerator_ghostview.json
 msgctxt "Copyright"
 msgid "© 2007-2008 Albert Astals Cid"
-msgstr ""
+msgstr "© 2007-2008 Albert Astals Cid"
 
 #. +> trunk6 stable6
 #: generators/tiff/libokularGenerator_tiff.json
 msgctxt "Name"
 msgid "TIFF Backend"
-msgstr ""
+msgstr "แบ็กเอนด์ TIFF"
 
 #. +> trunk6 stable6
 #: generators/tiff/libokularGenerator_tiff.json
 msgctxt "Description"
 msgid "A TIFF backend"
-msgstr ""
+msgstr "แบ็กเอนด์ TIFF"
 
 #. +> trunk6 stable6
 #: generators/txt/libokularGenerator_txt.json
 msgctxt "Name"
 msgid "Txt Backend"
-msgstr ""
+msgstr "แบ็กเอนด์ Txt"
 
 #. +> trunk6 stable6
 #: generators/txt/libokularGenerator_txt.json
 msgctxt "Description"
 msgid "Txt backend"
-msgstr ""
+msgstr "แบ็กเอนด์ Txt"
 
 #. +> trunk6 stable6
 #: generators/txt/libokularGenerator_txt.json
 msgctxt "Copyright"
 msgid "© 2013 Azat Khuzhin"
-msgstr ""
+msgstr "© 2013 Azat Khuzhin"
 
 #. +> trunk6 stable6
 #: generators/txt/libokularGenerator_txt.json
 msgctxt "Authors Name"
 msgid "Azat Khuzhin"
-msgstr ""
+msgstr "Azat Khuzhin"
 
 #. +> trunk6 stable6
 #: generators/xps/libokularGenerator_xps.json
 msgctxt "Name"
 msgid "XPS Backend"
-msgstr ""
+msgstr "แบ็กเอนด์ XPS"
 
 #. +> trunk6 stable6
 #: generators/xps/libokularGenerator_xps.json
 msgctxt "Description"
 msgid "An XPS backend"
-msgstr ""
+msgstr "แบ็กเอนด์ XPS"
 
 #. +> trunk6 stable6
 #: generators/xps/libokularGenerator_xps.json
@@ -309,21 +312,24 @@ msgid ""
 "© 2007 Jiri Klement\n"
 "© 2008 Pino Toscano"
 msgstr ""
+"© 2006-2007 Brad Hards\n"
+"© 2007 Jiri Klement\n"
+"© 2008 Pino Toscano"
 
 #. +> trunk6 stable6
 #: generators/xps/libokularGenerator_xps.json
 msgctxt "Authors Name"
 msgid "Brad Hards"
-msgstr ""
+msgstr "Brad Hards"
 
 #. +> trunk6 stable6
 #: generators/xps/libokularGenerator_xps.json
 msgctxt "Authors Name"
 msgid "Jiri Klement"
-msgstr ""
+msgstr "Jiri Klement"
 
 #. +> trunk6 stable6
 #: okular_part.json
 msgctxt "Name"
 msgid "Okular"
-msgstr ""
+msgstr "โอกูลาร์"
