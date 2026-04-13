@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-11-15 09:14+0100\n"
 "PO-Revision-Date: 2025-03-17 14:55+0700\n"
-"Last-Translator: Thai Translator <none>\n"
+"Last-Translator: Vee Satayamas <vsatayamas@gmail.com>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
 "Language: th\n"
 "MIME-Version: 1.0\n"
@@ -16,40 +16,40 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "Vee Satayamas"
 
 #. +> trunk6 stable6
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "vsatayamas@gmail.com"
 
 #. +> trunk6 stable6
 #: converter.cpp:59 converter.cpp:93
 #, kde-format
 msgid "Failed to open the document"
-msgstr ""
+msgstr "ไม่สามารถเปิดเอกสารได้"
 
 #. +> trunk6 stable6
 #: converter.cpp:106 converter.cpp:124
 #, kde-format
 msgid "Failed to compile the Markdown document."
-msgstr ""
+msgstr "ไม่สามารถคอมไพล์เอกสาร Markdown ได้"
 
 #. +> trunk6 stable6
 #: generator_md.cpp:58
 #, kde-format
 msgid "Enable SmartyPants formatting"
-msgstr ""
+msgstr "เปิดใช้งานการจัดรูปแบบ SmartyPants"
 
 #. +> trunk6 stable6
 #: generator_md.cpp:60
 #, kde-format
 msgid "Markdown"
-msgstr ""
+msgstr "Markdown"
 
 #. +> trunk6 stable6
 #: generator_md.cpp:60
 #, kde-format
 msgid "Markdown Backend Configuration"
-msgstr ""
+msgstr "การตั้งค่าแบ็กเอนด์ Markdown"
